@@ -18,48 +18,6 @@ Format (jedna regula w linii, pola rozdzielone "|"):
   V|klucz|op_od|wersja_od|op_do|wersja_do|CVE|CVSS|KEV(0/1)|opis
   M|producent|model|CVE|CVSS|KEV|opis
 """
-Tworzy plik luki.txt dla modulu "Luki" w Radar Sieci.
-
-Zrodla:
-  - CISA KEV - luki, ktore sa FAKTYCZNIE wykorzystywane w atakach
-    https://www.cisa.gov/known-exploited-vulnerabilities-catalog
-  - NVD (NIST) - zakresy wersji podatnego oprogramowania i ocena CVSS
-    https://nvd.nist.gov/developers/vulnerabilities
-
-Uzycie (potrzebny internet, Python 3.8+, bez dodatkowych pakietow):
-    python luki_na_sd.py
-Potem skopiuj luki.txt do glownego katalogu karty SD.
-
-Bez klucza NVD pobieranie trwa ok. 5-10 minut (limit 5 zapytan / 30 s).
-Z darmowym kluczem (https://nvd.nist.gov/developers/request-an-api-key) - ok. 1 minuty:
-    Windows:  set NVD_API_KEY=twoj-klucz   &&  python luki_na_sd.py
-    Linux:    NVD_API_KEY=twoj-klucz python luki_na_sd.py
-
-Format luki.txt (jedna regula w linii, pola rozdzielone "|"):
-  # naglowek (data, liczby regul)
-  V|klucz|op_od|wersja_od|op_do|wersja_do|CVE|CVSS|KEV(0/1)|opis
-      oprogramowanie rozpoznane po wersji (klucze jak w SW_SIGS w programie)
-  M|producent|model|CVE|CVSS|KEV|opis
-      modele urzadzen z listy KEV (rozpoznawane po opisie UPnP)
-"""
-Buduje luki.txt - baze znanych luk dla modulu "Luki" w Radar Sieci.
-Urzadzenia pobieraja ten plik z repozytorium przez HTTPS w trakcie skanu,
-wiec karta SD nie jest potrzebna. W repozytorium plik odswieza automat
-GitHub Actions (.github/workflows/aktualizuj-luki.yml) raz w miesiacu.
-
-Zrodla:
-  - CISA KEV - luki faktycznie wykorzystywane w atakach
-  - NVD (NIST) - zakresy wersji podatnego oprogramowania i ocena CVSS
-
-Recznie (Python 3.8+, bez dodatkowych pakietow):
-    python skrypty/buduj_luki.py luki.txt
-Opcjonalny klucz NVD (szybciej): zmienna srodowiskowa NVD_API_KEY.
-
-Format (jedna regula w linii, pola rozdzielone "|"):
-  # naglowek (data, liczby regul)
-  V|klucz|op_od|wersja_od|op_do|wersja_do|CVE|CVSS|KEV(0/1)|opis
-  M|producent|model|CVE|CVSS|KEV|opis
-"""
 import datetime
 import json
 import os
@@ -158,43 +116,7 @@ def english(cve: dict) -> str:
 
 
 def ranges(cve: dict, vp: str):
-    """
-Buduje luki.txt - baze znanych luk dla modulu "Luki" w Radar Sieci.
-Urzadzenia pobieraja ten plik z repozytorium przez HTTPS w trakcie skanu,
-wiec karta SD nie jest potrzebna. W repozytorium plik odswieza automat
-GitHub Actions (.github/workflows/aktualizuj-luki.yml) raz w miesiacu.
-
-Zrodla:
-  - CISA KEV - luki faktycznie wykorzystywane w atakach
-  - NVD (NIST) - zakresy wersji podatnego oprogramowania i ocena CVSS
-
-Recznie (Python 3.8+, bez dodatkowych pakietow):
-    python skrypty/buduj_luki.py luki.txt
-Opcjonalny klucz NVD (szybciej): zmienna srodowiskowa NVD_API_KEY.
-
-Format (jedna regula w linii, pola rozdzielone "|"):
-  # naglowek (data, liczby regul)
-  V|klucz|op_od|wersja_od|op_do|wersja_do|CVE|CVSS|KEV(0/1)|opis
-  M|producent|model|CVE|CVSS|KEV|opis
-"""Zakresy wersji z konfiguracji CPE dla danego vendor:product."""
-Buduje luki.txt - baze znanych luk dla modulu "Luki" w Radar Sieci.
-Urzadzenia pobieraja ten plik z repozytorium przez HTTPS w trakcie skanu,
-wiec karta SD nie jest potrzebna. W repozytorium plik odswieza automat
-GitHub Actions (.github/workflows/aktualizuj-luki.yml) raz w miesiacu.
-
-Zrodla:
-  - CISA KEV - luki faktycznie wykorzystywane w atakach
-  - NVD (NIST) - zakresy wersji podatnego oprogramowania i ocena CVSS
-
-Recznie (Python 3.8+, bez dodatkowych pakietow):
-    python skrypty/buduj_luki.py luki.txt
-Opcjonalny klucz NVD (szybciej): zmienna srodowiskowa NVD_API_KEY.
-
-Format (jedna regula w linii, pola rozdzielone "|"):
-  # naglowek (data, liczby regul)
-  V|klucz|op_od|wersja_od|op_do|wersja_do|CVE|CVSS|KEV(0/1)|opis
-  M|producent|model|CVE|CVSS|KEV|opis
-"""
+    """Zakresy wersji z konfiguracji CPE dla danego vendor:product."""
     prefix = "cpe:2.3:a:" + vp + ":"
     out = set()
     for conf in cve.get("configurations", []):
@@ -222,43 +144,7 @@ Format (jedna regula w linii, pola rozdzielone "|"):
 
 
 def nvd_product(vp: str):
-    """
-Buduje luki.txt - baze znanych luk dla modulu "Luki" w Radar Sieci.
-Urzadzenia pobieraja ten plik z repozytorium przez HTTPS w trakcie skanu,
-wiec karta SD nie jest potrzebna. W repozytorium plik odswieza automat
-GitHub Actions (.github/workflows/aktualizuj-luki.yml) raz w miesiacu.
-
-Zrodla:
-  - CISA KEV - luki faktycznie wykorzystywane w atakach
-  - NVD (NIST) - zakresy wersji podatnego oprogramowania i ocena CVSS
-
-Recznie (Python 3.8+, bez dodatkowych pakietow):
-    python skrypty/buduj_luki.py luki.txt
-Opcjonalny klucz NVD (szybciej): zmienna srodowiskowa NVD_API_KEY.
-
-Format (jedna regula w linii, pola rozdzielone "|"):
-  # naglowek (data, liczby regul)
-  V|klucz|op_od|wersja_od|op_do|wersja_do|CVE|CVSS|KEV(0/1)|opis
-  M|producent|model|CVE|CVSS|KEV|opis
-"""Wszystkie CVE dla vendor:product (z podzialem na strony)."""
-Buduje luki.txt - baze znanych luk dla modulu "Luki" w Radar Sieci.
-Urzadzenia pobieraja ten plik z repozytorium przez HTTPS w trakcie skanu,
-wiec karta SD nie jest potrzebna. W repozytorium plik odswieza automat
-GitHub Actions (.github/workflows/aktualizuj-luki.yml) raz w miesiacu.
-
-Zrodla:
-  - CISA KEV - luki faktycznie wykorzystywane w atakach
-  - NVD (NIST) - zakresy wersji podatnego oprogramowania i ocena CVSS
-
-Recznie (Python 3.8+, bez dodatkowych pakietow):
-    python skrypty/buduj_luki.py luki.txt
-Opcjonalny klucz NVD (szybciej): zmienna srodowiskowa NVD_API_KEY.
-
-Format (jedna regula w linii, pola rozdzielone "|"):
-  # naglowek (data, liczby regul)
-  V|klucz|op_od|wersja_od|op_do|wersja_do|CVE|CVSS|KEV(0/1)|opis
-  M|producent|model|CVE|CVSS|KEV|opis
-"""
+    """Wszystkie CVE dla vendor:product (z podzialem na strony)."""
     start, total, items = 0, None, []
     while total is None or start < total:
         data = get_json(NVD_URL, {"virtualMatchString": "cpe:2.3:a:" + vp,
