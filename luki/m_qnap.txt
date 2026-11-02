@@ -1,4 +1,9 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
+E|QNAP|viocard-100||CVE-2013-6276
+E|QNAP|viocard-300||CVE-2013-6276
+E|QNAP|viocard-30||CVE-2013-6276
+E|QNAP|viogate-340a||CVE-2013-6276
+E|QNAP|viogate-340||CVE-2013-6276
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19943|8.0|1|22.7|QNAP NAS File Station Cross-Site Scripting Vulnerability
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19949|9.8|1|30.2|QNAP NAS File Station Command Injection Vulnerability
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19953|6.1|1|30.5|QNAP NAS File Station Cross-Site Scripting Vulnerability

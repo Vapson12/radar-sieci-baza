@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Epson|ds-570w|||<|2018-03-13|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
 M|Epson|ds-780n|||<|2018-03-13|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
 M|Epson|eb-1470ui|||||CVE-2020-6091|9.1|0|2.4|An exploitable authentication bypass vulnerability exists in the ESPON Web Control functionality of Epson EB-1

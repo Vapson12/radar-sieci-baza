@@ -1,4 +1,9 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
+E|TP-Link|archer c7|2.0,5.0,5.80|CVE-2025-9377
+E|TP-Link|tl-wa850re|2,3|CVE-2025-14737
+E|TP-Link|tl-wr841nd|9|CVE-2025-9377
+E|TP-Link|tl-wr841n|11,v9|CVE-2025-53711
+E|TP-Link|tl-wr940n|v4|CVE-2025-6151
 M|TP-Link|ac1750|>=|1.0.15|<=|1.0.15|CVE-2021-27246|8.0|0|6.6|This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP
 M|TP-Link|ac1750|>=|190726|<=|190726|CVE-2020-10881|9.8|0|9.3|This vulnerability allows remote attackers to execute arbitrary code on affected installations of TP-Link Arch
 M|TP-Link|ac1750|>=|190726|<=|190726|CVE-2020-10882|8.8|0|41.1|This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP

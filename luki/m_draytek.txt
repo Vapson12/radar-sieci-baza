@@ -1,4 +1,8 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
+E|DrayTek|vigor 2960||CVE-2023-1162
+E|DrayTek|vigor2925||CVE-2019-16533
+E|DrayTek|vigor2960||CVE-2023-1009
+E|DrayTek|vigor300b||CVE-2026-3040
 M|DrayTek|VigorConnect|||||CVE-2021-20123|0.0|1|89.7|Draytek VigorConnect Path Traversal Vulnerability
 M|DrayTek|VigorConnect|||||CVE-2021-20124|0.0|1|95.9|Draytek VigorConnect Path Traversal Vulnerability
 M|DrayTek|vigor 2960|>=|1.5.1.4|<=|1.5.1.4|CVE-2023-1162|7.2|0|26.0|** UNSUPPORTED WHEN ASSIGNED ** A vulnerability, which was classified as critical, was found in DrayTek Vigor 

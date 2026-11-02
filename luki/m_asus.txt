@@ -1,4 +1,8 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
+E|ASUS|gt-ac2900||CVE-2021-32030
+E|ASUS|lyra mini||CVE-2021-32030
+E|ASUS|rt-ac87u||CVE-2023-47678
+E|ASUS|rt-n10lx||CVE-2023-34940
 M|ASUS|4g-ac53u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
 M|ASUS|4g-ac68u|>=|3.0.0.4.384.82230|<=|3.0.0.4.384.82230|CVE-2024-26342|7.5|0|0.9|A Null pointer dereference in usr/sbin/httpd in ASUS AC68U 3.0.0.4.384.82230 allows remote attackers to trigge
 M|ASUS|4g-ac68u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n

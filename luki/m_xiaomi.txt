@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Xiaomi|ax1800|||<|1.0.336|CVE-2020-14098|7.5|0|1.2|The login verification can be bypassed by using the problem that the time is not synchronized after the router
 M|Xiaomi|ax1800|||<|1.0.336|CVE-2020-14099|7.5|0|0.6|On Xiaomi router AX1800 rom version < 1.0.336 and RM1800 root version < 1.0.26, the encryption scheme for a us
 M|Xiaomi|ax1800|||<|1.0.336|CVE-2020-14101|7.5|0|1.1|The data collection SDK of the router web management interface caused the leakage of the token. This affects X

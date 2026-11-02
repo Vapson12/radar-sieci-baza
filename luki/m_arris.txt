@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Arris|arris dg950a|>=|7.10.145|<=|7.10.145|CVE-2018-20383|9.8|0|1.8|ARRIS DG950A 7.10.145 and DG950S 7.10.145.EURO devices allow remote attackers to discover credentials via iso.
 M|Arris|arris sbg10|||<=|9.1.103|CVE-2022-45701|8.8|0|42.6|Arris TG2482A firmware through 9.1.103GEM9 allow Remote Code Execution (RCE) via the ping utility feature.
 M|Arris|arris sbg6580-2|>=|d30gw-seaeagle-1.5.2.5-ga-00-nosh|<=|d30gw-seaeagle-1.5.2.5-ga-00-nosh|CVE-2018-20386|9.8|0|1.8|ARRIS SBG6580-2 D30GW-SEAEAGLE-1.5.2.5-GA-00-NOSH devices allow remote attackers to discover credentials via i

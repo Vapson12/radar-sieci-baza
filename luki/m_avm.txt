@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|AVM|fritz\!box 6810 lte|||||CVE-2014-8872|7.8|0|1.5|Improper Verification of Cryptographic Signature in AVM FRITZ!Box 6810 LTE after firmware 5.22, FRITZ!Box 6840
 M|AVM|fritz\!box 6840 lte|||||CVE-2014-8872|7.8|0|1.5|Improper Verification of Cryptographic Signature in AVM FRITZ!Box 6810 LTE after firmware 5.22, FRITZ!Box 6840
 M|AVM|fritz\!box 7490|||<|7.21|CVE-2020-26887|7.8|0|1.4|FRITZ!OS before 7.21 on FRITZ!Box devices allows a bypass of a DNS Rebinding protection mechanism.

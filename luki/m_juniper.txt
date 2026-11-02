@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Juniper|Junos OS|||||CVE-2020-1631|0.0|1|4.9|Juniper Junos OS Path Traversal Vulnerability
 M|Juniper|Junos OS|||||CVE-2023-36844|0.0|1|90.0|Juniper Junos OS EX Series PHP External Variable Modification Vulnerability
 M|Juniper|Junos OS|||||CVE-2023-36845|0.0|1|95.1|Juniper Junos OS EX Series and SRX Series PHP External Variable Modification Vulnerability

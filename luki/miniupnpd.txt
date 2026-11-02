@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|miniupnpd|>=|1.0|<=|1.0|CVE-2013-0229|7.8|0|76.4|The ProcessSSDPRequest function in minissdp.c in the SSDP handler in MiniUPnP MiniUPnPd before 1.4 allows remo
 V|miniupnpd|>=|1.0|<=|1.0|CVE-2013-0230|10.0|0|69.2|Stack-based buffer overflow in the ExecuteSoapAction function in the SOAPAction handler in the HTTP service in
 V|miniupnpd|>=|1.0|<=|1.0|CVE-2013-1461|7.8|0|2.8|The ExecuteSoapAction function in the SOAPAction handler in the HTTP service in MiniUPnP MiniUPnPd 1.0 allows 

@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|nginx|>=|0.1.0|<=|0.1.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
 V|nginx|>=|0.1.0|<=|0.1.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
 V|nginx|>=|0.1.0|<=|0.8.22|CVE-2009-3555|9.8|0|87.3|The TLS protocol, and the SSL protocol 3.0 and possibly earlier, as used in Microsoft Internet Information Ser

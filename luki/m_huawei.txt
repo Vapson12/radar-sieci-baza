@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Huawei|1288h v5|>=|100r005c00|<=|100r005c00|CVE-2018-7941|8.8|0|0.8|Huawei iBMC V200R002C60 have an authentication bypass vulnerability. A remote attacker with low privilege may 
 M|Huawei|1288h v5|>=|100r005c00|<=|100r005c00|CVE-2018-7942|7.5|0|1.6|The iBMC (Intelligent Baseboard Management Controller) of some Huawei servers have an authentication bypass vu
 M|Huawei|1288h v5|>=|100r005c00|<=|100r005c00|CVE-2018-7949|8.8|0|0.8|The iBMC (Intelligent Baseboard Management Controller) of some Huawei servers have a privilege escalation vuln

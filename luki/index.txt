@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 P|openssh|575
 P|dropbear|12
 P|lighttpd|162
@@ -22,36 +22,36 @@ P|filezilla_server|3
 P|werkzeug|7
 P|cups|449
 P|mongoose|34
-F|tp-link|TP-Link|tp-link,tplink|2263
-F|d-link|D-Link|d-link,dlink|2624
-F|netgear|NETGEAR|netgear|5748
-F|zyxel|Zyxel|zyxel|1687
+F|tp-link|TP-Link|tp-link,tplink|2268
+F|d-link|D-Link|d-link,dlink|2723
+F|netgear|NETGEAR|netgear|5761
+F|zyxel|Zyxel|zyxel|1709
 F|hikvision|Hikvision|hikvision|535
 F|dahua|Dahua|dahua|611
 F|tenda|Tenda|tenda|1861
-F|asus|ASUS|asus|804
+F|asus|ASUS|asus|808
 F|linksys|Linksys|linksys|355
-F|qnap|QNAP|qnap|36
+F|qnap|QNAP|qnap|41
 F|synology|Synology|synology|37
 F|ubiquiti|Ubiquiti|ubiquiti,ubnt|379
 F|mikrotik|MikroTik|mikrotik,routerboard,routeros|5
 F|huawei|Huawei|huawei|5525
-F|zte|ZTE|zte|212
+F|zte|ZTE|zte|213
 F|xiaomi|Xiaomi|xiaomi,redmi|74
 F|reolink|Reolink|reolink|106
-F|draytek|DrayTek|draytek|618
+F|draytek|DrayTek|draytek|622
 F|totolink|TOTOLINK|totolink|1103
 F|wd|Western Digital|western digital,my cloud|18
 F|buffalo|Buffalo|buffalo|387
 F|sagemcom|Sagemcom|sagemcom|8
 F|netis|Netis|netis|41
-F|edimax|Edimax|edimax|51
-F|trendnet|TRENDnet|trendnet|204
+F|edimax|Edimax|edimax|55
+F|trendnet|TRENDnet|trendnet|209
 F|arris|Arris|arris|101
 F|technicolor|Technicolor|technicolor,thomson|32
 F|avm|AVM|avm,fritz|3
 F|teltonika|Teltonika|teltonika|13
-F|hp|HP|hewlett,hp inc|5023
+F|hp|HP|hewlett,hp inc|5024
 F|brother|Brother|brother|1105
 F|canon|Canon|canon|1200
 F|epson|Epson|epson|118
@@ -59,4 +59,4 @@ F|realtek|Realtek|realtek|3
 F|cisco|Cisco|cisco|102
 F|juniper|Juniper|juniper|8
 F|fortinet|Fortinet|fortinet,fortigate|32
-F|sonicwall|SonicWall|sonicwall|19
+F|sonicwall|SonicWall|sonicwall|20

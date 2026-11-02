@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|jetty|>=|1.0|<|9.3.29|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
 V|jetty|>=|10.0.0alpha1|<=|10.0.0alpha1|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
 V|jetty|>=|10.0.0beta0|<=|10.0.0beta0|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1

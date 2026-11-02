@@ -1,3 +1,3 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|mini_httpd|>=|1.19|<=|1.19|CVE-2009-4490|5.0|0|10.2|mini_httpd 1.19 writes data to a log file without sanitizing non-printable characters, which might allow remot
 V|mini_httpd|||<|1.28|CVE-2017-17663|9.8|0|2.7|The htpasswd implementation of mini_httpd before v1.28 and of thttpd before v2.28 is affected by a buffer over

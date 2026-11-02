@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|php|>=|1.0|<=|1.0|CVE-1999-0058|7.5|0|1.8|Buffer overflow in PHP cgi program, php.cgi allows shell access.
 V|php|>=|1.0|<=|1.0|CVE-1999-0068|7.5|0|7.0|CGI PHP mylog script allows an attacker to read any file on the target server.
 V|php|>=|1.0|<=|1.0|CVE-1999-0238|10.0|0|6.1|php.cgi allows attackers to read any file on the system.

@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Canon|1435i\+|||||CVE-2022-24672|8.8|0|1.2|This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Ca
 M|Canon|1435i\+|||||CVE-2022-24673|9.8|0|2.6|This vulnerability allows remote attackers to execute arbitrary code on affected installations of Canon imageC
 M|Canon|1435i\+|||||CVE-2022-24674|8.8|0|1.1|This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Ca

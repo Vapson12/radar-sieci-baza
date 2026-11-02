@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Buffalo|bhr-4grv|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
 M|Buffalo|bhr-4grv|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
 M|Buffalo|bhr-4rv|||<=|2.55|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware

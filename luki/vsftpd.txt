@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|vsftpd|>=|2.3.4|<=|2.3.4|CVE-2011-2523|9.8|0|96.2|vsftpd 2.3.4 downloaded between 20110630 and 20110703 contains a backdoor which opens a shell on port 6200/tcp
 V|vsftpd|>=|3.0.3|<=|3.0.3|CVE-2021-30047|7.5|0|3.2|VSFTPD 3.0.3 allows attackers to cause a denial of service due to limited number of connections allowed.
 V|vsftpd|||<|2.3.3|CVE-2011-0762|4.0|0|73.9|The vsf_filename_passes_filter function in ls.c in vsftpd before 2.3.3 allows remote authenticated users to ca

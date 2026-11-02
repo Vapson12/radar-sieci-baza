@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 D|TP-Link|tp-link,tplink
 D|D-Link|d-link,dlink
 D|NETGEAR|netgear
@@ -17913,6 +17913,11 @@ V|mongoose|||<|7.22|CVE-2026-73256|9.1|0|0.4|Mongoose is an embedded web server 
 V|mongoose|||<|7.22|CVE-2026-73257|9.1|0|0.7|Mongoose is an embedded web server and network library. Priro to version 7.22, a remote unauthenticated attack
 V|mongoose|||<|7.23|CVE-2026-73251|9.3|0|0.2|Mongoose is an embedded web server and network library. Prior to 7.23, a network attacker can impersonate a TL
 V|mongoose|||<|7.6|CVE-2022-25299|9.8|0|1.4|This affects the package cesanta/mongoose before 7.6. The unsafe handling of file names during upload using mg
+E|TP-Link|archer c7|2.0,5.0,5.80|CVE-2025-9377
+E|TP-Link|tl-wa850re|2,3|CVE-2025-14737
+E|TP-Link|tl-wr841nd|9|CVE-2025-9377
+E|TP-Link|tl-wr841n|11,v9|CVE-2025-53711
+E|TP-Link|tl-wr940n|v4|CVE-2025-6151
 M|TP-Link|ac1750|>=|1.0.15|<=|1.0.15|CVE-2021-27246|8.0|0|6.6|This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP
 M|TP-Link|ac1750|>=|190726|<=|190726|CVE-2020-10881|9.8|0|9.3|This vulnerability allows remote attackers to execute arbitrary code on affected installations of TP-Link Arch
 M|TP-Link|ac1750|>=|190726|<=|190726|CVE-2020-10882|8.8|0|41.1|This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP
@@ -20176,6 +20181,105 @@ M|TP-Link|wvr900l|||||CVE-2017-15634|7.2|0|4.4|TP-Link WVR, WAR and ER devices a
 M|TP-Link|wvr900l|||||CVE-2017-15635|7.2|0|4.4|TP-Link WVR, WAR and ER devices allow remote authenticated administrators to execute arbitrary commands via co
 M|TP-Link|wvr900l|||||CVE-2017-15636|7.2|0|4.2|TP-Link WVR, WAR and ER devices allow remote authenticated administrators to execute arbitrary commands via co
 M|TP-Link|wvr900l|||||CVE-2017-15637|7.2|0|4.2|TP-Link WVR, WAR and ER devices allow remote authenticated administrators to execute arbitrary commands via co
+E|D-Link|dap-1320||CVE-2025-1538
+E|D-Link|dap-1562||CVE-2025-1876
+E|D-Link|dap-1620||CVE-2025-2618
+E|D-Link|dap-1650||CVE-2024-40505
+E|D-Link|dap-2695||CVE-2025-4858
+E|D-Link|dar-7000||CVE-2023-5143
+E|D-Link|dar-8000-10||CVE-2024-4699
+E|D-Link|dar-8000||CVE-2023-5144
+E|D-Link|dcs-5000l||CVE-2021-41504
+E|D-Link|dcs-5020l||CVE-2025-5215
+E|D-Link|dcs-5220||CVE-2021-3182
+E|D-Link|dcs-6010l||CVE-2025-8155
+E|D-Link|dcs-6517||CVE-2025-6931
+E|D-Link|dcs-700l||CVE-2026-1532
+E|D-Link|dcs-7517||CVE-2025-6931
+E|D-Link|dcs-825l||CVE-2025-55582
+E|D-Link|dcs-850l||CVE-2025-15245
+E|D-Link|dcs-930l||CVE-2025-14225
+E|D-Link|dcs-931l||CVE-2026-2227
+E|D-Link|dcs-932l||CVE-2021-41503
+E|D-Link|dcs-933l||CVE-2026-2218
+E|D-Link|dcs-935l||CVE-2025-10779
+E|D-Link|dhp-1320|a1|CVE-2026-4529
+E|D-Link|dir-110||CVE-2018-25115
+E|D-Link|dir-300|a|CVE-2013-10048
+E|D-Link|dir-412||CVE-2018-25115
+E|D-Link|dir-456u|a1|CVE-2026-42376
+E|D-Link|dir-513|a1,a2|CVE-2025-6882
+E|D-Link|dir-600l|a1,b1|CVE-2025-4342
+E|D-Link|dir-600m|c1|CVE-2024-1786
+E|D-Link|dir-600|b2|CVE-2024-7357
+E|D-Link|dir-601|b1|CVE-2019-16326
+E|D-Link|dir-605l|a1,b2|CVE-2024-11959
+E|D-Link|dir-605|b3|CVE-2025-14884
+E|D-Link|dir-610||CVE-2020-9376
+E|D-Link|dir-615h||CVE-2013-10059
+E|D-Link|dir-615|d|CVE-2013-10050
+E|D-Link|dir-618||CVE-2025-2546
+E|D-Link|dir-619l||CVE-2024-9566
+E|D-Link|dir-632||CVE-2025-5912
+E|D-Link|dir-645|a1|CVE-2020-25786
+E|D-Link|dir-655||CVE-2025-6158
+E|D-Link|dir-802|a1|CVE-2021-29379
+E|D-Link|dir-803|a1|CVE-2020-25786
+E|D-Link|dir-806a||CVE-2025-15391
+E|D-Link|dir-806|a1|CVE-2025-4340
+E|D-Link|dir-810l||CVE-2021-45382
+E|D-Link|dir-815|b1|CVE-2020-25786
+E|D-Link|dir-816l|b1|CVE-2020-25786
+E|D-Link|dir-816|a2|CVE-2024-13102
+E|D-Link|dir-818lw||CVE-2025-7553
+E|D-Link|dir-820lw||CVE-2021-45382
+E|D-Link|dir-820l||CVE-2021-45382
+E|D-Link|dir-822|a1|CVE-2026-7067
+E|D-Link|dir-823g||CVE-2024-13030
+E|D-Link|dir-823x||CVE-2026-1544
+E|D-Link|dir-825||CVE-2021-29296
+E|D-Link|dir-826l||CVE-2021-45382
+E|D-Link|dir-830l||CVE-2021-45382
+E|D-Link|dir-836l||CVE-2021-45382
+E|D-Link|dir-852||CVE-2025-9752
+E|D-Link|dir-859||CVE-2023-36092
+E|D-Link|dir-860l|a1|CVE-2020-25786
+E|D-Link|dir-865l|a1|CVE-2020-25786
+E|D-Link|dir-867||CVE-2025-6334
+E|D-Link|dir-868l|a,a1|CVE-2023-29856
+E|D-Link|dir-880l||CVE-2025-4341
+E|D-Link|dir-882|a1|CVE-2026-5844
+E|D-Link|dir-885l||CVE-2023-36090
+E|D-Link|dir-890l|a1|CVE-2022-29778
+E|D-Link|dir-895l||CVE-2023-36091
+E|D-Link|dnr-202l||CVE-2024-3272
+E|D-Link|dnr-322l||CVE-2024-3272
+E|D-Link|dnr-326||CVE-2024-3272
+E|D-Link|dns-1100-4||CVE-2024-3272
+E|D-Link|dns-1200-05||CVE-2024-3272
+E|D-Link|dns-120||CVE-2024-3272
+E|D-Link|dns-1550-04||CVE-2024-3272
+E|D-Link|dns-315l||CVE-2024-3272
+E|D-Link|dns-320lw||CVE-2024-3272
+E|D-Link|dns-320l||CVE-2024-3272
+E|D-Link|dns-320||CVE-2024-3272
+E|D-Link|dns-321||CVE-2024-3272
+E|D-Link|dns-323||CVE-2024-3272
+E|D-Link|dns-325||CVE-2024-3272
+E|D-Link|dns-326||CVE-2024-3272
+E|D-Link|dns-327l||CVE-2024-3272
+E|D-Link|dns-340l||CVE-2024-3272
+E|D-Link|dns-343||CVE-2024-3272
+E|D-Link|dns-345||CVE-2024-3272
+E|D-Link|dns-726-4||CVE-2024-3272
+E|D-Link|dsl-2730u||CVE-2023-46033
+E|D-Link|dsl-2740r||CVE-2021-29294
+E|D-Link|dsl-2750u||CVE-2023-46033
+E|D-Link|dsl-6641k||CVE-2026-1744
+E|D-Link|dsl6740c||CVE-2024-11062
+E|D-Link|dsp-w215||CVE-2021-29295
+E|D-Link|dsr-500n||CVE-2021-39615
+E|D-Link|dvg-3104ms||CVE-2021-39613
 M|D-Link|6600-ap|>=|4.2.0.14|<=|4.2.0.14|CVE-2019-14332|7.8|0|1.4|An issue was discovered on D-Link 6600-AP and DWL-3600AP Ax 4.2.0.14 21/03/2019 devices. There is use of weak 
 M|D-Link|covr 1200|>=|1.08|<=|1.08|CVE-2022-42156|8.8|0|2.8|D-Link COVR 1200,1203 v1.08 was discovered to contain a command injection vulnerability via the tomography_pin
 M|D-Link|covr 1200|>=|1.08|<=|1.08|CVE-2022-42160|8.8|0|2.7|D-Link COVR 1200,1202,1203 v1.08 was discovered to contain a command injection vulnerability via the system_ti
@@ -22800,6 +22904,19 @@ M|D-Link|wcs-1100|>=|1.00|<=|1.00|CVE-2013-1602|7.5|0|15.1|An Information Disclo
 M|D-Link|wcs-1100|>=|1.00|<=|1.00|CVE-2013-1603|5.3|0|16.1|An Authentication vulnerability exists in D-LINK WCS-1100 1.02, TESCO DCS-2121 1.05_TESCO, TESCO DCS-2102 1.05
 M|D-Link|websmart dgs-1510 series|||<=|1.31.b001|CVE-2017-6205|9.8|0|1.7|D-Link DGS-1510-28XMP, DGS-1510-28X, DGS-1510-52X, DGS-1510-52, DGS-1510-28P, DGS-1510-28, and DGS-1510-20 Web
 M|D-Link|websmart dgs-1510 series|||<=|1.31.b001|CVE-2017-6206|7.5|0|16.2|D-Link DGS-1510-28XMP, DGS-1510-28X, DGS-1510-52X, DGS-1510-52, DGS-1510-28P, DGS-1510-28, and DGS-1510-20 Web
+E|NETGEAR|c6220||CVE-2025-12941
+E|NETGEAR|c6230||CVE-2025-12941
+E|NETGEAR|d6400||CVE-2025-7407
+E|NETGEAR|dgn2200b||CVE-2013-10060
+E|NETGEAR|dgn2200|v4|CVE-2025-12944
+E|NETGEAR|ex3700||CVE-2025-5934
+E|NETGEAR|ex6100||CVE-2025-6510
+E|NETGEAR|ex6150||CVE-2025-6511
+E|NETGEAR|jr6150||CVE-2026-0412
+E|NETGEAR|r6900p||CVE-2024-12988
+E|NETGEAR|r7000p||CVE-2024-12988
+E|NETGEAR|r7000||CVE-2026-9214
+E|NETGEAR|wnr854t||CVE-2024-54802
 M|NETGEAR|ac1200 r6220|>=|1.1.0.86|<=|1.1.0.86|CVE-2019-17137|9.4|0|2.7|This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of NET
 M|NETGEAR|ac1450|>=|1.0.0.34_10.0.16|<=|1.0.0.34_10.0.16|CVE-2017-5521|8.1|1|89.4|An issue was discovered on NETGEAR R8500, R8300, R7000, R6400, R7300, R7100LG, R6300v2, WNDR3400v3, WNR3500Lv2
 M|NETGEAR|ac1450|||<|1.0.0.36|CVE-2017-18848|8.8|0|0.5|Certain NETGEAR devices are affected by CSRF. This affects R6300v2 before 1.0.0.36, AC1450 before 1.0.0.36, R7
@@ -28548,6 +28665,28 @@ M|NETGEAR|xs724em|||<|1.0.1.3|CVE-2020-26921|8.3|0|0.8|Certain NETGEAR devices a
 M|NETGEAR|xwn5001|>=|0.4.1.1|<=|0.4.1.1|CVE-2023-38922|8.8|0|0.8|Netgear JWNR2000v2 v1.0.0.11, XWN5001 v0.4.1.1, and XAVN2001v2 v0.4.0.7 were discovered to contain multiple bu
 M|NETGEAR|xwn5001|>=|0.4.1.1|<=|0.4.1.1|CVE-2023-39550|8.8|0|1.1|Netgear JWNR2000v2 v1.0.0.11, XWN5001 v0.4.1.1, and XAVN2001v2 v0.4.0.7 were discovered to contain multiple bu
 M|NETGEAR|xwn5001|||<=|0.4.1.1|CVE-2022-46424|8.1|0|0.9|An exploitable firmware modification vulnerability was discovered on the Netgear XWN5001 Powerline 500 WiFi Ac
+E|Zyxel|amg1302-t10b||CVE-2025-3577
+E|Zyxel|nas326||CVE-2024-29972
+E|Zyxel|nas542||CVE-2024-29972
+E|Zyxel|nwa1100-n||CVE-2026-7287
+E|Zyxel|nwaw1100-n||CVE-2024-8234
+E|Zyxel|p6101c||CVE-2024-11494
+E|Zyxel|pmg2005-t20b||CVE-2023-43314
+E|Zyxel|sbg3300-n000||CVE-2024-40890
+E|Zyxel|sbg3300-nb00||CVE-2024-40890
+E|Zyxel|sbg3500-n000||CVE-2024-40890
+E|Zyxel|sbg3500-nb00||CVE-2024-40890
+E|Zyxel|vmg1312-b10a||CVE-2024-40890
+E|Zyxel|vmg1312-b10b||CVE-2024-40890
+E|Zyxel|vmg1312-b10e||CVE-2024-40890
+E|Zyxel|vmg3312-b10a||CVE-2024-40890
+E|Zyxel|vmg3313-b10a||CVE-2024-40890
+E|Zyxel|vmg3926-b10b||CVE-2024-40890
+E|Zyxel|vmg4325-b10a||CVE-2024-40890
+E|Zyxel|vmg4380-b10a||CVE-2024-40890
+E|Zyxel|vmg8324-b10a||CVE-2024-40890
+E|Zyxel|vmg8924-b10a||CVE-2024-40890
+E|Zyxel|wre6505|v2|CVE-2026-6058
 M|Zyxel|Multiple Firewalls|||||CVE-2024-11667|7.5|1|2.9|Zyxel Multiple Firewalls Path Traversal Vulnerability
 M|Zyxel|access points|>=|6.10patch1|<=|6.10patch1|CVE-2020-25014|9.8|0|4.4|A stack-based buffer overflow in fbwifi_continue.cgi on Zyxel UTM and VPN series of gateways running firmware 
 M|Zyxel|access points|>=|6.10patch2|<=|6.10patch2|CVE-2020-25014|9.8|0|4.4|A stack-based buffer overflow in fbwifi_continue.cgi on Zyxel UTM and VPN series of gateways running firmware 
@@ -33242,6 +33381,10 @@ M|Tenda|wh450|>=|1.0.0.18|<=|1.0.0.18|CVE-2025-15177|7.3|0|0.8|A vulnerability h
 M|Tenda|wh450|>=|1.0.0.18|<=|1.0.0.18|CVE-2025-15178|7.3|0|0.8|A vulnerability was found in Tenda WH450 1.0.0.18. This issue affects some unknown processing of the file /gof
 M|Tenda|wh450|>=|1.0.0.18|<=|1.0.0.18|CVE-2025-15179|7.3|0|0.9|A vulnerability was determined in Tenda WH450 1.0.0.18. Impacted is an unknown function of the file /goform/qo
 M|Tenda|wh450|>=|1.0.0.18|<=|1.0.0.18|CVE-2025-15180|7.3|0|1.1|A vulnerability was identified in Tenda WH450 1.0.0.18. The affected element is an unknown function of the fil
+E|ASUS|gt-ac2900||CVE-2021-32030
+E|ASUS|lyra mini||CVE-2021-32030
+E|ASUS|rt-ac87u||CVE-2023-47678
+E|ASUS|rt-n10lx||CVE-2023-34940
 M|ASUS|4g-ac53u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
 M|ASUS|4g-ac68u|>=|3.0.0.4.384.82230|<=|3.0.0.4.384.82230|CVE-2024-26342|7.5|0|0.9|A Null pointer dereference in usr/sbin/httpd in ASUS AC68U 3.0.0.4.384.82230 allows remote attackers to trigge
 M|ASUS|4g-ac68u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
@@ -34401,6 +34544,11 @@ M|Linksys|wumc710|>=|1.0.02build3|<=|1.0.02build3|CVE-2022-43971|7.2|0|1.7|An ar
 M|Linksys|wumc710|>=|1.0.02|<=|1.0.02|CVE-2022-43971|7.2|0|1.7|An arbitrary code exection vulnerability exists in Linksys WUMC710 Wireless-AC Universal Media Connector with 
 M|Linksys|wumc710|||<|1.0.02|CVE-2022-43971|7.2|0|1.7|An arbitrary code exection vulnerability exists in Linksys WUMC710 Wireless-AC Universal Media Connector with 
 M|Linksys|wvbr0|||<|1.0.41|CVE-2017-17411|9.8|0|87.9|This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of Linksys WV
+E|QNAP|viocard-100||CVE-2013-6276
+E|QNAP|viocard-300||CVE-2013-6276
+E|QNAP|viocard-30||CVE-2013-6276
+E|QNAP|viogate-340a||CVE-2013-6276
+E|QNAP|viogate-340||CVE-2013-6276
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19943|8.0|1|22.7|QNAP NAS File Station Cross-Site Scripting Vulnerability
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19949|9.8|1|30.2|QNAP NAS File Station Command Injection Vulnerability
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19953|6.1|1|30.5|QNAP NAS File Station Cross-Site Scripting Vulnerability
@@ -40383,6 +40531,7 @@ M|Huawei|yale-tl00b|||||CVE-2019-9506|8.1|0|2.7|The Bluetooth BR/EDR specificati
 M|Huawei|yalep-al10b|||<|10.0.0.194\(c00e62r8p12\)|CVE-2020-0069|7.8|1|1.4|In the ioctl handlers of the Mediatek Command Queue driver, there is a possible out of bounds write due to ins
 M|Huawei|yalep-al10b|||<|10.1.0.160\(c00e160r8p12\)|CVE-2020-9247|7.8|0|0.8|There is a buffer overflow vulnerability in several Huawei products. The system does not sufficiently validate
 M|Huawei|yalep-al10b|||||CVE-2019-9506|8.1|0|2.7|The Bluetooth BR/EDR specification up to and including version 5.1 permits sufficiently low encryption key len
+E|ZTE|mf910s||CVE-2019-3422
 M|ZTE|axon 11 5g|||<|2021.5.1|CVE-2021-21732|7.5|0|1.0|A mobile phone of ZTE is impacted by improper access control vulnerability. Due to improper permission setting
 M|ZTE|axon 40 ultra|||<|1.0.0b26|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
 M|ZTE|axon 40 ultra|||<|1.0.0b26|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
@@ -40775,6 +40924,10 @@ M|Reolink|rln8-410|||||CVE-2020-25173|7.8|0|0.3|An attacker with local network a
 M|Reolink|smart 2k\+ plug-in wi-fi video doorbell with chime|>=|3.0.0.4662_2503122283|<=|3.0.0.4662_2503122283|CVE-2025-55630|7.3|0|0.3|A discrepancy in the error message returned by the login function of Reolink Smart 2K+ Plug-in Wi-Fi Video Doo
 M|Reolink|smart 2k\+ plug-in wi-fi video doorbell with chime|>=|3.0.0.4662_2503122283|<=|3.0.0.4662_2503122283|CVE-2025-55634|7.5|0|0.5|Incorrect access control in the RTMP server settings of Reolink Smart 2K+ Plug-in Wi-Fi Video Doorbell with Ch
 M|Reolink|smart 2k\+ plug-in wi-fi video doorbell with chime|>=|3.0.0.4662_2503122283|<=|3.0.0.4662_2503122283|CVE-2025-55637|9.8|0|1.7|Reolink Smart 2K+ Plug-in Wi-Fi Video Doorbell with Chime - firmware v3.0.0.4662_2503122283 was discovered to 
+E|DrayTek|vigor 2960||CVE-2023-1162
+E|DrayTek|vigor2925||CVE-2019-16533
+E|DrayTek|vigor2960||CVE-2023-1009
+E|DrayTek|vigor300b||CVE-2026-3040
 M|DrayTek|VigorConnect|||||CVE-2021-20123|0.0|1|89.7|Draytek VigorConnect Path Traversal Vulnerability
 M|DrayTek|VigorConnect|||||CVE-2021-20124|0.0|1|95.9|Draytek VigorConnect Path Traversal Vulnerability
 M|DrayTek|vigor 2960|>=|1.5.1.4|<=|1.5.1.4|CVE-2023-1162|7.2|0|26.0|** UNSUPPORTED WHEN ASSIGNED ** A vulnerability, which was classified as critical, was found in DrayTek Vigor 
@@ -42950,6 +43103,10 @@ M|Netis|wf2880|>=|2.1.40207|<=|2.1.40207|CVE-2025-50614|7.5|0|0.4|A buffer overf
 M|Netis|wf2880|>=|2.1.40207|<=|2.1.40207|CVE-2025-50615|7.5|0|0.4|A buffer overflow vulnerability has been discovered in Netis WF2880 v2.1.40207 in the FUN_00470c50 function of
 M|Netis|wf2880|>=|2.1.40207|<=|2.1.40207|CVE-2025-50616|7.5|0|0.4|A buffer overflow vulnerability has been discovered in Netis WF2880 v2.1.40207 in the FUN_0046f984 function of
 M|Netis|wf2880|>=|2.1.40207|<=|2.1.40207|CVE-2025-50617|7.5|0|0.4|A buffer overflow vulnerability has been discovered in Netis WF2880 v2.1.40207 in the FUN_0046ed68 function of
+E|Edimax|br-6208ac|2.0|CVE-2025-14910
+E|Edimax|br-6258n||CVE-2026-1970
+E|Edimax|br-6288acl||CVE-2026-1971
+E|Edimax|gs-5008pl||CVE-2026-32838
 M|Edimax|6114wg router|>=|1.83|<=|1.83|CVE-2011-4501|10.0|0|4.2|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
 M|Edimax|6114wg router|>=|1.83|<=|1.83|CVE-2011-4502|10.0|0|5.5|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
 M|Edimax|6114wg router|>=|2.08|<=|2.08|CVE-2011-4501|10.0|0|4.2|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
@@ -43001,6 +43158,11 @@ M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22907|9.8|0|0.7|RE11S v1.11 was discover
 M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22912|9.8|0|2.0|RE11S v1.11 was discovered to contain a command injection vulnerability via the component /goform/formAccept.
 M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22913|9.8|0|0.8|RE11S v1.11 was discovered to contain a stack overflow via the rootAPmac parameter in the formStaDrvSetup func
 M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22916|9.8|0|0.7|RE11S v1.11 was discovered to contain a stack overflow via the pppUserName parameter in the formPPPoESetup fun
+E|TRENDnet|tew-432brp||CVE-2026-10060
+E|TRENDnet|tew-657brm||CVE-2026-5349
+E|TRENDnet|tew-713re||CVE-2025-15471
+E|TRENDnet|tew-820ap|1.0r|CVE-2022-47065
+E|TRENDnet|tew-821dap|1.0r|CVE-2026-7606
 M|TRENDnet|teg-30102ws|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
 M|TRENDnet|teg-30102ws|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
 M|TRENDnet|teg-30102ws|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
@@ -43354,6 +43516,7 @@ M|Teltonika|trb141|||<|00.07.05.2|CVE-2024-22727|8.3|0|0.3|Teltonika TRB1-series
 M|Teltonika|trb142|||<|00.07.05.2|CVE-2024-22727|8.3|0|0.3|Teltonika TRB1-series devices with firmware before TRB1_R_00.07.05.2 allow attackers to exploit a firmware vul
 M|Teltonika|trb143|||<|00.07.05.2|CVE-2024-22727|8.3|0|0.3|Teltonika TRB1-series devices with firmware before TRB1_R_00.07.05.2 allow attackers to exploit a firmware vul
 M|Teltonika|trb145|||<|00.07.05.2|CVE-2024-22727|8.3|0|0.3|Teltonika TRB1-series devices with firmware before TRB1_R_00.07.05.2 allow attackers to exploit a firmware vul
+E|HP|deskjet 2540 a9u23b||CVE-2022-48311
 M|HP|color laserjet cm4540 mfp cc419a|>=|3.0|<|3.9.9|CVE-2021-3942|9.8|0|1.6|Certain HP Print products and Digital Sending products may be vulnerable to potential remote code execution an
 M|HP|color laserjet cm4540 mfp cc420a|>=|3.0|<|3.9.9|CVE-2021-3942|9.8|0|1.6|Certain HP Print products and Digital Sending products may be vulnerable to potential remote code execution an
 M|HP|color laserjet cm4540 mfp cc421a|>=|3.0|<|3.9.9|CVE-2021-3942|9.8|0|1.6|Certain HP Print products and Digital Sending products may be vulnerable to potential remote code execution an
@@ -50945,6 +51108,7 @@ M|Fortinet|Multiple Products|||||CVE-2025-32756|0.0|1|30.9|Fortinet Multiple Pro
 M|Fortinet|Multiple Products|||||CVE-2025-59718|0.0|1|68.3|Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability
 M|Fortinet|Multiple Products|||||CVE-2025-61624|0.0|1|1.3|Fortinet Multiple Products Path Traversal Vulnerability
 M|Fortinet|Multiple Products|||||CVE-2026-24858|0.0|1|86.6|Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vulnerability
+E|SonicWall|secure remote access (sra)||CVE-2021-20028
 M|SonicWall|SMA 100 Appliances|||||CVE-2021-20038|0.0|1|99.9|SonicWall SMA 100 Appliances Stack-Based Buffer Overflow Vulnerability
 M|SonicWall|SMA100 Appliances|||||CVE-2021-20035|0.0|1|4.4|SonicWall SMA100 Appliances OS Command Injection Vulnerability
 M|SonicWall|SMA100 Appliances|||||CVE-2023-44221|0.0|1|76.2|SonicWall SMA100 Appliances OS Command Injection Vulnerability

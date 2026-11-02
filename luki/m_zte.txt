@@ -1,4 +1,5 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
+E|ZTE|mf910s||CVE-2019-3422
 M|ZTE|axon 11 5g|||<|2021.5.1|CVE-2021-21732|7.5|0|1.0|A mobile phone of ZTE is impacted by improper access control vulnerability. Due to improper permission setting
 M|ZTE|axon 40 ultra|||<|1.0.0b26|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
 M|ZTE|axon 40 ultra|||<|1.0.0b26|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install

@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|mongoose|>=|6.11|<=|6.11|CVE-2018-10945|7.5|0|1.3|The mg_handle_cgi function in mongoose.c in Mongoose 6.11 allows remote attackers to cause a denial of service
 V|mongoose|>=|6.13|<=|6.13|CVE-2018-18764|9.1|0|1.8|An exploitable arbitrary memory read vulnerability exists in the MQTT packet-parsing functionality of Cesanta 
 V|mongoose|>=|6.13|<=|6.13|CVE-2018-18765|9.1|0|1.8|An exploitable arbitrary memory read vulnerability exists in the MQTT packet-parsing functionality of Cesanta 

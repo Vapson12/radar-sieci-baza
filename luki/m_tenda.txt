@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Tenda|11n|>=|5.07.33_cn|<=|5.07.33_cn|CVE-2022-42233|9.8|0|43.4|Tenda 11N with firmware version V5.07.33_cn suffers from an Authentication Bypass vulnerability.
 M|Tenda|4g06|>=|04.06.01.29|<=|04.06.01.29|CVE-2026-5036|7.4|0|0.6|A vulnerability was found in Tenda 4G06 04.06.01.29. This vulnerability affects the function fromDhcpListClien
 M|Tenda|4g300|>=|1.01.42_cn_tdc01|<=|1.01.42_cn_tdc01|CVE-2026-7470|7.4|0|0.5|A flaw has been found in Tenda 4G300 US_4G300V1.0Mt_V1.01.42_CN_TDC01. Affected is the function sub_427C3C of 

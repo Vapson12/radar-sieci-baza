@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Ubiquiti|AirOS|||||CVE-2010-5330|9.8|1|40.2|Ubiquiti AirOS Command Injection Vulnerability
 M|Ubiquiti|af5x|||<|3.0.2.1|CVE-2015-9266|9.8|0|74.0|The web management interface of Ubiquiti airMAX, airFiber, airGateway and EdgeSwitch XP (formerly TOUGHSwitch)
 M|Ubiquiti|af5|||<|2.2.1|CVE-2015-9266|9.8|0|74.0|The web management interface of Ubiquiti airMAX, airFiber, airGateway and EdgeSwitch XP (formerly TOUGHSwitch)

@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|exim|>=|2.10|<=|2.10|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
 V|exim|>=|2.11|<=|2.11|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
 V|exim|>=|2.12|<=|2.12|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al

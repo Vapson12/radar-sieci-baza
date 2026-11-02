@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Sagemcom|f\@st 3686|>=|3.428.0|<=|3.428.0|CVE-2019-19494|8.8|0|23.1|Broadcom based cable modems across multiple vendors are vulnerable to a buffer overflow, which allows a remote
 M|Sagemcom|f\@st 3686|>=|3.495|<=|3.495|CVE-2021-3304|9.8|0|1.6|Sagemcom F@ST 3686 v2 3.495 devices have a buffer overflow via a long sessionKey to the goform/login URI.
 M|Sagemcom|f\@st 3686|>=|4.121.0|<=|4.121.0|CVE-2025-29329|9.8|0|1.0|Buffer Overflow in the ippprint (Internet Printing Protocol) service in Sagemcom F@st 3686 MAGYAR_4.121.0 allo

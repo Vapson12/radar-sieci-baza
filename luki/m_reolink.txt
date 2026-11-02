@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 M|Reolink|c1 pro|||<=|1.0.227|CVE-2019-11001|7.2|1|37.5|On Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W devices through 1.0.227, an authenticated admin ca
 M|Reolink|c2 pro|||<=|1.0.227|CVE-2019-11001|7.2|1|37.5|On Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W devices through 1.0.227, an authenticated admin ca
 M|Reolink|e1 zoom|||<=|3.0.0.716|CVE-2021-40150|7.5|0|4.0|The web server of the E1 Zoom camera through 3.0.0.716 discloses its configuration via the /conf/ directory th

@@ -1,4 +1,26 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
+E|Zyxel|amg1302-t10b||CVE-2025-3577
+E|Zyxel|nas326||CVE-2024-29972
+E|Zyxel|nas542||CVE-2024-29972
+E|Zyxel|nwa1100-n||CVE-2026-7287
+E|Zyxel|nwaw1100-n||CVE-2024-8234
+E|Zyxel|p6101c||CVE-2024-11494
+E|Zyxel|pmg2005-t20b||CVE-2023-43314
+E|Zyxel|sbg3300-n000||CVE-2024-40890
+E|Zyxel|sbg3300-nb00||CVE-2024-40890
+E|Zyxel|sbg3500-n000||CVE-2024-40890
+E|Zyxel|sbg3500-nb00||CVE-2024-40890
+E|Zyxel|vmg1312-b10a||CVE-2024-40890
+E|Zyxel|vmg1312-b10b||CVE-2024-40890
+E|Zyxel|vmg1312-b10e||CVE-2024-40890
+E|Zyxel|vmg3312-b10a||CVE-2024-40890
+E|Zyxel|vmg3313-b10a||CVE-2024-40890
+E|Zyxel|vmg3926-b10b||CVE-2024-40890
+E|Zyxel|vmg4325-b10a||CVE-2024-40890
+E|Zyxel|vmg4380-b10a||CVE-2024-40890
+E|Zyxel|vmg8324-b10a||CVE-2024-40890
+E|Zyxel|vmg8924-b10a||CVE-2024-40890
+E|Zyxel|wre6505|v2|CVE-2026-6058
 M|Zyxel|Multiple Firewalls|||||CVE-2024-11667|7.5|1|2.9|Zyxel Multiple Firewalls Path Traversal Vulnerability
 M|Zyxel|access points|>=|6.10patch1|<=|6.10patch1|CVE-2020-25014|9.8|0|4.4|A stack-based buffer overflow in fbwifi_continue.cgi on Zyxel UTM and VPN series of gateways running firmware 
 M|Zyxel|access points|>=|6.10patch2|<=|6.10patch2|CVE-2020-25014|9.8|0|4.4|A stack-based buffer overflow in fbwifi_continue.cgi on Zyxel UTM and VPN series of gateways running firmware 

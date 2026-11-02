@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33215 | EPSS tak | v2
 V|lighttpd|>=|1.0.2|<=|1.0.2|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
 V|lighttpd|>=|1.0.2|<=|1.0.2|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
 V|lighttpd|>=|1.0.3|<=|1.0.3|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
