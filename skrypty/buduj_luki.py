@@ -25,6 +25,7 @@ Format v2 (pola rozdzielone "|"):
   D|nazwa|alias1,alias2               producent i nazwy, pod ktorymi wystepuje
   V|klucz|op_od|wer_od|op_do|wer_do|CVE|CVSS|KEV|EPSS|opis
   M|producent|model|op_od|wer_od|op_do|wer_do|CVE|CVSS|KEV|EPSS|opis
+  E|producent|model|wersje_sprzetu|zrodlo      model bez wsparcia producenta (EoL)
   (M bez zakresu wersji = dotyczy modelu niezaleznie od firmware;
    EPSS w procentach albo "-")
 """
@@ -266,6 +267,51 @@ def important(score: float, in_kev: bool, ep: float) -> bool:
     return in_kev or score >= MIN_CVSS or ep >= MIN_EPSS
 
 
+EOL_TEXT = re.compile(r"no longer supported by the maintainer|end[- ]of[- ]life|end[- ]of[- ]service|"
+                      r"no longer (?:receives?|provides?) (?:security )?updates", re.I)
+# CISA KEV: "The impacted product could be end-of-life (EoL) ... discontinue the utilization"
+KEV_EOL = re.compile(r"end[- ]of[- ]life|\(EoL\)|end[- ]of[- ]service|discontinue the utilization", re.I)
+
+
+def unsupported(cve: dict) -> bool:
+    """CVE oznaczone jako dotyczace produktu bez wsparcia w chwili zgloszenia."""
+    for t in cve.get("cveTags", []) or []:
+        if "unsupported-when-assigned" in (t.get("tags") or []):
+            return True
+    return bool(EOL_TEXT.search(english(cve)))
+
+
+def hw_versions(cve: dict, vendor: str, hw_product: str) -> set:
+    """Wersje sprzetu (cpe:2.3:h:...) wymienione przy danym modelu, np. {"2.0", "3.0"}."""
+    out = set()
+    prefix = "cpe:2.3:h:" + vendor + ":" + hw_product + ":"
+    for conf in cve.get("configurations", []):
+        for node in conf.get("nodes", []):
+            for m in node.get("cpeMatch", []):
+                crit = m.get("criteria", "")
+                if crit.startswith(prefix):
+                    v = crit.split(":")[5].replace("\\", "")
+                    if v not in ("*", "-", "") and "|" not in v and "," not in v:
+                        out.add(v)
+    return out
+
+
+def load_manual_eol(path: str) -> list:
+    """Reczna lista: producent|model|wersje_sprzetu|zrodlo (linie z # pomijane)."""
+    out = []
+    if not os.path.exists(path):
+        return out
+    for line in open(path, encoding="utf-8"):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        f = [x.strip() for x in line.split("|")]
+        if len(f) >= 2 and f[0] and f[1]:
+            out.append((f[0], clean(f[1], 60).lower(), f[2] if len(f) > 2 else "",
+                        clean(f[3], 40) if len(f) > 3 else "lista reczna"))
+    return out
+
+
 def model_name(product: str) -> str:
     """archer_c7_firmware -> archer c7"""
     p = re.sub(r"_firmware$", "", product)
@@ -327,9 +373,12 @@ def main() -> None:
     print("4/5 Firmware urzadzen z NVD (wedlug producenta)...")
     models = {}               # plik -> linie v2
     v1_models = []
+    manual = load_manual_eol(os.path.join(os.path.dirname(os.path.abspath(__file__)), "eol_reczne.txt"))
+    n_eol = 0
     for slug, name, cpe_vendors, _aliases in DEVICE_VENDORS:
         lines = set()
         have = set()          # (CVE) z zakresem wersji - nie dublujemy wpisem KEV
+        eol = {}              # model -> [wersje sprzetu, zrodlo]
         for cv in cpe_vendors:
             prefix = "cpe:2.3:o:" + cv + ":"
             try:
@@ -344,6 +393,17 @@ def main() -> None:
                 score = cvss(cve)
                 scores[cid] = score
                 in_kev = cid in kev
+                if unsupported(cve):                      # model bez wsparcia (kazda luka, nie tylko powazna)
+                    for product in ranges(cve, prefix, allow_all=True):
+                        if not product.endswith("_firmware"):
+                            continue
+                        if slug in PRODUCT_FILTER and not re.search(PRODUCT_FILTER[slug], product):
+                            continue
+                        model = model_name(product)
+                        if not re.search(r"\d", model) and len(model.split()) < 2:
+                            continue
+                        e = eol.setdefault(model, [set(), cid])
+                        e[0] |= hw_versions(cve, cv, re.sub(r"_firmware$", "", product))
                 if not important(score, in_kev, epss.get(cid, 0.0)):
                     continue
                 desc = clean(english(cve))
@@ -373,6 +433,19 @@ def main() -> None:
                 continue
             sc = scores.get(cid, 0.0)
             lines.add(f"M|{name}|{product}|||||{cid}|{sc:.1f}|1|{epss_txt(epss, cid)}|{desc}")
+            # CISA: "produkt moze byc EoL - przestan go uzywac"
+            if KEV_EOL.search(v.get("requiredAction", "") + " " + v.get("notes", "")) and \
+                    (re.search(r"\d", product) or len(product.split()) >= 2):
+                eol.setdefault(product.lower(), [set(), cid])
+        for m_vendor, model, hw, src in manual:
+            if m_vendor.lower() == name.lower():
+                e = eol.setdefault(model, [set(), src])
+                e[0] |= {h.strip() for h in hw.split(",") if h.strip()}
+                e[1] = src
+        for model, (hw, src) in eol.items():
+            hw_txt = ",".join(sorted(hw))[:60]
+            lines.add(f"E|{name}|{model}|{hw_txt}|{src}")
+        n_eol += len(eol)
         models[slug] = sorted(lines)
         print(f"    {name:<17} {len(lines):>5} regul")
 
@@ -408,6 +481,7 @@ def main() -> None:
     write_lines(v1_path, f"# baza {today} | KEV {len(kev)} | wersje {len(v1)} | modele {len(v1_models)}",
                 v1 + v1_models)
 
+    print(f"Modele bez wsparcia producenta: {n_eol}")
     print(f"\nZapisano {out_dir}/: programy {n_v} regul, modele {n_m} regul, "
           f"wszystko.txt {size_all // 1024} KB")
     if warn:

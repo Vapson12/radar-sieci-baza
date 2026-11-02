@@ -7,7 +7,8 @@ Dzięki temu urządzenie nie potrzebuje karty SD, a baza znanych luk jest zawsze
 |---|---|---|
 | `luki/index.txt` | Spis plików bazy luk i nazwy producentów. | Urządzenie czyta go najpierw. |
 | `luki/<program>.txt` | Luki jednego programu (np. `openssh.txt`) – zakresy wersji, CVSS, KEV, EPSS. | Urządzenie pobiera tylko pliki programów znalezionych w sieci. |
-| `luki/m_<producent>.txt` | Luki firmware routerów, kamer, NAS-ów i drukarek jednego producenta. | Jw. – tylko producenci obecni w sieci. |
+| `luki/m_<producent>.txt` | Luki firmware routerów, kamer, NAS-ów i drukarek jednego producenta oraz jego modele bez wsparcia (End of Life). | Jw. – tylko producenci obecni w sieci. |
+| `skrypty/eol_reczne.txt` | Ręczna lista modeli bez wsparcia (uzupełnia NVD i CISA). | Dopisujesz modele ze stron producentów. |
 | `luki/wszystko.txt` | Cała baza w jednym pliku. | Opcjonalnie na kartę SD jako `/luki.txt` (praca bez internetu). |
 | `luki.txt` | Stary format bazy. | Firmware Radar Sieci 4.3 i starsze. |
 | `skrypty/buduj_luki.py` | Buduje katalog `luki/` i `luki.txt`. | Automat GitHub Actions co miesiąc. |
@@ -28,6 +29,7 @@ dodany jako sekret repozytorium `NVD_API_KEY` znacznie przyspiesza budowanie baz
 - CISA Known Exploited Vulnerabilities Catalog – luki wykorzystywane w atakach
 - NIST National Vulnerability Database – zakresy wersji programów i firmware, ocena CVSS
 - FIRST EPSS – prawdopodobieństwo wykorzystania luki w ciągu 30 dni
+- Modele bez wsparcia: znacznik `unsupported-when-assigned` w NVD, uwagi CISA KEV o End of Life i lista ręczna
 - IEEE Registration Authority – przydział prefiksów adresów MAC
 
 Wykrywanie luk odbywa się po numerze wersji, dlatego urządzenie oznacza pewność wyniku:

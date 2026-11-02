@@ -1,0 +1,7 @@
+# Reczna lista modeli bez wsparcia producenta (End of Life) - uzupelnia dane z NVD i CISA.
+# Jedna linia: producent|model|wersje sprzetu (opcjonalnie, po przecinku)|zrodlo
+# Producent - dokladnie jak w DEVICE_VENDORS w buduj_luki.py (np. TP-Link, D-Link, NETGEAR).
+# Model - tak, jak nazywa go producent (np. archer c7, dir-859).
+# Wersje sprzetu - z naklejki na urzadzeniu (np. 1.0,2.0); puste = wszystkie wersje.
+# Wpisuj tylko modele potwierdzone na stronie producenta i podaj ja jako zrodlo, np.:
+# TP-Link|archer c2|1.0|tp-link.com/pl/support/eol
