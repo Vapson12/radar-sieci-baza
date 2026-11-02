@@ -1,0 +1,4 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|filezilla_server|||<|0.9.22|CVE-2006-6565|4.0|0|70.6|FileZilla Server before 0.9.22 allows remote attackers to cause a denial of service (crash) via a wildcard arg
+V|filezilla_server|||<|0.9.44|CVE-2014-0160|7.5|1|100.0|The (1) TLS and (2) DTLS implementations in OpenSSL 1.0.1 before 1.0.1g do not properly handle Heartbeat Exten
+V|filezilla_server|||<|0.9.45|CVE-2014-0224|7.4|0|95.3|OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h does not properly restrict processing of 

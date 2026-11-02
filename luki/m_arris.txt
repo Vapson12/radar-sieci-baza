@@ -1,0 +1,102 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Arris|arris dg950a|>=|7.10.145|<=|7.10.145|CVE-2018-20383|9.8|0|1.8|ARRIS DG950A 7.10.145 and DG950S 7.10.145.EURO devices allow remote attackers to discover credentials via iso.
+M|Arris|arris sbg10|||<=|9.1.103|CVE-2022-45701|8.8|0|42.6|Arris TG2482A firmware through 9.1.103GEM9 allow Remote Code Execution (RCE) via the ping utility feature.
+M|Arris|arris sbg6580-2|>=|d30gw-seaeagle-1.5.2.5-ga-00-nosh|<=|d30gw-seaeagle-1.5.2.5-ga-00-nosh|CVE-2018-20386|9.8|0|1.8|ARRIS SBG6580-2 D30GW-SEAEAGLE-1.5.2.5-GA-00-NOSH devices allow remote attackers to discover credentials via i
+M|Arris|arris surfboard sb8200|>=|ab01.02.053.01_112320_193.0a.nsh|<=|ab01.02.053.01_112320_193.0a.nsh|CVE-2021-20119|7.1|0|0.5|The password change utility for the Arris SurfBoard SB8200 can have safety measures bypassed that allow any lo
+M|Arris|arris surfboard sb8200|>=|ab01.02.053.01_112320_193.0a.nsh|<=|ab01.02.053.01_112320_193.0a.nsh|CVE-2021-20120|8.8|0|0.6|The administration web interface for the Arris Surfboard SB8200 lacks any protections against cross-site reque
+M|Arris|arris surfboard sbg10|||||CVE-2021-41552|8.8|0|0.7|CommScope SURFboard SBG6950AC2 9.1.103AA23 devices allow Command Injection.
+M|Arris|arris surfboard sbg6950ac2|>=|9.1.103aa23|<=|9.1.103aa23|CVE-2021-41552|8.8|0|0.7|CommScope SURFboard SBG6950AC2 9.1.103AA23 devices allow Command Injection.
+M|Arris|arris surfboard sbg6950ac2|||||CVE-2024-23618|9.6|0|1.2|An arbitrary code execution vulnerability exists in Arris SURFboard SGB6950AC2 devices. An unauthenticated att
+M|Arris|arris surfboard sbg7400ac2|||||CVE-2021-41552|8.8|0|0.7|CommScope SURFboard SBG6950AC2 9.1.103AA23 devices allow Command Injection.
+M|Arris|arris surfboard sbg7580ac|||||CVE-2021-41552|8.8|0|0.7|CommScope SURFboard SBG6950AC2 9.1.103AA23 devices allow Command Injection.
+M|Arris|arris surfboard sbg7600ac2|||||CVE-2021-41552|8.8|0|0.7|CommScope SURFboard SBG6950AC2 9.1.103AA23 devices allow Command Injection.
+M|Arris|arris tg1682g|>=|10.0.132.sip.pc20.ct|<=|10.0.132.sip.pc20.ct|CVE-2017-9489|8.8|0|0.6|The Comcast firmware on Cisco DPC3939B (firmware version dpc3939b-v303r204217-150321a-CMCST) devices allows co
+M|Arris|arris tg1682g|>=|10.0.132.sip.pc20.ct|<=|10.0.132.sip.pc20.ct|CVE-2017-9492|7.5|0|1.6|The Comcast firmware on Cisco DPC3939 (firmware version dpc3939-P20-18-v303r20421733-160420a-CMCST); Cisco DPC
+M|Arris|arris tg1682g|>=|10.0.132.sip.pc20.ct|<=|10.0.132.sip.pc20.ct|CVE-2017-9521|9.8|0|3.3|The Comcast firmware on Cisco DPC3939 (firmware version dpc3939-P20-18-v303r20421733-160420a-CMCST); Cisco DPC
+M|Arris|arris tg1682g|>=|9.1.103j6|<=|9.1.103j6|CVE-2018-10990|8.0|0|1.1|On Arris Touchstone Telephony Gateway TG1682G 9.1.103J6 devices, a logout action does not immediately destroy 
+M|Arris|arris tg1682g|>=|tg1682_2.2p7s2_prod_sey|<=|tg1682_2.2p7s2_prod_sey|CVE-2017-9489|8.8|0|0.6|The Comcast firmware on Cisco DPC3939B (firmware version dpc3939b-v303r204217-150321a-CMCST) devices allows co
+M|Arris|arris tg1682g|>=|tg1682_2.2p7s2_prod_sey|<=|tg1682_2.2p7s2_prod_sey|CVE-2017-9492|7.5|0|1.6|The Comcast firmware on Cisco DPC3939 (firmware version dpc3939-P20-18-v303r20421733-160420a-CMCST); Cisco DPC
+M|Arris|arris tg1682g|>=|tg1682_2.2p7s2_prod_sey|<=|tg1682_2.2p7s2_prod_sey|CVE-2017-9521|9.8|0|3.3|The Comcast firmware on Cisco DPC3939 (firmware version dpc3939-P20-18-v303r20421733-160420a-CMCST); Cisco DPC
+M|Arris|arris tg1692a|>=|9.1.103de2|<=|9.1.103de2|CVE-2020-9476|7.5|0|1.0|ARRIS TG1692A devices allow remote attackers to discover the administrator login name and password by reading 
+M|Arris|arris tg2482a|||<=|9.1.103|CVE-2022-45701|8.8|0|42.6|Arris TG2482A firmware through 9.1.103GEM9 allow Remote Code Execution (RCE) via the ping utility feature.
+M|Arris|arris tg2492lg-na|>=|061213|<=|061213|CVE-2018-17555|7.5|0|2.0|The web component on ARRIS TG2492LG-NA 061213 devices allows remote attackers to obtain sensitive information 
+M|Arris|arris tg2492|||<=|9.1.103|CVE-2022-45701|8.8|0|42.6|Arris TG2482A firmware through 9.1.103GEM9 allow Remote Code Execution (RCE) via the ping utility feature.
+M|Arris|arris tr3300|>=|1.0.13|<=|1.0.13|CVE-2022-26995|9.8|0|2.9|Arris TR3300 v1.0.13 was discovered to contain a command injection vulnerability in the pptp (wan_pptp.html) f
+M|Arris|arris tr3300|>=|1.0.13|<=|1.0.13|CVE-2022-26996|9.8|0|2.9|Arris TR3300 v1.0.13 was discovered to contain a command injection vulnerability in the pppoe function via the
+M|Arris|arris tr3300|>=|1.0.13|<=|1.0.13|CVE-2022-26997|9.8|0|3.4|Arris TR3300 v1.0.13 was discovered to contain a command injection vulnerability in the upnp function via the 
+M|Arris|arris tr3300|>=|1.0.13|<=|1.0.13|CVE-2022-26998|9.8|0|3.4|Arris TR3300 v1.0.13 was discovered to contain a command injection vulnerability in the wps setting function v
+M|Arris|arris tr3300|>=|1.0.13|<=|1.0.13|CVE-2022-26999|9.8|0|3.4|Arris TR3300 v1.0.13 was discovered to contain a command injection vulnerability in the static ip settings fun
+M|Arris|arris tr3300|>=|1.0.13|<=|1.0.13|CVE-2022-27000|9.8|0|3.4|Arris TR3300 v1.0.13 was discovered to contain a command injection vulnerability in the time and time zone fun
+M|Arris|arris tr3300|>=|1.0.13|<=|1.0.13|CVE-2022-27001|9.8|0|3.4|Arris TR3300 v1.0.13 were discovered to contain a command injection vulnerability in the dhcp function via the
+M|Arris|arris tr3300|>=|1.0.13|<=|1.0.13|CVE-2022-27002|9.8|0|5.1|Arris TR3300 v1.0.13 were discovered to contain a command injection vulnerability in the ddns function via the
+M|Arris|bgw210|||||CVE-2022-31793|7.5|0|17.7|do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructin
+M|Arris|bgw320|||||CVE-2022-31793|7.5|0|17.7|do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructin
+M|Arris|dg1670a|>=|ts0901203b6_020420_16xx.gw_pc20_tw|<=|ts0901203b6_020420_16xx.gw_pc20_tw|CVE-2023-40038|8.8|0|0.4|Arris DG860A and DG1670A devices have predictable default WPA2 PSKs that could lead to unauthorized remote acc
+M|Arris|dg860a|||||CVE-2023-40038|8.8|0|0.4|Arris DG860A and DG1670A devices have predictable default WPA2 PSKs that could lead to unauthorized remote acc
+M|Arris|dg950s|>=|7.10.145.euro|<=|7.10.145.euro|CVE-2018-20383|9.8|0|1.8|ARRIS DG950A 7.10.145 and DG950S 7.10.145.EURO devices allow remote attackers to discover credentials via iso.
+M|Arris|na model 862 gw mono|>=|ts0703128_100611|<=|ts0703128_100611|CVE-2015-7289|9.3|0|2.1|Arris DG860A, TG862A, and TG862G devices with firmware TS0703128_100611 through TS0705125D_031115 have a hardc
+M|Arris|na model 862 gw mono|>=|ts0703135_112211|<=|ts0703135_112211|CVE-2015-7289|9.3|0|2.1|Arris DG860A, TG862A, and TG862G devices with firmware TS0703128_100611 through TS0705125D_031115 have a hardc
+M|Arris|na model 862 gw mono|>=|ts0705125_062314|<=|ts0705125_062314|CVE-2015-7289|9.3|0|2.1|Arris DG860A, TG862A, and TG862G devices with firmware TS0703128_100611 through TS0705125D_031115 have a hardc
+M|Arris|na model 862 gw mono|>=|ts0705125d_031115|<=|ts0705125d_031115|CVE-2015-7289|9.3|0|2.1|Arris DG860A, TG862A, and TG862G devices with firmware TS0703128_100611 through TS0705125D_031115 have a hardc
+M|Arris|na model 862 gw mono|>=|ts070593c_073013|<=|ts070593c_073013|CVE-2015-7289|9.3|0|2.1|Arris DG860A, TG862A, and TG862G devices with firmware TS0703128_100611 through TS0705125D_031115 have a hardc
+M|Arris|nvg443|||||CVE-2022-31793|7.5|0|17.7|do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructin
+M|Arris|nvg510|||||CVE-2022-31793|7.5|0|17.7|do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructin
+M|Arris|nvg589|||||CVE-2022-31793|7.5|0|17.7|do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructin
+M|Arris|nvg599|||||CVE-2022-31793|7.5|0|17.7|do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructin
+M|Arris|ruckus smartzone|>=|6.1.0.0.935|<=|6.1.0.0.935|CVE-2023-25717|9.8|1|98.1|Ruckus Wireless Admin through 10.4 allows Remote Code Execution via an unauthenticated HTTP GET Request, as de
+M|Arris|ruckus smartzone|>=|6.1.2p2|<=|6.1.2p2|CVE-2025-44954|9.0|0|0.7|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build has a hardcoded SSH private key for a root-equivalent user 
+M|Arris|ruckus smartzone|>=|6.1.2p2|<=|6.1.2p2|CVE-2025-44957|8.5|0|1.0|Ruckus SmartZone (SZ) before 6.1.2p3 Refresh Build allows authentication bypass via a valid API key and crafte
+M|Arris|ruckus smartzone|>=|6.1.2p2|<=|6.1.2p2|CVE-2025-44960|8.5|0|1.8|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build allows OS command injection via a certain parameter in an A
+M|Arris|ruckus smartzone|>=|6.1.2p2|<=|6.1.2p2|CVE-2025-44961|9.9|0|2.1|In RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build, OS command injection can occur via an IP address field 
+M|Arris|ruckus smartzone|>=|6.1.2p3|<=|6.1.2p3|CVE-2025-44954|9.0|0|0.7|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build has a hardcoded SSH private key for a root-equivalent user 
+M|Arris|ruckus smartzone|>=|6.1.2p3|<=|6.1.2p3|CVE-2025-44957|8.5|0|1.0|Ruckus SmartZone (SZ) before 6.1.2p3 Refresh Build allows authentication bypass via a valid API key and crafte
+M|Arris|ruckus smartzone|>=|6.1.2p3|<=|6.1.2p3|CVE-2025-44960|8.5|0|1.8|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build allows OS command injection via a certain parameter in an A
+M|Arris|ruckus smartzone|>=|6.1.2p3|<=|6.1.2p3|CVE-2025-44961|9.9|0|2.1|In RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build, OS command injection can occur via an IP address field 
+M|Arris|ruckus smartzone|>=|6.1.2|<=|6.1.2|CVE-2025-44954|9.0|0|0.7|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build has a hardcoded SSH private key for a root-equivalent user 
+M|Arris|ruckus smartzone|>=|6.1.2|<=|6.1.2|CVE-2025-44957|8.5|0|1.0|Ruckus SmartZone (SZ) before 6.1.2p3 Refresh Build allows authentication bypass via a valid API key and crafte
+M|Arris|ruckus smartzone|>=|6.1.2|<=|6.1.2|CVE-2025-44960|8.5|0|1.8|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build allows OS command injection via a certain parameter in an A
+M|Arris|ruckus smartzone|>=|6.1.2|<=|6.1.2|CVE-2025-44961|9.9|0|2.1|In RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build, OS command injection can occur via an IP address field 
+M|Arris|ruckus smartzone|>=|7.0.0|<=|7.0.0|CVE-2025-44954|9.0|0|0.7|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build has a hardcoded SSH private key for a root-equivalent user 
+M|Arris|ruckus smartzone|>=|7.0.0|<=|7.0.0|CVE-2025-44957|8.5|0|1.0|Ruckus SmartZone (SZ) before 6.1.2p3 Refresh Build allows authentication bypass via a valid API key and crafte
+M|Arris|ruckus smartzone|>=|7.0.0|<=|7.0.0|CVE-2025-44960|8.5|0|1.8|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build allows OS command injection via a certain parameter in an A
+M|Arris|ruckus smartzone|>=|7.0.0|<=|7.0.0|CVE-2025-44961|9.9|0|2.1|In RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build, OS command injection can occur via an IP address field 
+M|Arris|ruckus smartzone|>=|7.1.0|<=|7.1.0|CVE-2025-44954|9.0|0|0.7|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build has a hardcoded SSH private key for a root-equivalent user 
+M|Arris|ruckus smartzone|>=|7.1.0|<=|7.1.0|CVE-2025-44957|8.5|0|1.0|Ruckus SmartZone (SZ) before 6.1.2p3 Refresh Build allows authentication bypass via a valid API key and crafte
+M|Arris|ruckus smartzone|>=|7.1.0|<=|7.1.0|CVE-2025-44960|8.5|0|1.8|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build allows OS command injection via a certain parameter in an A
+M|Arris|ruckus smartzone|>=|7.1.0|<=|7.1.0|CVE-2025-44961|9.9|0|2.1|In RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build, OS command injection can occur via an IP address field 
+M|Arris|ruckus smartzone|||<|5.2.1.3.1695|CVE-2023-25717|9.8|1|98.1|Ruckus Wireless Admin through 10.4 allows Remote Code Execution via an unauthenticated HTTP GET Request, as de
+M|Arris|ruckus smartzone|||<|5.2.1.3|CVE-2023-25717|9.8|1|98.1|Ruckus Wireless Admin through 10.4 allows Remote Code Execution via an unauthenticated HTTP GET Request, as de
+M|Arris|ruckus smartzone|||<|6.1.2|CVE-2025-44954|9.0|0|0.7|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build has a hardcoded SSH private key for a root-equivalent user 
+M|Arris|ruckus smartzone|||<|6.1.2|CVE-2025-44957|8.5|0|1.0|Ruckus SmartZone (SZ) before 6.1.2p3 Refresh Build allows authentication bypass via a valid API key and crafte
+M|Arris|ruckus smartzone|||<|6.1.2|CVE-2025-44960|8.5|0|1.8|RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build allows OS command injection via a certain parameter in an A
+M|Arris|ruckus smartzone|||<|6.1.2|CVE-2025-44961|9.9|0|2.1|In RUCKUS SmartZone (SZ) before 6.1.2p3 Refresh Build, OS command injection can occur via an IP address field 
+M|Arris|ruckus zoneflex r500|>=|104.0.0.0.1347|<=|104.0.0.0.1347|CVE-2020-8438|7.2|0|1.6|Ruckus ZoneFlex R500 104.0.0.0.1347 devices allow an authenticated attacker to execute arbitrary OS commands v
+M|Arris|ruckus zoneflex r500|>=|3.4.2.0.384|<=|3.4.2.0.384|CVE-2020-7983|8.1|0|0.6|A CSRF issue in login.asp on Ruckus R500 3.4.2.0.384 devices allows remote attackers to access the panel or co
+M|Arris|ruckus zoneflex r500|||||CVE-2020-8830|8.8|0|0.5|CSRF in login.asp on Ruckus devices allows an attacker to access the panel, and use SSRF to perform scraping o
+M|Arris|sbr-ac1200p|>=|1.0.5-b05|<=|1.0.5-b05|CVE-2022-26990|9.8|0|2.9|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1200p|>=|1.0.5-b05|<=|1.0.5-b05|CVE-2022-26991|9.8|0|2.7|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1200p|>=|1.0.5-b05|<=|1.0.5-b05|CVE-2022-26992|9.8|0|2.9|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1200p|>=|1.0.5-b05|<=|1.0.5-b05|CVE-2022-26993|9.8|0|2.7|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1200p|>=|1.0.5-b05|<=|1.0.5-b05|CVE-2022-26994|9.8|0|3.0|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1900p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26990|9.8|0|2.9|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1900p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26991|9.8|0|2.7|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1900p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26992|9.8|0|2.9|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1900p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26993|9.8|0|2.7|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac1900p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26994|9.8|0|3.0|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac3200p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26990|9.8|0|2.9|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac3200p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26991|9.8|0|2.7|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac3200p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26992|9.8|0|2.9|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac3200p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26993|9.8|0|2.7|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|sbr-ac3200p|>=|1.0.7-b05|<=|1.0.7-b05|CVE-2022-26994|9.8|0|3.0|Arris routers SBR-AC1900P 1.0.7-B05, SBR-AC3200P 1.0.7-B05 and SBR-AC1200P 1.0.5-B05 were discovered to contai
+M|Arris|tg1672g|||||CVE-2023-40039|9.8|0|1.2|An issue was discovered on ARRIS TG852G, TG862G, and TG1672G devices. A remote attacker (in proximity to a Wi-
+M|Arris|tg1682g|>=|10.0.132.sip.pc20.ct|<=|10.0.132.sip.pc20.ct|CVE-2017-9490|8.8|0|0.5|The Comcast firmware on Arris TG1682G (eMTA&DOCSIS version 10.0.132.SIP.PC20.CT, software version TG1682_2.2p7
+M|Arris|tg1682g|>=|tg1682_2.2p7s2_prod_sey|<=|tg1682_2.2p7s2_prod_sey|CVE-2017-9490|8.8|0|0.5|The Comcast firmware on Arris TG1682G (eMTA&DOCSIS version 10.0.132.SIP.PC20.CT, software version TG1682_2.2p7
+M|Arris|tg852g|||||CVE-2023-40039|9.8|0|1.2|An issue was discovered on ARRIS TG852G, TG862G, and TG1672G devices. A remote attacker (in proximity to a Wi-
+M|Arris|tg862g|||||CVE-2023-40039|9.8|0|1.2|An issue was discovered on ARRIS TG852G, TG862G, and TG1672G devices. A remote attacker (in proximity to a Wi-
+M|Arris|tr4400|||<=|a1.00.004-180301|CVE-2019-15805|9.8|0|1.2|CommScope ARRIS TR4400 devices with firmware through A1.00.004-180301 are vulnerable to an authentication bypa
+M|Arris|tr4400|||<=|a1.00.004-180301|CVE-2019-15806|9.8|0|1.2|CommScope ARRIS TR4400 devices with firmware through A1.00.004-180301 are vulnerable to an authentication bypa
+M|Arris|vap2500|>=|08.50|<=|08.50|CVE-2024-5195|5.1|0|23.6|A vulnerability was found in Arris VAP2500 08.50. It has been rated as critical. Affected by this issue is som
+M|Arris|vap2500|>=|08.50|<=|08.50|CVE-2024-5196|5.1|0|23.6|A vulnerability classified as critical has been found in Arris VAP2500 08.50. This affects an unknown part of 
+M|Arris|vap2500|||<=|08.41|CVE-2014-8423|10.0|0|62.5|Unspecified vulnerability in the management portal in ARRIS VAP2500 before FW08.41 allows remote attackers to 
+M|Arris|vap2500|||<=|08.41|CVE-2014-8424|7.8|0|59.6|ARRIS VAP2500 before FW08.41 does not properly validate passwords, which allows remote attackers to bypass aut
+M|Arris|vap2500|||<=|08.41|CVE-2014-8425|7.8|0|3.1|The management portal in ARRIS VAP2500 before FW08.41 allows remote attackers to obtain credentials by reading

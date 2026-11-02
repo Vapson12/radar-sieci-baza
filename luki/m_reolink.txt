@@ -1,0 +1,107 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Reolink|c1 pro|||<=|1.0.227|CVE-2019-11001|7.2|1|37.5|On Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W devices through 1.0.227, an authenticated admin ca
+M|Reolink|c2 pro|||<=|1.0.227|CVE-2019-11001|7.2|1|37.5|On Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W devices through 1.0.227, an authenticated admin ca
+M|Reolink|e1 zoom|||<=|3.0.0.716|CVE-2021-40150|7.5|0|4.0|The web server of the E1 Zoom camera through 3.0.0.716 discloses its configuration via the /conf/ directory th
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40406|7.5|0|1.5|A denial of service vulnerability exists in the cgiserver.cgi session creation functionality of reolink RLC-41
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40407|7.2|1|47.6|An OS command injection vulnerability exists in the device network settings functionality of reolink RLC-410W 
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40408|9.8|0|3.7|An OS command injection vulnerability exists in the device network settings functionality of reolink RLC-410W 
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40409|9.8|0|3.7|An OS command injection vulnerability exists in the device network settings functionality of reolink RLC-410W 
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40410|7.2|0|27.9|An OS command injection vulnerability exists in the device network settings functionality of reolink RLC-410W 
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40411|7.2|0|4.7|An OS command injection vulnerability exists in the device network settings functionality of reolink RLC-410W 
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40412|7.2|0|27.5|An OScommand injection vulnerability exists in the device network settings functionality of reolink RLC-410W v
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40413|7.1|0|0.8|An incorrect default permission vulnerability exists in the cgiserver.cgi cgi_check_ability functionality of r
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40414|7.1|0|0.8|An incorrect default permission vulnerability exists in the cgiserver.cgi cgi_check_ability functionality of r
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40416|8.8|0|0.9|An incorrect default permission vulnerability exists in the cgiserver.cgi cgi_check_ability functionality of r
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40419|7.5|0|1.2|A firmware update vulnerability exists in the 'factory' binary of reolink RLC-410W v3.0.0.136_20121102. A spec
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-40423|7.5|0|1.3|A denial of service vulnerability exists in the cgiserver.cgi API command parser functionality of Reolink RLC-
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44354|7.5|0|1.8|Multiple denial of service vulnerabilities exist in the cgiserver.cgi JSON command parser functionality of Reo
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44355|7.5|0|1.8|Multiple denial of service vulnerabilities exist in the cgiserver.cgi JSON command parser functionality of Reo
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44356|7.5|0|1.8|Multiple denial of service vulnerabilities exist in the cgiserver.cgi JSON command parser functionality of Reo
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44357|7.5|0|1.8|Multiple denial of service vulnerabilities exist in the cgiserver.cgi JSON command parser functionality of Reo
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44358|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44359|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44360|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44361|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44362|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44363|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44364|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44365|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44366|7.5|0|1.8|Multiple denial of service vulnerabilities exist in the cgiserver.cgi JSON command parser functionality of Reo
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44367|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44368|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44369|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44370|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44371|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44372|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44373|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44374|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44375|7.5|0|1.8|Multiple denial of service vulnerabilities exist in the cgiserver.cgi JSON command parser functionality of Reo
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44376|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44377|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44378|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44379|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44380|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44381|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44382|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44383|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44384|7.7|0|1.1|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44385|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44386|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44387|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44388|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44389|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44390|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44391|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44392|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44393|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44394|7.5|0|1.8|Multiple denial of service vulnerabilities exist in the cgiserver.cgi JSON command parser functionality of Reo
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44395|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44396|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44397|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44398|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44399|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44400|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44401|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44402|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44403|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44404|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44405|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44406|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44407|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44408|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44409|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44410|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44411|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44412|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44413|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44414|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44415|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44416|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44417|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44418|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2021-44419|7.7|0|1.2|A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2022-21134|7.5|0|0.9|A firmware update vulnerability exists in the &quot;update&quot; firmware checks functionality of reolink RLC-
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2022-21217|9.8|0|1.2|An out-of-bounds write vulnerability exists in the device TestEmail functionality of reolink RLC-410W v3.0.0.1
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2022-21236|7.5|0|1.8|An information disclosure vulnerability exists due to a web server misconfiguration in the Reolink RLC-410W v3
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2022-21796|8.2|0|1.1|A memory corruption vulnerability exists in the netserver parse_command_list functionality of reolink RLC-410W
+M|Reolink|rlc-410w|>=|3.0.0.136_20121102|<=|3.0.0.136_20121102|CVE-2022-21801|7.5|0|1.1|A denial of service vulnerability exists in the netserver recv_command functionality of reolink RLC-410W v3.0.
+M|Reolink|rlc-410w|||<=|1.0.227|CVE-2019-11001|7.2|1|37.5|On Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W devices through 1.0.227, an authenticated admin ca
+M|Reolink|rlc-410|||||CVE-2020-25169|7.5|0|1.0|The affected Reolink P2P products do not sufficiently protect data transferred between the local device and Re
+M|Reolink|rlc-410|||||CVE-2020-25173|7.8|0|0.3|An attacker with local network access can obtain a fixed cryptography key which may allow for further compromi
+M|Reolink|rlc-422w|||<=|1.0.227|CVE-2019-11001|7.2|1|37.5|On Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W devices through 1.0.227, an authenticated admin ca
+M|Reolink|rlc-422|||||CVE-2020-25169|7.5|0|1.0|The affected Reolink P2P products do not sufficiently protect data transferred between the local device and Re
+M|Reolink|rlc-422|||||CVE-2020-25173|7.8|0|0.3|An attacker with local network access can obtain a fixed cryptography key which may allow for further compromi
+M|Reolink|rlc-423s|||||CVE-2020-25169|7.5|0|1.0|The affected Reolink P2P products do not sufficiently protect data transferred between the local device and Re
+M|Reolink|rlc-423s|||||CVE-2020-25173|7.8|0|0.3|An attacker with local network access can obtain a fixed cryptography key which may allow for further compromi
+M|Reolink|rlc-423|||||CVE-2020-25169|7.5|0|1.0|The affected Reolink P2P products do not sufficiently protect data transferred between the local device and Re
+M|Reolink|rlc-423|||||CVE-2020-25173|7.8|0|0.3|An attacker with local network access can obtain a fixed cryptography key which may allow for further compromi
+M|Reolink|rlc-510a|||||CVE-2020-25169|7.5|0|1.0|The affected Reolink P2P products do not sufficiently protect data transferred between the local device and Re
+M|Reolink|rlc-510a|||||CVE-2020-25173|7.8|0|0.3|An attacker with local network access can obtain a fixed cryptography key which may allow for further compromi
+M|Reolink|rlc-511w|||<=|1.0.227|CVE-2019-11001|7.2|1|37.5|On Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W devices through 1.0.227, an authenticated admin ca
+M|Reolink|rlc-520a|||||CVE-2020-25169|7.5|0|1.0|The affected Reolink P2P products do not sufficiently protect data transferred between the local device and Re
+M|Reolink|rlc-520a|||||CVE-2020-25173|7.8|0|0.3|An attacker with local network access can obtain a fixed cryptography key which may allow for further compromi
+M|Reolink|rln8-410|||||CVE-2020-25169|7.5|0|1.0|The affected Reolink P2P products do not sufficiently protect data transferred between the local device and Re
+M|Reolink|rln8-410|||||CVE-2020-25173|7.8|0|0.3|An attacker with local network access can obtain a fixed cryptography key which may allow for further compromi
+M|Reolink|smart 2k\+ plug-in wi-fi video doorbell with chime|>=|3.0.0.4662_2503122283|<=|3.0.0.4662_2503122283|CVE-2025-55630|7.3|0|0.3|A discrepancy in the error message returned by the login function of Reolink Smart 2K+ Plug-in Wi-Fi Video Doo
+M|Reolink|smart 2k\+ plug-in wi-fi video doorbell with chime|>=|3.0.0.4662_2503122283|<=|3.0.0.4662_2503122283|CVE-2025-55634|7.5|0|0.5|Incorrect access control in the RTMP server settings of Reolink Smart 2K+ Plug-in Wi-Fi Video Doorbell with Ch
+M|Reolink|smart 2k\+ plug-in wi-fi video doorbell with chime|>=|3.0.0.4662_2503122283|<=|3.0.0.4662_2503122283|CVE-2025-55637|9.8|0|1.7|Reolink Smart 2K+ Plug-in Wi-Fi Video Doorbell with Chime - firmware v3.0.0.4662_2503122283 was discovered to 

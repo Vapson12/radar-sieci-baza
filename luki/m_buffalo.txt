@@ -1,0 +1,388 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Buffalo|bhr-4grv|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|bhr-4grv|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|bhr-4rv|||<=|2.55|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|bs-gs2008p|||<=|1.0.10.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2008p|||<=|1.0.10.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2008|||<=|1.0.10.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2008|||<=|1.0.10.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2016hp|||<|1.1.7.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2016hp|||<|1.1.7.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2016p|||<=|1.0.10.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2016p|||<=|1.0.10.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2016p|||<|1.1.7.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2016p|||<|1.1.7.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2016|||<=|1.0.10.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2016|||<=|1.0.10.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2024hp|||<|1.1.7.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2024hp|||<|1.1.7.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2024p|||<=|1.0.10.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2024p|||<=|1.0.10.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2024p|||<|1.1.7.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2024p|||<|1.1.7.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2024|||<=|1.0.10.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2024|||<=|1.0.10.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gs2048|||<=|1.0.10.01|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gs2048|||<=|1.0.10.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gsl2005p|||<|1.11-0.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gsl2005|||<|1.12-0.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gsl2008p|||<|1.11-0.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gsl2008|||<|1.12-0.01|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gsl2016p|||<=|1.10-0.03|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gsl2016p|||<=|1.10-0.03|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gsl2016|||<=|1.10-0.03|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gsl2016|||<=|1.10-0.03|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|bs-gsl2024|||<=|1.10-0.03|CVE-2023-24544|8.1|0|0.3|Improper access control vulnerability in Buffalo network devices allows a network-adjacent attacker to obtain 
+M|Buffalo|bs-gsl2024|||<=|1.10-0.03|CVE-2023-26588|7.5|0|0.6|Use of hard-coded credentials vulnerability in Buffalo network devices allows an attacker to access the debug 
+M|Buffalo|dwr-hp-g300nh|||<=|1.84|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|dwr-hp-g300nh|||<|1.84|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|fs-600dhp|||<=|3.40|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|fs-600dhp|||<|3.40|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|fs-g300n|||<=|3.14|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|fs-g300n|||<|3.14|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|fs-g54|||<=|2.04|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|fs-hp-g300n|||<=|3.33|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|fs-hp-g300n|||<|3.33|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|fs-m1266|||<|4.13|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|fs-m1266|||<|4.13|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|fs-m1266|||<|4.13|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|fs-m1266|||<|4.13|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|fs-r600dhp|||<=|3.40|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|fs-r600dhp|||<|3.40|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|fs-s1266|||<|4.13|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|fs-s1266|||<|4.13|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|fs-s1266|||<|4.13|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|fs-s1266|||<|4.13|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|hw-450hp-zwe|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|hw-450hp-zwe|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|ls210d|>=|1.78-0.03|<=|1.78-0.03|CVE-2023-49038|7.2|0|1.8|Command injection in the ping utility on Buffalo LS210D 1.78-0.03 allows a remote authenticated attacker to in
+M|Buffalo|ls210d|>=|1.78-0.03|<=|1.78-0.03|CVE-2023-51073|8.1|0|1.3|An issue in Buffalo LS210D v.1.78-0.03 allows a remote attacker to execute arbitrary code via the Firmware Upd
+M|Buffalo|terastation nas 5410r|>=|5.00-0.07|<=|5.00-0.07|CVE-2023-39620|7.5|0|0.9|An Issue in Buffalo America, Inc. TeraStation NAS TS5410R v.5.00 thru v.0.07 allows a remote attacker to obtai
+M|Buffalo|ts5600d1206|>=|3.61-0.10|<=|3.61-0.10|CVE-2018-13318|7.2|0|2.8|System command injection in User.create method in Buffalo TS5600D1206 version 3.61-0.10 allows attackers to ex
+M|Buffalo|ts5600d1206|>=|3.61-0.10|<=|3.61-0.10|CVE-2018-13319|7.5|0|1.2|Incorrect access control in get_portal_info in Buffalo TS5600D1206 version 3.61-0.10 allows attackers to deter
+M|Buffalo|ts5600d1206|>=|3.61-0.10|<=|3.61-0.10|CVE-2018-13320|7.2|0|2.8|System Command Injection in network.set_auth_settings in Buffalo TS5600D1206 version 3.70-0.10 allows attacker
+M|Buffalo|ts5600d1206|>=|3.61-0.10|<=|3.61-0.10|CVE-2018-13321|8.8|0|1.0|Incorrect access controls in nasapi in Buffalo TS5600D1206 version 3.61-0.10 allow attackers to call dangerous
+M|Buffalo|ts5600d1206|>=|3.61-0.10|<=|3.61-0.10|CVE-2018-13324|9.8|0|23.2|Incorrect access control in nasapi in Buffalo TS5600D1206 version 3.61-0.10 allows attackers to bypass authent
+M|Buffalo|vr-s1000|||<=|2.37|CVE-2023-46681|7.8|0|0.2|Improper neutralization of argument delimiters in a command ('Argument Injection') vulnerability in VR-S1000 f
+M|Buffalo|vr-u300w|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|vr-u300w|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|vr-u300w|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|vr-u300w|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|vr-u500x|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|vr-u500x|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|vr-u500x|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|vr-u500x|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wapm-1166d|||<=|1.2.7|CVE-2017-2126|9.8|0|4.0|WAPM-1166D firmware Ver.1.2.7 and earlier, WAPM-APG600H firmware Ver.1.16.1 and earlier allows remote attacker
+M|Buffalo|wapm-1266r|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wapm-1266r|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wapm-1266r|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wapm-1266r|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wapm-1266wdpra|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wapm-1266wdpra|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wapm-1266wdpra|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wapm-1266wdpra|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wapm-1266wdpr|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wapm-1266wdpr|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wapm-1266wdpr|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wapm-1266wdpr|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wapm-1750d|||<|1.07|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wapm-1750d|||<|1.07|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wapm-1750d|||<|1.07|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wapm-1750d|||<|1.07|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wapm-2133r|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wapm-2133r|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wapm-2133r|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wapm-2133r|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wapm-2133tr|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wapm-2133tr|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wapm-2133tr|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wapm-2133tr|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wapm-apg600h|||<=|1.16.1|CVE-2017-2126|9.8|0|4.0|WAPM-1166D firmware Ver.1.2.7 and earlier, WAPM-APG600H firmware Ver.1.16.1 and earlier allows remote attacker
+M|Buffalo|wapm-ax4r|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wapm-ax4r|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wapm-ax4r|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wapm-ax4r|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wapm-ax8r|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wapm-ax8r|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wapm-ax8r|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wapm-ax8r|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|waps-1266|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|waps-1266|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|waps-1266|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|waps-1266|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|waps-ax4|||<|1.42|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|waps-ax4|||<|1.42|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|waps-ax4|||<|1.42|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|waps-ax4|||<|1.42|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wbr-b11|||<=|2.23|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wbr-g54l|||<=|2.20|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wbr-g54|||<=|2.23|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wbr2-b11|||<=|2.32|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wbr2-g54-kd|||<=|2.32|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wbr2-g54|||<=|2.32|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wcr-1166dhpl|||<|1.01|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wcr-1166dhpl|||<|1.01|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wcr-1166dhpl|||<|1.01|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wcr-1166dhpl|||<|1.01|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wcr-1166ds|||<=|1.34|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wcr-300|||<=|1.87|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wem-1266wp|||<=|2.85|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wem-1266wp|||<|2.87|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wem-1266wp|||<|2.87|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wem-1266wp|||<|2.87|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wem-1266wp|||<|2.87|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wem-1266|||<=|2.85|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wem-1266|||<|2.87|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wem-1266|||<|2.87|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wem-1266|||<|2.87|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wem-1266|||<|2.87|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wer-a54g54|||<=|1.43|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wer-ag54|||<=|1.43|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wer-am54g54|||<=|1.43|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wer-amg54|||<=|1.43|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-300hp|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-300hp|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|whr-300|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-300|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|whr-am54g54|||<=|1.43|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-amg54|||<=|1.43|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-g300n|||<=|1.65|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-g301n|||<=|1.87|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-g301n|||<|1.87|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|whr-g54-nf|||<=|2.10|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|whr-g54s-ni|||<=|1.24|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-g54s|||<=|1.43|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-g54|||<=|2.16|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|whr-hp-g300n|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr-hp-g300n|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|whr-hp-g54|||<=|1.43|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|whr2-a54g54|||<=|2.25|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|whr2-g54v|||<=|2.55|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|whr2-g54|||<=|2.23|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|whr3-ag54|||<=|2.23|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wla-b11|||<=|2.20|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wla-g54c|||<=|2.20|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wla-g54|||<=|2.20|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wla2-g54c|||<=|2.24|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wla2-g54|||<=|2.24|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wlae-ag300n|||<=|1.86|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wlah-a54g54|||<=|2.54|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wlah-am54g54|||<=|2.54|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wlah-g54|||<=|2.54|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wli-h4-d600|||<=|1.88|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wli-t1-b11|||<=|2.20|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wli-tx1-g54|||<=|2.20|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wli2-tx1-ag54|||<=|2.53|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wli2-tx1-amg54|||<=|2.53|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wli2-tx1-g54|||<=|2.20|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wli3-tx1-amg54|||<=|2.53|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wli3-tx1-g54|||<=|2.53|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wmr-433w|||<=|1.40|CVE-2017-2273|8.8|0|0.8|Cross-site request forgery (CSRF) vulnerability in WMR-433 firmware Ver.1.02 and earlier, WMR-433W firmware Ve
+M|Buffalo|wmr-433|||<=|1.02|CVE-2017-2273|8.8|0|0.8|Cross-site request forgery (CSRF) vulnerability in WMR-433 firmware Ver.1.02 and earlier, WMR-433W firmware Ve
+M|Buffalo|wpl-05g300|||<=|1.88|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wpl-05g300|||<|1.88|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wrm-d2133hp|||<=|2.85|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wrm-d2133hp|||<|3.01|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wrm-d2133hp|||<|3.01|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wrm-d2133hp|||<|3.01|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wrm-d2133hp|||<|3.01|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wrm-d2133hs|||<=|2.96|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wrm-d2133hs|||<|3.01|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wrm-d2133hs|||<|3.01|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wrm-d2133hs|||<|3.01|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wrm-d2133hs|||<|3.01|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|ws024bf-nw|||<=|1.60|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|ws024bf|||<=|1.60|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wsr-1166dhp3|||<=|1.16|CVE-2021-20731|8.8|0|0.6|WSR-1166DHP3 firmware Ver.1.16 and prior and WSR-1166DHP4 firmware Ver.1.02 and prior allow an attacker to exe
+M|Buffalo|wsr-1166dhp4|||<=|1.02|CVE-2021-20731|8.8|0|0.6|WSR-1166DHP3 firmware Ver.1.16 and prior and WSR-1166DHP4 firmware Ver.1.02 and prior allow an attacker to exe
+M|Buffalo|wsr-2533dhp2|||<=|1.22|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-2533dhp2|||<|1.11|CVE-2024-23486|9.8|0|0.6|Plaintext storage of a password issue exists in BUFFALO wireless LAN routers, which may allow a network-adjace
+M|Buffalo|wsr-2533dhp3-bk|||<=|1.24|CVE-2021-20090|9.8|1|100.0|A path traversal vulnerability in the web interfaces of Buffalo WSR-2533DHPL2 firmware version <= 1.02 and WSR
+M|Buffalo|wsr-2533dhp3-bk|||<=|1.24|CVE-2021-20091|8.8|0|8.5|The web interfaces of Buffalo WSR-2533DHPL2 firmware version <= 1.02 and WSR-2533DHP3 firmware version <= 1.24
+M|Buffalo|wsr-2533dhp3-bk|||<=|1.24|CVE-2021-20092|7.5|0|8.2|The web interfaces of Buffalo WSR-2533DHPL2 firmware version <= 1.02 and WSR-2533DHP3 firmware version <= 1.24
+M|Buffalo|wsr-2533dhp3|||<=|1.26|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-2533dhpl2-bk|||<=|1.02|CVE-2021-20090|9.8|1|100.0|A path traversal vulnerability in the web interfaces of Buffalo WSR-2533DHPL2 firmware version <= 1.02 and WSR
+M|Buffalo|wsr-2533dhpl2-bk|||<=|1.02|CVE-2021-20091|8.8|0|8.5|The web interfaces of Buffalo WSR-2533DHPL2 firmware version <= 1.02 and WSR-2533DHP3 firmware version <= 1.24
+M|Buffalo|wsr-2533dhpl2-bk|||<=|1.02|CVE-2021-20092|7.5|0|8.2|The web interfaces of Buffalo WSR-2533DHPL2 firmware version <= 1.02 and WSR-2533DHP3 firmware version <= 1.24
+M|Buffalo|wsr-2533dhpl2|||<=|1.03|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-2533dhpls|||<=|1.07|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-2533dhpl|||<=|1.08|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-2533dhpl|||<|1.07|CVE-2024-23486|9.8|0|0.6|Plaintext storage of a password issue exists in BUFFALO wireless LAN routers, which may allow a network-adjace
+M|Buffalo|wsr-2533dhp|||<=|1.08|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-2533dhp|||<|1.07|CVE-2024-23486|9.8|0|0.6|Plaintext storage of a password issue exists in BUFFALO wireless LAN routers, which may allow a network-adjace
+M|Buffalo|wsr-3200ax4b|>=|1.25|<=|1.25|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-3200ax4s|||<=|1.26|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-a2533dhp2|||<=|1.22|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr-a2533dhp2|||<|1.11|CVE-2024-23486|9.8|0|0.6|Plaintext storage of a password issue exists in BUFFALO wireless LAN routers, which may allow a network-adjace
+M|Buffalo|wsr-a2533dhp3|||<=|1.26|CVE-2022-43443|8.8|0|0.8|OS command injection vulnerability in Buffalo network devices allows an network-adjacent attacker to execute a
+M|Buffalo|wsr3600be4-kh|||<|6.02|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wsr3600be4-kh|||<|6.02|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wsr3600be4-kh|||<|6.02|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wsr3600be4-kh|||<|6.02|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wsr3600be4p|||<|5.02|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wsr3600be4p|||<|5.02|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wsr3600be4p|||<|5.02|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wsr3600be4p|||<|5.02|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wtr-m2133hp|||<=|2.85|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wtr-m2133hp|||<|3.01|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wtr-m2133hp|||<|3.01|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wtr-m2133hp|||<|3.01|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wtr-m2133hp|||<|3.01|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wtr-m2133hs|||<=|2.96|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wtr-m2133hs|||<|3.01|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wtr-m2133hs|||<|3.01|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wtr-m2133hs|||<|3.01|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wtr-m2133hs|||<|3.01|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wvr-g54-nf|||<=|2.02|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wxr-1750dhp2|||<=|2.60|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wxr-1750dhp2|||<|2.63|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-1750dhp2|||<|2.63|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-1750dhp2|||<|2.63|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-1750dhp2|||<|2.63|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr-1750dhp|||<=|2.60|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wxr-1750dhp|||<|2.63|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-1750dhp|||<|2.63|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-1750dhp|||<|2.63|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-1750dhp|||<|2.63|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr-1900dhp2|||<=|2.48|CVE-2018-0521|8.8|0|0.8|Buffalo WXR-1900DHP2 firmware Ver.2.48 and earlier allows an attacker to bypass authentication and execute arb
+M|Buffalo|wxr-1900dhp2|||<=|2.48|CVE-2018-0522|7.8|0|1.3|Buffer overflow in Buffalo WXR-1900DHP2 firmware Ver.2.48 and earlier allows an attacker to execute arbitrary 
+M|Buffalo|wxr-1900dhp2|||<=|2.48|CVE-2018-0523|8.8|0|0.7|Buffalo WXR-1900DHP2 firmware Ver.2.48 and earlier allows an attacker to execute arbitrary OS commands via uns
+M|Buffalo|wxr-1900dhp2|||<=|2.59|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wxr-1900dhp2|||<|2.62|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-1900dhp2|||<|2.62|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-1900dhp2|||<|2.62|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-1900dhp2|||<|2.62|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr-1900dhp3|||<=|2.63|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wxr-1900dhp3|||<|2.66|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-1900dhp3|||<|2.66|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-1900dhp3|||<|2.66|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-1900dhp3|||<|2.66|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr-1900dhp|||<=|2.50|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wxr-1900dhp|||<|2.53|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-1900dhp|||<|2.53|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-1900dhp|||<|2.53|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-1900dhp|||<|2.53|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr-5950ax12|||<=|3.40|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wxr-5950ax12|||<|3.57|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-5950ax12|||<|3.57|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-5950ax12|||<|3.57|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-5950ax12|||<|3.57|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr-6000ax12b|||<=|3.40|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wxr-6000ax12b|||<|3.57|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-6000ax12b|||<|3.57|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-6000ax12b|||<|3.57|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-6000ax12b|||<|3.57|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr-6000ax12p|||<|3.57|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-6000ax12p|||<|3.57|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-6000ax12p|||<|3.57|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-6000ax12p|||<|3.57|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr-6000ax12s|||<=|3.40|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wxr-6000ax12s|||<|3.57|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr-6000ax12s|||<|3.57|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr-6000ax12s|||<|3.57|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr-6000ax12s|||<|3.57|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wxr18000be10p|||<|5.03|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wxr18000be10p|||<|5.03|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wxr18000be10p|||<|5.03|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wxr18000be10p|||<|5.03|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-1166dhp2|||<=|2.18|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-1166dhp2|||<|2.20|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-1166dhp2|||<|2.20|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-1166dhp2|||<|2.20|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-1166dhp2|||<|2.20|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-1166dhp|||<=|2.18|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-1166dhp|||<|2.20|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-1166dhp|||<|2.20|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-1166dhp|||<|2.20|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-1166dhp|||<|2.20|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-1750dhp2|||<=|2.30|CVE-2018-0554|8.8|0|0.8|Buffalo WZR-1750DHP2 Ver.2.30 and earlier allows an attacker to bypass authentication and execute arbitrary co
+M|Buffalo|wzr-1750dhp2|||<=|2.30|CVE-2018-0555|7.8|0|1.5|Buffer overflow in Buffalo WZR-1750DHP2 Ver.2.30 and earlier allows an attacker to execute arbitrary code via 
+M|Buffalo|wzr-1750dhp2|||<=|2.30|CVE-2018-0556|8.8|0|0.7|Buffalo WZR-1750DHP2 Ver.2.30 and earlier allows an attacker to execute arbitrary OS commands via unspecified 
+M|Buffalo|wzr-1750dhp2|||<=|2.31|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-1750dhp2|||<|2.33|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-1750dhp2|||<|2.33|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-1750dhp2|||<|2.33|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-1750dhp2|||<|2.33|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-1750dhp|||<=|2.30|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-1750dhp|||<|2.32|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-1750dhp|||<|2.32|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-1750dhp|||<|2.32|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-1750dhp|||<|2.32|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-300hp|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-300hp|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-450hp-cwt|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-450hp-cwt|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-450hp-ub|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-450hp-ub|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-450hp|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-450hp|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-600dhp2|||<=|1.13|CVE-2016-4815|7.5|0|2.2|Directory traversal vulnerability on BUFFALO WZR-600DHP3 devices with firmware 2.16 and earlier and WZR-S600DH
+M|Buffalo|wzr-600dhp2|||<=|1.15|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-600dhp2|||||CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-600dhp2|||||CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-600dhp2|||||CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-600dhp2|||||CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-600dhp3|||<=|2.16|CVE-2016-4815|7.5|0|2.2|Directory traversal vulnerability on BUFFALO WZR-600DHP3 devices with firmware 2.16 and earlier and WZR-S600DH
+M|Buffalo|wzr-600dhp3|||<=|2.19|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-600dhp3|||||CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-600dhp3|||||CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-600dhp3|||||CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-600dhp3|||||CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-600dhp|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-600dhp|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-600dhp|||||CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-600dhp|||||CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-600dhp|||||CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-600dhp|||||CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-900dhp2|||<=|2.16|CVE-2016-4815|7.5|0|2.2|Directory traversal vulnerability on BUFFALO WZR-600DHP3 devices with firmware 2.16 and earlier and WZR-S600DH
+M|Buffalo|wzr-900dhp2|||<=|2.19|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-900dhp2|||||CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-900dhp2|||||CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-900dhp2|||||CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-900dhp2|||||CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-900dhp|||<=|1.11|CVE-2016-4815|7.5|0|2.2|Directory traversal vulnerability on BUFFALO WZR-600DHP3 devices with firmware 2.16 and earlier and WZR-S600DH
+M|Buffalo|wzr-900dhp|||<=|1.15|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-900dhp|||||CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-900dhp|||||CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-900dhp|||||CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-900dhp|||||CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-agl300nh|||<=|1.55|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-ampg144nh|||<=|1.49|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-ampg300nh|||<=|1.51|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-d1100h|||<=|2.00|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-d1100h|||<|2.00|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-g108|||<=|2.41|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wzr-g144nh|||<=|1.48|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-g144n|||<=|1.48|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-g54|||<=|2.41|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wzr-hp-ag300h|||<=|1.76|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-hp-ag300h|||<|1.76|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-hp-g300nh|||<=|1.84|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-hp-g300nh|||<|1.84|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-hp-g301nh|||<=|1.84|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-hp-g301nh|||<|1.84|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-hp-g302h|||<=|1.86|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-hp-g302h|||<|1.86|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-hp-g450h|||<=|1.90|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-hp-g450h|||<|1.90|CVE-2021-3512|8.8|0|0.9|Improper access control vulnerability in Buffalo broadband routers (BHR-4GRV firmware Ver.1.99 and prior, DWR-
+M|Buffalo|wzr-hp-g54|||<=|2.41|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wzr-rs-g54hp|||<=|2.55|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wzr-rs-g54|||<=|2.55|CVE-2021-20716|9.8|0|3.2|Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware
+M|Buffalo|wzr-s1750dhp|||<=|2.32|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-s1750dhp|||<|2.34|CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-s1750dhp|||<|2.34|CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-s1750dhp|||<|2.34|CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-s1750dhp|||<|2.34|CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-s600dhp|||<=|2.16|CVE-2016-4815|7.5|0|2.2|Directory traversal vulnerability on BUFFALO WZR-600DHP3 devices with firmware 2.16 and earlier and WZR-S600DH
+M|Buffalo|wzr-s600dhp|||<=|2.19|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-s600dhp|||||CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-s600dhp|||||CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-s600dhp|||||CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-s600dhp|||||CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr-s900dhp|||<=|2.16|CVE-2016-4815|7.5|0|2.2|Directory traversal vulnerability on BUFFALO WZR-600DHP3 devices with firmware 2.16 and earlier and WZR-S600DH
+M|Buffalo|wzr-s900dhp|||<=|2.19|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 
+M|Buffalo|wzr-s900dhp|||||CVE-2026-27650|8.6|0|0.9|OS Command Injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited
+M|Buffalo|wzr-s900dhp|||||CVE-2026-32669|8.7|0|0.3|Code injection vulnerability exists in BUFFALO Wi-Fi router products. If this vulnerability is exploited, an a
+M|Buffalo|wzr-s900dhp|||||CVE-2026-32678|8.7|0|0.4|Authentication bypass issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to alter crit
+M|Buffalo|wzr-s900dhp|||||CVE-2026-33280|8.6|0|0.4|Hidden functionality issue exists in BUFFALO Wi-Fi router products, which may allow an attacker to gain access
+M|Buffalo|wzr2-g300n|||<=|1.55|CVE-2022-40966|8.8|0|0.4|Authentication bypass vulnerability in multiple Buffalo network devices allows a network-adjacent attacker to 

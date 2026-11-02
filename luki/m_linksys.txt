@@ -1,0 +1,356 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Linksys|e1200|>=|1.0.04|<=|1.0.04|CVE-2022-38555|9.8|0|10.4|Linksys E1200 v1.0.04 is vulnerable to Buffer Overflow via ej_get_web_page_name.
+M|Linksys|e1200|>=|2.0.09|<=|2.0.09|CVE-2018-3953|7.2|0|13.5|Devices in the Linksys ESeries line of routers (Linksys E1200 Firmware Version 2.0.09 and Linksys E2500 Firmwa
+M|Linksys|e1200|>=|2.0.09|<=|2.0.09|CVE-2018-3954|7.2|0|3.4|Devices in the Linksys ESeries line of routers (Linksys E1200 Firmware Version 2.0.09 and Linksys E2500 Firmwa
+M|Linksys|e1200|>=|2.0.09|<=|2.0.09|CVE-2018-3955|7.2|0|4.8|An exploitable operating system command injection exists in the Linksys ESeries line of routers (Linksys E1200
+M|Linksys|e1200|>=|2.0.11.001|<=|2.0.11.001|CVE-2025-60689|5.4|0|18.3|An unauthenticated command injection vulnerability exists in the Start_EPI function of the httpd binary on Lin
+M|Linksys|e1200|>=|2.0.11.001|<=|2.0.11.001|CVE-2025-60690|8.8|0|4.2|A stack-based buffer overflow exists in the get_merge_ipaddr function of the httpd binary on Linksys E1200 v2 
+M|Linksys|e1200|>=|2.0.11.001|<=|2.0.11.001|CVE-2025-60691|8.8|0|0.8|A stack-based buffer overflow exists in the httpd binary of Linksys E1200 v2 routers (Firmware E1200_v2.0.11.0
+M|Linksys|e1200|>=|2.0.11.001|<=|2.0.11.001|CVE-2025-60692|8.4|0|0.2|A stack-based buffer overflow vulnerability exists in the libshared.so library of Cisco Linksys E1200 v2 route
+M|Linksys|e1200|>=|2.0.11.001|<=|2.0.11.001|CVE-2025-60694|7.5|0|1.2|A stack-based buffer overflow exists in the validate_static_route function of the httpd binary on Linksys E120
+M|Linksys|e1500|>=|1.0.06.001|<=|1.0.06.001|CVE-2024-42633|8.8|0|2.1|A Command Injection vulnerability exists in the do_upgrade_post function of the httpd binary in Linksys E1500 
+M|Linksys|e1700|>=|1.0.0.4.003|<=|1.0.0.4.003|CVE-2025-9525|7.4|0|1.5|A flaw has been found in Linksys E1700 1.0.0.4.003. Affected by this vulnerability is the function setWan of t
+M|Linksys|e1700|>=|1.0.0.4.003|<=|1.0.0.4.003|CVE-2025-9526|7.4|0|1.5|A vulnerability has been found in Linksys E1700 1.0.0.4.003. Affected by this issue is the function setSysAdm 
+M|Linksys|e1700|>=|1.0.0.4.003|<=|1.0.0.4.003|CVE-2025-9527|7.4|0|1.5|A vulnerability was found in Linksys E1700 1.0.0.4.003. This affects the function QoSSetup of the file /goform
+M|Linksys|e1700|>=|1.0.0.4.003|<=|1.0.0.4.003|CVE-2025-9528|2.0|0|54.5|A vulnerability was determined in Linksys E1700 1.0.0.4.003. This vulnerability affects the function systemCom
+M|Linksys|e1700|>=|1.0.04|<=|1.0.04|CVE-2024-22544|8.0|0|9.3|An issue was discovered in Linksys Router E1700 version 1.0.04 (build 3), allows authenticated attackers to ex
+M|Linksys|e2000|>=|1.0.06|<=|1.0.06|CVE-2023-31740|7.2|0|2.4|There is a command injection vulnerability in the Linksys E2000 router with firmware version 1.0.06. If an att
+M|Linksys|e2000|>=|1.0.06|<=|1.0.06|CVE-2023-31741|7.2|0|2.4|There is a command injection vulnerability in the Linksys E2000 router with firmware version 1.0.06. If an att
+M|Linksys|e2000|>=|1.0.06|<=|1.0.06|CVE-2024-27497|8.8|0|26.7|Linksys E2000 Ver.1.0.06 build 1 is vulnerable to authentication bypass via the position.js file.
+M|Linksys|e2500|>=|2.0.00|<=|2.0.00|CVE-2024-40495|8.0|0|0.8|A vulnerability was discovered in Linksys Router E2500 with firmware 2.0.00, allows authenticated attackers to
+M|Linksys|e2500|>=|3.0.04.002|<=|3.0.04.002|CVE-2025-44654|9.8|0|1.2|In Linksys E2500 3.0.04.002, the chroot_local_user option is enabled in the vsftpd configuration file. This co
+M|Linksys|e2500|>=|3.0.04|<=|3.0.04|CVE-2018-3953|7.2|0|13.5|Devices in the Linksys ESeries line of routers (Linksys E1200 Firmware Version 2.0.09 and Linksys E2500 Firmwa
+M|Linksys|e2500|>=|3.0.04|<=|3.0.04|CVE-2018-3954|7.2|0|3.4|Devices in the Linksys ESeries line of routers (Linksys E1200 Firmware Version 2.0.09 and Linksys E2500 Firmwa
+M|Linksys|e2500|>=|3.0.04|<=|3.0.04|CVE-2018-3955|7.2|0|4.8|An exploitable operating system command injection exists in the Linksys ESeries line of routers (Linksys E1200
+M|Linksys|e3000|>=|1.0.06.002|<=|1.0.06.002|CVE-2024-48286|8.0|0|14.1|Linksys E3000 1.0.06.002_US is vulnerable to command injection via the diag_ping_start function.
+M|Linksys|e4200v2|||<=|2.0.14212.1|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|e5350|||<=|1.0.00.037|CVE-2022-35572|7.5|0|0.9|On Linksys E5350 WiFi Router with firmware version 1.0.00.037 and lower, (and potentially other vendors/device
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2024-33788|8.0|0|1.9|Linksys E5600 v1.1.0.26 was discovered to contain a command injection vulnerability via the PinCode parameter 
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2024-33789|9.8|0|2.4|Linksys E5600 v1.1.0.26 was discovered to contain a command injection vulnerability via the ipurl parameter at
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-29228|9.8|0|1.3|Linksys E5600 V1.1.0.26 is vulnerable to command injection in the runtime.macClone function via the mc.ip para
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-29229|9.8|0|1.3|linksys E5600 V1.1.0.26 is vulnerable to command injection in the function ddnsStatus.
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-29230|8.6|0|0.8|Linksys E5600 v1.1.0.26 was discovered to contain a command injection vulnerability in the runtime.emailReg fu
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-45487|9.8|0|11.6|Linksys E5600 v1.1.0.26 was discovered to contain a command injection vulnerability in the runtime.InternetCon
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-45488|9.8|0|11.7|Linksys E5600 v1.1.0.26 was discovered to contain a command injection vulnerability in the runtime.ddnsStatus 
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-45489|9.8|0|1.8|Linksys E5600 v1.1.0.26 was discovered to contain a command injection vulnerability in the runtime.ddnsStatus 
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-45490|9.8|0|1.8|Linksys E5600 v1.1.0.26 was discovered to contain a command injection vulnerability in the runtime.ddnsStatus 
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-45491|9.8|0|1.9|Linksys E5600 v1.1.0.26 was discovered to contain a command injection vulnerability in the runtime.ddnsStatus 
+M|Linksys|e5600|>=|1.1.0.26|<=|1.1.0.26|CVE-2025-9146|7.5|0|0.6|A flaw has been found in Linksys E5600 1.1.0.26. The affected element is the function verify_gemtek_header of 
+M|Linksys|e5600|||||CVE-2023-30305|7.5|0|0.4|An issue discovered in Linksys E5600 routers allows attackers to hijack TCP sessions which could lead to a den
+M|Linksys|e7350|>=|1.1.00.032|<=|1.1.00.032|CVE-2024-57223|9.8|0|1.7|Linksys E7350 1.1.00.032 was discovered to contain a command injection vulnerability via the ifname parameter 
+M|Linksys|e7350|>=|1.1.00.032|<=|1.1.00.032|CVE-2024-57224|9.8|0|1.7|Linksys E7350 1.1.00.032 was discovered to contain a command injection vulnerability via the ifname parameter 
+M|Linksys|e7350|>=|1.1.00.032|<=|1.1.00.032|CVE-2024-57225|9.8|0|1.7|Linksys E7350 1.1.00.032 was discovered to contain a command injection vulnerability via the devname parameter
+M|Linksys|e7350|>=|1.1.00.032|<=|1.1.00.032|CVE-2024-57226|8.0|0|1.2|Linksys E7350 1.1.00.032 was discovered to contain a command injection vulnerability via the iface parameter i
+M|Linksys|e7350|>=|1.1.00.032|<=|1.1.00.032|CVE-2024-57227|8.0|0|1.2|Linksys E7350 1.1.00.032 was discovered to contain a command injection vulnerability via the ifname parameter 
+M|Linksys|e7350|>=|1.1.00.032|<=|1.1.00.032|CVE-2024-57228|8.0|0|1.2|Linksys E7350 1.1.00.032 was discovered to contain a command injection vulnerability via the iface parameter i
+M|Linksys|e8450|>=|1.1.00|<=|1.1.00|CVE-2022-38841|8.8|0|10.7|Linksys AX3200 1.1.00 is vulnerable to OS command injection by authenticated users via shell metacharacters to
+M|Linksys|e8450|>=|1.2.00.360516|<=|1.2.00.360516|CVE-2024-57536|8.0|0|1.5|Linksys E8450 v1.2.00.360516 was discovered to contain a command injection vulnerability via wizard_status.
+M|Linksys|e8450|>=|1.2.00.360516|<=|1.2.00.360516|CVE-2024-57539|8.2|0|1.4|Linksys E8450 v1.2.00.360516 was discovered to contain a command injection vulnerability via userEmail.
+M|Linksys|e8450|>=|1.2.00.360516|<=|1.2.00.360516|CVE-2024-57542|8.8|0|1.8|Linksys E8450 v1.2.00.360516 was discovered to contain a command injection vulnerability via the field id_emai
+M|Linksys|e9450-sg|>=|1.2.00.052|<=|1.2.00.052|CVE-2025-52692|8.8|0|6.4|Successful exploitation of the vulnerability could allow an attacker with local network access to send a speci
+M|Linksys|ea2700|||<=|2.0.14294|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea3500|||<=|2.0.14294|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea4500|||<=|2.0.14212.1|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea4500|||<=|2.0.36|CVE-2017-10677|8.8|0|0.5|Cross-Site Request Forgery (CSRF) exists on Linksys EA4500 devices with Firmware Version before 2.1.41.164606,
+M|Linksys|ea6200|||<=|1.1.41|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea6300|||<=|1.1.40|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea6400|||<=|1.1.40|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea6500|>=|1.1.28.147876|<=|1.1.28.147876|CVE-2013-3066|7.1|0|2.1|Linksys EA6500 with firmware 1.1.28.147876 does not properly restrict access, which allows remote attackers to
+M|Linksys|ea6500|||<=|1.1.40|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea6500|||||CVE-2013-4658|9.8|0|9.3|Linksys EA6500 has SMB Symlink Traversal allowing symbolic links to be created to locations outside of the Sam
+M|Linksys|ea6700|||<=|1.1.40|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea6900|||<=|1.1.42|CVE-2014-8244|7.5|0|4.0|Linksys SMART WiFi firmware on EA2700 and EA3500 devices; before 2.1.41 build 162351 on E4200v2 and EA4500 dev
+M|Linksys|ea7500|>=|3.0.1.207964|<=|3.0.1.207964|CVE-2023-46012|9.8|0|1.6|Buffer Overflow vulnerability LINKSYS EA7500 3.0.1.207964 allows a remote attacker to execute arbitrary code v
+M|Linksys|mr8300|>=|1.0|<=|1.0|CVE-2022-38132|8.2|0|0.6|Command injection vulnerability in Linksys MR8300 router while Registration to DDNS Service. By specifying use
+M|Linksys|mr9600|>=|2.0.6.206937|<=|2.0.6.206937|CVE-2026-4558|7.4|0|5.0|A flaw has been found in Linksys MR9600 2.0.6.206937. Affected is the function smartConnectConfigure of the fi
+M|Linksys|mr9600|>=|2.0.6.206937|<=|2.0.6.206937|CVE-2026-6992|7.3|0|8.1|A vulnerability was identified in Linksys MR9600 2.0.6.206937. This affects the function BTRequestGetSmartConn
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-14133|7.4|0|0.9|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-14134|7.4|0|0.9|A vulnerability was determined in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-14135|7.4|0|0.9|A vulnerability was identified in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-14136|7.4|0|1.1|A security flaw has been discovered in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5438|5.3|0|24.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5441|5.3|0|13.7|A vulnerability classified as critical was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5442|5.3|0|13.7|A vulnerability, which was classified as critical, has been found in Linksys RE6500, RE6250, RE6300, RE6350, R
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5443|5.3|0|13.6|A vulnerability, which was classified as critical, was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5444|5.3|0|13.6|A vulnerability has been found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5445|5.3|0|13.6|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5446|5.3|0|13.7|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5447|5.3|0|30.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8816|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8817|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8819|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8820|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8822|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8824|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8826|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8831|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8832|7.4|0|1.2|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8833|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9245|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9246|7.4|0|1.0|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9247|7.4|0|1.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9248|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9249|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9250|7.4|0|1.0|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9251|7.4|0|1.0|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9252|7.4|0|1.0|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9253|7.4|0|1.0|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9355|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9356|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9357|7.4|0|1.1|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9358|7.4|0|1.1|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9359|7.4|0|1.1|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9360|7.4|0|1.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9361|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9363|7.4|0|5.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9392|7.4|0|5.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9393|7.4|0|1.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9481|7.4|0|1.5|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9482|7.4|0|10.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6250|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9483|7.4|0|1.1|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-14133|7.4|0|0.9|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-14134|7.4|0|0.9|A vulnerability was determined in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-14135|7.4|0|0.9|A vulnerability was identified in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-14136|7.4|0|1.1|A security flaw has been discovered in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-5438|5.3|0|24.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-5441|5.3|0|13.7|A vulnerability classified as critical was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-5442|5.3|0|13.7|A vulnerability, which was classified as critical, has been found in Linksys RE6500, RE6250, RE6300, RE6350, R
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-5443|5.3|0|13.6|A vulnerability, which was classified as critical, was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-5444|5.3|0|13.6|A vulnerability has been found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-5445|5.3|0|13.6|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-5446|5.3|0|13.7|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-5447|5.3|0|30.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8816|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8817|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8819|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8820|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8822|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8824|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8826|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8831|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8832|7.4|0|1.2|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-8833|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9245|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9246|7.4|0|1.0|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9247|7.4|0|1.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9248|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9249|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9250|7.4|0|1.0|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9251|7.4|0|1.0|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9252|7.4|0|1.0|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9253|7.4|0|1.0|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9355|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9356|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9357|7.4|0|1.1|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9358|7.4|0|1.1|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9359|7.4|0|1.1|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9360|7.4|0|1.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9361|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9363|7.4|0|5.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9392|7.4|0|5.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9393|7.4|0|1.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9481|7.4|0|1.5|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9482|7.4|0|10.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6300|>=|1.2.07.001|<=|1.2.07.001|CVE-2025-9483|7.4|0|1.1|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re6300|||<=|1.2.04.022|CVE-2019-11535|9.8|0|5.1|Unsanitized user input in the web interface for Linksys WiFi extender products (RE6400 and RE6300 through 1.2.
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-14133|7.4|0|0.9|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-14134|7.4|0|0.9|A vulnerability was determined in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-14135|7.4|0|0.9|A vulnerability was identified in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-14136|7.4|0|1.1|A security flaw has been discovered in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5438|5.3|0|24.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5441|5.3|0|13.7|A vulnerability classified as critical was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5442|5.3|0|13.7|A vulnerability, which was classified as critical, has been found in Linksys RE6500, RE6250, RE6300, RE6350, R
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5443|5.3|0|13.6|A vulnerability, which was classified as critical, was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5444|5.3|0|13.6|A vulnerability has been found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5445|5.3|0|13.6|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5446|5.3|0|13.7|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-5447|5.3|0|30.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8816|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8817|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8819|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8820|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8822|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8824|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8826|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8831|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8832|7.4|0|1.2|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-8833|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9245|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9246|7.4|0|1.0|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9247|7.4|0|1.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9248|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9249|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9250|7.4|0|1.0|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9251|7.4|0|1.0|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9252|7.4|0|1.0|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9253|7.4|0|1.0|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9355|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9356|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9357|7.4|0|1.1|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9358|7.4|0|1.1|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9359|7.4|0|1.1|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9360|7.4|0|1.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9361|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9363|7.4|0|5.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9392|7.4|0|5.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9393|7.4|0|1.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9481|7.4|0|1.5|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9482|7.4|0|10.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6350|>=|1.0.04.001|<=|1.0.04.001|CVE-2025-9483|7.4|0|1.1|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re6400|||<=|1.2.04.022|CVE-2019-11535|9.8|0|5.1|Unsanitized user input in the web interface for Linksys WiFi extender products (RE6400 and RE6300 through 1.2.
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-14133|7.4|0|0.9|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-14134|7.4|0|0.9|A vulnerability was determined in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-14135|7.4|0|0.9|A vulnerability was identified in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-14136|7.4|0|1.1|A security flaw has been discovered in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-5438|5.3|0|24.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-5441|5.3|0|13.7|A vulnerability classified as critical was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-5442|5.3|0|13.7|A vulnerability, which was classified as critical, has been found in Linksys RE6500, RE6250, RE6300, RE6350, R
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-5443|5.3|0|13.6|A vulnerability, which was classified as critical, was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-5444|5.3|0|13.6|A vulnerability has been found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-5445|5.3|0|13.6|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-5446|5.3|0|13.7|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-5447|5.3|0|30.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8816|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8817|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8819|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8820|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8822|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8824|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8826|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8831|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8832|7.4|0|1.2|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-8833|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9245|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9246|7.4|0|1.0|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9247|7.4|0|1.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9248|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9249|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9250|7.4|0|1.0|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9251|7.4|0|1.0|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9252|7.4|0|1.0|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9253|7.4|0|1.0|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9355|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9356|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9357|7.4|0|1.1|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9358|7.4|0|1.1|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9359|7.4|0|1.1|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9360|7.4|0|1.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9361|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9363|7.4|0|5.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9392|7.4|0|5.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9481|7.4|0|1.5|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9482|7.4|0|10.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re6500|>=|1.0.013.001|<=|1.0.013.001|CVE-2025-9483|7.4|0|1.1|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re6500|||<|1.0.011.001|CVE-2020-35714|8.8|0|2.7|Belkin LINKSYS RE6500 devices before 1.0.11.001 allow remote authenticated users to execute arbitrary commands
+M|Linksys|re6500|||<|1.0.012.001|CVE-2020-35713|9.8|0|32.9|Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to execute arbitrary commands or set a
+M|Linksys|re6500|||<|1.0.012.001|CVE-2020-35715|8.8|0|3.7|Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote authenticated users to execute arbitrary command
+M|Linksys|re6500|||<|1.0.012.001|CVE-2020-35716|7.5|0|4.0|Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to cause a persistent denial of servic
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-14133|7.4|0|0.9|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-14134|7.4|0|0.9|A vulnerability was determined in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-14135|7.4|0|0.9|A vulnerability was identified in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-14136|7.4|0|1.1|A security flaw has been discovered in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-5438|5.3|0|24.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-5441|5.3|0|13.7|A vulnerability classified as critical was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-5442|5.3|0|13.7|A vulnerability, which was classified as critical, has been found in Linksys RE6500, RE6250, RE6300, RE6350, R
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-5443|5.3|0|13.6|A vulnerability, which was classified as critical, was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-5444|5.3|0|13.6|A vulnerability has been found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-5445|5.3|0|13.6|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-5446|5.3|0|13.7|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-5447|5.3|0|30.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8816|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8817|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8819|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8820|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8822|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8824|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8826|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8831|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8832|7.4|0|1.2|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-8833|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9245|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9246|7.4|0|1.0|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9247|7.4|0|1.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9248|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9249|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9250|7.4|0|1.0|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9251|7.4|0|1.0|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9252|7.4|0|1.0|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9253|7.4|0|1.0|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9355|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9356|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9357|7.4|0|1.1|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9358|7.4|0|1.1|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9359|7.4|0|1.1|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9360|7.4|0|1.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9361|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9363|7.4|0|5.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9392|7.4|0|5.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9393|7.4|0|1.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9481|7.4|0|1.5|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9482|7.4|0|10.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re7000|>=|1.1.05.003|<=|1.1.05.003|CVE-2025-9483|7.4|0|1.1|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re7000|>=|2.0.11|<=|2.0.11|CVE-2024-25852|8.8|0|16.5|Linksys RE7000 v2.0.9, v2.0.11, and v2.0.15 have a command execution vulnerability in the "AccessControlList" 
+M|Linksys|re7000|>=|2.0.15|<=|2.0.15|CVE-2024-25852|8.8|0|16.5|Linksys RE7000 v2.0.9, v2.0.11, and v2.0.15 have a command execution vulnerability in the "AccessControlList" 
+M|Linksys|re7000|>=|2.0.15|<=|2.0.15|CVE-2025-60696|8.4|0|0.2|A stack-based buffer overflow vulnerability exists in the makeRequest.cgi binary of Linksys RE7000 routers (Fi
+M|Linksys|re7000|>=|2.0.9|<=|2.0.9|CVE-2024-25852|8.8|0|16.5|Linksys RE7000 v2.0.9, v2.0.11, and v2.0.15 have a command execution vulnerability in the "AccessControlList" 
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-14133|7.4|0|0.9|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-14134|7.4|0|0.9|A vulnerability was determined in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-14135|7.4|0|0.9|A vulnerability was identified in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-14136|7.4|0|1.1|A security flaw has been discovered in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-5438|5.3|0|24.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-5441|5.3|0|13.7|A vulnerability classified as critical was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-5442|5.3|0|13.7|A vulnerability, which was classified as critical, has been found in Linksys RE6500, RE6250, RE6300, RE6350, R
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-5443|5.3|0|13.6|A vulnerability, which was classified as critical, was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-5444|5.3|0|13.6|A vulnerability has been found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-5445|5.3|0|13.6|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-5446|5.3|0|13.7|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-5447|5.3|0|30.5|A vulnerability was found in Linksys RE6500, RE6250, RE6300, RE6350, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8816|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8817|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8819|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8820|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8822|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8824|7.4|0|1.1|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Af
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8826|7.4|0|1.1|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8831|7.4|0|1.1|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. This af
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8832|7.4|0|1.2|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-8833|7.4|0|1.2|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 up to 20250801. Th
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9245|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9246|7.4|0|1.0|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9247|7.4|0|1.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9248|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9249|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9250|7.4|0|1.0|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9251|7.4|0|1.0|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9252|7.4|0|1.0|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9253|7.4|0|1.0|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9355|7.4|0|1.0|A vulnerability was found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9356|7.4|0|1.0|A vulnerability was determined in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9357|7.4|0|1.1|A vulnerability was identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9358|7.4|0|1.1|A security flaw has been discovered in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9359|7.4|0|1.1|A weakness has been identified in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9360|7.4|0|1.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9361|7.4|0|1.0|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9363|7.4|0|5.0|A vulnerability has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9392|7.4|0|5.3|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9393|7.4|0|1.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9481|7.4|0|1.5|A security vulnerability has been detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.01
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9482|7.4|0|10.1|A vulnerability was detected in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.0
+M|Linksys|re9000|>=|1.0.04.002|<=|1.0.04.002|CVE-2025-9483|7.4|0|1.1|A flaw has been found in Linksys RE6250, RE6300, RE6350, RE6500, RE7000 and RE9000 1.0.013.001/1.0.04.001/1.0.
+M|Linksys|spa2102|||||CVE-2009-5140|8.8|0|1.4|The SIP implementation on the Linksys SPA2102 phone adapter provides hashed credentials in a response to an in
+M|Linksys|velop whw0301|>=|1.1.8.192419|<=|1.1.8.192419|CVE-2019-16340|9.8|0|19.3|Belkin Linksys Velop 1.1.8.192419 devices allows remote attackers to discover the recovery key via a direct re
+M|Linksys|velop whw0302|>=|1.1.8.192419|<=|1.1.8.192419|CVE-2019-16340|9.8|0|19.3|Belkin Linksys Velop 1.1.8.192419 devices allows remote attackers to discover the recovery key via a direct re
+M|Linksys|velop whw0303|>=|1.1.8.192419|<=|1.1.8.192419|CVE-2019-16340|9.8|0|19.3|Belkin Linksys Velop 1.1.8.192419 devices allows remote attackers to discover the recovery key via a direct re
+M|Linksys|wag54g2|>=|1.00.10|<=|1.00.10|CVE-2009-5157|8.8|0|5.8|On Linksys WAG54G2 1.00.10 devices, there is authenticated command injection via shell metacharacters in the s
+M|Linksys|wap54g|||<=|3.04.03|CVE-2010-1573|9.8|0|20.8|Linksys WAP54Gv3 firmware 3.04.03 and earlier uses a hard-coded username (Gemtek) and password (gemtekswd) for
+M|Linksys|wap610n|>=|1.0.05.002|<=|1.0.05.002|CVE-2025-25522|7.3|0|0.2|Buffer overflow vulnerability in Linksys WAP610N v1.0.05.002 due to the lack of length verification, which is 
+M|Linksys|wrt1900acs|>=|1.0.3.187766|<=|1.0.3.187766|CVE-2019-7311|7.8|0|0.2|An issue was discovered on Linksys WRT1900ACS 1.0.3.187766 devices. A lack of encryption in how the user login
+M|Linksys|wrt1900acs|>=|1.0.3.187766|<=|1.0.3.187766|CVE-2019-7579|7.5|0|1.8|An issue was discovered on Linksys WRT1900ACS 1.0.3.187766 devices. An ability exists for an unauthenticated u
+M|Linksys|wrt54gl|>=|4.30.18.006|<=|4.30.18.006|CVE-2023-31742|7.2|0|9.1|There is a command injection vulnerability in the Linksys WRT54GL router with firmware version 4.30.18.006. If
+M|Linksys|wrt54gl|||<=|4.30.18.006|CVE-2022-43970|7.2|0|19.3|A buffer overflow vulnerability exists in Linksys WRT54GL Wireless-G Broadband Router with firmware <= 4.30.18
+M|Linksys|wrt54gl|||<=|4.30.18.006|CVE-2022-43973|7.2|0|1.9|An arbitrary code execution vulnerability exisits in Linksys WRT54GL Wireless-G Broadband Router with firmware
+M|Linksys|wrt54g|>=|4.21.5|<=|4.21.5|CVE-2024-41281|8.8|0|0.3|Linksys WRT54G v4.21.5 has a stack overflow vulnerability in get_merge_mac function.
+M|Linksys|wumc710|>=|1.0.02build3|<=|1.0.02build3|CVE-2022-43971|7.2|0|1.7|An arbitrary code exection vulnerability exists in Linksys WUMC710 Wireless-AC Universal Media Connector with 
+M|Linksys|wumc710|>=|1.0.02|<=|1.0.02|CVE-2022-43971|7.2|0|1.7|An arbitrary code exection vulnerability exists in Linksys WUMC710 Wireless-AC Universal Media Connector with 
+M|Linksys|wumc710|||<|1.0.02|CVE-2022-43971|7.2|0|1.7|An arbitrary code exection vulnerability exists in Linksys WUMC710 Wireless-AC Universal Media Connector with 
+M|Linksys|wvbr0|||<|1.0.41|CVE-2017-17411|9.8|0|87.9|This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of Linksys WV

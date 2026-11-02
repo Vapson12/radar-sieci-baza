@@ -1,0 +1,205 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|TRENDnet|teg-30102ws|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|teg-30102ws|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|teg-30102ws|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|tew-410apb|>=|1.3.06b|<=|1.3.06b|CVE-2025-2959|7.1|0|0.8|A vulnerability was found in TRENDnet TEW-410APB 1.3.06b. It has been rated as problematic. Affected by this i
+M|TRENDnet|tew-411brpplus|>=|2.07_eu|<=|2.07_eu|CVE-2023-51833|8.1|0|4.4|A command injection issue in TRENDnet TEW-411BRPplus v.2.07_eu that allows a local attacker to execute arbitra
+M|TRENDnet|tew-432brp|>=|3.10b20|<=|3.10b20|CVE-2026-10062|7.4|0|0.8|A vulnerability was determined in TRENDnet TEW-432BRP 3.10B20. Affected by this vulnerability is the function 
+M|TRENDnet|tew-432brp|>=|3.10b20|<=|3.10b20|CVE-2026-10063|7.4|0|0.9|A vulnerability was identified in TRENDnet TEW-432BRP 3.10B20. Affected by this issue is the function formWPS 
+M|TRENDnet|tew-632brp|>=|1.010b31|<=|1.010b31|CVE-2024-57590|9.8|0|1.1|TRENDnet TEW-632BRP v1.010B31 devices have an OS command injection vulnerability in the CGl interface "ntp_syn
+M|TRENDnet|tew-632brp|>=|1.010b32|<=|1.010b32|CVE-2018-19242|8.8|0|2.9|Buffer overflow in apply.cgi on TRENDnet TEW-632BRP 1.010B32 and TEW-673GRU devices allows attackers to hijack
+M|TRENDnet|tew-632brp|>=|1.010b32|<=|1.010b32|CVE-2019-11418|9.8|0|1.5|apply.cgi on the TRENDnet TEW-632BRP 1.010B32 router has a buffer overflow via long strings to the SOAPACTION:
+M|TRENDnet|tew-632brp|>=|1.010b32|<=|1.010b32|CVE-2020-10213|8.8|0|5.0|An issue was discovered on D-Link DIR-825 Rev.B 2.10 devices. They allow remote attackers to execute arbitrary
+M|TRENDnet|tew-632brp|>=|1.010b32|<=|1.010b32|CVE-2020-10215|8.8|0|5.3|An issue was discovered on D-Link DIR-825 Rev.B 2.10 devices. They allow remote attackers to execute arbitrary
+M|TRENDnet|tew-632brp|>=|1.010b32|<=|1.010b32|CVE-2020-10216|8.8|0|5.0|An issue was discovered on D-Link DIR-825 Rev.B 2.10 devices. They allow remote attackers to execute arbitrary
+M|TRENDnet|tew-637ap|>=|1.2.7|<=|1.2.7|CVE-2025-2960|7.1|0|0.8|A vulnerability classified as problematic has been found in TRENDnet TEW-637AP and TEW-638APB 1.2.7/1.3.0.106.
+M|TRENDnet|tew-638apb|>=|1.3.0.106|<=|1.3.0.106|CVE-2025-2960|7.1|0|0.8|A vulnerability classified as problematic has been found in TRENDnet TEW-637AP and TEW-638APB 1.2.7/1.3.0.106.
+M|TRENDnet|tew-651br|>=|2.04b1|<=|2.04b1|CVE-2019-11399|9.8|0|3.0|An issue was discovered on TRENDnet TEW-651BR 2.04B1, TEW-652BRP 3.04b01, and TEW-652BRU 1.00b12 devices. OS c
+M|TRENDnet|tew-651br|>=|2.04b1|<=|2.04b1|CVE-2019-11400|9.8|0|16.6|An issue was discovered on TRENDnet TEW-651BR 2.04B1, TEW-652BRP 3.04b01, and TEW-652BRU 1.00b12 devices. A bu
+M|TRENDnet|tew-651br|||||CVE-2015-1187|9.8|1|82.7|The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to execute arbitrary code via the
+M|TRENDnet|tew-652brp|>=|3.04b01|<=|3.04b01|CVE-2019-11399|9.8|0|3.0|An issue was discovered on TRENDnet TEW-651BR 2.04B1, TEW-652BRP 3.04b01, and TEW-652BRU 1.00b12 devices. OS c
+M|TRENDnet|tew-652brp|>=|3.04b01|<=|3.04b01|CVE-2019-11400|9.8|0|16.6|An issue was discovered on TRENDnet TEW-651BR 2.04B1, TEW-652BRP 3.04b01, and TEW-652BRU 1.00b12 devices. A bu
+M|TRENDnet|tew-652brp|>=|3.04b01|<=|3.04b01|CVE-2023-0611|8.8|0|3.9|A vulnerability, which was classified as critical, has been found in TRENDnet TEW-652BRP 3.04B01. This issue a
+M|TRENDnet|tew-652brp|>=|3.04b01|<=|3.04b01|CVE-2023-0618|7.5|0|0.9|A vulnerability was found in TRENDnet TEW-652BRP 3.04B01. It has been declared as critical. This vulnerability
+M|TRENDnet|tew-652brp|>=|3.04b01|<=|3.04b01|CVE-2023-0640|7.2|0|6.5|A vulnerability was found in TRENDnet TEW-652BRP 3.04b01. It has been classified as critical. Affected is an u
+M|TRENDnet|tew-652bru|>=|1.00b12|<=|1.00b12|CVE-2019-11399|9.8|0|3.0|An issue was discovered on TRENDnet TEW-651BR 2.04B1, TEW-652BRP 3.04b01, and TEW-652BRU 1.00b12 devices. OS c
+M|TRENDnet|tew-652bru|>=|1.00b12|<=|1.00b12|CVE-2019-11400|9.8|0|16.6|An issue was discovered on TRENDnet TEW-651BR 2.04B1, TEW-652BRP 3.04b01, and TEW-652BRU 1.00b12 devices. A bu
+M|TRENDnet|tew-652br|||||CVE-2015-1187|9.8|1|82.7|The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to execute arbitrary code via the
+M|TRENDnet|tew-657brm|>=|1.00.1|<=|1.00.1|CVE-2025-65202|8.0|0|6.7|TRENDnet TEW-657BRM 1.00.1 has an authenticated remote OS command injection vulnerability in the setup.cgi bin
+M|TRENDnet|tew-657brm|>=|1.00.1|<=|1.00.1|CVE-2026-5349|7.4|0|0.8|A vulnerability was identified in Trendnet TEW-657BRM 1.00.1. The affected element is the function add_apcdb o
+M|TRENDnet|tew-657brm|>=|1.00.1|<=|1.00.1|CVE-2026-5350|7.4|0|0.8|A security flaw has been discovered in Trendnet TEW-657BRM 1.00.1. The impacted element is the function update
+M|TRENDnet|tew-673gru|>=|1.00b40|<=|1.00b40|CVE-2018-19239|7.2|0|5.1|TRENDnet TEW-673GRU v1.00b40 devices have an OS command injection vulnerability in the start_arpping function 
+M|TRENDnet|tew-673gru|>=|1.00b40|<=|1.00b40|CVE-2018-19242|8.8|0|2.9|Buffer overflow in apply.cgi on TRENDnet TEW-632BRP 1.010B32 and TEW-673GRU devices allows attackers to hijack
+M|TRENDnet|tew-691gr|||||CVE-2013-3367|9.8|0|2.7|Undocumented TELNET service in TRENDnet TEW-691GR and TEW-692GR when a web page named backdoor contains an HTM
+M|TRENDnet|tew-692gr|||||CVE-2013-3367|9.8|0|2.7|Undocumented TELNET service in TRENDnet TEW-691GR and TEW-692GR when a web page named backdoor contains an HTM
+M|TRENDnet|tew-711br|>=|1.00b31|<=|1.00b31|CVE-2015-1187|9.8|1|82.7|The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to execute arbitrary code via the
+M|TRENDnet|tew-713re|>=|1.0.2|<=|1.0.2|CVE-2025-15471|8.9|0|13.7|A vulnerability was detected in TRENDnet TEW-713RE 1.02. The impacted element is an unknown function of the fi
+M|TRENDnet|tew-731br|>=|2.01b01|<=|2.01b01|CVE-2015-1187|9.8|1|82.7|The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to execute arbitrary code via the
+M|TRENDnet|tew-751dr|>=|1.03b03|<=|1.03b03|CVE-2018-7034|7.5|0|2.0|TRENDnet TEW-751DR v1.03B03, TEW-752DRU v1.03B01, and TEW733GR v1.03B01 devices allow authentication bypass vi
+M|TRENDnet|tew-751dr|||<=|1.03|CVE-2022-33007|8.8|0|0.8|TRENDnet Wi-Fi routers TEW751DR v1.03 and TEW-752DRU v1.03 were discovered to contain a stack overflow via the
+M|TRENDnet|tew-752dru|>=|1.03b01|<=|1.03b01|CVE-2018-7034|7.5|0|2.0|TRENDnet TEW-751DR v1.03B03, TEW-752DRU v1.03B01, and TEW733GR v1.03B01 devices allow authentication bypass vi
+M|TRENDnet|tew-752dru|>=|1.03b01|<=|1.03b01|CVE-2024-42813|9.8|0|0.7|In TRENDnet TEW-752DRU FW1.03B01, there is a buffer overflow vulnerability due to the lack of length verificat
+M|TRENDnet|tew-752dru|||<=|1.03|CVE-2022-33007|8.8|0|0.8|TRENDnet Wi-Fi routers TEW751DR v1.03 and TEW-752DRU v1.03 were discovered to contain a stack overflow via the
+M|TRENDnet|tew-755ap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28841|7.5|0|1.0|Null Pointer Dereference vulnerability in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP2KAC 1.
+M|TRENDnet|tew-755ap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28842|7.5|0|1.0|Null Pointer Deference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP2K
+M|TRENDnet|tew-755ap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28843|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-755ap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28844|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-755ap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28845|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-755ap|>=|1.11b03|<=|1.11b03|CVE-2021-28841|7.5|0|1.0|Null Pointer Dereference vulnerability in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP2KAC 1.
+M|TRENDnet|tew-755ap|>=|1.11b03|<=|1.11b03|CVE-2021-28842|7.5|0|1.0|Null Pointer Deference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP2K
+M|TRENDnet|tew-755ap|>=|1.11b03|<=|1.11b03|CVE-2021-28843|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-755ap|>=|1.11b03|<=|1.11b03|CVE-2021-28844|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-755ap|>=|1.11b03|<=|1.11b03|CVE-2021-28845|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46580|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the user_edit_page parameter in the w
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46581|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the cameo.cameo.nslookup_target param
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46582|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the login_name parameter in the do_gr
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46583|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the reboot_type parameter in the wiza
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46584|9.8|0|1.0|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the qcawifi.wifi%d_vap%d.maclist para
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46585|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the REMOTE_USER parameter in the get_
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46586|9.8|0|1.0|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the qcawifi.wifi%d_vap%d.maclist para
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46588|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the sys_service parameter in the setu
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46589|9.8|0|1.0|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the cameo.cameo.netstat_option parame
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46590|9.8|0|1.0|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the cameo.cameo.netstat_rsname parame
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46591|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the reject_url parameter in the rejec
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46592|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the wps_sta_enrollee_pin parameter in
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46593|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the wps_sta_enrollee_pin parameter in
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46594|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the update_file_name parameter in the
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46596|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the del_num parameter in the icp_dele
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46597|9.8|0|2.3|TRENDnet TEW755AP 1.13B01 was discovered to contain a command injection vulnerability via the sys_service para
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46598|9.8|0|2.3|TRENDnet TEW755AP 1.13B01 was discovered to contain a command injection vulnerability via the wps_sta_enrollee
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46599|9.8|0|1.0|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the setlogo_num parameter in the icp_
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46600|9.8|0|0.9|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the wps_sta_enrollee_pin parameter in
+M|TRENDnet|tew-755ap|>=|1.13b01|<=|1.13b01|CVE-2022-46601|9.8|0|1.0|TRENDnet TEW755AP 1.13B01 was discovered to contain a stack overflow via the setbg_num parameter in the icp_se
+M|TRENDnet|tew-800mb|>=|1.0.1.0|<=|1.0.1.0|CVE-2024-0918|7.2|0|25.4|A vulnerability was found in TRENDnet TEW-800MB 1.0.1.0 and classified as critical. Affected by this issue is 
+M|TRENDnet|tew-800mb|>=|1.0.1.0|<=|1.0.1.0|CVE-2025-15136|7.4|0|10.7|A security vulnerability has been detected in TRENDnet TEW-800MB 1.0.1.0. Affected is the function do_setWizar
+M|TRENDnet|tew-800mb|>=|1.0.1.0|<=|1.0.1.0|CVE-2025-15137|7.4|0|11.4|A vulnerability was detected in TRENDnet TEW-800MB 1.0.1.0. Affected by this vulnerability is the function sub
+M|TRENDnet|tew-810dr|>=|1.00b19|<=|1.00b19|CVE-2015-1187|9.8|1|82.7|The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to execute arbitrary code via the
+M|TRENDnet|tew-811dru|>=|1.0.10.0|<=|1.0.10.0|CVE-2023-0612|7.5|0|0.9|A vulnerability, which was classified as critical, was found in TRENDnet TEW-811DRU 1.0.10.0. Affected is an u
+M|TRENDnet|tew-811dru|>=|1.0.10.0|<=|1.0.10.0|CVE-2023-0613|7.5|0|0.9|A vulnerability has been found in TRENDnet TEW-811DRU 1.0.10.0 and classified as critical. Affected by this vu
+M|TRENDnet|tew-811dru|>=|1.0.10.0|<=|1.0.10.0|CVE-2023-0617|7.5|0|1.0|A vulnerability was found in TRENDNet TEW-811DRU 1.0.10.0. It has been classified as critical. This affects an
+M|TRENDnet|tew-811dru|>=|1.0.10.0|<=|1.0.10.0|CVE-2023-0638|7.2|0|2.9|A vulnerability has been found in TRENDnet TEW-811DRU 1.0.10.0 and classified as critical. This vulnerability 
+M|TRENDnet|tew-811dru|>=|1.0.2.0|<=|1.0.2.0|CVE-2025-15472|7.3|0|22.4|A flaw has been found in TRENDnet TEW-811DRU 1.0.2.0. This affects the function setDeviceURL of the file uappl
+M|TRENDnet|tew-812dru|||||CVE-2013-3366|8.8|0|0.9|Undocumented TELNET service in TRENDnet TEW-812DRU when a web page named backdoor contains an HTML parameter o
+M|TRENDnet|tew-812dru|||||CVE-2013-4659|9.8|0|13.9|Buffer overflow in Broadcom ACSD allows remote attackers to execute arbitrary code via a long string to TCP po
+M|TRENDnet|tew-813dru|>=|1.00b23|<=|1.00b23|CVE-2015-1187|9.8|1|82.7|The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to execute arbitrary code via the
+M|TRENDnet|tew-814dap|>=|1.01b01|<=|1.01b01|CVE-2024-37641|8.8|0|0.6|TRENDnet TEW-814DAP v1_(FW1.01B01) was discovered to contain a stack overflow via the submit-url parameter at 
+M|TRENDnet|tew-814dap|>=|1.01b01|<=|1.01b01|CVE-2024-37642|9.1|0|11.4|TRENDnet TEW-814DAP v1_(FW1.01B01) was discovered to contain a command injection vulnerability via the ipv4_pi
+M|TRENDnet|tew-814dap|>=|1.01b01|<=|1.01b01|CVE-2024-37643|8.8|0|0.7|TRENDnet TEW-814DAP v1_(FW1.01B01) was discovered to contain a stack overflow vulnerability via the submit-url
+M|TRENDnet|tew-814dap|>=|1.01b01|<=|1.01b01|CVE-2024-37644|8.8|0|0.5|TRENDnet TEW-814DAP v1_(FW1.01B01) was discovered to contain a hardcoded password vulnerability in /etc/shadow
+M|TRENDnet|tew-814dap|>=|1.01b01|<=|1.01b01|CVE-2024-37645|8.8|0|0.7|TRENDnet TEW-814DAP v1_(FW1.01B01) was discovered to contain a stack overflow vulnerability via the submit-url
+M|TRENDnet|tew-815dap|>=|1.0.2.0|<=|1.0.2.0|CVE-2024-0919|8.8|0|22.5|A vulnerability was found in TRENDnet TEW-815DAP 1.0.2.0. It has been classified as critical. This affects the
+M|TRENDnet|tew-818dru|>=|1.0.14.6|<=|1.0.14.6|CVE-2025-2958|7.1|0|0.8|A vulnerability was found in TRENDnet TEW-818DRU 1.0.14.6. It has been declared as problematic. Affected by th
+M|TRENDnet|tew-820ap|>=|1.01.b01|<=|1.01.b01|CVE-2022-44373|8.8|0|1.6|A stack overflow vulnerability exists in TrendNet Wireless AC Easy-Upgrader TEW-820AP (Version v1.0R, firmware
+M|TRENDnet|tew-820ap|>=|1.01.b01|<=|1.01.b01|CVE-2022-47065|8.8|0|1.1|TrendNet Wireless AC Easy-Upgrader TEW-820AP v1.0R, firmware version 1.01.B01 was discovered to contain a stac
+M|TRENDnet|tew-820ap|>=|1.01.b01|<=|1.01.b01|CVE-2023-24095|8.8|0|1.0|TrendNet Wireless AC Easy-Upgrader TEW-820AP v1.0R, firmware version 1.01.B01 was discovered to contain a stac
+M|TRENDnet|tew-820ap|>=|1.01.b01|<=|1.01.b01|CVE-2023-24096|8.8|0|1.0|TrendNet Wireless AC Easy-Upgrader TEW-820AP v1.0R, firmware version 1.01.B01 was discovered to contain a stac
+M|TRENDnet|tew-820ap|>=|1.01.b01|<=|1.01.b01|CVE-2023-24097|8.8|0|1.0|TrendNet Wireless AC Easy-Upgrader TEW-820AP v1.0R, firmware version 1.01.B01 was discovered to contain a stac
+M|TRENDnet|tew-820ap|>=|1.01.b01|<=|1.01.b01|CVE-2023-24098|8.8|0|1.0|TrendNet Wireless AC Easy-Upgrader TEW-820AP v1.0R, firmware version 1.01.B01 was discovered to contain a stac
+M|TRENDnet|tew-820ap|>=|1.01.b01|<=|1.01.b01|CVE-2023-24099|8.8|0|1.0|TrendNet Wireless AC Easy-Upgrader TEW-820AP v1.0R, firmware version 1.01.B01 was discovered to contain a stac
+M|TRENDnet|tew-820ap|>=|1.01.b01|<=|1.01.b01|CVE-2024-50667|9.8|0|6.7|The boa httpd of Trendnet TEW-820AP 1.01.B01 has a stack overflow vulnerability in /boafrm/formIPv6Addr, /boaf
+M|TRENDnet|tew-821dap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28841|7.5|0|1.0|Null Pointer Dereference vulnerability in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP2KAC 1.
+M|TRENDnet|tew-821dap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28842|7.5|0|1.0|Null Pointer Deference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP2K
+M|TRENDnet|tew-821dap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28843|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-821dap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28844|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-821dap2kac|>=|1.11b03|<=|1.11b03|CVE-2021-28845|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-821dap|>=|1.12b01|<=|1.12b01|CVE-2026-7607|8.7|0|0.6|A security vulnerability has been detected in TRENDnet TEW-821DAP 1.12B01. Impacted is the function auto_updat
+M|TRENDnet|tew-821dap|>=|3.00b06|<=|3.00b06|CVE-2023-51146|8.0|0|0.5|Buffer Overflow vulnerability in TRENDnet AC1200 TEW-821DAP with firmware version 3.00b06 allows an attacker t
+M|TRENDnet|tew-821dap|>=|3.00b06|<=|3.00b06|CVE-2023-51147|8.0|0|0.5|Buffer Overflow vulnerability in TRENDnet Trendnet AC1200 TEW-821DAP with firmware version 3.00b06 allows an a
+M|TRENDnet|tew-821dap|>=|3.00b06|<=|3.00b06|CVE-2023-51148|8.0|0|0.5|An issue in TRENDnet Trendnet AC1200 Dual Band PoE Indoor Wireless Access Point TEW-821DAP v.3.00b06 allows an
+M|TRENDnet|tew-822dre|>=|1.00b21|<=|1.00b21|CVE-2025-15139|2.1|0|13.3|A vulnerability has been found in TRENDnet TEW-822DRE 1.00B21/1.01B06. This affects the function sub_43ACF4 of
+M|TRENDnet|tew-822dre|>=|1.01b06|<=|1.01b06|CVE-2025-15139|2.1|0|13.3|A vulnerability has been found in TRENDnet TEW-822DRE 1.00B21/1.01B06. This affects the function sub_43ACF4 of
+M|TRENDnet|tew-822dre|>=|1.03b02|<=|1.03b02|CVE-2024-0920|7.2|0|8.6|A vulnerability was found in TRENDnet TEW-822DRE 1.03B02. It has been declared as critical. This vulnerability
+M|TRENDnet|tew-823dru|||<=|1.00b30|CVE-2014-8579|9.8|0|2.0|TRENDnet TEW-823DRU devices with firmware before 1.00b36 have a hardcoded password of kcodeskcodes for the roo
+M|TRENDnet|tew-824dru|>=|1.04b01|<=|1.04b01|CVE-2024-22545|7.8|0|0.5|An issue was discovered in TRENDnet TEW-824DRU version 1.04b01, allows unauthenticated attackers to execute ar
+M|TRENDnet|tew-825dap|>=|1.11b03|<=|1.11b03|CVE-2021-28841|7.5|0|1.0|Null Pointer Dereference vulnerability in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP2KAC 1.
+M|TRENDnet|tew-825dap|>=|1.11b03|<=|1.11b03|CVE-2021-28842|7.5|0|1.0|Null Pointer Deference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP2K
+M|TRENDnet|tew-825dap|>=|1.11b03|<=|1.11b03|CVE-2021-28843|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-825dap|>=|1.11b03|<=|1.11b03|CVE-2021-28844|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-825dap|>=|1.11b03|<=|1.11b03|CVE-2021-28845|7.5|0|1.0|Null Pointer Dereference vulnerability exists in TRENDnet TEW-755AP 1.11B03, TEW-755AP2KAC 1.11B03, TEW-821DAP
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20149|9.8|0|1.5|Trendnet AC2600 TEW-827DRU version 2.08B01 does not have sufficient access controls for the WAN interface. The
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20150|5.3|0|40.1|Trendnet AC2600 TEW-827DRU version 2.08B01 improperly discloses information via redirection from the setup wiz
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20151|10.0|0|1.7|Trendnet AC2600 TEW-827DRU version 2.08B01 contains a flaw in the session management for the device. The route
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20154|7.5|0|0.8|Trendnet AC2600 TEW-827DRU version 2.08B01 contains an security flaw in the web interface. HTTPS is not enable
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20155|9.8|0|2.0|Trendnet AC2600 TEW-827DRU version 2.08B01 makes use of hardcoded credentials. It is possible to backup and re
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20158|9.8|0|9.6|Trendnet AC2600 TEW-827DRU version 2.08B01 contains an authentication bypass vulnerability. It is possible for
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20159|8.8|0|3.1|Trendnet AC2600 TEW-827DRU version 2.08B01 is vulnerable to command injection. The system log functionality of
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20160|8.8|0|3.1|Trendnet AC2600 TEW-827DRU version 2.08B01 contains a command injection vulnerability in the smb functionality
+M|TRENDnet|tew-827dru|>=|2.08b01|<=|2.08b01|CVE-2021-20165|8.8|0|0.6|Trendnet AC2600 TEW-827DRU version 2.08B01 does not properly implement csrf protections. Most pages lack prope
+M|TRENDnet|tew-827dru|>=|2.10b01|<=|2.10b01|CVE-2024-28353|8.8|0|2.1|There is a command injection vulnerability in the TRENDnet TEW-827DRU router with firmware version 2.10B01. An
+M|TRENDnet|tew-827dru|>=|2.10b01|<=|2.10b01|CVE-2024-28354|10.0|0|2.2|There is a command injection vulnerability in the TRENDnet TEW-827DRU router with firmware version 2.10B01. An
+M|TRENDnet|tew-827dru|||<=|2.04b03|CVE-2019-13276|9.8|0|2.8|TRENDnet TEW-827DRU with firmware up to and including 2.04B03 contains a stack-based buffer overflow in the ss
+M|TRENDnet|tew-827dru|||<=|2.04b03|CVE-2019-13277|7.5|0|1.5|TRENDnet TEW-827DRU with firmware up to and including 2.04B03 allows an unauthenticated attacker to execute se
+M|TRENDnet|tew-827dru|||<=|2.04b03|CVE-2019-13278|9.8|0|8.8|TRENDnet TEW-827DRU with firmware up to and including 2.04B03 contains multiple command injections when proces
+M|TRENDnet|tew-827dru|||<=|2.04b03|CVE-2019-13279|9.8|0|2.7|TRENDnet TEW-827DRU with firmware up to and including 2.04B03 contains multiple stack-based buffer overflows w
+M|TRENDnet|tew-827dru|||<=|2.04b03|CVE-2019-13280|8.8|0|2.0|TRENDnet TEW-827DRU with firmware up to and including 2.04B03 contains a stack-based buffer overflow while ret
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2020-14074|8.8|0|1.8|TRENDnet TEW-827DRU devices through 2.06B04 contain a stack-based buffer overflow in the ssi binary. The overf
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2020-14075|8.8|0|3.1|TRENDnet TEW-827DRU devices through 2.06B04 contain multiple command injections in apply.cgi via the action pp
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2020-14076|8.8|0|2.6|TRENDnet TEW-827DRU devices through 2.06B04 contain a stack-based buffer overflow in the ssi binary. The overf
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2020-14077|8.8|0|1.8|TRENDnet TEW-827DRU devices through 2.06B04 contain a stack-based buffer overflow in the ssi binary. The overf
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2020-14078|8.8|0|1.8|TRENDnet TEW-827DRU devices through 2.06B04 contain a stack-based buffer overflow in the ssi binary. The overf
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2020-14079|8.8|0|2.2|TRENDnet TEW-827DRU devices through 2.06B04 contain a stack-based buffer overflow in the ssi binary. The overf
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2020-14080|9.8|0|2.3|TRENDnet TEW-827DRU devices through 2.06B04 contain a stack-based buffer overflow in the ssi binary. The overf
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2020-14081|8.8|0|2.2|TRENDnet TEW-827DRU devices through 2.06B04 contain multiple command injections in apply.cgi via the action se
+M|TRENDnet|tew-827dru|||<=|2.06b04|CVE-2024-36728|8.1|0|5.2|TRENDnet TEW-827DRU devices through 2.06B04 contain a stack-based buffer overflow in the ssi binary. The overf
+M|TRENDnet|tew-827dru|||<|2.05b11|CVE-2019-13148|8.8|0|2.1|An issue was discovered in TRENDnet TEW-827DRU firmware before 2.05B11. There is a command injection in apply.
+M|TRENDnet|tew-827dru|||<|2.05b11|CVE-2019-13149|8.8|0|2.1|An issue was discovered in TRENDnet TEW-827DRU firmware before 2.05B11. There is a command injection in apply.
+M|TRENDnet|tew-827dru|||<|2.05b11|CVE-2019-13150|8.8|0|2.1|An issue was discovered in TRENDnet TEW-827DRU firmware before 2.05B11. There is a command injection in apply.
+M|TRENDnet|tew-827dru|||<|2.05b11|CVE-2019-13151|8.8|0|2.1|An issue was discovered in TRENDnet TEW-827DRU firmware before 2.05B11. There is a command injection in apply.
+M|TRENDnet|tew-827dru|||<|2.05b11|CVE-2019-13152|8.8|0|2.1|An issue was discovered in TRENDnet TEW-827DRU firmware before 2.05B11. There is a command injection in apply.
+M|TRENDnet|tew-827dru|||<|2.05b11|CVE-2019-13153|8.8|0|2.1|An issue was discovered in TRENDnet TEW-827DRU firmware before 2.05B11. There is a command injection in apply.
+M|TRENDnet|tew-827dru|||<|2.05b11|CVE-2019-13154|8.8|0|2.1|An issue was discovered in TRENDnet TEW-827DRU firmware before 2.05B11. There is a command injection in apply.
+M|TRENDnet|tew-827dru|||<|2.05b11|CVE-2019-13155|8.8|0|2.1|An issue was discovered in TRENDnet TEW-827DRU firmware before 2.05B11. There is a command injection in apply.
+M|TRENDnet|tew-827dru|||||CVE-2021-20157|7.5|0|1.6|It is possible for an unauthenticated, malicious user to force the device to reboot due to a hidden administra
+M|TRENDnet|tew-831dr|>=|1.0_601.130.1.1356|<=|1.0_601.130.1.1356|CVE-2022-30325|8.8|0|0.4|An issue was found on TRENDnet TEW-831DR 1.0 601.130.1.1356 devices. The default pre-shared key for the Wi-Fi 
+M|TRENDnet|tew-831dr|>=|1.0_601.130.1.1356|<=|1.0_601.130.1.1356|CVE-2022-30329|9.8|0|2.0|An issue was found on TRENDnet TEW-831DR 1.0 601.130.1.1356 devices. An OS injection vulnerability exists with
+M|TRENDnet|tew-929dru|>=|1.0.0.10|<=|1.0.0.10|CVE-2025-25428|8.0|0|0.4|TRENDnet TEW-929DRU 1.0.0.10 was discovered to contain a hardcoded password vulnerability in /etc/shadow, whic
+M|TRENDnet|tew-wlc100p|>=|2.03b03|<=|2.03b03|CVE-2025-44647|7.3|0|0.3|In TRENDnet TEW-WLC100P 2.03b03, the i_dont_care_about_security_and_use_aggressive_mode_psk option is enabled 
+M|TRENDnet|tew-wlc100p|>=|2.03b03|<=|2.03b03|CVE-2025-44649|7.5|0|0.3|In the configuration file of racoon in the TRENDnet TEW-WLC100P 2.03b03, the first item of exchage_mode is set
+M|TRENDnet|tew733gr|>=|1.03b01|<=|1.03b01|CVE-2018-7034|7.5|0|2.0|TRENDnet TEW-751DR v1.03B03, TEW-752DRU v1.03B01, and TEW733GR v1.03B01 devices allow authentication bypass vi
+M|TRENDnet|tew733gr|>=|1.03b01|<=|1.03b01|CVE-2022-37053|9.8|0|2.3|TRENDnet TEW733GR v1.03B01 is vulnerable to Command injection via /htdocs/upnpinc/gena.php.
+M|TRENDnet|tew733gr|>=|1.03b01|<=|1.03b01|CVE-2022-38556|9.8|0|1.1|Trendnet TEW733GR v1.03B01 contains a Static Default Credential vulnerability in /etc/init0.d/S80telnetd.sh.
+M|TRENDnet|ti-g102i|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-g102i|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-g102i|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|ti-g160i|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-g160i|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-g160i|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|ti-g642i|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-g642i|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-g642i|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|ti-pg102i|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-pg102i|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-pg102i|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|ti-pg1284i|||<|2.0.2.s0|CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-pg1284i|||<|2.0.2.s0|CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-pg1284i|||<|2.0.2.s0|CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|ti-pg541i|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-pg541i|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-pg541i|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|ti-rp262i|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-rp262i|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|ti-rp262i|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|tpe-30102ws|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|tpe-30102ws|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
+M|TRENDnet|tpe-30102ws|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul
+M|TRENDnet|tpl-430ap|>=|1.0|<=|1.0|CVE-2025-44651|7.5|0|0.5|In TRENDnet TPL-430AP FW1.0, the USERLIMIT_GLOBAL option is set to 0 in the bftpd-related configuration file. 
+M|TRENDnet|ts-s402|>=|2.00.11|<=|2.00.11|CVE-2013-6360|7.5|0|1.0|TRENDnet TS-S402 has a backdoor to enable TELNET.
+M|TRENDnet|tv-ip110wn|>=|1.2.2.28|<=|1.2.2.28|CVE-2019-11417|9.8|0|1.5|system.cgi on TRENDnet TV-IP110WN cameras has a buffer overflow caused by an inadequate source-length check be
+M|TRENDnet|tv-ip110wn|>=|1.2.2.64|<=|1.2.2.64|CVE-2018-19240|9.8|0|3.7|Buffer overflow in network.cgi on TRENDnet TV-IP110WN V1.2.2 build 68, V1.2.2.65, and V1.2.2 build 64 and TV-I
+M|TRENDnet|tv-ip110wn|>=|1.2.2.64|<=|1.2.2.64|CVE-2018-19241|7.5|0|2.3|Buffer overflow in video.cgi on TRENDnet TV-IP110WN V1.2.2 build 68, V1.2.2.65, and V1.2.2 build 64 and TV-IP1
+M|TRENDnet|tv-ip110wn|>=|1.2.2.64|<=|1.2.2.64|CVE-2019-11417|9.8|0|1.5|system.cgi on TRENDnet TV-IP110WN cameras has a buffer overflow caused by an inadequate source-length check be
+M|TRENDnet|tv-ip110wn|>=|1.2.2.65|<=|1.2.2.65|CVE-2018-19240|9.8|0|3.7|Buffer overflow in network.cgi on TRENDnet TV-IP110WN V1.2.2 build 68, V1.2.2.65, and V1.2.2 build 64 and TV-I
+M|TRENDnet|tv-ip110wn|>=|1.2.2.65|<=|1.2.2.65|CVE-2018-19241|7.5|0|2.3|Buffer overflow in video.cgi on TRENDnet TV-IP110WN V1.2.2 build 68, V1.2.2.65, and V1.2.2 build 64 and TV-IP1
+M|TRENDnet|tv-ip110wn|>=|1.2.2.65|<=|1.2.2.65|CVE-2019-11417|9.8|0|1.5|system.cgi on TRENDnet TV-IP110WN cameras has a buffer overflow caused by an inadequate source-length check be
+M|TRENDnet|tv-ip110wn|>=|1.2.2.68|<=|1.2.2.68|CVE-2018-19240|9.8|0|3.7|Buffer overflow in network.cgi on TRENDnet TV-IP110WN V1.2.2 build 68, V1.2.2.65, and V1.2.2 build 64 and TV-I
+M|TRENDnet|tv-ip110wn|>=|1.2.2.68|<=|1.2.2.68|CVE-2018-19241|7.5|0|2.3|Buffer overflow in video.cgi on TRENDnet TV-IP110WN V1.2.2 build 68, V1.2.2.65, and V1.2.2 build 64 and TV-IP1
+M|TRENDnet|tv-ip110wn|>=|1.2.2.68|<=|1.2.2.68|CVE-2019-11417|9.8|0|1.5|system.cgi on TRENDnet TV-IP110WN cameras has a buffer overflow caused by an inadequate source-length check be
+M|TRENDnet|tv-ip121wn|>=|1.2.2.28|<=|1.2.2.28|CVE-2018-19240|9.8|0|3.7|Buffer overflow in network.cgi on TRENDnet TV-IP110WN V1.2.2 build 68, V1.2.2.65, and V1.2.2 build 64 and TV-I
+M|TRENDnet|tv-ip121wn|>=|1.2.2.28|<=|1.2.2.28|CVE-2018-19241|7.5|0|2.3|Buffer overflow in video.cgi on TRENDnet TV-IP110WN V1.2.2 build 68, V1.2.2.65, and V1.2.2 build 64 and TV-IP1
+M|TRENDnet|tv-ip1314pi|>=|5.5.3200714|<=|5.5.3200714|CVE-2023-49235|9.8|0|0.8|An issue was discovered in libremote_dbg.so on TRENDnet TV-IP1314PI 5.5.3 200714 devices. Filtering of debug i
+M|TRENDnet|tv-ip1314pi|>=|5.5.3200714|<=|5.5.3200714|CVE-2023-49236|9.8|0|1.2|A stack-based buffer overflow was discovered on TRENDnet TV-IP1314PI 5.5.3 200714 devices, leading to arbitrar
+M|TRENDnet|tv-ip1314pi|>=|5.5.3200714|<=|5.5.3200714|CVE-2023-49237|9.8|0|18.6|An issue was discovered on TRENDnet TV-IP1314PI 5.5.3 200714 devices. Command injection can occur because the 
+M|TRENDnet|tv-ip410|>=|a1.0r|<=|a1.0r|CVE-2024-46484|9.8|0|1.1|TRENDnet TV-IP410 vA1.0R was discovered to contain an OS command injection vulnerability via the /server/cgi-b
+M|TRENDnet|tv-ip512wn|>=|1.0.4|<=|1.0.4|CVE-2020-12763|9.8|0|3.4|TRENDnet ProView Wireless camera TV-IP512WN 1.0R 1.0.4 is vulnerable to an unauthenticated stack-based buffer 
+M|TRENDnet|tv-ip572pi|>=|1.0|<=|1.0|CVE-2022-35203|7.2|0|1.2|An access control issue in TrendNet TV-IP572PI v1.0 allows unauthenticated attackers to access sensitive syste
+M|TRENDnet|tw100-s4w1ca|>=|2.3.32|<=|2.3.32|CVE-2021-32424|8.8|0|0.4|In TrendNet TW100-S4W1CA 2.3.32, due to a lack of proper session controls, a threat actor could make unauthori

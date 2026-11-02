@@ -1,0 +1,75 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Xiaomi|ax1800|||<|1.0.336|CVE-2020-14098|7.5|0|1.2|The login verification can be bypassed by using the problem that the time is not synchronized after the router
+M|Xiaomi|ax1800|||<|1.0.336|CVE-2020-14099|7.5|0|0.6|On Xiaomi router AX1800 rom version < 1.0.336 and RM1800 root version < 1.0.26, the encryption scheme for a us
+M|Xiaomi|ax1800|||<|1.0.336|CVE-2020-14101|7.5|0|1.1|The data collection SDK of the router web management interface caused the leakage of the token. This affects X
+M|Xiaomi|ax1800|||<|1.0.336|CVE-2020-14102|7.2|0|1.9|There is command injection when ddns processes the hostname, which causes the administrator user to obtain the
+M|Xiaomi|ax3600|||<=|1.0.50|CVE-2020-14104|8.1|0|0.7|A RACE CONDITION on XQBACKUP causes a decompression path error on Xiaomi router AX3600 with ROM version =1.0.5
+M|Xiaomi|ax3600|||<=|1.1.12|CVE-2020-14109|7.2|0|2.2|There is command injection in the meshd program in the routing system, resulting in command execution under ad
+M|Xiaomi|ax3600|||<=|1.1.12|CVE-2020-14124|9.8|0|1.8|There is a buffer overflow in librsa.so called by getwifipwdurl interface, resulting in code execution on Xiao
+M|Xiaomi|ax3600|||<|1.0.67|CVE-2020-14110|7.8|0|0.2|AX3600 router sensitive information leaked.There is an unauthorized interface through luci to obtain sensitive
+M|Xiaomi|ax3600|||<|1.0.67|CVE-2020-14115|9.8|0|1.1|A command injection vulnerability exists in the Xiaomi Router AX3600. The vulnerability is caused by a lack of
+M|Xiaomi|ax3600|||<|1.1.15|CVE-2020-14111|7.8|0|0.3|A command injection vulnerability exists in the Xiaomi Router AX3600. The vulnerability is caused by a lack of
+M|Xiaomi|ax9000|>=|1.0.0|<|1.0.174|CVE-2023-26315|6.5|0|19.4|The Xiaomi router AX9000 has a post-authentication command injection vulnerability. This vulnerability is caus
+M|Xiaomi|dgnwg03lm|||||CVE-2019-15913|9.8|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Because of in
+M|Xiaomi|dgnwg03lm|||||CVE-2019-15914|7.5|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Attackers can
+M|Xiaomi|dgnwg03lm|||||CVE-2019-15915|7.5|0|1.2|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, RTCGQ01LM devices. Attackers can utilize the
+M|Xiaomi|mccgq01lm|||||CVE-2019-15913|9.8|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Because of in
+M|Xiaomi|mccgq01lm|||||CVE-2019-15914|7.5|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Attackers can
+M|Xiaomi|mccgq01lm|||||CVE-2019-15915|7.5|0|1.2|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, RTCGQ01LM devices. Attackers can utilize the
+M|Xiaomi|mi 5s|||||CVE-2018-20823|7.5|0|1.5|The gyroscope on Xiaomi Mi 5s devices allows attackers to cause a denial of service (resonance and false data)
+M|Xiaomi|mi a2 lite|||<=|2018-08-27|CVE-2018-19939|7.5|0|1.3|The Goodix GT9xx touchscreen driver for custom Linux kernels on Xiaomi daisy-o-oss and daisy-p-oss as used in 
+M|Xiaomi|mijia inkjet printer|||<|3.4.6_0138|CVE-2020-10561|9.8|0|2.5|An issue was discovered on Xiaomi Mi Jia ink-jet printer < 3.4.6_0138. Injecting parameters to ippserver throu
+M|Xiaomi|millet router 3g|||<|2.28.23|CVE-2019-18370|9.8|0|40.3|An issue was discovered on Xiaomi Mi WiFi R3G devices before 2.28.23-stable. The backup file is in tar.gz form
+M|Xiaomi|millet router 3g|||<|2.28.23|CVE-2019-18371|7.5|0|55.9|An issue was discovered on Xiaomi Mi WiFi R3G devices before 2.28.23-stable. There is a directory traversal vu
+M|Xiaomi|r3600|||<|1.0.66|CVE-2020-14100|9.8|0|5.6|In Xiaomi router R3600 ROM version<1.0.66, filters in the set_WAN6 interface can be bypassed, causing remote c
+M|Xiaomi|redmi 4a|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi 5 plus|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi 6a|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi 6|||<=|2018-08-27|CVE-2018-19939|7.5|0|1.3|The Goodix GT9xx touchscreen driver for custom Linux kernels on Xiaomi daisy-o-oss and daisy-p-oss as used in 
+M|Xiaomi|redmi 6|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi 7a|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi 7|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi ax6|||<|1.0.18|CVE-2020-14097|7.5|0|0.9|Wrong nginx configuration, causing specific paths to be downloaded without authorization. This affects Xiaomi 
+M|Xiaomi|redmi go|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi k20 pro|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi k20|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi note 4|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi note 5 pro|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi note 5a prime|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi note 5|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi note 6 pro|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi note 7s|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi note 7|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi s2|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|redmi y3|||||CVE-2018-20523|5.3|0|10.0|Xiaomi Stock Browser 10.2.4.g on Xiaomi Redmi Note 5 Pro devices and other Redmi Android phones allows content
+M|Xiaomi|rm1800|||<|1.0.26|CVE-2020-14098|7.5|0|1.2|The login verification can be bypassed by using the problem that the time is not synchronized after the router
+M|Xiaomi|rm1800|||<|1.0.26|CVE-2020-14099|7.5|0|0.6|On Xiaomi router AX1800 rom version < 1.0.336 and RM1800 root version < 1.0.26, the encryption scheme for a us
+M|Xiaomi|rm1800|||<|1.0.26|CVE-2020-14101|7.5|0|1.1|The data collection SDK of the router web management interface caused the leakage of the token. This affects X
+M|Xiaomi|rm1800|||<|1.0.26|CVE-2020-14102|7.2|0|1.9|There is command injection when ddns processes the hostname, which causes the administrator user to obtain the
+M|Xiaomi|rtcgq01lm|||||CVE-2019-15913|9.8|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Because of in
+M|Xiaomi|rtcgq01lm|||||CVE-2019-15914|7.5|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Attackers can
+M|Xiaomi|rtcgq01lm|||||CVE-2019-15915|7.5|0|1.2|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, RTCGQ01LM devices. Attackers can utilize the
+M|Xiaomi|wsdcgq01lm|||||CVE-2019-15913|9.8|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Because of in
+M|Xiaomi|wsdcgq01lm|||||CVE-2019-15914|7.5|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Attackers can
+M|Xiaomi|xiaomi 13 pro|>=|14.0.5.0|<=|14.0.5.0|CVE-2024-4405|9.6|0|1.2|Xiaomi Pro 13 mimarket manual-upgrade Cross-Site Scripting Remote Code Execution Vulnerability. This vulnerabi
+M|Xiaomi|xiaomi 13 pro|>=|14.0.5.0|<=|14.0.5.0|CVE-2024-4406|9.6|0|2.2|Xiaomi Pro 13 GetApps integral-dialog-page Cross-Site Scripting Remote Code Execution Vulnerability. This vuln
+M|Xiaomi|xiaomi ai speaker|||<|1.59.6|CVE-2020-14096|9.8|0|1.2|Memory overflow in Xiaomi AI speaker Rom version <1.59.6 can happen when the speaker verifying a malicious fir
+M|Xiaomi|xiaomi lamp 1|>=|2.0.4_0066|<=|2.0.4_0066|CVE-2022-31277|8.8|0|0.6|Xiaomi Lamp 1 v2.0.4_0066 was discovered to be vulnerable to replay attacks. This allows attackers to to bypas
+M|Xiaomi|xiaomi mi-a1|||||CVE-2018-18698|9.8|0|1.1|An issue was discovered on Xiaomi Mi A1 tissot_sprout:8.1.0/OPM1.171019.026/V9.6.4.0.ODHMIFE devices. They sto
+M|Xiaomi|xiaomi millet|>=|1-6.3.9.3|<=|1-6.3.9.3|CVE-2019-15843|7.4|0|0.8|A malicious file upload vulnerability was discovered in Xiaomi Millet mobile phones 1-6.3.9.3. A particular co
+M|Xiaomi|xiaomi miwifi xiaomi 55dd|>=|2.8.50|<=|2.8.50|CVE-2018-16307|7.5|0|2.0|An "Out-of-band resource load" issue was discovered on Xiaomi MIWiFi Xiaomi_55DD Version 2.8.50 devices. It is
+M|Xiaomi|xiaomi r3600|||<|1.0.20|CVE-2020-11959|7.5|0|1.4|An unsafe configuration of nginx lead to information leak in Xiaomi router R3600 ROM before 1.0.50.
+M|Xiaomi|xiaomi r3600|||<|1.0.20|CVE-2020-11960|9.8|0|1.4|Xiaomi router R3600 ROM before 1.0.50 is affected by a vulnerability when checking backup file in c_upload int
+M|Xiaomi|xiaomi r3600|||<|1.0.20|CVE-2020-11961|7.5|0|1.2|Xiaomi router R3600 ROM before 1.0.50 is affected by a sensitive information leakage caused by an insecure int
+M|Xiaomi|xiaomi r3600|||<|1.0.20|CVE-2020-14094|9.8|0|2.3|In Xiaomi router R3600, ROM version<1.0.20, the connection service can be injected through the web interface, 
+M|Xiaomi|xiaomi r3600|||<|1.0.20|CVE-2020-14095|9.8|0|2.3|In Xiaomi router R3600, ROM version<1.0.20, a connect service suffers from an injection vulnerability through 
+M|Xiaomi|xiaomi r3c|||<|2.12.15|CVE-2018-14010|9.8|0|4.5|OS command injection in the guest Wi-Fi settings feature in /cgi-bin/luci on Xiaomi R3P before 2.14.5, R3C bef
+M|Xiaomi|xiaomi r3d|||<|2.26.4|CVE-2018-14010|9.8|0|4.5|OS command injection in the guest Wi-Fi settings feature in /cgi-bin/luci on Xiaomi R3P before 2.14.5, R3C bef
+M|Xiaomi|xiaomi r3d|||<|2.26.4|CVE-2018-14060|9.8|0|4.5|OS command injection in the AP mode settings feature in /cgi-bin/luci /api/misystem/set_router_wifiap on Xiaom
+M|Xiaomi|xiaomi r3p|||<|2.14.5|CVE-2018-14010|9.8|0|4.5|OS command injection in the guest Wi-Fi settings feature in /cgi-bin/luci on Xiaomi R3P before 2.14.5, R3C bef
+M|Xiaomi|xiaomi router ax3200|||<|2023.2|CVE-2023-26320|7.5|0|1.1|Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in Xiaomi Xi
+M|Xiaomi|xiaomi router|>=|2020|<|2023.2|CVE-2020-14140|7.5|0|1.0|When Xiaomi router firmware is updated in 2020, there is an unauthenticated API that can reveal WIFI password 
+M|Xiaomi|xiaomi router|||<|2023.2|CVE-2023-26317|7.0|0|1.1|Xiaomi routers have an external interface that can lead to command injection. The vulnerability is caused by l
+M|Xiaomi|zncz03lm|||||CVE-2019-15913|9.8|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Because of in
+M|Xiaomi|zncz03lm|||||CVE-2019-15914|7.5|0|1.3|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, WSDCGQ01LM, RTCGQ01LM devices. Attackers can
+M|Xiaomi|zncz03lm|||||CVE-2019-15915|7.5|0|1.2|An issue was discovered on Xiaomi DGNWG03LM, ZNCZ03LM, MCCGQ01LM, RTCGQ01LM devices. Attackers can utilize the

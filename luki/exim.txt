@@ -1,0 +1,126 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|exim|>=|2.10|<=|2.10|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|2.11|<=|2.11|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|2.12|<=|2.12|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.00|<=|3.00|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.01|<=|3.01|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.02|<=|3.02|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.03|<=|3.03|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.10|<=|3.10|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.11|<=|3.11|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.12|<=|3.12|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.13|<=|3.13|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.14|<=|3.14|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.15|<=|3.15|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.16|<=|3.16|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.20|<=|3.20|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.21|<=|3.21|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.22|<=|3.22|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.30|<=|3.30|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.31|<=|3.31|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.32|<=|3.32|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.33|<=|3.33|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.34|<=|3.34|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.35|<=|3.35|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|3.36|<=|3.36|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.00|<=|4.00|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.00|<|4.92|CVE-2020-28020|9.8|0|7.9|Exim 4 before 4.92 allows Integer Overflow to Buffer Overflow, in which an unauthenticated remote attacker can
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28007|7.8|0|0.5|Exim 4 before 4.94.2 allows Execution with Unnecessary Privileges. Because Exim operates as root in the log di
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28008|7.8|0|0.4|Exim 4 before 4.94.2 allows Execution with Unnecessary Privileges. Because Exim operates as root in the spool 
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28009|7.8|0|0.5|Exim 4 before 4.94.2 allows Integer Overflow to Buffer Overflow because get_stdinput allows unbounded reads th
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28010|7.8|0|0.4|Exim 4 before 4.94.2 allows Out-of-bounds Write because the main function, while setuid root, copies the curre
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28011|7.8|0|0.4|Exim 4 before 4.94.2 allows Heap-based Buffer Overflow in queue_run via two sender options: -R and -S. This ma
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28012|7.8|0|0.4|Exim 4 before 4.94.2 allows Exposure of File Descriptor to Unintended Control Sphere because rda_interpret use
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28013|7.8|0|0.4|Exim 4 before 4.94.2 allows Heap-based Buffer Overflow because it mishandles "-F '.('" on the command line, an
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28015|7.8|0|0.4|Exim 4 before 4.94.2 has Improper Neutralization of Line Delimiters. Local users can alter the behavior of roo
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28016|7.8|0|0.4|Exim 4 before 4.94.2 allows an off-by-two Out-of-bounds Write because "-F ''" is mishandled by parse_fix_phras
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28021|8.8|0|4.1|Exim 4 before 4.94.2 has Improper Neutralization of Line Delimiters. An authenticated remote SMTP client can i
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28022|9.8|0|3.0|Exim 4 before 4.94.2 has Improper Restriction of Write Operations within the Bounds of a Memory Buffer. This o
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28023|7.5|0|2.6|Exim 4 before 4.94.2 allows Out-of-bounds Read. smtp_setup_msg may disclose sensitive information from process
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28024|9.8|0|4.2|Exim 4 before 4.94.2 allows Buffer Underwrite that may result in unauthenticated remote attackers executing ar
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28025|7.5|0|2.8|Exim 4 before 4.94.2 allows Out-of-bounds Read because pdkim_finish_bodyhash does not validate the relationshi
+V|exim|>=|4.00|<|4.94.2|CVE-2020-28026|9.8|0|9.3|Exim 4 before 4.94.2 has Improper Neutralization of Line Delimiters, relevant in non-default configurations th
+V|exim|>=|4.01|<=|4.01|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.02|<=|4.02|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.03|<=|4.03|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.04|<=|4.04|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.05|<=|4.05|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.10|<=|4.10|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.11|<=|4.11|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.12|<=|4.12|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.14|<=|4.14|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.20|<=|4.20|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.21|<=|4.21|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.22|<=|4.22|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.23|<=|4.23|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.24|<=|4.24|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.30|<=|4.30|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.31|<=|4.31|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.32|<=|4.32|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.33|<=|4.33|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.34|<=|4.34|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.40|<=|4.40|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.41|<=|4.41|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.42|<=|4.42|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.43|<=|4.43|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.44|<=|4.44|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.50|<=|4.50|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.51|<=|4.51|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.52|<=|4.52|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.53|<=|4.53|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.54|<=|4.54|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.60|<=|4.60|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.61|<=|4.61|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.62|<=|4.62|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.63|<=|4.63|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.64|<=|4.64|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.65|<=|4.65|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.66|<=|4.66|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.67|<=|4.67|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.68|<=|4.68|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.69|<=|4.69|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.70|<=|4.70|CVE-2011-1407|7.5|0|3.8|The DKIM implementation in Exim 4.7x before 4.76 permits matching for DKIM identities to apply to lookup items
+V|exim|>=|4.70|<=|4.70|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.71|<=|4.71|CVE-2011-1407|7.5|0|3.8|The DKIM implementation in Exim 4.7x before 4.76 permits matching for DKIM identities to apply to lookup items
+V|exim|>=|4.71|<=|4.71|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.72|<=|4.72|CVE-2011-1407|7.5|0|3.8|The DKIM implementation in Exim 4.7x before 4.76 permits matching for DKIM identities to apply to lookup items
+V|exim|>=|4.72|<=|4.72|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.73|<=|4.73|CVE-2011-1407|7.5|0|3.8|The DKIM implementation in Exim 4.7x before 4.76 permits matching for DKIM identities to apply to lookup items
+V|exim|>=|4.73|<=|4.73|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.74|<=|4.74|CVE-2011-1407|7.5|0|3.8|The DKIM implementation in Exim 4.7x before 4.76 permits matching for DKIM identities to apply to lookup items
+V|exim|>=|4.74|<=|4.74|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|>=|4.75|<=|4.75|CVE-2011-1407|7.5|0|3.8|The DKIM implementation in Exim 4.7x before 4.76 permits matching for DKIM identities to apply to lookup items
+V|exim|>=|4.85|<=|4.92|CVE-2019-13917|9.8|0|8.6|Exim 4.85 through 4.92 (fixed in 4.92.1) allows remote code execution as root in some unusual configurations t
+V|exim|>=|4.87|<=|4.91|CVE-2019-10149|9.8|1|100.0|A flaw was found in Exim versions 4.87 to 4.91 (inclusive). Improper validation of recipient address in delive
+V|exim|>=|4.88|<=|4.88|CVE-2017-16943|9.8|0|47.1|The receive_msg function in receive.c in the SMTP daemon in Exim 4.88 and 4.89 allows remote attackers to exec
+V|exim|>=|4.88|<=|4.88|CVE-2017-16944|7.5|0|63.4|The receive_msg function in receive.c in the SMTP daemon in Exim 4.88 and 4.89 allows remote attackers to caus
+V|exim|>=|4.88|<|4.94.2|CVE-2020-28019|7.5|0|61.7|Exim 4 before 4.94.2 has Improper Initialization that can lead to recursion-based stack consumption or other c
+V|exim|>=|4.89|<=|4.89|CVE-2017-16943|9.8|0|47.1|The receive_msg function in receive.c in the SMTP daemon in Exim 4.88 and 4.89 allows remote attackers to exec
+V|exim|>=|4.89|<=|4.89|CVE-2017-16944|7.5|0|63.4|The receive_msg function in receive.c in the SMTP daemon in Exim 4.88 and 4.89 allows remote attackers to caus
+V|exim|>=|4.90|<|4.94.2|CVE-2020-28018|9.8|0|56.5|Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds w
+V|exim|>=|4.92|<=|4.92.2|CVE-2019-16928|9.8|1|41.6|Exim 4.92 through 4.92.2 allows remote code execution, a different vulnerability than CVE-2019-15846. There is
+V|exim|>=|4.96|<=|4.98.1|CVE-2025-30232|8.1|0|0.5|A use-after-free in Exim 4.96 through 4.98.1 could allow users (with command-line access) to escalate privileg
+V|exim|>=|4.97|<|4.99.3|CVE-2026-45185|9.8|0|1.3|Exim before 4.99.3, in certain GnuTLS configurations, has a remotely reachable use-after-free in the BDAT body
+V|exim|>=|4.98|<|4.98.1|CVE-2025-26794|7.5|0|77.6|Exim 4.98 before 4.98.1, when SQLite hints and ETRN serialization are used, allows remote SQL injection. (Reso
+V|exim|||<=|4.72|CVE-2010-4345|7.8|1|18.0|Exim 4.72 and earlier allows local users to gain privileges by leveraging the ability of the exim user account
+V|exim|||<=|4.75|CVE-2011-1764|7.5|0|3.9|Format string vulnerability in the dkim_exim_verify_finish function in src/dkim.c in Exim before 4.76 might al
+V|exim|||<=|4.86|CVE-2016-1531|7.0|0|6.2|Exim before 4.86.2, when installed setuid root, allows local users to gain privileges via the perl_startup arg
+V|exim|||<=|4.93|CVE-2020-12783|7.5|0|4.6|Exim through 4.93 has an out-of-bounds read in the SPA authenticator that could result in SPA/NTLM authenticat
+V|exim|||<=|4.94.2|CVE-2021-38371|7.5|0|2.0|The STARTTLS feature in Exim through 4.94.2 allows response injection (buffering) during MTA SMTP sending.
+V|exim|||<=|4.97.1|CVE-2024-39929|5.4|0|41.5|Exim through 4.97.1 misparses a multiline RFC 2231 header filename, and thus remote attackers can bypass a $mi
+V|exim|||<|4.100.1|CVE-2026-94054|7.0|0|0.3|Exim before 4.100.1, when Proxy-Protocol is used with an attacker-controlled proxy, has an out-of-bounds write
+V|exim|||<|4.100.1|CVE-2026-94056|7.5|0|0.2|Exim before 4.100.1, when Proxy-Protocol is used with an attacker-controlled proxy, allows attackers to read c
+V|exim|||<|4.70|CVE-2010-4344|9.8|1|71.7|Heap-based buffer overflow in the string_vformat function in string.c in Exim before 4.70 allows remote attack
+V|exim|||<|4.90.1|CVE-2018-6789|9.8|1|82.1|An issue was discovered in the base64d function in the SMTP listener in Exim before 4.90.1. By sending a handc
+V|exim|||<|4.92.2|CVE-2019-15846|9.8|0|35.7|Exim before 4.92.2 allows remote attackers to execute arbitrary code as root via a trailing backslash.
+V|exim|||<|4.93.0.4-3.1|CVE-2020-8015|8.4|0|0.5|A UNIX Symbolic Link (Symlink) Following vulnerability in the packaging of exim in openSUSE Factory allows loc
+V|exim|||<|4.94.1|CVE-2020-28017|9.8|0|36.9|Exim 4 before 4.94.2 allows Integer Overflow to Buffer Overflow in receive_add_recipient via an e-mail message
+V|exim|||<|4.95|CVE-2022-37452|9.8|0|3.8|Exim before 4.95 has a heap-based buffer overflow for the alias list in host_name_lookup in host.c when sender
+V|exim|||<|4.96.1|CVE-2023-42114|5.3|0|27.1|Exim NTLM Challenge Out-Of-Bounds Read Information Disclosure Vulnerability. This vulnerability allows remote 
+V|exim|||<|4.96.1|CVE-2023-42115|9.8|0|12.2|Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers 
+V|exim|||<|4.96.1|CVE-2023-42116|9.8|0|3.8|Exim SMTP Challenge Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows
+V|exim|||<|4.96.2|CVE-2023-42117|9.8|0|6.8|Exim Improper Neutralization of Special Elements Remote Code Execution Vulnerability. This vulnerability allow
+V|exim|||<|4.96|CVE-2022-37451|7.5|0|3.3|Exim before 4.96 has an invalid free in pam_converse in auths/call_pam.c because store_free is not used after 
+V|exim|||<|4.99.1|CVE-2025-67896|7.0|0|0.5|Exim before 4.99.1, with certain non-default rate-limit configurations, allows a remote heap-based buffer over
+V|exim|||<|4.99.5|CVE-2026-66140|8.4|0|0.4|Exim before 4.99.5 allows directory traversal to access files outside of the spool area, and consequently gain
+V|exim|||<|4.99.5|CVE-2026-66141|7.4|0|0.1|Exim before 4.99.5 allows .forward privilege escalation because force_command for a pipe transport is mishandl

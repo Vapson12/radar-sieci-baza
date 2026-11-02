@@ -1,0 +1,619 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|DrayTek|VigorConnect|||||CVE-2021-20123|0.0|1|89.7|Draytek VigorConnect Path Traversal Vulnerability
+M|DrayTek|VigorConnect|||||CVE-2021-20124|0.0|1|95.9|Draytek VigorConnect Path Traversal Vulnerability
+M|DrayTek|vigor 2960|>=|1.5.1.4|<=|1.5.1.4|CVE-2023-1162|7.2|0|26.0|** UNSUPPORTED WHEN ASSIGNED ** A vulnerability, which was classified as critical, was found in DrayTek Vigor 
+M|DrayTek|vigor1000b|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor1000b|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor1000b|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor1000b|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor1000b|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor1000b|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor1000b|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor1000b|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor1000b|||<|4.3.1.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor1000b|||<|4.3.2.8|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor1000b|||<|4.3.2.8|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor1000b|||<|4.3.2.8|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor1000b|||<|4.3.2.8|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor1000b|||<|4.3.2.8|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor1000b|||<|4.3.2.8|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor1000b|||<|4.4.3.2|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor1000b|||<|4.4.3.2|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor130|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor130|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor165|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor165|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor165|||<|4.2.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor165|||<|4.2.6|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor165|||<|4.2.6|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor165|||<|4.2.7|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor165|||<|4.2.7|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor165|||<|4.2.7|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor165|||<|4.2.7|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor165|||<|4.2.7|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor165|||<|4.2.7|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor165|||<|4.2.7|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor165|||<|4.2.7|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor166|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor166|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor166|||<|4.2.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor166|||<|4.2.6|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor166|||<|4.2.6|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor166|||<|4.2.7|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor166|||<|4.2.7|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor166|||<|4.2.7|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor166|||<|4.2.7|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor166|||<|4.2.7|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor166|||<|4.2.7|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor166|||<|4.2.7|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor166|||<|4.2.7|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor167|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor167|>=|5.2.2|<=|5.2.2|CVE-2023-47254|9.8|0|2.2|An OS Command Injection in the CLI interface on DrayTek Vigor167 version 5.2.2, allows remote attackers to exe
+M|DrayTek|vigor167|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2133ac|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2133fvac|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2133n|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2133vac|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2133|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2133|||<|3.9.8|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2133|||<|3.9.8|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2133|||<|3.9.9.2|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2133|||<|3.9.9.2|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2133|||<|3.9.9|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2133|||<|3.9.9|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2133|||<|3.9.9|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2133|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2133|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2133|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2133|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2133|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2135ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2135ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2135ac|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2135ax|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2135ax|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2135fvac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2135fvac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2135fvac|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2135vac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2135vac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2135vac|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2135|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2135|||<|4.4.5.1|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2135|||<|4.4.5.1|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2135|||<|4.4.5.1|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2135|||<|4.4.5.1|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2135|||<|4.4.5.3|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2135|||<|4.4.5.3|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2135|||<|4.4.5.3|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2135|||<|4.4.5.3|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2135|||<|4.4.5.3|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2135|||<|4.4.5.3|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2135|||<|4.4.5.5|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2135|||<|4.4.5.5|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2620ln|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2620ln|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2620ln|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2620l|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2620l|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2620l|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2620|||<|3.9.8.4|CVE-2023-31447|9.8|0|0.9|user_login.cgi on Draytek Vigor2620 devices before 3.9.8.4 (and on all versions of Vigor2925 devices) allows a
+M|DrayTek|vigor2620|||<|3.9.8.8|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2620|||<|3.9.8.8|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2620|||<|3.9.8.9|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2620|||<|3.9.8.9|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2620|||<|3.9.8.9|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2620|||<|3.9.9.1|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2620|||<|3.9.9.1|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2620|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2620|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2620|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2620|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2620|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2625|||||CVE-2023-31447|9.8|0|0.9|user_login.cgi on Draytek Vigor2620 devices before 3.9.8.4 (and on all versions of Vigor2925 devices) allows a
+M|DrayTek|vigor2762ac|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2762n|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2762vac|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2762|||<|3.9.6.4|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2762|||<|3.9.8|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2762|||<|3.9.8|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2762|||<|3.9.9.2|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2762|||<|3.9.9.2|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2762|||<|3.9.9|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2762|||<|3.9.9|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2762|||<|3.9.9|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2762|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2762|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2762|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2762|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2762|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2763ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2763ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2763|||<|4.4.5.3|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2763|||<|4.4.5.3|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2763|||<|4.4.5.3|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2763|||<|4.4.5.3|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2763|||<|4.4.5.3|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2763|||<|4.4.5.3|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2763|||<|4.4.5.5|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2763|||<|4.4.5.5|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2765ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2765ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2765ac|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2765ax|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2765ax|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2765vac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2765vac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2765vac|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2765|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2765|||<|4.4.5.1|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2765|||<|4.4.5.1|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2765|||<|4.4.5.1|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2765|||<|4.4.5.1|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2765|||<|4.4.5.3|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2765|||<|4.4.5.3|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2765|||<|4.4.5.3|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2765|||<|4.4.5.3|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2765|||<|4.4.5.3|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2765|||<|4.4.5.3|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2765|||<|4.4.5.5|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2765|||<|4.4.5.5|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2766ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2766ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2766ac|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2766ax|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2766ax|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2766vac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2766vac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2766vac|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2766|||<|4.4.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2766|||<|4.4.5.1|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2766|||<|4.4.5.1|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2766|||<|4.4.5.1|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2766|||<|4.4.5.1|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2766|||<|4.4.5.3|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2766|||<|4.4.5.3|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2766|||<|4.4.5.3|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2766|||<|4.4.5.3|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2766|||<|4.4.5.3|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2766|||<|4.4.5.3|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2766|||<|4.4.5.5|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2766|||<|4.4.5.5|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2832n|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2832n|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2832|||<|3.9.6|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2832|||<|3.9.8|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2832|||<|3.9.8|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2832|||<|3.9.9.2|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2832|||<|3.9.9.2|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2832|||<|3.9.9|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2832|||<|3.9.9|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2832|||<|3.9.9|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2832|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2832|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2832|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2832|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2832|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2860|||<|3.9.7|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2860|||<|3.9.7|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2860|||<|3.9.8.3|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2860|||<|3.9.8.3|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2860|||<|3.9.8|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2860|||<|3.9.8|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2860|||<|3.9.8|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2860|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2860|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2860|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2860|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2860|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2862ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862ac|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862bn|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862bn|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862bn|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862b|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862b|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862b|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862lac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862lac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862lac|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862ln|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862ln|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862ln|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862l|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862l|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862l|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862n|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862n|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862n|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862vac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862vac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2862vac|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2862|||<|3.9.9.4|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2862|||<|3.9.9.4|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2862|||<|3.9.9.5|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2862|||<|3.9.9.5|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2862|||<|3.9.9.5|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2862|||<|3.9.9.8|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2862|||<|3.9.9.8|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2862|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2862|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2862|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2862|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2862|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2865ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865ac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2865ax|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865ax|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865ax|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2865lac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865lac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865lac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2865l|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865l|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865l|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2865vac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865vac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2865vac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2865|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2865|||<|4.4.5.2|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2865|||<|4.4.5.2|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2865|||<|4.4.5.2|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2865|||<|4.4.5.2|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2865|||<|4.4.5.2|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2865|||<|4.4.5.2|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2865|||<|4.4.5.3|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2865|||<|4.4.5.3|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2865|||<|4.4.5.3|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2865|||<|4.4.5.3|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2865|||<|4.4.5.8|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2865|||<|4.4.5.8|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2866ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866ac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2866ax|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866ax|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866ax|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2866lac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866lac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866lac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2866l|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866l|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866l|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2866vac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866vac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2866vac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2866|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2866|||<|4.4.5.2|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2866|||<|4.4.5.2|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2866|||<|4.4.5.2|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2866|||<|4.4.5.2|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2866|||<|4.4.5.2|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2866|||<|4.4.5.2|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2866|||<|4.4.5.3|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2866|||<|4.4.5.3|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2866|||<|4.4.5.3|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2866|||<|4.4.5.3|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2866|||<|4.4.5.8|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2866|||<|4.4.5.8|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2915ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2915ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2915ac|||<|4.3.3.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2915|||<|4.3.3.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2915|||<|4.4.5.3|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2915|||<|4.4.5.3|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2915|||<|4.4.5.3|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2915|||<|4.4.5.3|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2915|||<|4.4.5.3|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2915|||<|4.4.5.3|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2915|||<|4.4.5|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2915|||<|4.4.5|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2925|||<|3.9.7|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2925|||<|3.9.7|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2925|||<|3.9.8.3|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2925|||<|3.9.8.3|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2925|||<|3.9.8|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2925|||<|3.9.8|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2925|||<|3.9.8|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2925|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2925|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2925|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2925|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2925|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2926 plus|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2926 plus|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2926ac|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2926lac|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2926ln|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2926l|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2926n|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2926vac|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2926|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2926|||<|3.9.9.4|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2926|||<|3.9.9.4|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2926|||<|3.9.9.5|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2926|||<|3.9.9.5|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2926|||<|3.9.9.5|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2926|||<|3.9.9.8|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2926|||<|3.9.9.8|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2926|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2926|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2926|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2926|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2926|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2927ac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927ac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927ac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2927ax|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927ax|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927ax|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2927f|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927f|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927lac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927lac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927lac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2927l|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927l|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927l|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2927vac|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927vac|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2927vac|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2927|||<|4.4.0|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2927|||<|4.4.5.3|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2927|||<|4.4.5.3|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2927|||<|4.4.5.3|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2927|||<|4.4.5.3|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2927|||<|4.4.5.8|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2927|||<|4.4.5.8|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2952p|||<|3.9.7.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2952|||<|3.9.7.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2952|||<|3.9.8.2|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2952|||<|3.9.8.5|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2952|||<|3.9.8.5|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2952|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2952|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2952|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2952|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2952|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2960|>=|1.3.1beta|<=|1.3.1beta|CVE-2020-8515|9.8|1|100.0|DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta dev
+M|DrayTek|vigor2960|>=|1.4.4|<=|1.4.4|CVE-2024-48074|8.0|0|0.7|An authorized RCE vulnerability exists in the DrayTek Vigor2960 router version 1.4.4, where an attacker can pl
+M|DrayTek|vigor2960|>=|1.5.1.3|<=|1.5.1.3|CVE-2021-43118|9.8|0|34.8|A Remote Command Injection vulnerability exists in DrayTek Vigor 2960 1.5.1.3, DrayTek Vigor 3900 1.5.1.3, and
+M|DrayTek|vigor2960|>=|1.5.1.3|<|1.5.1.5|CVE-2024-12986|6.9|0|35.3|A vulnerability, which was classified as critical, has been found in DrayTek Vigor2960 and Vigor300B 1.5.1.3/1
+M|DrayTek|vigor2960|>=|1.5.1.4|<=|1.5.1.4|CVE-2023-1009|6.5|0|15.7|** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as critical has been found in DrayTek Vigor 2960 1.
+M|DrayTek|vigor2960|>=|1.5.1.4|<=|1.5.1.4|CVE-2023-24229|7.8|0|6.7|DrayTek Vigor2960 v1.5.1.4 allows an authenticated attacker with network access to the web management interfac
+M|DrayTek|vigor2960|>=|1.5.1.4|<=|1.5.1.4|CVE-2024-12987|6.9|1|98.2|A vulnerability, which was classified as critical, was found in DrayTek Vigor2960 and Vigor300B 1.5.1.4. Affec
+M|DrayTek|vigor2960|||<=|1.5.1.3|CVE-2021-42911|9.8|0|3.5|A Format String vulnerability exists in DrayTek Vigor 2960 <= 1.5.1.3, DrayTek Vigor 3900 <= 1.5.1.3, and Dray
+M|DrayTek|vigor2960|||<=|1.5.1|CVE-2020-19664|8.8|0|5.5|DrayTek Vigor2960 1.5.1 allows remote command execution via shell metacharacters in a toLogin2FA action to mai
+M|DrayTek|vigor2960|||<|1.5.1.1|CVE-2020-14472|9.8|0|2.9|On Draytek Vigor3900, Vigor2960, and Vigor 300B devices before 1.5.1.1, there are some command-injection vulne
+M|DrayTek|vigor2960|||<|1.5.1.1|CVE-2020-14473|9.8|0|2.3|Stack-based buffer overflow vulnerability in Vigor3900, Vigor2960, and Vigor300B with firmware before 1.5.1.1.
+M|DrayTek|vigor2960|||<|1.5.1.1|CVE-2020-14993|9.8|0|5.5|A stack-based buffer overflow on DrayTek Vigor2960, Vigor3900, and Vigor300B devices before 1.5.1.1 allows rem
+M|DrayTek|vigor2960|||<|1.5.1.5|CVE-2024-43027|8.0|0|1.3|DrayTek Vigor 3900 before v1.5.1.5_Beta, DrayTek Vigor 2960 before v1.5.1.5_Beta and DrayTek Vigor 300B before
+M|DrayTek|vigor2960|||<|1.5.1|CVE-2020-10823|9.8|0|4.4|A stack-based buffer overflow in /cgi-bin/activate.cgi through var parameter on Draytek Vigor3900, Vigor2960, 
+M|DrayTek|vigor2960|||<|1.5.1|CVE-2020-10824|9.8|0|4.1|A stack-based buffer overflow in /cgi-bin/activate.cgi through ticket parameter on Draytek Vigor3900, Vigor296
+M|DrayTek|vigor2960|||<|1.5.1|CVE-2020-10825|9.8|0|4.1|A stack-based buffer overflow in /cgi-bin/activate.cgi while base64 decoding ticket parameter on Draytek Vigor
+M|DrayTek|vigor2960|||<|1.5.1|CVE-2020-10826|9.8|0|39.4|/cgi-bin/activate.cgi on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allows remote attack
+M|DrayTek|vigor2960|||<|1.5.1|CVE-2020-10827|9.8|0|20.9|A stack-based buffer overflow in apmd on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allo
+M|DrayTek|vigor2960|||<|1.5.1|CVE-2020-10828|9.8|0|20.9|A stack-based buffer overflow in cvmd on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allo
+M|DrayTek|vigor2960|||<|1.5.1|CVE-2020-15415|9.8|1|84.5|On DrayTek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1, cgi-bin/mainfunction.cgi/cvmcfgupload all
+M|DrayTek|vigor2962p|||<|4.3.1.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2962|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2962|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2962|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2962|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2962|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2962|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2962|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2962|>=|4.4.3.0|<=|4.4.3.0|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2962|>=|4.4.3.0|<=|4.4.3.0|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2962|>=|4.4.3|<|4.4.3.2|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2962|>=|4.4.3|<|4.4.3.2|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor2962|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor2962|||<|4.3.1.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor2962|||<|4.3.2.7|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor2962|||<|4.3.2.7|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor2962|||<|4.3.2.8|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor2962|||<|4.3.2.8|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor2962|||<|4.3.2.8|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor2962|||<|4.3.2.8|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor2962|||<|4.3.2.8|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor2962|||<|4.3.2.8|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor2962|||<|4.3.2.8|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor2962|||<|4.3.2.8|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor2962|||<|4.3.2.9|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor2962|||<|4.3.2.9|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor300b|>=|1.3.3beta|<=|1.3.3beta|CVE-2020-8515|9.8|1|100.0|DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta dev
+M|DrayTek|vigor300b|>=|1.4.2.1beta|<=|1.4.2.1beta|CVE-2020-8515|9.8|1|100.0|DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta dev
+M|DrayTek|vigor300b|>=|1.4.4beta|<=|1.4.4beta|CVE-2020-8515|9.8|1|100.0|DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta dev
+M|DrayTek|vigor300b|>=|1.5.1.3|<=|1.5.1.3|CVE-2021-43118|9.8|0|34.8|A Remote Command Injection vulnerability exists in DrayTek Vigor 2960 1.5.1.3, DrayTek Vigor 3900 1.5.1.3, and
+M|DrayTek|vigor300b|>=|1.5.1.3|<|1.5.1.5|CVE-2024-12986|6.9|0|35.3|A vulnerability, which was classified as critical, has been found in DrayTek Vigor2960 and Vigor300B 1.5.1.3/1
+M|DrayTek|vigor300b|>=|1.5.1.4|<=|1.5.1.4|CVE-2024-12987|6.9|1|98.2|A vulnerability, which was classified as critical, was found in DrayTek Vigor2960 and Vigor300B 1.5.1.4. Affec
+M|DrayTek|vigor300b|||<=|1.5.1.3|CVE-2021-42911|9.8|0|3.5|A Format String vulnerability exists in DrayTek Vigor 2960 <= 1.5.1.3, DrayTek Vigor 3900 <= 1.5.1.3, and Dray
+M|DrayTek|vigor300b|||<=|1.5.1.6|CVE-2026-3040|2.0|0|10.1|A vulnerability was identified in DrayTek Vigor 300B up to 1.5.1.6. This affects the function cgiGetFile of th
+M|DrayTek|vigor300b|||<|1.5.1.1|CVE-2020-14472|9.8|0|2.9|On Draytek Vigor3900, Vigor2960, and Vigor 300B devices before 1.5.1.1, there are some command-injection vulne
+M|DrayTek|vigor300b|||<|1.5.1.1|CVE-2020-14473|9.8|0|2.3|Stack-based buffer overflow vulnerability in Vigor3900, Vigor2960, and Vigor300B with firmware before 1.5.1.1.
+M|DrayTek|vigor300b|||<|1.5.1.1|CVE-2020-14993|9.8|0|5.5|A stack-based buffer overflow on DrayTek Vigor2960, Vigor3900, and Vigor300B devices before 1.5.1.1 allows rem
+M|DrayTek|vigor300b|||<|1.5.1.5|CVE-2024-43027|8.0|0|1.3|DrayTek Vigor 3900 before v1.5.1.5_Beta, DrayTek Vigor 2960 before v1.5.1.5_Beta and DrayTek Vigor 300B before
+M|DrayTek|vigor300b|||<|1.5.1|CVE-2020-10823|9.8|0|4.4|A stack-based buffer overflow in /cgi-bin/activate.cgi through var parameter on Draytek Vigor3900, Vigor2960, 
+M|DrayTek|vigor300b|||<|1.5.1|CVE-2020-10824|9.8|0|4.1|A stack-based buffer overflow in /cgi-bin/activate.cgi through ticket parameter on Draytek Vigor3900, Vigor296
+M|DrayTek|vigor300b|||<|1.5.1|CVE-2020-10825|9.8|0|4.1|A stack-based buffer overflow in /cgi-bin/activate.cgi while base64 decoding ticket parameter on Draytek Vigor
+M|DrayTek|vigor300b|||<|1.5.1|CVE-2020-10826|9.8|0|39.4|/cgi-bin/activate.cgi on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allows remote attack
+M|DrayTek|vigor300b|||<|1.5.1|CVE-2020-10827|9.8|0|20.9|A stack-based buffer overflow in apmd on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allo
+M|DrayTek|vigor300b|||<|1.5.1|CVE-2020-10828|9.8|0|20.9|A stack-based buffer overflow in cvmd on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allo
+M|DrayTek|vigor300b|||<|1.5.1|CVE-2020-15415|9.8|1|84.5|On DrayTek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1, cgi-bin/mainfunction.cgi/cvmcfgupload all
+M|DrayTek|vigor3220|||<|3.9.7.2|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor3220|||<|3.9.8.2|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor3220|||<|3.9.8.5|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor3220|||<|3.9.8.5|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor3220|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor3220|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor3220|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor3220|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor3220|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor3900|>=|1.4.4beta|<=|1.4.4beta|CVE-2020-8515|9.8|1|100.0|DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta dev
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2021-43118|9.8|0|34.8|A Remote Command Injection vulnerability exists in DrayTek Vigor 2960 1.5.1.3, DrayTek Vigor 3900 1.5.1.3, and
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45882|8.0|0|1.6|DrayTek Vigor3900 1.5.1.3 contains a command injection vulnerability. This vulnerability occurs when the `acti
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45884|8.0|0|2.1|DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability o
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45885|8.0|0|1.3|DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability o
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45887|8.0|0|2.1|DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability o
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45888|8.0|0|2.0|DrayTek Vigor3900 1.5.1.3 contains a command injection vulnerability. This vulnerability occurs when the `acti
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45889|8.0|0|1.6|DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability o
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45890|8.0|0|2.1|DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability This vulnerability oc
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45891|8.0|0|1.3|DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability o
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-45893|8.0|0|1.6|DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability o
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-48153|9.8|0|0.7|DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbi
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51244|8.8|0|0.8|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51245|8.8|0|0.8|In DrayTek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51246|8.0|0|0.4|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51247|8.8|0|0.8|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51248|8.8|0|0.8|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51249|8.0|0|0.7|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51251|8.0|0|0.7|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51252|9.8|0|0.8|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51253|8.0|0|0.7|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51254|8.8|0|0.4|DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbi
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51255|9.8|0|0.4|DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbi
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51257|8.8|0|0.4|DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbi
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51258|8.8|0|0.6|DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbi
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51259|9.8|0|0.4|DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbi
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51260|9.8|0|0.6|DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbi
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51296|8.8|0|0.6|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51298|9.8|0|0.6|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51299|8.8|0|0.6|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51300|8.8|0|0.6|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51301|8.8|0|0.6|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.3|<=|1.5.1.3|CVE-2024-51304|8.8|0|0.6|In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitr
+M|DrayTek|vigor3900|>=|1.5.1.6|<=|1.5.1.6|CVE-2024-44844|8.8|0|1.9|DrayTek Vigor3900 v1.5.1.6 was discovered to contain an authenticated command injection vulnerability via the 
+M|DrayTek|vigor3900|>=|1.5.1.6|<=|1.5.1.6|CVE-2024-44845|8.8|0|2.0|DrayTek Vigor3900 v1.5.1.6 was discovered to contain an authenticated command injection vulnerability via the 
+M|DrayTek|vigor3900|>=|1.5.1.6|<=|1.5.1.6|CVE-2024-46316|8.0|0|1.1|DrayTek Vigor3900 v1.5.1.6 was discovered to contain a command injection vulnerability via the sub_2C920 funct
+M|DrayTek|vigor3900|||<=|1.5.1.3|CVE-2021-42911|9.8|0|3.5|A Format String vulnerability exists in DrayTek Vigor 2960 <= 1.5.1.3, DrayTek Vigor 3900 <= 1.5.1.3, and Dray
+M|DrayTek|vigor3900|||<|1.5.1.1|CVE-2020-14472|9.8|0|2.9|On Draytek Vigor3900, Vigor2960, and Vigor 300B devices before 1.5.1.1, there are some command-injection vulne
+M|DrayTek|vigor3900|||<|1.5.1.1|CVE-2020-14473|9.8|0|2.3|Stack-based buffer overflow vulnerability in Vigor3900, Vigor2960, and Vigor300B with firmware before 1.5.1.1.
+M|DrayTek|vigor3900|||<|1.5.1.1|CVE-2020-14993|9.8|0|5.5|A stack-based buffer overflow on DrayTek Vigor2960, Vigor3900, and Vigor300B devices before 1.5.1.1 allows rem
+M|DrayTek|vigor3900|||<|1.5.1.5|CVE-2024-43027|8.0|0|1.3|DrayTek Vigor 3900 before v1.5.1.5_Beta, DrayTek Vigor 2960 before v1.5.1.5_Beta and DrayTek Vigor 300B before
+M|DrayTek|vigor3900|||<|1.5.1|CVE-2020-10823|9.8|0|4.4|A stack-based buffer overflow in /cgi-bin/activate.cgi through var parameter on Draytek Vigor3900, Vigor2960, 
+M|DrayTek|vigor3900|||<|1.5.1|CVE-2020-10824|9.8|0|4.1|A stack-based buffer overflow in /cgi-bin/activate.cgi through ticket parameter on Draytek Vigor3900, Vigor296
+M|DrayTek|vigor3900|||<|1.5.1|CVE-2020-10825|9.8|0|4.1|A stack-based buffer overflow in /cgi-bin/activate.cgi while base64 decoding ticket parameter on Draytek Vigor
+M|DrayTek|vigor3900|||<|1.5.1|CVE-2020-10826|9.8|0|39.4|/cgi-bin/activate.cgi on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allows remote attack
+M|DrayTek|vigor3900|||<|1.5.1|CVE-2020-10827|9.8|0|20.9|A stack-based buffer overflow in apmd on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allo
+M|DrayTek|vigor3900|||<|1.5.1|CVE-2020-10828|9.8|0|20.9|A stack-based buffer overflow in cvmd on Draytek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1 allo
+M|DrayTek|vigor3900|||<|1.5.1|CVE-2020-15415|9.8|1|84.5|On DrayTek Vigor3900, Vigor2960, and Vigor300B devices before 1.5.1, cgi-bin/mainfunction.cgi/cvmcfgupload all
+M|DrayTek|vigor3910|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46550|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the CGIbyFieldName parameter at chg
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46551|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sBPA_Pwd parameter at inet15.cg
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46552|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sStRtMskShow parameter at ipstr
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46553|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the ipaddrmsk%d parameter at v2x00.
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46554|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the profname parameter at v2x00.cgi
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46555|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the pb parameter at v2x00.cgi. This
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46556|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sInRCSecret0 parameter at v2x00
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46557|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sProfileName parameter at v2x00
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46558|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the newProname parameter at v2x00.c
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46559|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sBPA_UsrNme parameter at inet15
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46560|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the pub_key parameter at v2x00.cgi.
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46561|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the queryret parameter at v2x00.cgi
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46564|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sProfileName parameter at fexto
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46565|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sSrvName parameter at service.c
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46566|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sAppName parameter at sslapp.cg
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46567|7.5|0|0.5|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the iProfileIdx parameter at v2x00.
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46568|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sPeerId parameter at vpn.cgi. T
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46571|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sPPPSrvNm parameter at fwuser.c
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46580|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the fid parameter at v2x00.cgi. Thi
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46581|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sProfName parameter at v2x00.cg
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46582|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sSrvAddr parameter at v2x00.cgi
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46583|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the extRadSrv2 parameter at cgiapp.
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46584|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the AControlIp1 parameter at acontr
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46585|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sProfileName parameter at userg
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46586|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sCloudPass parameter at v2x00.c
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46588|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sProfileName parameter at wizfw
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46589|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sIpv6AiccuUser parameter at ine
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46590|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the ssidencrypt%d parameter at v2x0
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46591|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sDnsPro parameter at v2x00.cgi.
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46592|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the ssidencrypt_5g%d parameter at v
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46593|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the trapcomm parameter at cgiswm.cg
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46594|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the saveVPNProfile parameter at v2x
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46595|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the saveitem parameter at lan2lan.c
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46596|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sAct parameter at v2x00.cgi. Th
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46597|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the sPubKey parameter at dialin.cgi
+M|DrayTek|vigor3910|>=|4.3.2.6|<=|4.3.2.6|CVE-2024-46598|7.5|0|0.4|Draytek Vigor 3910 v4.3.2.6 was discovered to contain a buffer overflow in the iprofileidx parameter at dialin
+M|DrayTek|vigor3910|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor3910|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor3910|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor3910|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor3910|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor3910|>=|4.4.0.0|<|4.4.3.1|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor3910|>=|4.4.3|<=|4.4.3|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor3910|>=|4.4.3|<=|4.4.3|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor3910|>=|4.4.3|<|4.4.3.2|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor3910|>=|4.4.3|<|4.4.3.2|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor3910|||<=|4.3.2.5|CVE-2024-23721|7.5|0|0.9|A Directory Traversal issue was discovered in process_post on Draytek Vigor3910 4.3.2.5 devices. When sending 
+M|DrayTek|vigor3910|||<=|4.3.2.6|CVE-2024-41586|8.0|0|0.5|A stack-based Buffer Overflow vulnerability in DrayTek Vigor310 devices through 4.3.2.6 allows a remote attack
+M|DrayTek|vigor3910|||<=|4.3.2.6|CVE-2024-41589|8.8|0|0.3|DrayTek Vigor310 devices through 4.3.2.6 use unencrypted HTTP for authentication requests.
+M|DrayTek|vigor3910|||<=|4.3.2.6|CVE-2024-41595|8.0|0|0.3|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to change settings or cause a denial of servi
+M|DrayTek|vigor3910|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigor3910|||<|4.3.1.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigor3910|||<|4.3.2.7|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor3910|||<|4.3.2.7|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor3910|||<|4.3.2.8|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor3910|||<|4.3.2.8|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor3910|||<|4.3.2.8|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor3910|||<|4.3.2.8|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor3910|||<|4.3.2.8|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor3910|||<|4.3.2.8|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor3910|||<|4.3.2.8|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor3910|||<|4.3.2.8|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor3910|||<|4.3.2.9|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor3910|||<|4.3.2.9|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigor3912|||<|4.3.5.2|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigor3912|||<|4.3.5.2|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigor3912|||<|4.3.6.1|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigor3912|||<|4.3.6.1|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigor3912|||<|4.3.6.1|CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigor3912|||<|4.3.6.1|CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigor3912|||<|4.3.6.1|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigor3912|||<|4.3.6.1|CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigor3912|||<|4.3.6.1|CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigor3912|||<|4.3.6.1|CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigor3912|||<|4.4.3.2|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigor3912|||<|4.4.3.2|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigorap 1000c|||<|1.4.0|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorap 1060c|||<|1.4.0|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorap 903|||<|1.4.0|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorap 906|||<|1.4.0|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorap 910c|>=|1.2.0rc3|<=|1.2.0rc3|CVE-2017-11649|8.8|0|0.7|Cross-site request forgery (CSRF) vulnerability in DrayTek Vigor AP910C devices with firmware 1.2.0_RC3 build 
+M|DrayTek|vigorap 910c|>=|1.3.1|<=|1.3.1|CVE-2020-3932|7.5|0|1.1|A vulnerable SNMP in Draytek VigorAP910C cannot be disabled, which may cause information leakage.
+M|DrayTek|vigorap 912c|||<|1.4.0|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorap 918r|||<|1.4.0|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorap 960c|||<|1.4.0|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorlte 200n|>=|4.0.0|<|4.2.4|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorlte 200n|||<|3.9.6|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorlte 200n|||<|3.9.8.1|CVE-2022-32548|10.0|0|34.0|An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1
+M|DrayTek|vigorlte200|||<|3.9.8.8|CVE-2024-41334|8.8|0|0.4|Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/2925 prior to 
+M|DrayTek|vigorlte200|||<|3.9.8.8|CVE-2024-41338|7.5|0|0.5|A NULL pointer dereference in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.
+M|DrayTek|vigorlte200|||<|3.9.8.9|CVE-2024-41339|8.8|0|0.6|An issue in the CGI endpoint used to upload configurations in Draytek devices Vigor 165/166 prior to v4.2.6 , 
+M|DrayTek|vigorlte200|||<|3.9.8.9|CVE-2024-41340|8.4|0|0.2|An issue in Draytek devices Vigor 165/166 prior to v4.2.6 , Vigor 2620/LTE200 prior to v3.9.8.8, Vigor 2860/29
+M|DrayTek|vigorlte200|||<|3.9.8.9|CVE-2024-41592|8.0|0|1.4|DrayTek Vigor3910 devices through 4.3.2.6 have a stack-based overflow when processing query string parameters 
+M|DrayTek|vigorlte200|||<|3.9.9.1|CVE-2024-51138|9.8|0|1.1|Vigor165/166 4.2.7 and earlier; Vigor2620/LTE200 3.9.8.9 and earlier; Vigor2860/2925 3.9.8 and earlier; Vigor2
+M|DrayTek|vigorlte200|||<|3.9.9.1|CVE-2024-51139|9.8|0|1.0|Buffer Overflow vulnerability in Vigor2620/LTE200 3.9.8.9 and earlier and Vigor2860/2925 3.9.8 and earlier and
+M|DrayTek|vigorlte200|||||CVE-2024-41588|8.0|0|0.3|The CGI endpoints v2x00.cgi and cgiwcg.cgi of DrayTek Vigor3910 devices through 4.3.2.6 are vulnerable to buff
+M|DrayTek|vigorlte200|||||CVE-2024-41590|8.0|0|0.3|Several CGI endpoints are vulnerable to buffer overflows, by authenticated users, because of missing bounds ch
+M|DrayTek|vigorlte200|||||CVE-2024-41593|9.8|0|0.9|DrayTek Vigor310 devices through 4.3.2.6 allow a remote attacker to execute arbitrary code via the function ft
+M|DrayTek|vigorlte200|||||CVE-2024-41594|7.5|0|0.3|An issue in DrayTek Vigor310 devices through 4.3.2.6 allows an attacker to obtain sensitive information becaus
+M|DrayTek|vigorlte200|||||CVE-2024-41596|8.0|0|0.3|Buffer Overflow vulnerabilities exist in DrayTek Vigor310 devices through 4.3.2.6 (in the Vigor management UI)
+M|DrayTek|vigorswitch fx2120|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch g1080|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch g1085|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch g1282|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch g2100|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch g2121|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch g2280x|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch g2540xs|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch p1282|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch p2100|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch p2280x|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch p2540xs|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch pq2121x|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch pq2200xb|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch q2121x|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc
+M|DrayTek|vigorswitch q2200x|||<|2.6.7|CVE-2023-33778|9.8|0|0.6|Draytek Vigor Routers firmware versions below 3.9.6/4.2.4, Access Points firmware versions below v1.4.0, Switc

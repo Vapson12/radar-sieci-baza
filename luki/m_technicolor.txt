@@ -1,0 +1,33 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Technicolor|cga0101|>=|cwa0101e-a23e-c7000r5712-170315-skc|<=|cwa0101e-a23e-c7000r5712-170315-skc|CVE-2018-20393|9.8|0|1.6|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU, CWA0101 CWA0101E-A23E-c7000r5712-170315-SK
+M|Technicolor|cga0111|>=|cga0111e-es-13-e23e-c8000r5712-170217-0829-tru|<=|cga0111e-es-13-e23e-c8000r5712-170217-0829-tru|CVE-2018-20393|9.8|0|1.6|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU, CWA0101 CWA0101E-A23E-c7000r5712-170315-SK
+M|Technicolor|cga0111|>=|cga0111e-es-13-e23e-c8000r5712-170217-0829-tru|<=|cga0111e-es-13-e23e-c8000r5712-170217-0829-tru|CVE-2018-20444|9.8|0|1.3|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU devices allow remote attackers to discover 
+M|Technicolor|cwa0101|>=|cwa0101e-a23e-c7000r5712-170315-skc|<=|cwa0101e-a23e-c7000r5712-170315-skc|CVE-2018-20440|9.8|0|1.4|Technicolor CWA0101 CWA0101E-A23E-c7000r5712-170315-SKC devices allow remote attackers to discover Wi-Fi crede
+M|Technicolor|dpc2320|>=|dpc2300r2-v202r1244101-150420a-v6|<=|dpc2300r2-v202r1244101-150420a-v6|CVE-2018-20381|9.8|0|1.6|Technicolor DPC2320 dpc2300r2-v202r1244101-150420a-v6 devices allow remote attackers to discover credentials v
+M|Technicolor|dpc3928sl|>=|d3928sl-p15-13-a386-c3420r55105-160127a|<=|d3928sl-p15-13-a386-c3420r55105-160127a|CVE-2017-5135|9.1|0|17.9|Certain Technicolor devices have an SNMP access-control bypass, possibly involving an ISP customization in som
+M|Technicolor|dpc3928sl|>=|d3928sl-psip-13-a010-c3420r55105-170214a|<=|d3928sl-psip-13-a010-c3420r55105-170214a|CVE-2018-20393|9.8|0|1.6|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU, CWA0101 CWA0101E-A23E-c7000r5712-170315-SK
+M|Technicolor|dpc3928sl|>=|d3928sl-psip-13-a010-c3420r55105-170214a|<=|d3928sl-psip-13-a010-c3420r55105-170214a|CVE-2018-20439|9.8|0|1.3|Technicolor DPC3928SL D3928SL-PSIP-13-A010-c3420r55105-170214a devices allow remote attackers to discover Wi-F
+M|Technicolor|dwg849|>=|stc0.01.16|<=|stc0.01.16|CVE-2018-20394|9.8|0|1.5|Thomson DWG849 STC0.01.16, DWG850-4 ST9C.05.25, DWG855 ST80.20.26, and TWG870 STB2.01.36 devices allow remote 
+M|Technicolor|dwg850-4|>=|st9c.05.25|<=|st9c.05.25|CVE-2018-20394|9.8|0|1.5|Thomson DWG849 STC0.01.16, DWG850-4 ST9C.05.25, DWG855 ST80.20.26, and TWG870 STB2.01.36 devices allow remote 
+M|Technicolor|dwg855|>=|st80.20.26|<=|st80.20.26|CVE-2018-20394|9.8|0|1.5|Thomson DWG849 STC0.01.16, DWG850-4 ST9C.05.25, DWG855 ST80.20.26, and TWG870 STB2.01.36 devices allow remote 
+M|Technicolor|tc7110.ar|>=|std3.38.03|<=|std3.38.03|CVE-2018-20393|9.8|0|1.6|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU, CWA0101 CWA0101E-A23E-c7000r5712-170315-SK
+M|Technicolor|tc7110.ar|||||CVE-2018-20438|9.8|0|1.4|Technicolor TC7110.AR STD3.38.03 devices allow remote attackers to discover Wi-Fi credentials via iso.3.6.1.4.
+M|Technicolor|tc7110.b|>=|stc8.62.02|<=|stc8.62.02|CVE-2018-20393|9.8|0|1.6|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU, CWA0101 CWA0101E-A23E-c7000r5712-170315-SK
+M|Technicolor|tc7110.b|>=|stc8.62.02|<=|stc8.62.02|CVE-2018-20442|9.8|0|1.4|Technicolor TC7110.B STC8.62.02 devices allow remote attackers to discover Wi-Fi credentials via iso.3.6.1.4.1
+M|Technicolor|tc7110.d|>=|stdb.79.02|<=|stdb.79.02|CVE-2018-20393|9.8|0|1.6|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU, CWA0101 CWA0101E-A23E-c7000r5712-170315-SK
+M|Technicolor|tc7200.d1i|>=|tc7200.d1ie-n23e-c7000r5712-170406-hat|<=|tc7200.d1ie-n23e-c7000r5712-170406-hat|CVE-2018-20393|9.8|0|1.6|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU, CWA0101 CWA0101E-A23E-c7000r5712-170315-SK
+M|Technicolor|tc7200.d1i|>=|tc7200.d1ie-n23e-c7000r5712-170406-hat|<=|tc7200.d1ie-n23e-c7000r5712-170406-hat|CVE-2018-20443|9.8|0|1.4|Technicolor TC7200.d1I TC7200.d1IE-N23E-c7000r5712-170406-HAT devices allow remote attackers to discover Wi-Fi
+M|Technicolor|tc7200.th2v2.d1i|>=|sc05.00.22|<=|sc05.00.22|CVE-2018-20393|9.8|0|1.6|Technicolor CGA0111 CGA0111E-ES-13-E23E-c8000r5712-170217-0829-TRU, CWA0101 CWA0101E-A23E-c7000r5712-170315-SK
+M|Technicolor|tc7200.th2v2|>=|sc05.00.22|<=|sc05.00.22|CVE-2018-20441|9.8|0|1.4|Technicolor TC7200.TH2v2 SC05.00.22 devices allow remote attackers to discover Wi-Fi credentials via iso.3.6.1
+M|Technicolor|tc7200|>=|std6.01.12|<=|std6.01.12|CVE-2014-1677|7.5|0|17.7|Technicolor TC7200 with firmware STD6.01.12 could allow remote attackers to obtain sensitive information.
+M|Technicolor|tc7230 steb|>=|0.1.25|<=|0.1.25|CVE-2019-19495|9.8|0|4.3|The web interface on the Technicolor TC7230 STEB 01.25 is vulnerable to DNS rebinding, which allows a remote a
+M|Technicolor|tc7230 steb|>=|01.25|<=|01.25|CVE-2019-19494|8.8|0|23.1|Broadcom based cable modems across multiple vendors are vulnerable to a buffer overflow, which allows a remote
+M|Technicolor|tc7337net|>=|08.89.17.23.03|<=|08.89.17.23.03|CVE-2020-10376|9.8|0|1.1|Technicolor TC7337NET 08.89.17.23.03 devices allow remote attackers to discover passwords by sniffing the netw
+M|Technicolor|tc7337|>=|8.89.17|<=|8.89.17|CVE-2020-11449|7.5|0|1.2|An issue was discovered on Technicolor TC7337 8.89.17 devices. An attacker can discover admin credentials in t
+M|Technicolor|tc8715d|||||CVE-2023-47352|8.8|0|0.4|Technicolor TC8715D devices have predictable default WPA2 security passwords. An attacker who scans for SSID a
+M|Technicolor|td5130 router|>=|2.05.c29gv|<=|2.05.c29gv|CVE-2014-9144|7.5|0|8.6|Technicolor Router TD5130 with firmware 2.05.C29GV allows remote attackers to execute arbitrary commands via s
+M|Technicolor|td5130v2|>=|oi_fw_v20|<=|oi_fw_v20|CVE-2019-18396|7.2|0|15.8|An issue was discovered in certain Oi third-party firmware that may be installed on Technicolor TD5130v2 devic
+M|Technicolor|td5336|>=|7.0|<=|7.0|CVE-2017-14127|9.8|0|2.7|Command Injection in the Ping Module in the Web Interface on Technicolor TD5336 OI_Fw_v7 devices allows remote
+M|Technicolor|tg670|>=|10.5.n.9|<=|10.5.n.9|CVE-2023-31808|7.2|0|0.6|Technicolor TG670 10.5.N.9 devices contain multiple accounts with hard-coded passwords. One account has admini
+M|Technicolor|twg870|>=|stb2.01.36|<=|stb2.01.36|CVE-2018-20394|9.8|0|1.5|Thomson DWG849 STC0.01.16, DWG850-4 ST9C.05.25, DWG855 ST80.20.26, and TWG870 STB2.01.36 devices allow remote 
+M|Technicolor|xfinity gateway router dpc3941t|>=|dpc3941-p20-18-v303r20421733-160413a-cmcst|<=|dpc3941-p20-18-v303r20421733-160413a-cmcst|CVE-2016-7454|8.0|0|3.3|CSRF vulnerability on Technicolor TC dpc3941T (formerly Cisco dpc3941T) devices with firmware dpc3941-P20-18-v

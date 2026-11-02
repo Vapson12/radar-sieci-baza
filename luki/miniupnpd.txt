@@ -1,0 +1,22 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|miniupnpd|>=|1.0|<=|1.0|CVE-2013-0229|7.8|0|76.4|The ProcessSSDPRequest function in minissdp.c in the SSDP handler in MiniUPnP MiniUPnPd before 1.4 allows remo
+V|miniupnpd|>=|1.0|<=|1.0|CVE-2013-0230|10.0|0|69.2|Stack-based buffer overflow in the ExecuteSoapAction function in the SOAPAction handler in the HTTP service in
+V|miniupnpd|>=|1.0|<=|1.0|CVE-2013-1461|7.8|0|2.8|The ExecuteSoapAction function in the SOAPAction handler in the HTTP service in MiniUPnP MiniUPnPd 1.0 allows 
+V|miniupnpd|>=|1.0|<=|1.0|CVE-2013-1462|7.8|0|1.8|Integer signedness error in the ExecuteSoapAction function in the SOAPAction handler in the HTTP service in Mi
+V|miniupnpd|>=|1.1|<=|1.1|CVE-2013-0229|7.8|0|76.4|The ProcessSSDPRequest function in minissdp.c in the SSDP handler in MiniUPnP MiniUPnPd before 1.4 allows remo
+V|miniupnpd|>=|1.2|<=|1.2|CVE-2013-0229|7.8|0|76.4|The ProcessSSDPRequest function in minissdp.c in the SSDP handler in MiniUPnP MiniUPnPd before 1.4 allows remo
+V|miniupnpd|>=|1.4|<=|1.4|CVE-2017-8798|9.8|0|24.0|Integer signedness error in MiniUPnP MiniUPnPc v1.4.20101221 through v2.0 allows remote attackers to cause a d
+V|miniupnpd|>=|1.4|<=|1.4|CVE-2019-12106|7.5|0|2.8|The updateDevice function in minissdpd.c in MiniUPnP MiniSSDPd 1.4 and 1.5 allows a remote attacker to crash t
+V|miniupnpd|>=|1.5|<=|1.5|CVE-2017-8798|9.8|0|24.0|Integer signedness error in MiniUPnP MiniUPnPc v1.4.20101221 through v2.0 allows remote attackers to cause a d
+V|miniupnpd|>=|1.5|<=|1.5|CVE-2019-12106|7.5|0|2.8|The updateDevice function in minissdpd.c in MiniUPnP MiniSSDPd 1.4 and 1.5 allows a remote attacker to crash t
+V|miniupnpd|>=|1.7|<=|1.7|CVE-2017-8798|9.8|0|24.0|Integer signedness error in MiniUPnP MiniUPnPc v1.4.20101221 through v2.0 allows remote attackers to cause a d
+V|miniupnpd|>=|1.8|<=|1.8|CVE-2013-2600|7.5|0|2.3|MiniUPnPd has information disclosure use of snprintf()
+V|miniupnpd|>=|1.8|<=|1.8|CVE-2017-8798|9.8|0|24.0|Integer signedness error in MiniUPnP MiniUPnPc v1.4.20101221 through v2.0 allows remote attackers to cause a d
+V|miniupnpd|>=|1.9|<=|1.9|CVE-2017-8798|9.8|0|24.0|Integer signedness error in MiniUPnP MiniUPnPc v1.4.20101221 through v2.0 allows remote attackers to cause a d
+V|miniupnpd|>=|2.0|<=|2.0|CVE-2017-8798|9.8|0|24.0|Integer signedness error in MiniUPnP MiniUPnPc v1.4.20101221 through v2.0 allows remote attackers to cause a d
+V|miniupnpd|||<=|1.3|CVE-2013-0229|7.8|0|76.4|The ProcessSSDPRequest function in minissdp.c in the SSDP handler in MiniUPnP MiniUPnPd before 1.4 allows remo
+V|miniupnpd|||<=|2.1|CVE-2019-12108|7.5|0|2.7|A Denial Of Service vulnerability in MiniUPnP MiniUPnPd through 2.1 exists due to a NULL pointer dereference i
+V|miniupnpd|||<=|2.1|CVE-2019-12109|7.5|0|2.7|A Denial Of Service vulnerability in MiniUPnP MiniUPnPd through 2.1 exists due to a NULL pointer dereference i
+V|miniupnpd|||<=|2.1|CVE-2019-12111|7.5|0|3.4|A Denial Of Service vulnerability in MiniUPnP MiniUPnPd through 2.1 exists due to a NULL pointer dereference i
+V|miniupnpd|||<|2.0|CVE-2017-1000494|7.8|0|0.5|Uninitialized stack variable vulnerability in NameValueParserEndElt (upnpreplyparse.c) in miniupnpd < 2.0 allo
+V|miniupnpd|||<|2.3.10|CVE-2026-5720|7.1|0|0.7|miniupnpd contains an integer underflow vulnerability in SOAPAction header parsing that allows remote attacker

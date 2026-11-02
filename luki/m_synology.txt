@@ -1,0 +1,38 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Synology|bc500|||<|1.0.5-0185|CVE-2023-5746|9.8|0|2.3|A vulnerability regarding use of externally-controlled format string is found in the cgi component. This allow
+M|Synology|bc500|||<|1.0.7-0298|CVE-2023-47802|7.2|0|1.5|A vulnerability regarding improper neutralization of special elements used in an OS command ('OS Command Injec
+M|Synology|bc500|||<|1.0.7-0298|CVE-2024-39349|9.8|0|1.4|A vulnerability regarding buffer copy without checking size of input ('Classic Buffer Overflow') is found in t
+M|Synology|bc500|||<|1.0.7-0298|CVE-2024-39350|7.5|0|0.7|A vulnerability regarding authentication bypass by spoofing is found in the RTSP functionality. This allows ma
+M|Synology|bc500|||<|1.0.7-0298|CVE-2024-39351|7.2|0|1.5|A vulnerability regarding improper neutralization of special elements used in an OS command ('OS Command Injec
+M|Synology|bc500|||<|1.2.0-0525|CVE-2024-11131|9.8|0|0.8|A vulnerability regarding out-of-bounds read is found in the video interface. This allows remote attackers to 
+M|Synology|cc400w|||<|1.2.0-0525|CVE-2024-11131|9.8|0|0.8|A vulnerability regarding out-of-bounds read is found in the video interface. This allows remote attackers to 
+M|Synology|ds107|||<=|3.1-1639|CVE-2016-6554|9.8|0|4.1|Synology NAS servers DS107, firmware version 3.1-1639 and prior, and DS116, DS213, firmware versions prior to 
+M|Synology|ds116|||<=|5.2-5644-1|CVE-2016-6554|9.8|0|4.1|Synology NAS servers DS107, firmware version 3.1-1639 and prior, and DS116, DS213, firmware versions prior to 
+M|Synology|ds213|||<=|5.2-5644-1|CVE-2016-6554|9.8|0|4.1|Synology NAS servers DS107, firmware version 3.1-1639 and prior, and DS116, DS213, firmware versions prior to 
+M|Synology|tc500|||<|1.0.5-0185|CVE-2023-5746|9.8|0|2.3|A vulnerability regarding use of externally-controlled format string is found in the cgi component. This allow
+M|Synology|tc500|||<|1.0.7-0298|CVE-2023-47802|7.2|0|1.5|A vulnerability regarding improper neutralization of special elements used in an OS command ('OS Command Injec
+M|Synology|tc500|||<|1.0.7-0298|CVE-2024-39349|9.8|0|1.4|A vulnerability regarding buffer copy without checking size of input ('Classic Buffer Overflow') is found in t
+M|Synology|tc500|||<|1.0.7-0298|CVE-2024-39350|7.5|0|0.7|A vulnerability regarding authentication bypass by spoofing is found in the RTSP functionality. This allows ma
+M|Synology|tc500|||<|1.0.7-0298|CVE-2024-39351|7.2|0|1.5|A vulnerability regarding improper neutralization of special elements used in an OS command ('OS Command Injec
+M|Synology|tc500|||<|1.2.0-0525|CVE-2024-11131|9.8|0|0.8|A vulnerability regarding out-of-bounds read is found in the video interface. This allows remote attackers to 
+M|Synology|vs360hd|||||CVE-2017-5753|5.6|0|93.8|Systems with microprocessors utilizing speculative execution and branch prediction may allow unauthorized disc
+M|Synology|vs960hd|||<|2.2.3-1505|CVE-2018-7185|7.5|0|9.0|The protocol engine in ntp 4.2.6 before 4.2.8p11 allows a remote attackers to cause a denial of service (disru
+M|Synology|vs960hd|||||CVE-2017-5753|5.6|0|93.8|Systems with microprocessors utilizing speculative execution and branch prediction may allow unauthorized disc
+M|Synology|vs960hd|||||CVE-2018-1160|9.8|0|86.4|Netatalk before 3.1.12 is vulnerable to an out of bounds write in dsi_opensess.c. This is due to lack of bound
+M|Synology|vs960hd|||||CVE-2018-7184|7.5|0|8.6|ntpd in ntp 4.2.8p4 before 4.2.8p11 drops bad packets before updating the "received" timestamp, which allows r
+M|Synology|vs960hd|||||CVE-2019-9511|7.5|0|59.5|Some HTTP/2 implementations are vulnerable to window size manipulation and stream prioritization manipulation,
+M|Synology|vs960hd|||||CVE-2019-9513|7.5|0|81.6|Some HTTP/2 implementations are vulnerable to resource loops, potentially leading to a denial of service. The 
+M|Synology|vs960hd|||||CVE-2019-9514|7.5|0|82.8|Some HTTP/2 implementations are vulnerable to a reset flood, potentially leading to a denial of service. The a
+M|Synology|vs960hd|||||CVE-2019-9515|7.5|0|87.3|Some HTTP/2 implementations are vulnerable to a settings flood, potentially leading to a denial of service. Th
+M|Synology|vs960hd|||||CVE-2019-9516|6.5|0|57.5|Some HTTP/2 implementations are vulnerable to a header leak, potentially leading to a denial of service. The a
+M|Synology|vs960hd|||||CVE-2019-9517|7.5|0|27.9|Some HTTP/2 implementations are vulnerable to unconstrained interal data buffering, potentially leading to a d
+M|Synology|vs960hd|||||CVE-2019-9518|7.5|0|25.4|Some HTTP/2 implementations are vulnerable to a flood of empty frames, potentially leading to a denial of serv
+M|Synology|vs960hd|||||CVE-2021-26560|9.0|0|0.8|Cleartext transmission of sensitive information vulnerability in synoagentregisterd in Synology DiskStation Ma
+M|Synology|vs960hd|||||CVE-2021-26561|9.0|0|2.1|Stack-based buffer overflow vulnerability in synoagentregisterd in Synology DiskStation Manager (DSM) before 6
+M|Synology|vs960hd|||||CVE-2021-26562|9.0|0|1.9|Out-of-bounds write vulnerability in synoagentregisterd in Synology DiskStation Manager (DSM) before 6.2.3-254
+M|Synology|vs960hd|||||CVE-2021-26563|8.2|0|0.5|Incorrect authorization vulnerability in synoagentregisterd in Synology DiskStation Manager (DSM) before 6.2.4
+M|Synology|vs960hd|||||CVE-2021-26564|8.3|0|0.7|Cleartext transmission of sensitive information vulnerability in synorelayd in Synology DiskStation Manager (D
+M|Synology|vs960hd|||||CVE-2021-26565|8.3|0|0.7|Cleartext transmission of sensitive information vulnerability in synorelayd in Synology DiskStation Manager (D
+M|Synology|vs960hd|||||CVE-2021-26566|8.3|0|1.5|Insertion of sensitive information into sent data vulnerability in synorelayd in Synology DiskStation Manager 
+M|Synology|vs960hd|||||CVE-2021-26567|7.8|0|1.1|Stack-based buffer overflow vulnerability in frontend/main.c in faad2 before 2.2.7.1 allow local attackers to 
+M|Synology|vs960hd|||||CVE-2021-3156|7.8|1|100.0|Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows

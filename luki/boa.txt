@@ -1,0 +1,8 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|boa|>=|0.92r|<=|0.92r|CVE-2016-9564|7.5|0|1.4|Buffer overflow in send_redirect() in Boa Webserver 0.92r allows remote attackers to DoS via an HTTP GET reque
+V|boa|>=|0.94.13|<=|0.94.13|CVE-2021-33558|7.5|0|12.3|Boa 0.94.13 allows remote attackers to obtain sensitive information via a misconfiguration involving backup.ht
+V|boa|>=|0.94.14.21|<=|0.94.14.21|CVE-2017-9833|7.5|0|68.5|/cgi-bin/wapopen in Boa 0.94.14rc21 allows the injection of "../.." using the FILECAMERA variable (sent by GET
+V|boa|>=|0.94.14.21|<=|0.94.14.21|CVE-2022-44117|9.8|0|0.7|Boa 0.94.14rc21 is vulnerable to SQL Injection via username. NOTE: the is disputed by multiple third parties b
+V|boa|>=|0.94.14rc21|<=|0.94.14rc21|CVE-2009-4496|5.0|0|12.4|Boa 0.94.14rc21 writes data to a log file without sanitizing non-printable characters, which might allow remot
+V|boa|||<=|0.94.14.21|CVE-2018-21027|9.8|0|2.4|Boa through 0.94.14rc21 allows remote attackers to trigger an out-of-memory (OOM) condition because malloc is 
+V|boa|||<=|0.94.14.21|CVE-2018-21028|7.5|0|2.1|Boa through 0.94.14rc21 allows remote attackers to trigger a memory leak because of missing calls to the free 

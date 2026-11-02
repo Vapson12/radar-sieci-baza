@@ -1,0 +1,576 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|openssh|>=|1.2.1|<=|1.2.1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.2.1|<=|1.2.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|1.2.1|<=|1.2.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.2.1|<=|1.2.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.2.1|<=|1.2.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|1.2.27|<=|1.2.27|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.2.27|<=|1.2.27|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|1.2.27|<=|1.2.27|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.2.27|<=|1.2.27|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.2.27|<=|1.2.27|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|1.2.2|<=|1.2.2|CVE-2001-0144|10.0|0|32.4|CORE SDI SSH1 CRC-32 compensation attack detector allows remote attackers to execute arbitrary commands on an 
+V|openssh|>=|1.2.2|<=|1.2.2|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|1.2.2|<=|1.2.2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.2.2|<=|1.2.2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|1.2.2|<=|1.2.2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.2.2|<=|1.2.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.2.2|<=|1.2.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|1.2.3|<=|1.2.3|CVE-2000-0525|10.0|0|2.6|OpenSSH does not properly drop privileges when the UseLogin option is enabled, which allows local users to exe
+V|openssh|>=|1.2.3|<=|1.2.3|CVE-2001-0144|10.0|0|32.4|CORE SDI SSH1 CRC-32 compensation attack detector allows remote attackers to execute arbitrary commands on an 
+V|openssh|>=|1.2.3|<=|1.2.3|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|1.2.3|<=|1.2.3|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.2.3|<=|1.2.3|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|1.2.3|<=|1.2.3|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.2.3|<=|1.2.3|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.2.3|<=|1.2.3|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|1.2|<=|1.2|CVE-2000-0525|10.0|0|2.6|OpenSSH does not properly drop privileges when the UseLogin option is enabled, which allows local users to exe
+V|openssh|>=|1.2|<=|1.2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.2|<=|1.2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|1.2|<=|1.2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.2|<=|1.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.2|<=|1.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|1.3|<=|1.3|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.3|<=|1.3|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.3|<=|1.3|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.3|<=|1.3|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|1.5.7|<=|1.5.7|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.5.7|<=|1.5.7|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.5.7|<=|1.5.7|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.5.7|<=|1.5.7|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|1.5.8|<=|1.5.8|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.5.8|<=|1.5.8|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.5.8|<=|1.5.8|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.5.8|<=|1.5.8|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|1.5|<=|1.5|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|1.5|<=|1.5|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|1.5|<=|1.5|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|1.5|<=|1.5|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.0|<|3.1|CVE-2002-0083|9.8|0|14.7|Off-by-one error in the channel code of OpenSSH 2.0 through 3.0.2 allows local users or remote malicious serve
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2001-0144|10.0|0|32.4|CORE SDI SSH1 CRC-32 compensation attack detector allows remote attackers to execute arbitrary commands on an 
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2001-1459|7.5|0|2.2|OpenSSH 2.9 and earlier does not initiate a Pluggable Authentication Module (PAM) session if commands are exec
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.1.1|<=|2.1.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.1|<=|2.1|CVE-2000-0525|10.0|0|2.6|OpenSSH does not properly drop privileges when the UseLogin option is enabled, which allows local users to exe
+V|openssh|>=|2.1|<=|2.1|CVE-2001-0144|10.0|0|32.4|CORE SDI SSH1 CRC-32 compensation attack detector allows remote attackers to execute arbitrary commands on an 
+V|openssh|>=|2.1|<=|2.1|CVE-2001-1459|7.5|0|2.2|OpenSSH 2.9 and earlier does not initiate a Pluggable Authentication Module (PAM) session if commands are exec
+V|openssh|>=|2.1|<=|2.1|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.1|<=|2.1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.1|<=|2.1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.1|<=|2.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.1|<=|2.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.1|<=|2.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.1|<=|2.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.2|<=|2.2|CVE-2000-1169|7.5|0|1.8|OpenSSH SSH client before 2.3.0 does not properly disable X11 or agent forwarding, which could allow a malicio
+V|openssh|>=|2.2|<=|2.2|CVE-2001-0144|10.0|0|32.4|CORE SDI SSH1 CRC-32 compensation attack detector allows remote attackers to execute arbitrary commands on an 
+V|openssh|>=|2.2|<=|2.2|CVE-2001-1459|7.5|0|2.2|OpenSSH 2.9 and earlier does not initiate a Pluggable Authentication Module (PAM) session if commands are exec
+V|openssh|>=|2.2|<=|2.2|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.2|<=|2.2|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.2|<=|2.2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.2|<=|2.2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.2|<=|2.2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.2|<=|2.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.2|<=|2.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.3.1|<=|2.3.1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.3.1|<=|2.3.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.3.1|<=|2.3.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.3.1|<=|2.3.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.3|<=|2.3|CVE-2001-1459|7.5|0|2.2|OpenSSH 2.9 and earlier does not initiate a Pluggable Authentication Module (PAM) session if commands are exec
+V|openssh|>=|2.3|<=|2.3|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.3|<=|2.3|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.3|<=|2.3|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.3|<=|2.3|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.3|<=|2.3|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.3|<=|2.3|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.3|<=|2.3|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.5.1|<=|2.5.1|CVE-2001-1459|7.5|0|2.2|OpenSSH 2.9 and earlier does not initiate a Pluggable Authentication Module (PAM) session if commands are exec
+V|openssh|>=|2.5.1|<=|2.5.1|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.5.1|<=|2.5.1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.5.1|<=|2.5.1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.5.1|<=|2.5.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.5.1|<=|2.5.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.5.1|<=|2.5.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.5.1|<=|2.5.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.5.2|<=|2.5.2|CVE-2001-1459|7.5|0|2.2|OpenSSH 2.9 and earlier does not initiate a Pluggable Authentication Module (PAM) session if commands are exec
+V|openssh|>=|2.5.2|<=|2.5.2|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.5.2|<=|2.5.2|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.5.2|<=|2.5.2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.5.2|<=|2.5.2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.5.2|<=|2.5.2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.5.2|<=|2.5.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.5.2|<=|2.5.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.5|<=|2.5|CVE-2001-1459|7.5|0|2.2|OpenSSH 2.9 and earlier does not initiate a Pluggable Authentication Module (PAM) session if commands are exec
+V|openssh|>=|2.5|<=|2.5|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.5|<=|2.5|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.5|<=|2.5|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.5|<=|2.5|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.5|<=|2.5|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.5|<=|2.5|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.5|<=|2.5|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.9.9p2|<=|2.9.9p2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.9.9p2|<=|2.9.9p2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.9.9p2|<=|2.9.9p2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.9.9p2|<=|2.9.9p2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.9.9p2|<=|2.9.9p2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.9.9|<=|2.9.9|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.9.9|<=|2.9.9|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.9.9|<=|2.9.9|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.9.9|<=|2.9.9|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.9.9|<=|2.9.9|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.9.9|<=|2.9.9|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.9.9|<=|2.9.9|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.9.9|<=|3.3|CVE-2002-0639|9.8|0|18.3|Integer overflow in sshd in OpenSSH 2.9.9 through 3.3 allows remote attackers to execute arbitrary code during
+V|openssh|>=|2.9p1|<=|2.9p1|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.9p1|<=|2.9p1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.9p1|<=|2.9p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.9p1|<=|2.9p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.9p1|<=|2.9p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.9p1|<=|2.9p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.9p1|<=|2.9p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.9p2|<=|2.9p2|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.9p2|<=|2.9p2|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.9p2|<=|2.9p2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.9p2|<=|2.9p2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.9p2|<=|2.9p2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.9p2|<=|2.9p2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.9p2|<=|2.9p2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2.9|<=|2.9|CVE-2001-1459|7.5|0|2.2|OpenSSH 2.9 and earlier does not initiate a Pluggable Authentication Module (PAM) session if commands are exec
+V|openssh|>=|2.9|<=|2.9|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|2.9|<=|2.9|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|2.9|<=|2.9|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2.9|<=|2.9|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|2.9|<=|2.9|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|2.9|<=|2.9|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|2.9|<=|2.9|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|2|<=|2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|2|<=|2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.0.1p1|<=|3.0.1p1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.0.1p1|<=|3.0.1p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.0.1p1|<=|3.0.1p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.0.1p1|<=|3.0.1p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.0.1p1|<=|3.0.1p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.0.1p1|<=|3.0.1p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.0.1|<=|3.0.1|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|3.0.1|<=|3.0.1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.0.1|<=|3.0.1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.0.1|<=|3.0.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.0.1|<=|3.0.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.0.1|<=|3.0.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.0.1|<=|3.0.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.0.2p1|<=|3.0.2p1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.0.2p1|<=|3.0.2p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.0.2p1|<=|3.0.2p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.0.2p1|<=|3.0.2p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.0.2p1|<=|3.0.2p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.0.2p1|<=|3.0.2p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.0.2|<=|3.0.2|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|3.0.2|<=|3.0.2|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.0.2|<=|3.0.2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.0.2|<=|3.0.2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.0.2|<=|3.0.2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.0.2|<=|3.0.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.0.2|<=|3.0.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.0p1|<=|3.0p1|CVE-2001-1507|7.5|0|2.2|OpenSSH before 3.0.1 with Kerberos V enabled does not properly authenticate users, which could allow remote at
+V|openssh|>=|3.0p1|<=|3.0p1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.0p1|<=|3.0p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.0p1|<=|3.0p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.0p1|<=|3.0p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.0p1|<=|3.0p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.0p1|<=|3.0p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.0|<=|3.0|CVE-2001-1507|7.5|0|2.2|OpenSSH before 3.0.1 with Kerberos V enabled does not properly authenticate users, which could allow remote at
+V|openssh|>=|3.0|<=|3.0|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|3.0|<=|3.0|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.0|<=|3.0|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.0|<=|3.0|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.0|<=|3.0|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.0|<=|3.0|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.0|<=|3.0|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.1p1|<=|3.1p1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.1p1|<=|3.1p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.1p1|<=|3.1p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.1p1|<=|3.1p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.1p1|<=|3.1p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.1p1|<=|3.1p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.1|<=|3.1|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|3.1|<=|3.1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.1|<=|3.1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.1|<=|3.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.1|<=|3.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.1|<=|3.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.1|<=|3.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.2.2p1|<=|3.2.2p1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.2.2p1|<=|3.2.2p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.2.2p1|<=|3.2.2p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.2.2p1|<=|3.2.2p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.2.2p1|<=|3.2.2p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.2.2p1|<=|3.2.2p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.2.2|<=|3.2.2|CVE-2002-0765|7.5|0|1.3|sshd in OpenSSH 3.2.2, when using YP with netgroups and under certain conditions, may allow users to successfu
+V|openssh|>=|3.2.2|<=|3.2.2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.2.2|<=|3.2.2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.2.2|<=|3.2.2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.2.2|<=|3.2.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.2.2|<=|3.2.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.2.3p1|<=|3.2.3p1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.2.3p1|<=|3.2.3p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.2.3p1|<=|3.2.3p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.2.3p1|<=|3.2.3p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.2.3p1|<=|3.2.3p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.2.3p1|<=|3.2.3p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.2|<=|3.2|CVE-2002-0575|7.5|0|7.1|Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassin
+V|openssh|>=|3.2|<=|3.2|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.2|<=|3.2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.2|<=|3.2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.2|<=|3.2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.2|<=|3.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.2|<=|3.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.3p1|<=|3.3p1|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.3p1|<=|3.3p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.3p1|<=|3.3p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.3p1|<=|3.3p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.3p1|<=|3.3p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.3p1|<=|3.3p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.3|<=|3.3|CVE-2002-0640|10.0|0|28.2|Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via 
+V|openssh|>=|3.3|<=|3.3|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.3|<=|3.3|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.3|<=|3.3|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.3|<=|3.3|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.3|<=|3.3|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.4p1|<=|3.4p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.4p1|<=|3.4p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.4p1|<=|3.4p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.4p1|<=|3.4p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.4p1|<=|3.4p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.4|<=|3.4|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.4|<=|3.4|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.4|<=|3.4|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.4|<=|3.4|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.4|<=|3.4|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.5p1|<=|3.5p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.5p1|<=|3.5p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.5p1|<=|3.5p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.5p1|<=|3.5p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.5p1|<=|3.5p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.5|<=|3.5|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.5|<=|3.5|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.5|<=|3.5|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.5|<=|3.5|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.5|<=|3.5|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.6.1p1|<=|3.6.1p1|CVE-2003-0190|5.0|0|76.8|OpenSSH-portable (OpenSSH) 3.6.1p1 and earlier with PAM support enabled immediately sends an error message whe
+V|openssh|>=|3.6.1p1|<=|3.6.1p1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.6.1p1|<=|3.6.1p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.6.1p1|<=|3.6.1p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.6.1p1|<=|3.6.1p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.6.1p1|<=|3.6.1p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.6.1p2|<=|3.6.1p2|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.6.1p2|<=|3.6.1p2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.6.1p2|<=|3.6.1p2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.6.1p2|<=|3.6.1p2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.6.1p2|<=|3.6.1p2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.6.1|<=|3.6.1|CVE-2003-0386|7.5|0|5.8|OpenSSH 3.6.1 and earlier, when restricting host access by numeric IP addresses and with VerifyReverseMapping 
+V|openssh|>=|3.6.1|<=|3.6.1|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.6.1|<=|3.6.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.6.1|<=|3.6.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.6.1|<=|3.6.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.6.1|<=|3.6.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.6|<=|3.6|CVE-2003-1562|7.6|0|5.6|sshd in OpenSSH 3.6.1p2 and earlier, when PermitRootLogin is disabled and using PAM keyboard-interactive authe
+V|openssh|>=|3.6|<=|3.6|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.6|<=|3.6|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.6|<=|3.6|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.6|<=|3.6|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.7.1p1|<=|3.7.1p1|CVE-2003-0786|10.0|0|3.6|The SSH1 PAM challenge response authentication in OpenSSH 3.7.1 and 3.7.1p1, when Privilege Separation is disa
+V|openssh|>=|3.7.1p1|<=|3.7.1p1|CVE-2003-0787|7.5|0|1.8|The PAM conversation function in OpenSSH 3.7.1 and 3.7.1p1 interprets an array of structures as an array of po
+V|openssh|>=|3.7.1p1|<=|3.7.1p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.7.1p1|<=|3.7.1p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.7.1p1|<=|3.7.1p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.7.1p1|<=|3.7.1p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.7.1p2|<=|3.7.1p2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.7.1p2|<=|3.7.1p2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.7.1p2|<=|3.7.1p2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.7.1p2|<=|3.7.1p2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.7.1|<=|3.7.1|CVE-2003-0786|10.0|0|3.6|The SSH1 PAM challenge response authentication in OpenSSH 3.7.1 and 3.7.1p1, when Privilege Separation is disa
+V|openssh|>=|3.7.1|<=|3.7.1|CVE-2003-0787|7.5|0|1.8|The PAM conversation function in OpenSSH 3.7.1 and 3.7.1p1 interprets an array of structures as an array of po
+V|openssh|>=|3.7.1|<=|3.7.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.7.1|<=|3.7.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.7.1|<=|3.7.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.7.1|<=|3.7.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.7|<=|3.7|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.7|<=|3.7|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.7|<=|3.7|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.7|<=|3.7|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.8.1p1|<=|3.8.1p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.8.1p1|<=|3.8.1p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.8.1p1|<=|3.8.1p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.8.1p1|<=|3.8.1p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.8.1|<=|3.8.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.8.1|<=|3.8.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.8.1|<=|3.8.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.8.1|<=|3.8.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.8|<=|3.8|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.8|<=|3.8|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.8|<=|3.8|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.8|<=|3.8|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.9.1p1|<=|3.9.1p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.9.1p1|<=|3.9.1p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.9.1p1|<=|3.9.1p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.9.1p1|<=|3.9.1p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.9.1|<=|3.9.1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.9.1|<=|3.9.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.9.1|<=|3.9.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.9.1|<=|3.9.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|3.9|<=|3.9|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|3.9|<=|3.9|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|3.9|<=|3.9|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|3.9|<=|3.9|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.0p1|<=|4.0p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|4.0p1|<=|4.0p1|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.0p1|<=|4.0p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.0p1|<=|4.0p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.0p1|<=|4.0p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.0|<=|4.0|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|4.0|<=|4.0|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.0|<=|4.0|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.0|<=|4.0|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.0|<=|4.0|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.1p1|<=|4.1p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|4.1p1|<=|4.1p1|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.1p1|<=|4.1p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.1p1|<=|4.1p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.1p1|<=|4.1p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.1|<=|4.1|CVE-2006-5229|2.6|0|58.3|OpenSSH portable 4.1 on SUSE Linux, and possibly other platforms and versions, and possibly under limited conf
+V|openssh|>=|4.1|<=|4.1|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.1|<=|4.1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.1|<=|4.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.1|<=|4.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.2p1|<=|4.2p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|4.2p1|<=|4.2p1|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.2p1|<=|4.2p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.2p1|<=|4.2p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.2p1|<=|4.2p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.2|<=|4.2|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|4.2|<=|4.2|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.2|<=|4.2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.2|<=|4.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.2|<=|4.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.3p1|<=|4.3p1|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|4.3p1|<=|4.3p1|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.3p1|<=|4.3p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.3p1|<=|4.3p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.3p1|<=|4.3p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.3p2|<=|4.3p2|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.3p2|<=|4.3p2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.3p2|<=|4.3p2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.3p2|<=|4.3p2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.3|<=|4.3|CVE-2006-4924|7.8|0|38.1|sshd in OpenSSH before 4.4, when using the version 1 SSH protocol, allows remote attackers to cause a denial o
+V|openssh|>=|4.3|<=|4.3|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.3|<=|4.3|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.3|<=|4.3|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.3|<=|4.3|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.4p1|<=|4.4p1|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.4p1|<=|4.4p1|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.4p1|<=|4.4p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.4p1|<=|4.4p1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.4|<=|4.4|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.4|<=|4.4|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|>=|4.4|<=|4.4|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.4|<=|4.4|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.4|<=|4.4|CVE-2024-6387|8.1|0|99.5|A security regression (CVE-2006-5051) was discovered in OpenSSH's server (sshd). There is a race condition whi
+V|openssh|>=|4.5|<=|4.5|CVE-2000-0999|10.0|0|11.9|Format string vulnerabilities in OpenBSD ssh program (and possibly other BSD-based operating systems) allow at
+V|openssh|>=|4.5|<=|4.5|CVE-2001-0572|7.5|0|7.1|The SSH protocols 1 and 2 (aka SSH-2) as implemented in OpenSSH and other packages have various weaknesses whi
+V|openssh|>=|4.5|<=|4.5|CVE-2006-4925|5.0|0|15.0|packet.c in ssh in OpenSSH allows remote attackers to cause a denial of service (crash) by sending an invalid 
+V|openssh|>=|4.5|<=|4.5|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|>=|4.5|<=|4.5|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.5|<=|4.5|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.6|<=|4.6|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.6|<=|4.6|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.7p1|<=|4.7p1|CVE-2008-5161|3.7|0|18.6|Error handling in the SSH protocol in (1) SSH Tectia Client and Server and Connector 4.0 through 4.4.11, 5.0 t
+V|openssh|>=|4.7p1|<=|4.7p1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.7|<=|4.7|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.7|<=|4.7|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.8|<=|4.8|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.8|<=|4.8|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|4.9|<=|4.9|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|4.9|<=|4.9|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.0p1|<=|5.0p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.0|<=|5.0|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|5.0|<=|5.0|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.0|<=|5.0|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.1p1|<=|5.1p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.1|<=|5.1|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|5.1|<=|5.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.1|<=|5.1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.2p1|<=|5.2p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.2|<=|5.2|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|5.2|<=|5.2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.2|<=|5.2|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.3p1|<=|5.3p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.3|<=|5.3|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|5.3|<=|5.3|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.3|<=|5.3|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.4p1|<=|5.4p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.4p1|<=|5.4p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.4|<=|5.4|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|5.4|<=|5.4|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.4|<=|5.4|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.4|<=|5.4|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.5p1|<=|5.5p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.5p1|<=|5.5p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.5|<=|5.5|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|>=|5.5|<=|5.5|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.5|<=|5.5|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.5|<=|5.5|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.6p1|<=|5.6p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.6p1|<=|5.6p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.6|<=|5.6|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.6|<=|5.6|CVE-2011-0539|7.5|0|1.8|The key_certify function in usr.bin/ssh/key.c in OpenSSH 5.6 and 5.7, when generating legacy certificates usin
+V|openssh|>=|5.6|<=|5.6|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.6|<=|5.6|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.7p1|<=|5.7p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.7p1|<=|5.7p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.7|<=|5.7|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.7|<=|5.7|CVE-2011-0539|7.5|0|1.8|The key_certify function in usr.bin/ssh/key.c in OpenSSH 5.6 and 5.7, when generating legacy certificates usin
+V|openssh|>=|5.7|<=|5.7|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.7|<=|5.7|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.8p1|<=|5.8p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.8p1|<=|5.8p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.8p2|<=|5.8p2|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.8|<=|5.8|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.8|<=|5.8|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.8|<=|5.8|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.9p1|<=|5.9p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.9p1|<=|5.9p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|5.9|<=|5.9|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|5.9|<=|5.9|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|5.9|<=|5.9|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.0p1|<=|6.0p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.0p1|<=|6.0p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.0|<=|6.0|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|>=|6.0|<=|6.0|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.0|<=|6.0|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.1p1|<=|6.1p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.1p1|<=|6.1p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.1|<=|6.1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.1|<=|6.1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.2p1|<=|6.2p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.2p1|<=|6.2p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.2p2|<=|6.2p2|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.2p2|<=|6.2p2|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.2|<=|6.2|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.2|<=|6.2|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.2|<|8.8|CVE-2021-41617|7.0|0|2.5|sshd in OpenSSH 6.2 through 8.x before 8.8, when certain non-default configurations are used, allows privilege
+V|openssh|>=|6.3p1|<=|6.3p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.3p1|<=|6.3p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.3|<=|6.3|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.3|<=|6.3|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.4p1|<=|6.4p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.4p1|<=|6.4p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.4|<=|6.4|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.4|<=|6.4|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.5p1|<=|6.5p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.5p1|<=|6.5p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.5|<=|6.5|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.5|<=|6.5|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.6p1|<=|6.6p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.6p1|<=|6.6p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.6|<=|6.6|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.6|<=|6.6|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.7p1|<=|6.7p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.7p1|<=|6.7p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.7|<=|6.7|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.7|<=|6.7|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.8p1|<=|6.8p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.8p1|<=|6.8p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.8p1|<=|6.8p1|CVE-2016-1907|5.3|0|14.3|The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a deni
+V|openssh|>=|6.8|<=|6.8|CVE-2015-6565|7.2|0|2.7|sshd in OpenSSH 6.8 and 6.9 uses world-writable permissions for TTY devices, which allows local users to cause
+V|openssh|>=|6.8|<=|6.8|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.8|<=|6.8|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.8|<=|6.8|CVE-2016-1907|5.3|0|14.3|The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a deni
+V|openssh|>=|6.8|<=|6.8|CVE-2016-8858|7.5|0|29.5|The kex_input_kexinit function in kex.c in OpenSSH 6.x and 7.x through 7.3 allows remote attackers to cause a 
+V|openssh|>=|6.9p1|<=|6.9p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.9p1|<=|6.9p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.9p1|<=|6.9p1|CVE-2016-1907|5.3|0|14.3|The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a deni
+V|openssh|>=|6.9|<=|6.9|CVE-2015-6565|7.2|0|2.7|sshd in OpenSSH 6.8 and 6.9 uses world-writable permissions for TTY devices, which allows local users to cause
+V|openssh|>=|6.9|<=|6.9|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|6.9|<=|6.9|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|6.9|<=|6.9|CVE-2016-1907|5.3|0|14.3|The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a deni
+V|openssh|>=|6.9|<=|6.9|CVE-2016-8858|7.5|0|29.5|The kex_input_kexinit function in kex.c in OpenSSH 6.x and 7.x through 7.3 allows remote attackers to cause a 
+V|openssh|>=|7.0p1|<=|7.0p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|7.0p1|<=|7.0p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|7.0p1|<=|7.0p1|CVE-2016-1907|5.3|0|14.3|The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a deni
+V|openssh|>=|7.0|<=|7.0|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|7.0|<=|7.0|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|7.0|<=|7.0|CVE-2016-1907|5.3|0|14.3|The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a deni
+V|openssh|>=|7.0|<=|7.0|CVE-2016-8858|7.5|0|29.5|The kex_input_kexinit function in kex.c in OpenSSH 6.x and 7.x through 7.3 allows remote attackers to cause a 
+V|openssh|>=|7.1p1|<=|7.1p1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|7.1p1|<=|7.1p1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|7.1p1|<=|7.1p1|CVE-2016-1907|5.3|0|14.3|The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a deni
+V|openssh|>=|7.1|<=|7.1|CVE-2016-0777|6.5|0|63.5|The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows r
+V|openssh|>=|7.1|<=|7.1|CVE-2016-0778|8.1|0|20.9|The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, an
+V|openssh|>=|7.1|<=|7.1|CVE-2016-1907|5.3|0|14.3|The ssh_packet_read_poll2 function in packet.c in OpenSSH before 7.1p2 allows remote attackers to cause a deni
+V|openssh|>=|7.1|<=|7.1|CVE-2016-8858|7.5|0|29.5|The kex_input_kexinit function in kex.c in OpenSSH 6.x and 7.x through 7.3 allows remote attackers to cause a 
+V|openssh|>=|7.2|<=|7.2|CVE-2016-8858|7.5|0|29.5|The kex_input_kexinit function in kex.c in OpenSSH 6.x and 7.x through 7.3 allows remote attackers to cause a 
+V|openssh|>=|7.3|<=|7.3|CVE-2016-8858|7.5|0|29.5|The kex_input_kexinit function in kex.c in OpenSSH 6.x and 7.x through 7.3 allows remote attackers to cause a 
+V|openssh|>=|7.7|<=|7.9|CVE-2019-16905|7.8|0|2.2|OpenSSH 7.7 through 7.9 and 8.x before 8.1, when compiled with an experimental key type, has a pre-authenticat
+V|openssh|>=|8.0|<|8.1|CVE-2019-16905|7.8|0|2.2|OpenSSH 7.7 through 7.9 and 8.x before 8.1, when compiled with an experimental key type, has a pre-authenticat
+V|openssh|>=|8.2|<=|8.2|CVE-2020-12062|7.5|0|2.2|The scp client in OpenSSH 8.2 incorrectly sends duplicate responses to the server upon a utimes system call fa
+V|openssh|>=|8.2|<|8.5|CVE-2021-28041|7.1|0|3.5|ssh-agent in OpenSSH before 8.5 has a double free that may be relevant in a few less-common scenarios, such as
+V|openssh|>=|8.3p1|<=|8.3p1|CVE-2020-15778|7.4|0|13.7|scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backt
+V|openssh|>=|8.3|<=|8.3|CVE-2020-15778|7.4|0|13.7|scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backt
+V|openssh|>=|8.5p1|<=|8.5p1|CVE-2024-6387|8.1|0|99.5|A security regression (CVE-2006-5051) was discovered in OpenSSH's server (sshd). There is a race condition whi
+V|openssh|>=|8.6|<=|8.6|CVE-2024-6387|8.1|0|99.5|A security regression (CVE-2006-5051) was discovered in OpenSSH's server (sshd). There is a race condition whi
+V|openssh|>=|8.6|<=|9.8|CVE-2024-6387|8.1|0|99.5|A security regression (CVE-2006-5051) was discovered in OpenSSH's server (sshd). There is a race condition whi
+V|openssh|>=|8.9|<|9.3|CVE-2023-28531|9.8|0|3.0|ssh-add in OpenSSH before 9.3 adds smartcard keys to ssh-agent without the intended per-hop destination constr
+V|openssh|>=|9.1|<=|9.1|CVE-2023-25136|6.5|0|89.8|OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This 
+V|openssh|>=|9.3p1|<=|9.3p1|CVE-2023-38408|9.8|0|79.7|The PKCS#11 feature in ssh-agent in OpenSSH before 9.3p2 has an insufficiently trustworthy search path, leadin
+V|openssh|>=|9.3|<=|9.3|CVE-2023-38408|9.8|0|79.7|The PKCS#11 feature in ssh-agent in OpenSSH before 9.3p2 has an insufficiently trustworthy search path, leadin
+V|openssh|>=|9.5p1|<=|9.5p1|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|>=|9.6p1|<=|9.6p1|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|>=|9.6|<=|9.6|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|>=|9.7p1|<=|9.7p1|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|>=|9.7|<=|9.7|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|>=|9.8p1|<=|9.8p1|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|>=|9.8|<=|9.8|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|>=|9.9p1|<=|9.9p1|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|>=|9.9|<=|9.9|CVE-2025-26466|5.9|0|38.7|A flaw was found in the OpenSSH package. For each ping packet the SSH server receives, a pong packet is alloca
+V|openssh|||<=|2.9.9|CVE-2001-0816|7.5|0|1.8|OpenSSH before 2.9.9, when running sftp using sftp-server and using restricted keypairs, allows remote authent
+V|openssh|||<=|2.9.9|CVE-2001-1380|7.5|0|3.3|OpenSSH before 2.9.9, while using keypairs and multiple keys of different types in the ~/.ssh/authorized_keys2
+V|openssh|||<=|2.9|CVE-2001-0529|7.2|0|0.6|OpenSSH version 2.9 and earlier, with X forwarding enabled, allows a local attacker to delete any file named '
+V|openssh|||<=|3.0.1|CVE-2001-0872|7.2|0|0.9|OpenSSH 3.0.1 and earlier with UseLogin enabled does not properly cleanse critical environment variables such 
+V|openssh|||<=|3.7.1|CVE-2003-0682|7.5|0|8.8|"Memory bugs" in OpenSSH 3.7.1 and earlier, with unknown impact, a different set of vulnerabilities than CVE-2
+V|openssh|||<=|3.7.1|CVE-2003-0695|7.5|0|3.8|Multiple "buffer management errors" in OpenSSH before 3.7.1 may allow attackers to cause a denial of service o
+V|openssh|||<=|3.7|CVE-2003-0693|10.0|0|11.4|A "buffer management error" in buffer_append_space of buffer.c for OpenSSH before 3.7 may allow remote attacke
+V|openssh|||<=|3.9|CVE-2004-1653|6.4|0|11.3|The default configuration for OpenSSH enables AllowTcpForwarding, which could allow remote authenticated users
+V|openssh|||<=|4.3p2|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|||<=|4.4|CVE-2006-5051|8.1|0|45.6|Signal handler race condition in OpenSSH before 4.4 allows remote attackers to cause a denial of service (cras
+V|openssh|||<=|4.4|CVE-2006-5794|7.5|0|2.8|Unspecified vulnerability in the sshd Privilege Separation Monitor in OpenSSH before 4.5 causes weaker verific
+V|openssh|||<=|4.6|CVE-2007-4752|7.5|0|2.4|ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trust
+V|openssh|||<=|4.6|CVE-2008-4109|5.0|0|28.6|A certain Debian patch for OpenSSH before 4.3p2-9etch3 on etch; before 4.6p1-1 on sid and lenny; and on other 
+V|openssh|||<=|5.6|CVE-2010-4478|9.8|0|4.4|OpenSSH 5.6 and earlier, when J-PAKE is enabled, does not properly validate the public parameters in the J-PAK
+V|openssh|||<=|6.1|CVE-2010-5107|7.5|0|16.9|The default configuration of OpenSSH through 6.1 enforces a fixed time limit between establishing a TCP connec
+V|openssh|||<=|6.4|CVE-2014-1692|7.3|0|4.7|The hash_buffer function in schnorr.c in OpenSSH through 6.4, when Makefile.inc is modified to enable the J-PA
+V|openssh|||<=|6.9|CVE-2015-5600|8.1|0|9.4|The kbdint_next_device function in auth2-chall.c in sshd in OpenSSH through 6.9 does not properly restrict the
+V|openssh|||<=|6.9|CVE-2015-6564|7.0|0|0.6|Use-after-free vulnerability in the mm_answer_pam_free_ctx function in monitor.c in sshd in OpenSSH before 7.0
+V|openssh|||<=|7.2|CVE-2015-8325|7.8|0|0.6|The do_setup_env function in session.c in sshd in OpenSSH through 7.2p2, when the UseLogin feature is enabled 
+V|openssh|||<=|7.2|CVE-2016-3115|6.4|0|35.5|Multiple CRLF injection vulnerabilities in session.c in sshd in OpenSSH before 7.2p2 allow remote authenticate
+V|openssh|||<=|7.2|CVE-2016-6210|5.9|0|88.9|sshd in OpenSSH before 7.3, when SHA256 or SHA512 are used for user password hashing, uses BLOWFISH hashing on
+V|openssh|||<=|7.2|CVE-2016-6515|7.5|0|58.6|The auth_password function in auth-passwd.c in sshd in OpenSSH before 7.3 does not limit password lengths for 
+V|openssh|||<=|7.3|CVE-2016-10009|7.3|0|37.4|Untrusted search path vulnerability in ssh-agent.c in ssh-agent in OpenSSH before 7.4 allows remote attackers 
+V|openssh|||<=|7.3|CVE-2016-10010|7.0|0|4.2|sshd in OpenSSH before 7.4, when privilege separation is not used, creates forwarded Unix-domain sockets as ro
+V|openssh|||<=|7.3|CVE-2016-10012|7.8|0|1.3|The shared memory manager (associated with pre-authentication compression) in sshd in OpenSSH before 7.4 does 
+V|openssh|||<=|7.7|CVE-2018-15473|5.3|0|98.7|OpenSSH through 7.7 is prone to a user enumeration vulnerability due to not delaying bailout for an invalid au
+V|openssh|||<=|7.9|CVE-2019-6110|6.8|0|24.9|In OpenSSH 7.9, due to accepting and displaying arbitrary stderr output from the server, a malicious server (o
+V|openssh|||<=|7.9|CVE-2019-6111|5.9|0|58.2|An issue was discovered in OpenSSH 7.9. Due to the scp implementation being derived from 1983 rcp, the server 
+V|openssh|||<|10.3|CVE-2026-35385|7.5|0|0.6|In OpenSSH before 10.3, a file downloaded by scp may be installed setuid or setgid, an outcome contrary to som
+V|openssh|||<|10.4|CVE-2026-60002|7.7|0|0.3|ssh in OpenSSH before 10.4 can have a use-after-free when a server changes its host key during a key re-exchan
+V|openssh|||<|3.6.1|CVE-2003-0190|5.0|0|76.8|OpenSSH-portable (OpenSSH) 3.6.1p1 and earlier with PAM support enabled immediately sends an error message whe
+V|openssh|||<|4.4|CVE-2024-6387|8.1|0|99.5|A security regression (CVE-2006-5051) was discovered in OpenSSH's server (sshd). There is a race condition whi
+V|openssh|||<|7.2|CVE-2016-1908|9.8|0|13.7|The client in OpenSSH before 7.2 mishandles failed cookie generation for untrusted X11 forwarding and relies o
+V|openssh|||<|7.4|CVE-2016-10708|7.5|0|15.7|sshd in OpenSSH before 7.4 allows remote attackers to cause a denial of service (NULL pointer dereference and 
+V|openssh|||<|8.3|CVE-2020-15778|7.4|0|13.7|scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backt
+V|openssh|||<|9.3|CVE-2023-38408|9.8|0|79.7|The PKCS#11 feature in ssh-agent in OpenSSH before 9.3p2 has an insufficiently trustworthy search path, leadin
+V|openssh|||<|9.6|CVE-2023-48795|5.9|0|93.5|The SSH transport protocol with certain OpenSSH extensions, found in OpenSSH before 9.6 and other products, al
+V|openssh|||<|9.6|CVE-2023-51385|6.5|0|19.8|In ssh in OpenSSH before 9.6, OS command injection might occur if a user name or host name has shell metachara

@@ -1,0 +1,217 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|ZTE|axon 11 5g|||<|2021.5.1|CVE-2021-21732|7.5|0|1.0|A mobile phone of ZTE is impacted by improper access control vulnerability. Due to improper permission setting
+M|ZTE|axon 40 ultra|||<|1.0.0b26|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|axon 40 ultra|||<|1.0.0b26|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a3 lite|||<|m09|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a3 lite|||<|m09|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a31 plus|||<|m04|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a31 plus|||<|m04|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a31|||<|m03|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a31|||<|m03|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a5 2019|||<|m13|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a5 2019|||<|m13|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a5 2020|||<|m05|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a5 2020|||<|m05|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a51|||<|m07|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a51|||<|m07|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a52|||<|m02|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a52|||<|m02|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a71|||<|2.4|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a71|||<|2.4|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a72|||<|11.0.3|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a72|||<|11.0.3|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a7s|||<|2.2|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade a7s|||<|2.2|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade l210|||<|1.14|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade l210|||<|1.14|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade v20 smart|||<|1.14|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade v20 smart|||<|1.14|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade v30 vita|||<|1.11|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade v30 vita|||<|1.11|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade v30|||<|1.11|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade v30|||<|1.11|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade v40 vita|||<|11.0.2_8045|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|blade v40 vita|||<|11.0.2_8045|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|gan9.8t101a-b|||||CVE-2015-7255|7.5|0|2.0|ZTE OX-330P, ZXHN H108N, W300V1.0.0S_ZRD_TR1_D68, HG110, GAN9.8T101A-B, MF28G, ZXHN H108N use non-unique X.509
+M|ZTE|hg110|||||CVE-2015-7255|7.5|0|2.0|ZTE OX-330P, ZXHN H108N, W300V1.0.0S_ZRD_TR1_D68, HG110, GAN9.8T101A-B, MF28G, ZXHN H108N use non-unique X.509
+M|ZTE|mc801a1|>=|mc801a1_elisa1_b04|<=|mc801a1_elisa1_b04|CVE-2023-25643|8.4|0|1.8|There is a command injection vulnerability in some ZTE mobile internetproducts. Due to insufficient inputvalid
+M|ZTE|mc801a|>=|mc801a_elisa3_b19|<=|mc801a_elisa3_b19|CVE-2023-25643|8.4|0|1.8|There is a command injection vulnerability in some ZTE mobile internetproducts. Due to insufficient inputvalid
+M|ZTE|mf286r|>=|nordic_mf286r_b06|<=|nordic_mf286r_b06|CVE-2022-39073|9.8|0|3.4|There is a command injection vulnerability in ZTE MF286R, Due to insufficient validation of the input paramete
+M|ZTE|mf286r|||<|mf286r_b07|CVE-2022-39066|8.8|0|26.5|There is a SQL injection vulnerability in ZTE MF286R. Due to insufficient validation of the input parameters o
+M|ZTE|mf28g|||||CVE-2015-7255|7.5|0|2.0|ZTE OX-330P, ZXHN H108N, W300V1.0.0S_ZRD_TR1_D68, HG110, GAN9.8T101A-B, MF28G, ZXHN H108N use non-unique X.509
+M|ZTE|mf297d|>=|mf297d_nordic1_b05|<=|mf297d_nordic1_b05|CVE-2022-23138|7.5|0|1.0|ZTE's MF297D product has cryptographic issues vulnerability. Due to the use of weak random values, the securit
+M|ZTE|mf920|||<|bd_r218v2.4|CVE-2019-3411|7.5|0|1.3|All versions up to BD_R218V2.4 of ZTE MF920 product are impacted by information leak vulnerability. Due to som
+M|ZTE|mf920|||<|bd_r218v2.4|CVE-2019-3412|9.8|0|2.9|All versions up to BD_R218V2.4 of ZTE MF920 product are impacted by command execution vulnerability. Due to so
+M|ZTE|mf971r|>=|1v1.0.0b06|<=|1v1.0.0b06|CVE-2021-21744|7.5|0|0.8|ZTE MF971R product has a configuration file control vulnerability. An attacker could use this vulnerability to
+M|ZTE|mf971r|>=|1v1.0.0b06|<=|1v1.0.0b06|CVE-2021-21745|4.3|0|55.7|ZTE MF971R product has a Referer authentication bypass vulnerability. Without CSRF verification, an attackerco
+M|ZTE|mf971r|>=|1v1.0.0b06|<=|1v1.0.0b06|CVE-2021-21748|9.8|0|1.8|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|1v1.0.0b06|<=|1v1.0.0b06|CVE-2021-21749|9.8|0|1.6|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|2v1.0.0b03|<=|2v1.0.0b03|CVE-2021-21744|7.5|0|0.8|ZTE MF971R product has a configuration file control vulnerability. An attacker could use this vulnerability to
+M|ZTE|mf971r|>=|2v1.0.0b03|<=|2v1.0.0b03|CVE-2021-21745|4.3|0|55.7|ZTE MF971R product has a Referer authentication bypass vulnerability. Without CSRF verification, an attackerco
+M|ZTE|mf971r|>=|2v1.0.0b03|<=|2v1.0.0b03|CVE-2021-21748|9.8|0|1.8|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|2v1.0.0b03|<=|2v1.0.0b03|CVE-2021-21749|9.8|0|1.6|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|s2v1.0.0b03|<=|s2v1.0.0b03|CVE-2021-21744|7.5|0|0.8|ZTE MF971R product has a configuration file control vulnerability. An attacker could use this vulnerability to
+M|ZTE|mf971r|>=|s2v1.0.0b03|<=|s2v1.0.0b03|CVE-2021-21745|4.3|0|55.7|ZTE MF971R product has a Referer authentication bypass vulnerability. Without CSRF verification, an attackerco
+M|ZTE|mf971r|>=|s2v1.0.0b03|<=|s2v1.0.0b03|CVE-2021-21748|9.8|0|1.8|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|s2v1.0.0b03|<=|s2v1.0.0b03|CVE-2021-21749|9.8|0|1.6|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|sv1.0.0b05|<=|sv1.0.0b05|CVE-2021-21744|7.5|0|0.8|ZTE MF971R product has a configuration file control vulnerability. An attacker could use this vulnerability to
+M|ZTE|mf971r|>=|sv1.0.0b05|<=|sv1.0.0b05|CVE-2021-21745|4.3|0|55.7|ZTE MF971R product has a Referer authentication bypass vulnerability. Without CSRF verification, an attackerco
+M|ZTE|mf971r|>=|sv1.0.0b05|<=|sv1.0.0b05|CVE-2021-21748|9.8|0|1.8|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|sv1.0.0b05|<=|sv1.0.0b05|CVE-2021-21749|9.8|0|1.6|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|v1.0.0b05|<=|v1.0.0b05|CVE-2021-21744|7.5|0|0.8|ZTE MF971R product has a configuration file control vulnerability. An attacker could use this vulnerability to
+M|ZTE|mf971r|>=|v1.0.0b05|<=|v1.0.0b05|CVE-2021-21745|4.3|0|55.7|ZTE MF971R product has a Referer authentication bypass vulnerability. Without CSRF verification, an attackerco
+M|ZTE|mf971r|>=|v1.0.0b05|<=|v1.0.0b05|CVE-2021-21748|9.8|0|1.8|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|mf971r|>=|v1.0.0b05|<=|v1.0.0b05|CVE-2021-21749|9.8|0|1.6|ZTE MF971R product has two stack-based buffer overflow vulnerabilities. An attacker could exploit the vulnerab
+M|ZTE|netnumen u31 r10|>=|v12.17.20t115|<=|v12.17.20t115|CVE-2020-6870|8.0|0|0.6|The version V12.17.20T115 of ZTE U31R20 product is impacted by a design error vulnerability. An attacker could
+M|ZTE|nr8000tr|||<|12.17.20|CVE-2017-10932|9.8|0|4.1|All versions prior to V12.17.20 of the ZTE Microwave NR8000 series products - NR8120, NR8120A, NR8120, NR8150,
+M|ZTE|nr8120a|||<|12.17.20|CVE-2017-10932|9.8|0|4.1|All versions prior to V12.17.20 of the ZTE Microwave NR8000 series products - NR8120, NR8120A, NR8120, NR8150,
+M|ZTE|nr8120|||<|12.17.20|CVE-2017-10932|9.8|0|4.1|All versions prior to V12.17.20 of the ZTE Microwave NR8000 series products - NR8120, NR8120A, NR8120, NR8150,
+M|ZTE|nr8150|||<|12.17.20|CVE-2017-10932|9.8|0|4.1|All versions prior to V12.17.20 of the ZTE Microwave NR8000 series products - NR8120, NR8120A, NR8120, NR8150,
+M|ZTE|nr8250|||<|12.17.20|CVE-2017-10932|9.8|0|4.1|All versions prior to V12.17.20 of the ZTE Microwave NR8000 series products - NR8120, NR8120A, NR8120, NR8150,
+M|ZTE|nr8950|||<|12.17.20|CVE-2017-10932|9.8|0|4.1|All versions prior to V12.17.20 of the ZTE Microwave NR8000 series products - NR8120, NR8120A, NR8120, NR8150,
+M|ZTE|ox-330p|||||CVE-2015-7255|7.5|0|2.0|ZTE OX-330P, ZXHN H108N, W300V1.0.0S_ZRD_TR1_D68, HG110, GAN9.8T101A-B, MF28G, ZXHN H108N use non-unique X.509
+M|ZTE|ox-330p|||||CVE-2017-3216|9.8|0|5.2|WiMAX routers based on the MediaTek SDK (libmtk) that use a custom httpd plugin are vulnerable to an authentic
+M|ZTE|r5300g4|>=|03.04.0020|<=|03.04.0020|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.05.0040|<=|03.05.0040|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.05.0043|<=|03.05.0043|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.05.0044|<=|03.05.0044|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.05.0045|<=|03.05.0045|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.05.0046|<=|03.05.0046|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.05.0047|<=|03.05.0047|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.07.0100|<=|03.07.0100|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.07.0108|<=|03.07.0108|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.07.0200|<=|03.07.0200|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.07.0300|<=|03.07.0300|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5300g4|>=|03.08.0100|<=|03.08.0100|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5500g4|>=|03.06.0100|<=|03.06.0100|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5500g4|>=|03.07.0100|<=|03.07.0100|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5500g4|>=|03.07.0200|<=|03.07.0200|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r5500g4|>=|03.08.0100|<=|03.08.0100|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r8500g4|>=|03.05.0020|<=|03.05.0020|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r8500g4|>=|03.05.0400|<=|03.05.0400|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r8500g4|>=|03.06.0100|<=|03.06.0100|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r8500g4|>=|03.07.0101|<=|03.07.0101|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|r8500g4|>=|03.07.0103|<=|03.07.0103|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
+M|ZTE|up t2 4k|>=|v84511302.1427|<=|v84511302.1427|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|v40 pro|||<|11.0.4_9046|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|v40 pro|||<|11.0.4_9046|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
+M|ZTE|w300v1.0.0s zrd tr1 d68|||||CVE-2015-7255|7.5|0|2.0|ZTE OX-330P, ZXHN H108N, W300V1.0.0S_ZRD_TR1_D68, HG110, GAN9.8T101A-B, MF28G, ZXHN H108N use non-unique X.509
+M|ZTE|wf820\+ lte outdoor cpe|||<|1.0.0b06|CVE-2019-3409|9.0|0|1.9|All versions up to UKBB_WF820+_1.0.0B06 of ZTE WF820+ LTE Outdoor CPE product are impacted by command injectio
+M|ZTE|wrtm326|||<=|2.3.20|CVE-2024-10119|9.8|0|1.0|The wireless router WRTM326 from SECOM does not properly validate a specific parameter. An unauthenticated rem
+M|ZTE|zxa10 b700v7|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b710c-a12|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b710s2-a19|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b766v2|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b76hv3|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b800v2|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b836ct-a15|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b860av2.1|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b860h|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b866v2-h|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b866v5-w10|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 b960gv1|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 c300m|>=|2.1.0|<|2.1.0xgp002.4|CVE-2022-39070|9.8|0|0.9|There is an access control vulnerability in some ZTE PON OLT products. Due to improper access control settings
+M|ZTE|zxa10 c350m|>=|2.1.0|<|2.1.0xgp002.4|CVE-2022-39070|9.8|0|0.9|There is an access control vulnerability in some ZTE PON OLT products. Due to improper access control settings
+M|ZTE|zxa10 eodn|>=|2.3p2t1|<=|2.3p2t1|CVE-2020-6877|8.8|0|1.0|A ZTE product is impacted by an information leak vulnerability. An attacker could use this vulnerability to ob
+M|ZTE|zxa10 s100v|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 s200a|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxa10 s200t|||<=|2.01.02.01|CVE-2022-23144|9.1|0|0.8|There is a broken access control vulnerability in ZTE ZXvSTB product. Due to improper permission control, atta
+M|ZTE|zxcdn iamweb|>=|6.01.03.01|<=|6.01.03.01|CVE-2019-3427|7.2|0|1.1|The version V6.01.03.01 of ZTE ZXCDN IAMWEB product is impacted by a code injection vulnerability. An attacker
+M|ZTE|zxdsl 831cii|||||CVE-2017-16953|7.5|0|11.3|connoppp.cgi on ZTE ZXDSL 831CII devices does not require HTTP Basic Authentication, which allows remote attac
+M|ZTE|zxdt22 sf01|||<=|v2.06.00.00|CVE-2017-10933|7.5|0|2.1|All versions prior to V2.06.00.00 of ZTE ZXDT22 SF01, an monitoring system of ZTE energy product, are impacted
+M|ZTE|zxhn e8810|>=|1.0.26|<=|1.0.26|CVE-2020-6881|7.5|0|0.6|ZTE E8810/E8820/E8822 series routers have an MQTT DoS vulnerability, which is caused by the failure of the dev
+M|ZTE|zxhn e8810|>=|1.0.26|<=|1.0.26|CVE-2020-6882|7.5|0|1.2|ZTE E8810/E8820/E8822 series routers have an information leak vulnerability, which is caused by hard-coded MQT
+M|ZTE|zxhn e8810|>=|2.0.1|<=|2.0.1|CVE-2020-6881|7.5|0|0.6|ZTE E8810/E8820/E8822 series routers have an MQTT DoS vulnerability, which is caused by the failure of the dev
+M|ZTE|zxhn e8810|>=|2.0.1|<=|2.0.1|CVE-2020-6882|7.5|0|1.2|ZTE E8810/E8820/E8822 series routers have an information leak vulnerability, which is caused by hard-coded MQT
+M|ZTE|zxhn e8820|>=|1.1.3|<=|1.1.3|CVE-2020-6881|7.5|0|0.6|ZTE E8810/E8820/E8822 series routers have an MQTT DoS vulnerability, which is caused by the failure of the dev
+M|ZTE|zxhn e8820|>=|1.1.3|<=|1.1.3|CVE-2020-6882|7.5|0|1.2|ZTE E8810/E8820/E8822 series routers have an information leak vulnerability, which is caused by hard-coded MQT
+M|ZTE|zxhn e8820|>=|2.0.13|<=|2.0.13|CVE-2020-6881|7.5|0|0.6|ZTE E8810/E8820/E8822 series routers have an MQTT DoS vulnerability, which is caused by the failure of the dev
+M|ZTE|zxhn e8820|>=|2.0.13|<=|2.0.13|CVE-2020-6882|7.5|0|1.2|ZTE E8810/E8820/E8822 series routers have an information leak vulnerability, which is caused by hard-coded MQT
+M|ZTE|zxhn e8822|>=|2.0.13|<=|2.0.13|CVE-2020-6881|7.5|0|0.6|ZTE E8810/E8820/E8822 series routers have an MQTT DoS vulnerability, which is caused by the failure of the dev
+M|ZTE|zxhn e8822|>=|2.0.13|<=|2.0.13|CVE-2020-6882|7.5|0|1.2|ZTE E8810/E8820/E8822 series routers have an information leak vulnerability, which is caused by hard-coded MQT
+M|ZTE|zxhn f623|||<|6.0.0p3t34|CVE-2021-21727|7.5|0|1.4|A ZTE product has a DoS vulnerability. A remote attacker can amplify traffic by sending carefully constructed 
+M|ZTE|zxhn f670|||<=|1.1.10p3t18|CVE-2018-7359|9.0|0|1.9|All versions up to V1.1.10P3T18 of ZTE ZXHN F670 product are impacted by heap-based buffer overflow vulnerabil
+M|ZTE|zxhn f670|||<=|1.1.10p3t18|CVE-2019-3417|8.8|0|1.9|All versions up to V1.1.10P3T18 of ZTE ZXHN F670 product are impacted by command injection vulnerability. Due 
+M|ZTE|zxhn f670|||<|1.1.10p3t18|CVE-2018-7360|9.6|0|1.0|All versions up to V1.1.10P3T18 of ZTE ZXHN F670 product are impacted by information exposure vulnerability, w
+M|ZTE|zxhn f670|||<|1.1.10p3t18|CVE-2018-7362|7.5|0|1.2|All versions up to V1.1.10P3T18 of ZTE ZXHN F670 product are impacted by improper access control vulnerability
+M|ZTE|zxhn h108n r1a|||<=|zte.bhs.zxhnh108nr1a.h_pe|CVE-2015-7248|7.5|0|6.9|ZTE ZXHN H108N R1A devices before ZTE.bhs.ZXHNH108NR1A.k_PE allow remote attackers to discover usernames and p
+M|ZTE|zxhn h108n r1a|||<=|zte.bhs.zxhnh108nr1a.h_pe|CVE-2015-7250|7.5|0|15.5|Absolute path traversal vulnerability in cgi-bin/webproc on ZTE ZXHN H108N R1A devices before ZTE.bhs.ZXHNH108
+M|ZTE|zxhn h108n r1a|||<=|zte.bhs.zxhnh108nr1a.h_pe|CVE-2015-7251|9.8|0|10.7|ZTE ZXHN H108N R1A devices before ZTE.bhs.ZXHNH108NR1A.k_PE have a hardcoded password of root for the root acc
+M|ZTE|zxhn h108n|||||CVE-2015-7255|7.5|0|2.0|ZTE OX-330P, ZXHN H108N, W300V1.0.0S_ZRD_TR1_D68, HG110, GAN9.8T101A-B, MF28G, ZXHN H108N use non-unique X.509
+M|ZTE|zxhn h168n|>=|2.2.0_pk1.2t2|<=|2.2.0_pk1.2t2|CVE-2018-7357|6.5|0|87.9|ZTE ZXHN H168N product with versions V2.2.0_PK1.2T5, V2.2.0_PK1.2T2, V2.2.0_PK11T7 and V2.2.0_PK11T have an im
+M|ZTE|zxhn h168n|>=|2.2.0_pk1.2t2|<=|2.2.0_pk1.2t2|CVE-2018-7358|6.5|0|89.6|ZTE ZXHN H168N product with versions V2.2.0_PK1.2T5, V2.2.0_PK1.2T2, V2.2.0_PK11T7 and V2.2.0_PK11T have an im
+M|ZTE|zxhn h168n|>=|2.2.0_pk1.2t5|<=|2.2.0_pk1.2t5|CVE-2018-7357|6.5|0|87.9|ZTE ZXHN H168N product with versions V2.2.0_PK1.2T5, V2.2.0_PK1.2T2, V2.2.0_PK11T7 and V2.2.0_PK11T have an im
+M|ZTE|zxhn h168n|>=|2.2.0_pk1.2t5|<=|2.2.0_pk1.2t5|CVE-2018-7358|6.5|0|89.6|ZTE ZXHN H168N product with versions V2.2.0_PK1.2T5, V2.2.0_PK1.2T2, V2.2.0_PK11T7 and V2.2.0_PK11T have an im
+M|ZTE|zxhn h168n|>=|2.2.0_pk11t7|<=|2.2.0_pk11t7|CVE-2018-7357|6.5|0|87.9|ZTE ZXHN H168N product with versions V2.2.0_PK1.2T5, V2.2.0_PK1.2T2, V2.2.0_PK11T7 and V2.2.0_PK11T have an im
+M|ZTE|zxhn h168n|>=|2.2.0_pk11t7|<=|2.2.0_pk11t7|CVE-2018-7358|6.5|0|89.6|ZTE ZXHN H168N product with versions V2.2.0_PK1.2T5, V2.2.0_PK1.2T2, V2.2.0_PK11T7 and V2.2.0_PK11T have an im
+M|ZTE|zxhn h168n|>=|2.2.0_pk11t|<=|2.2.0_pk11t|CVE-2018-7357|6.5|0|87.9|ZTE ZXHN H168N product with versions V2.2.0_PK1.2T5, V2.2.0_PK1.2T2, V2.2.0_PK11T7 and V2.2.0_PK11T have an im
+M|ZTE|zxhn h168n|>=|2.2.0_pk11t|<=|2.2.0_pk11t|CVE-2018-7358|6.5|0|89.6|ZTE ZXHN H168N product with versions V2.2.0_PK1.2T5, V2.2.0_PK1.2T2, V2.2.0_PK11T7 and V2.2.0_PK11T have an im
+M|ZTE|zxhn h168n|>=|3.5.0_ty.t6|<=|3.5.0_ty.t6|CVE-2021-21730|9.8|0|1.0|A ZTE product is impacted by improper access control vulnerability. The attacker could exploit this vulnerabil
+M|ZTE|zxhn h188a|>=|6.0.10p2_te|<=|6.0.10p2_te|CVE-2026-34472|7.1|0|9.0|Unauthenticated credential disclosure in the wizard interface in ZTE ZXHN H188A V6.0.10P2_TE and V6.0.10P3N3_T
+M|ZTE|zxhn h188a|>=|6.0.10p3n3_te|<=|6.0.10p3n3_te|CVE-2026-34472|7.1|0|9.0|Unauthenticated credential disclosure in the wizard interface in ZTE ZXHN H188A V6.0.10P2_TE and V6.0.10P3N3_T
+M|ZTE|zxhn h388x|>=|10.1_agzhm_1.3.1|<=|10.1_agzhm_1.3.1|CVE-2023-25646|7.1|0|0.2|There is an unauthorized access vulnerability in ZTE H388X. If H388X is caused by brute-force serial port crac
+M|ZTE|zxhn hs562|>=|1.0.0.0b2.0000|<=|1.0.0.0b2.0000|CVE-2021-21736|7.2|0|0.9|A smart camera product of ZTE is impacted by a permission and access control vulnerability. Due to the defect 
+M|ZTE|zxhn hs562|>=|1.0.0.0b3.0000|<=|1.0.0.0b3.0000|CVE-2021-21736|7.2|0|0.9|A smart camera product of ZTE is impacted by a permission and access control vulnerability. Due to the defect 
+M|ZTE|zxhn-h108ns|>=|h108nsv1.0.7u_zrd_gr2_a68|<=|h108nsv1.0.7u_zrd_gr2_a68|CVE-2022-45957|7.5|0|10.6|ZTE ZXHN-H108NS router with firmware version H108NSV1.0.7u_ZRD_GR2_A68 is vulnerable to remote stack buffer ov
+M|ZTE|zxmp m721|>=|5.10.030.006|<=|5.10.030.006|CVE-2022-23139|8.8|0|0.8|ZTE's ZXMP M721 product has a permission and access control vulnerability. Since the folder permission viewed 
+M|ZTE|zxmp m721|>=|commond21bootv100004_ls1045|<=|commond21bootv100004_ls1045|CVE-2022-23141|7.5|0|0.8|ZXMP M721 has an information leak vulnerability. Since the serial port authentication on the ZBOOT interface i
+M|ZTE|zxone 19700 snpe|>=|zxone8700v1.40r2b13_snpe|<=|zxone8700v1.40r2b13_snpe|CVE-2020-6875|9.8|0|1.2|A ZTE product is impacted by the improper access control vulnerability. Due to lack of an authentication prote
+M|ZTE|zxr10 160|||<=|3.00.40|CVE-2024-22066|7.5|0|0.3|There is a privilege escalation vulnerability in ZTE ZXR10 ZSR V2 intelligent multi service router . An authen
+M|ZTE|zxr10 160|||<|3.00.40|CVE-2017-10930|9.8|0|1.1|The ZXR10 1800-2S before v3.00.40 incorrectly restricts access to a resource from an unauthorized actor, resul
+M|ZTE|zxr10 160|||<|3.00.40|CVE-2017-10931|7.5|0|1.3|The ZXR10 1800-2S before v3.00.40 incorrectly restricts the download of the file directory range for WEB users
+M|ZTE|zxr10 1800-2s|||<=|3.00.40|CVE-2024-22066|7.5|0|0.3|There is a privilege escalation vulnerability in ZTE ZXR10 ZSR V2 intelligent multi service router . An authen
+M|ZTE|zxr10 1800-2s|||<|3.00.40|CVE-2017-10930|9.8|0|1.1|The ZXR10 1800-2S before v3.00.40 incorrectly restricts access to a resource from an unauthorized actor, resul
+M|ZTE|zxr10 1800-2s|||<|3.00.40|CVE-2017-10931|7.5|0|1.3|The ZXR10 1800-2S before v3.00.40 incorrectly restricts the download of the file directory range for WEB users
+M|ZTE|zxr10 1800-2s|||<|3.00.40|CVE-2017-10935|7.2|0|1.3|All versions prior to ZSRV2 V3.00.40 of the ZTE ZXR10 1800-2S products allow remote authenticated users to byp
+M|ZTE|zxr10 2800-4|||<=|3.00.40|CVE-2024-22066|7.5|0|0.3|There is a privilege escalation vulnerability in ZTE ZXR10 ZSR V2 intelligent multi service router . An authen
+M|ZTE|zxr10 2800-4|||<|3.00.40|CVE-2017-10930|9.8|0|1.1|The ZXR10 1800-2S before v3.00.40 incorrectly restricts access to a resource from an unauthorized actor, resul
+M|ZTE|zxr10 2800-4|||<|3.00.40|CVE-2017-10931|7.5|0|1.3|The ZXR10 1800-2S before v3.00.40 incorrectly restricts the download of the file directory range for WEB users
+M|ZTE|zxr10 3800-8|||<=|3.00.40|CVE-2024-22066|7.5|0|0.3|There is a privilege escalation vulnerability in ZTE ZXR10 ZSR V2 intelligent multi service router . An authen
+M|ZTE|zxr10 3800-8|||<|3.00.40|CVE-2017-10930|9.8|0|1.1|The ZXR10 1800-2S before v3.00.40 incorrectly restricts access to a resource from an unauthorized actor, resul
+M|ZTE|zxr10 3800-8|||<|3.00.40|CVE-2017-10931|7.5|0|1.3|The ZXR10 1800-2S before v3.00.40 incorrectly restricts the download of the file directory range for WEB users
+M|ZTE|zxr10 9904-s|||<=|v1.01.10.b12|CVE-2021-21723|7.5|0|1.2|Some ZTE products have a DoS vulnerability. Due to the improper handling of memory release in some specific sc
+M|ZTE|zxr10 9904|||<=|v1.01.10.b12|CVE-2021-21723|7.5|0|1.2|Some ZTE products have a DoS vulnerability. Due to the improper handling of memory release in some specific sc
+M|ZTE|zxr10 9908-s|||<=|v1.01.10.b12|CVE-2021-21723|7.5|0|1.2|Some ZTE products have a DoS vulnerability. Due to the improper handling of memory release in some specific sc
+M|ZTE|zxr10 9908|||<=|v1.01.10.b12|CVE-2021-21723|7.5|0|1.2|Some ZTE products have a DoS vulnerability. Due to the improper handling of memory release in some specific sc
+M|ZTE|zxr10 9916|||<=|v1.01.10.b12|CVE-2021-21723|7.5|0|1.2|Some ZTE products have a DoS vulnerability. Due to the improper handling of memory release in some specific sc
+M|ZTE|zxupn-9000e|||<|9000ev5.0r1b12|CVE-2019-3425|8.8|0|1.0|The 9000EV5.0R1B12 version, and all earlier versions of ZTE product ZXUPN-9000E are impacted by vulnerability 
+M|ZTE|zxupn-9000e|||<|9000ev5.0r1b12|CVE-2019-3426|8.8|0|1.0|The 9000EV5.0R1B12 version, and all earlier versions of ZTE product ZXUPN-9000E are impacted by the input vali
+M|ZTE|zxv10 b860a|||<=|81511329.1008|CVE-2019-3416|9.8|0|1.1|All versions up to V81511329.1008 of ZTE ZXV10 B860A products are impacted by input validation vulnerability. 
+M|ZTE|zxv10 b860h v5.0|>=|v83011303.0010|<=|v83011303.0010|CVE-2021-21737|7.5|0|0.8|A smart STB product of ZTE is impacted by a permission and access control vulnerability. Due to insufficient p
+M|ZTE|zxv10 b860h v5.0|>=|v83011303.0016|<=|v83011303.0016|CVE-2021-21737|7.5|0|0.8|A smart STB product of ZTE is impacted by a permission and access control vulnerability. Due to insufficient p
+M|ZTE|zxv10 b860h v5d0|>=|v83011303.0049|<=|v83011303.0049|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b860h v5d0|>=|v83011303.0051|<=|v83011303.0051|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b860h v5d0|>=|v83011303.0053|<=|v83011303.0053|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b860h v5d0|>=|v83011303.0063|<=|v83011303.0063|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b860h v5d0|>=|v83011303.0069|<=|v83011303.0069|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2-h|>=|v84711321.0038|<=|v84711321.0038|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2-h|>=|v84711321.0040|<=|v84711321.0040|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2-h|>=|v84711321.0045|<=|v84711321.0045|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2-h|>=|v84711321.0049|<=|v84711321.0049|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2f|>=|v86111338.0026|<=|v86111338.0026|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2f|>=|v86111338.0031|<=|v86111338.0031|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2f|>=|v86111338.0033|<=|v86111338.0033|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2f|>=|v86111338.0035|<=|v86111338.0035|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2|>=|v82811306.3021|<=|v82811306.3021|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2|>=|v82815416.1027|<=|v82815416.1027|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2|>=|v82815416.1028|<=|v82815416.1028|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2|>=|v82815416.1029|<=|v82815416.1029|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2|>=|v82815416.2012|<=|v82815416.2012|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2|>=|v84711309.0016|<=|v84711309.0016|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2|>=|v84711309.0018|<=|v84711309.0018|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 b866v2|>=|v84711309.0019|<=|v84711309.0019|CVE-2023-25645|7.7|0|0.3|There is a permission and access control vulnerability in some ZTE AndroidTV STBs. Due to improper permission 
+M|ZTE|zxv10 et301|||<|v3.22.11p3|CVE-2024-22069|7.1|0|0.3|There is a permission and access control vulnerability of ZTE's ZXV10 XT802/ET301 product.Attackers with commo
+M|ZTE|zxv10 m910|>=|1.2.16.01u01.01|<=|1.2.16.01u01.01|CVE-2021-21741|9.8|0|1.9|There is a command execution vulnerability in a ZTE conference management system. As some services are enabled
+M|ZTE|zxv10 m910|>=|1.2.19.01u01.01|<=|1.2.19.01u01.01|CVE-2021-21741|9.8|0|1.9|There is a command execution vulnerability in a ZTE conference management system. As some services are enabled
+M|ZTE|zxv10 m910|>=|1.2.20.01u01.01|<=|1.2.20.01u01.01|CVE-2021-21741|9.8|0|1.9|There is a command execution vulnerability in a ZTE conference management system. As some services are enabled
+M|ZTE|zxv10 m910|>=|1.2.21.01.04p01|<=|1.2.21.01.04p01|CVE-2021-21741|9.8|0|1.9|There is a command execution vulnerability in a ZTE conference management system. As some services are enabled
+M|ZTE|zxv10 w300|>=|1.0.0a_zrd_lk|<=|1.0.0a_zrd_lk|CVE-2014-4018|7.8|0|6.3|The ZTE ZXV10 W300 router with firmware W300V1.0.0a_ZRD_LK has a default password of admin for the admin accou
+M|ZTE|zxv10 w300|>=|w300v1.0.0a_zrd_lk|<=|w300v1.0.0a_zrd_lk|CVE-2014-4019|7.5|0|13.2|ZTE ZXV10 W300 router with firmware W300V1.0.0a_ZRD_LK stores sensitive information under the web root with in
+M|ZTE|zxv10 w300|>=|w300v2.1.0f_er7_pe_o57|<=|w300v2.1.0f_er7_pe_o57|CVE-2015-7257|7.5|0|6.7|ZTE ADSL ZXV10 W300 modems W300V2.1.0f_ER7_PE_O57 and W300V2.1.0h_ER7_PE_O57 allow remote authenticated non-ad
+M|ZTE|zxv10 w300|>=|w300v2.1.0f_er7_pe_o57|<=|w300v2.1.0f_er7_pe_o57|CVE-2015-7258|8.8|0|12.9|ZTE ADSL ZXV10 W300 modems W300V2.1.0f_ER7_PE_O57 and W300V2.1.0h_ER7_PE_O57 allow remote authenticated users 
+M|ZTE|zxv10 w300|>=|w300v2.1.0f_er7_pe_o57|<=|w300v2.1.0f_er7_pe_o57|CVE-2015-7259|8.8|0|9.5|ZTE ADSL ZXV10 W300 modems W300V2.1.0f_ER7_PE_O57 and W300V2.1.0h_ER7_PE_O57 allow user accounts to have multi
+M|ZTE|zxv10 w300|>=|w300v2.1.0h_er7_pe_o57|<=|w300v2.1.0h_er7_pe_o57|CVE-2015-7257|7.5|0|6.7|ZTE ADSL ZXV10 W300 modems W300V2.1.0f_ER7_PE_O57 and W300V2.1.0h_ER7_PE_O57 allow remote authenticated non-ad
+M|ZTE|zxv10 w300|>=|w300v2.1.0h_er7_pe_o57|<=|w300v2.1.0h_er7_pe_o57|CVE-2015-7258|8.8|0|12.9|ZTE ADSL ZXV10 W300 modems W300V2.1.0f_ER7_PE_O57 and W300V2.1.0h_ER7_PE_O57 allow remote authenticated users 
+M|ZTE|zxv10 w300|>=|w300v2.1.0h_er7_pe_o57|<=|w300v2.1.0h_er7_pe_o57|CVE-2015-7259|8.8|0|9.5|ZTE ADSL ZXV10 W300 modems W300V2.1.0f_ER7_PE_O57 and W300V2.1.0h_ER7_PE_O57 allow user accounts to have multi
+M|ZTE|zxv10 w908|||<|mips_a_1022ipv6r3t6p7y20|CVE-2020-6880|9.8|0|1.2|A ZXELINK wireless controller has a SQL injection vulnerability. A remote attacker does not need to log in. By
+M|ZTE|zxv10 xt802|||<|v2.24.10p1|CVE-2024-22069|7.1|0|0.3|There is a permission and access control vulnerability of ZTE's ZXV10 XT802/ET301 product.Attackers with commo

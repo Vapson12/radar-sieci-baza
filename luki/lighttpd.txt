@@ -1,0 +1,163 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|lighttpd|>=|1.0.2|<=|1.0.2|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.0.2|<=|1.0.2|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.0.3|<=|1.0.3|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.0.3|<=|1.0.3|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.0|<=|1.1.0|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.0|<=|1.1.0|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.1|<=|1.1.1|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.1|<=|1.1.1|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.2|<=|1.1.2|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.2|<=|1.1.2|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.3|<=|1.1.3|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.3|<=|1.1.3|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.4|<=|1.1.4|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.4|<=|1.1.4|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.5|<=|1.1.5|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.5|<=|1.1.5|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.6|<=|1.1.6|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.6|<=|1.1.6|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.7|<=|1.1.7|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.7|<=|1.1.7|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.8|<=|1.1.8|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.8|<=|1.1.8|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.1.9|<=|1.1.9|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.1.9|<=|1.1.9|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.2.0|<=|1.2.0|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.0|<=|1.2.0|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.2.1|<=|1.2.1|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.1|<=|1.2.1|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.2.2|<=|1.2.2|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.2|<=|1.2.2|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.2.3|<=|1.2.3|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.3|<=|1.2.3|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.2.4|<=|1.2.4|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.5|<=|1.2.5|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.5|<=|1.2.5|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.2.6|<=|1.2.6|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.6|<=|1.2.6|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.2.7|<=|1.2.7|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.7|<=|1.2.7|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.2.8|<=|1.2.8|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.2.8|<=|1.2.8|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.0|<=|1.3.0|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.0|<=|1.3.0|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.0|<=|1.3.0|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.10|<=|1.3.10|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.10|<=|1.3.10|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.10|<=|1.3.10|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.11|<=|1.3.11|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.11|<=|1.3.11|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.11|<=|1.3.11|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.12|<=|1.3.12|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.12|<=|1.3.12|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.12|<=|1.3.12|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.13|<=|1.3.13|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.13|<=|1.3.13|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.13|<=|1.3.13|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.14|<=|1.3.14|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.14|<=|1.3.14|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.14|<=|1.3.14|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.15|<=|1.3.15|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.15|<=|1.3.15|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.15|<=|1.3.15|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.16|<=|1.3.16|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.16|<=|1.3.16|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.16|<=|1.3.16|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.1|<=|1.3.1|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.1|<=|1.3.1|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.1|<=|1.3.1|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.2|<=|1.3.2|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.2|<=|1.3.2|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.2|<=|1.3.2|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.3|<=|1.3.3|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.3|<=|1.3.3|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.3|<=|1.3.3|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.4|<=|1.3.4|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.4|<=|1.3.4|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.4|<=|1.3.4|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.5|<=|1.3.5|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.5|<=|1.3.5|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.5|<=|1.3.5|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.6|<=|1.3.6|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.6|<=|1.3.6|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.6|<=|1.3.6|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.7|<=|1.3.7|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.7|<=|1.3.7|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.8|<=|1.3.8|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.8|<=|1.3.8|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.8|<=|1.3.8|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.3.9|<=|1.3.9|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.3.9|<=|1.3.9|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.3.9|<=|1.3.9|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.0|<=|1.4.0|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.0|<=|1.4.0|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.0|<=|1.4.0|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.10|<=|1.4.10|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.10|<=|1.4.10|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.10|<=|1.4.10|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.11|<=|1.4.11|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.12|<=|1.4.12|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.12|<=|1.4.12|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.13|<=|1.4.13|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.13|<=|1.4.13|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.14|<=|1.4.14|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.15|<=|1.4.15|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.16|<=|1.4.16|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.17|<=|1.4.17|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.18|<=|1.4.18|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.19|<=|1.4.19|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.1|<=|1.4.1|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.1|<=|1.4.1|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.1|<|1.4.30|CVE-2011-4362|5.0|0|21.1|Integer signedness error in the base64_decode function in the HTTP authentication functionality (http_auth.c) 
+V|lighttpd|>=|1.4.20|<=|1.4.20|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.21|<=|1.4.21|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.22|<=|1.4.22|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.23|<=|1.4.23|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.24|<=|1.4.24|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.24|<=|1.4.33|CVE-2013-4508|7.5|0|2.6|lighttpd before 1.4.34, when SNI is enabled, configures weak SSL ciphers, which makes it easier for remote att
+V|lighttpd|>=|1.4.2|<=|1.4.2|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.2|<=|1.4.2|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.2|<=|1.4.2|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.31|<=|1.4.31|CVE-2012-5533|5.0|0|12.0|The http_request_split_value function in request.c in lighttpd before 1.4.32 allows remote attackers to cause 
+V|lighttpd|>=|1.4.32|<=|1.4.32|CVE-2012-5533|5.0|0|12.0|The http_request_split_value function in request.c in lighttpd before 1.4.32 allows remote attackers to cause 
+V|lighttpd|>=|1.4.3|<=|1.4.3|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.3|<=|1.4.3|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.3|<=|1.4.3|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.4|<=|1.4.4|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.4|<=|1.4.4|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.4|<=|1.4.4|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.56|<=|1.4.56|CVE-2022-30780|7.5|0|57.2|Lighttpd 1.4.56 through 1.4.58 allows a remote attacker to cause a denial of service (CPU consumption from stu
+V|lighttpd|>=|1.4.56|<|1.4.67|CVE-2022-41556|7.5|0|3.8|A resource leak in gw_backend.c in lighttpd 1.4.56 through 1.4.66 could lead to a denial of service (connectio
+V|lighttpd|>=|1.4.57|<=|1.4.57|CVE-2022-30780|7.5|0|57.2|Lighttpd 1.4.56 through 1.4.58 allows a remote attacker to cause a denial of service (CPU consumption from stu
+V|lighttpd|>=|1.4.58|<=|1.4.58|CVE-2022-30780|7.5|0|57.2|Lighttpd 1.4.56 through 1.4.58 allows a remote attacker to cause a denial of service (CPU consumption from stu
+V|lighttpd|>=|1.4.5|<=|1.4.5|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.5|<=|1.4.5|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.5|<=|1.4.5|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.65|<=|1.4.65|CVE-2022-37797|7.5|0|2.5|In lighttpd 1.4.65, mod_wstunnel does not initialize a handler function pointer if an invalid HTTP request (we
+V|lighttpd|>=|1.4.6|<=|1.4.6|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.6|<=|1.4.6|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.6|<=|1.4.6|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.7|<=|1.4.7|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.7|<=|1.4.7|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.7|<=|1.4.7|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.8|<=|1.4.8|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.8|<=|1.4.8|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.8|<=|1.4.8|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.4.9|<=|1.4.9|CVE-2006-0814|5.0|0|10.6|response.c in Lighttpd 1.4.10 and possibly previous versions, when run on Windows, allows remote attackers to 
+V|lighttpd|>=|1.4.9|<=|1.4.9|CVE-2007-1870|7.8|0|2.7|lighttpd before 1.4.14 allows attackers to cause a denial of service (crash) via a request to a file whose mti
+V|lighttpd|>=|1.4.9|<=|1.4.9|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.5.0|<=|1.5.0|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|>=|1.5.0|<=|1.5.0|CVE-2011-4362|5.0|0|21.1|Integer signedness error in the base64_decode function in the HTTP authentication functionality (http_auth.c) 
+V|lighttpd|||<=|1.4.15|CVE-2007-3949|8.3|0|3.3|mod_access.c in lighttpd 1.4.15 ignores trailing / (slash) characters in the URL, which allows remote attacker
+V|lighttpd|||<=|1.4.15|CVE-2007-4727|6.8|0|12.9|Buffer overflow in the fcgi_env_add function in mod_proxy_backend_fastcgi.c in the mod_fastcgi extension in li
+V|lighttpd|||<=|1.4.18|CVE-2008-1270|5.0|0|11.9|mod_userdir in lighttpd 1.4.18 and earlier, when userdir.path is not set, uses a default of $HOME, which might
+V|lighttpd|||<=|1.4.25|CVE-2010-0295|5.0|0|12.1|lighttpd before 1.4.26, and 1.5.x, allocates a buffer for each read operation that occurs for a request, which
+V|lighttpd|||<=|1.4.35|CVE-2015-3200|7.5|0|9.9|mod_auth in lighttpd before 1.4.36 allows remote attackers to inject arbitrary log entries via a basic HTTP au
+V|lighttpd|||<=|1.4.53|CVE-2019-11072|9.8|0|73.8|lighttpd before 1.4.54 has a signed integer overflow, which might allow remote attackers to cause a denial of 
+V|lighttpd|||<|1.4.20|CVE-2008-4359|7.5|0|4.3|lighttpd before 1.4.20 compares URIs to patterns in the (1) url.redirect and (2) url.rewrite configuration set
+V|lighttpd|||<|1.4.20|CVE-2008-4360|7.5|0|4.3|mod_userdir in lighttpd before 1.4.20, when a case-insensitive operating system or filesystem is used, perform
+V|lighttpd|||<|1.4.33|CVE-2013-4559|7.6|0|10.7|lighttpd before 1.4.33 does not check the return value of the (1) setuid, (2) setgid, or (3) setgroups functio
+V|lighttpd|||<|1.4.35|CVE-2014-2323|9.8|0|62.8|SQL injection vulnerability in mod_mysql_vhost.c in lighttpd before 1.4.35 allows remote attackers to execute 
+V|lighttpd|||<|1.4.35|CVE-2014-2324|5.0|0|29.5|Multiple directory traversal vulnerabilities in (1) mod_evhost and (2) mod_simple_vhost in lighttpd before 1.4
+V|lighttpd|||<|1.4.50|CVE-2018-19052|7.5|0|13.7|An issue was discovered in mod_alias_physical_handler in mod_alias.c in lighttpd before 1.4.50. There is poten

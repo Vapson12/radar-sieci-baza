@@ -1,0 +1,679 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|nginx|>=|0.1.0|<=|0.1.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.0|<=|0.1.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.0|<=|0.8.22|CVE-2009-3555|9.8|0|87.3|The TLS protocol, and the SSL protocol 3.0 and possibly earlier, as used in Microsoft Internet Information Ser
+V|nginx|>=|0.1.0|<|0.5.38|CVE-2009-2629|7.5|0|75.1|Buffer underflow in src/http/ngx_http_parse.c in nginx 0.1.0 through 0.5.37, 0.6.x before 0.6.39, 0.7.x before
+V|nginx|>=|0.1.0|<|1.0.14|CVE-2012-1180|5.0|0|10.6|Use-after-free vulnerability in nginx before 1.0.14 and 1.1.x before 1.1.17 allows remote HTTP servers to obta
+V|nginx|>=|0.1.10|<=|0.1.10|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.10|<=|0.1.10|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.11|<=|0.1.11|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.11|<=|0.1.11|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.12|<=|0.1.12|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.12|<=|0.1.12|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.13|<=|0.1.13|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.13|<=|0.1.13|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.14|<=|0.1.14|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.14|<=|0.1.14|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.15|<=|0.1.15|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.15|<=|0.1.15|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.16|<=|0.1.16|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.16|<=|0.1.16|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.17|<=|0.1.17|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.17|<=|0.1.17|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.18|<=|0.1.18|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.18|<=|0.1.18|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.19|<=|0.1.19|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.19|<=|0.1.19|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.1|<=|0.1.1|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.1|<=|0.1.1|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.20|<=|0.1.20|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.20|<=|0.1.20|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.21|<=|0.1.21|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.21|<=|0.1.21|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.22|<=|0.1.22|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.22|<=|0.1.22|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.23|<=|0.1.23|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.23|<=|0.1.23|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.24|<=|0.1.24|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.24|<=|0.1.24|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.25|<=|0.1.25|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.25|<=|0.1.25|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.26|<=|0.1.26|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.26|<=|0.1.26|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.27|<=|0.1.27|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.27|<=|0.1.27|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.28|<=|0.1.28|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.28|<=|0.1.28|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.29|<=|0.1.29|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.29|<=|0.1.29|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.2|<=|0.1.2|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.2|<=|0.1.2|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.30|<=|0.1.30|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.30|<=|0.1.30|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.31|<=|0.1.31|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.31|<=|0.1.31|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.32|<=|0.1.32|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.32|<=|0.1.32|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.33|<=|0.1.33|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.33|<=|0.1.33|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.34|<=|0.1.34|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.34|<=|0.1.34|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.35|<=|0.1.35|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.35|<=|0.1.35|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.36|<=|0.1.36|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.36|<=|0.1.36|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.37|<=|0.1.37|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.37|<=|0.1.37|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.38|<=|0.1.38|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.38|<=|0.1.38|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.39|<=|0.1.39|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.39|<=|0.1.39|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.3|<=|0.1.3|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.3|<=|0.1.3|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.40|<=|0.1.40|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.40|<=|0.1.40|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.41|<=|0.1.41|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.41|<=|0.1.41|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.42|<=|0.1.42|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.42|<=|0.1.42|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.43|<=|0.1.43|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.43|<=|0.1.43|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.44|<=|0.1.44|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.44|<=|0.1.44|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.45|<=|0.1.45|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.45|<=|0.1.45|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.4|<=|0.1.4|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.4|<=|0.1.4|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.5|<=|0.1.5|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.5|<=|0.1.5|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.6|<=|0.1.6|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.6|<=|0.1.6|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.7|<=|0.1.7|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.7|<=|0.1.7|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.8|<=|0.1.8|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.8|<=|0.1.8|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.1.9|<=|0.1.9|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.1.9|<=|0.1.9|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.2.0|<=|0.2.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.2.0|<=|0.2.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.2.1|<=|0.2.1|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.2.1|<=|0.2.1|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.2.2|<=|0.2.2|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.2.2|<=|0.2.2|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.2.3|<=|0.2.3|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.2.3|<=|0.2.3|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.2.4|<=|0.2.4|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.2.4|<=|0.2.4|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.2.5|<=|0.2.5|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.2.5|<=|0.2.5|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.2.6|<=|0.2.6|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.2.6|<=|0.2.6|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.0|<=|0.3.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.0|<=|0.3.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.10|<=|0.3.10|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.10|<=|0.3.10|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.11|<=|0.3.11|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.11|<=|0.3.11|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.12|<=|0.3.12|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.12|<=|0.3.12|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.13|<=|0.3.13|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.13|<=|0.3.13|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.14|<=|0.3.14|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.14|<=|0.3.14|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.15|<=|0.3.15|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.15|<=|0.3.15|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.16|<=|0.3.16|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.16|<=|0.3.16|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.17|<=|0.3.17|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.17|<=|0.3.17|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.18|<=|0.3.18|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.18|<=|0.3.18|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.19|<=|0.3.19|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.19|<=|0.3.19|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.1|<=|0.3.1|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.1|<=|0.3.1|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.20|<=|0.3.20|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.20|<=|0.3.20|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.21|<=|0.3.21|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.21|<=|0.3.21|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.22|<=|0.3.22|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.22|<=|0.3.22|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.23|<=|0.3.23|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.23|<=|0.3.23|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.24|<=|0.3.24|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.24|<=|0.3.24|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.25|<=|0.3.25|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.25|<=|0.3.25|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.26|<=|0.3.26|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.26|<=|0.3.26|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.27|<=|0.3.27|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.27|<=|0.3.27|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.28|<=|0.3.28|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.28|<=|0.3.28|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.29|<=|0.3.29|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.29|<=|0.3.29|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.2|<=|0.3.2|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.2|<=|0.3.2|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.30|<=|0.3.30|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.30|<=|0.3.30|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.31|<=|0.3.31|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.31|<=|0.3.31|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.32|<=|0.3.32|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.32|<=|0.3.32|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.33|<=|0.3.33|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.33|<=|0.3.33|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.34|<=|0.3.34|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.34|<=|0.3.34|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.35|<=|0.3.35|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.35|<=|0.3.35|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.36|<=|0.3.36|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.36|<=|0.3.36|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.37|<=|0.3.37|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.37|<=|0.3.37|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.38|<=|0.3.38|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.38|<=|0.3.38|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.39|<=|0.3.39|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.39|<=|0.3.39|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.3|<=|0.3.3|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.3|<=|0.3.3|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.40|<=|0.3.40|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.40|<=|0.3.40|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.41|<=|0.3.41|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.41|<=|0.3.41|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.42|<=|0.3.42|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.42|<=|0.3.42|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.43|<=|0.3.43|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.43|<=|0.3.43|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.44|<=|0.3.44|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.44|<=|0.3.44|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.45|<=|0.3.45|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.45|<=|0.3.45|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.46|<=|0.3.46|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.46|<=|0.3.46|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.47|<=|0.3.47|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.47|<=|0.3.47|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.48|<=|0.3.48|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.48|<=|0.3.48|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.49|<=|0.3.49|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.49|<=|0.3.49|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.4|<=|0.3.4|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.4|<=|0.3.4|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.50|<=|0.3.50|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.50|<=|0.3.50|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.51|<=|0.3.51|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.51|<=|0.3.51|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.52|<=|0.3.52|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.52|<=|0.3.52|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.53|<=|0.3.53|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.53|<=|0.3.53|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.54|<=|0.3.54|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.54|<=|0.3.54|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.55|<=|0.3.55|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.55|<=|0.3.55|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.56|<=|0.3.56|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.56|<=|0.3.56|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.57|<=|0.3.57|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.57|<=|0.3.57|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.58|<=|0.3.58|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.58|<=|0.3.58|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.59|<=|0.3.59|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.59|<=|0.3.59|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.5|<=|0.3.5|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.5|<=|0.3.5|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.60|<=|0.3.60|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.60|<=|0.3.60|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.61|<=|0.3.61|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.61|<=|0.3.61|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.6|<=|0.3.6|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.6|<=|0.3.6|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.7|<=|0.3.7|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.7|<=|0.3.7|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.8|<=|0.3.8|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.8|<=|0.3.8|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.3.9|<=|0.3.9|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.3.9|<=|0.3.9|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.0|<=|0.4.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.0|<=|0.4.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.10|<=|0.4.10|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.10|<=|0.4.10|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.11|<=|0.4.11|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.11|<=|0.4.11|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.12|<=|0.4.12|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.12|<=|0.4.12|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.13|<=|0.4.13|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.13|<=|0.4.13|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.1|<=|0.4.1|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.1|<=|0.4.1|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.2|<=|0.4.2|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.2|<=|0.4.2|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.3|<=|0.4.3|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.3|<=|0.4.3|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.4|<=|0.4.4|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.4|<=|0.4.4|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.5|<=|0.4.5|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.5|<=|0.4.5|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.6|<=|0.4.6|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.6|<=|0.4.6|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.7|<=|0.4.7|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.7|<=|0.4.7|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.8|<=|0.4.8|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.8|<=|0.4.8|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.4.9|<=|0.4.9|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.4.9|<=|0.4.9|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.0|<=|0.5.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.0|<=|0.5.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.10|<=|0.5.10|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.10|<=|0.5.10|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.11|<=|0.5.11|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.11|<=|0.5.11|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.12|<=|0.5.12|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.12|<=|0.5.12|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.13|<=|0.5.13|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.13|<=|0.5.13|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.14|<=|0.5.14|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.14|<=|0.5.14|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.15|<=|0.5.15|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.15|<=|0.5.15|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.16|<=|0.5.16|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.16|<=|0.5.16|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.17|<=|0.5.17|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.17|<=|0.5.17|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.18|<=|0.5.18|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.18|<=|0.5.18|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.19|<=|0.5.19|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.19|<=|0.5.19|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.1|<=|0.5.1|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.1|<=|0.5.1|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.20|<=|0.5.20|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.20|<=|0.5.20|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.21|<=|0.5.21|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.21|<=|0.5.21|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.22|<=|0.5.22|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.22|<=|0.5.22|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.23|<=|0.5.23|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.23|<=|0.5.23|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.24|<=|0.5.24|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.24|<=|0.5.24|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.25|<=|0.5.25|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.25|<=|0.5.25|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.26|<=|0.5.26|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.26|<=|0.5.26|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.27|<=|0.5.27|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.27|<=|0.5.27|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.28|<=|0.5.28|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.28|<=|0.5.28|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.29|<=|0.5.29|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.29|<=|0.5.29|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.2|<=|0.5.2|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.2|<=|0.5.2|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.30|<=|0.5.30|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.30|<=|0.5.30|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.31|<=|0.5.31|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.31|<=|0.5.31|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.32|<=|0.5.32|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.32|<=|0.5.32|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.33|<=|0.5.33|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.33|<=|0.5.33|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.34|<=|0.5.34|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.34|<=|0.5.34|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.35|<=|0.5.35|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.35|<=|0.5.35|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.36|<=|0.5.36|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.36|<=|0.5.36|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.37|<=|0.5.37|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.37|<=|0.5.37|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.3|<=|0.5.3|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.3|<=|0.5.3|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.4|<=|0.5.4|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.4|<=|0.5.4|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.5|<=|0.5.5|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.5|<=|0.5.5|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.6|<=|0.5.6|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.6|<=|0.5.6|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.6|<=|1.12.1|CVE-2017-7529|7.5|0|62.6|Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in ngin
+V|nginx|>=|0.5.7|<=|0.5.7|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.7|<=|0.5.7|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.8|<=|0.5.8|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.8|<=|0.5.8|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.5.9|<=|0.5.9|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.5.9|<=|0.5.9|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.0|<=|0.6.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.0|<=|0.6.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.0|<|0.6.39|CVE-2009-2629|7.5|0|75.1|Buffer underflow in src/http/ngx_http_parse.c in nginx 0.1.0 through 0.5.37, 0.6.x before 0.6.39, 0.7.x before
+V|nginx|>=|0.6.10|<=|0.6.10|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.10|<=|0.6.10|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.11|<=|0.6.11|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.11|<=|0.6.11|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.12|<=|0.6.12|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.12|<=|0.6.12|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.13|<=|0.6.13|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.13|<=|0.6.13|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.14|<=|0.6.14|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.14|<=|0.6.14|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.1516|<=|0.6.1516|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.1516|<=|0.6.1516|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.15|<=|0.6.15|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.15|<=|0.6.15|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.17|<=|0.6.17|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.17|<=|0.6.17|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.18|<=|0.6.18|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.18|<=|0.6.18|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.18|<=|1.8.0|CVE-2016-0746|9.8|0|8.9|Use-after-free vulnerability in the resolver in nginx 0.6.18 through 1.8.0 and 1.9.x before 1.9.10 allows remo
+V|nginx|>=|0.6.18|<|1.20.1|CVE-2021-23017|7.7|0|53.5|A security issue in nginx resolver was identified, which might allow an attacker who is able to forge UDP pack
+V|nginx|>=|0.6.18|<|1.8.1|CVE-2016-0742|7.5|0|82.4|The resolver in nginx before 1.8.1 and 1.9.x before 1.9.10 allows remote attackers to cause a denial of servic
+V|nginx|>=|0.6.19|<=|0.6.19|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.19|<=|0.6.19|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.1|<=|0.6.1|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.1|<=|0.6.1|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.20|<=|0.6.20|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.20|<=|0.6.20|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.21|<=|0.6.21|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.21|<=|0.6.21|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.22|<=|0.6.22|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.22|<=|0.6.22|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.23|<=|0.6.23|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.23|<=|0.6.23|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.24|<=|0.6.24|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.24|<=|0.6.24|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.25|<=|0.6.25|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.25|<=|0.6.25|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.26|<=|0.6.26|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.26|<=|0.6.26|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.27|<=|0.6.27|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.27|<=|0.6.27|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.28|<=|0.6.28|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.28|<=|0.6.28|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.29|<=|0.6.29|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.29|<=|0.6.29|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.2|<=|0.6.2|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.2|<=|0.6.2|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.30|<=|0.6.30|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.30|<=|0.6.30|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.31|<=|0.6.31|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.31|<=|0.6.31|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.32|<=|0.6.32|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.32|<=|0.6.32|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.33|<=|0.6.33|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.33|<=|0.6.33|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.34|<=|0.6.34|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.34|<=|0.6.34|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.35|<=|0.6.35|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.35|<=|0.6.35|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.36|<=|0.6.36|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.36|<=|0.6.36|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.37|<=|0.6.37|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.37|<=|0.6.37|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.38|<=|0.6.38|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.38|<=|0.6.38|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.3|<=|0.6.3|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.3|<=|0.6.3|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.4|<=|0.6.4|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.4|<=|0.6.4|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.5|<=|0.6.5|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.5|<=|0.6.5|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.6|<=|0.6.6|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.6|<=|0.6.6|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.7|<=|0.6.7|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.7|<=|0.6.7|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.8|<=|0.6.8|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.8|<=|0.6.8|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.6.9|<=|0.6.9|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.6.9|<=|0.6.9|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.0|<=|0.7.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.0|<=|0.7.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.0|<|0.7.62|CVE-2009-2629|7.5|0|75.1|Buffer underflow in src/http/ngx_http_parse.c in nginx 0.1.0 through 0.5.37, 0.6.x before 0.6.39, 0.7.x before
+V|nginx|>=|0.7.10|<=|0.7.10|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.10|<=|0.7.10|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.11|<=|0.7.11|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.11|<=|0.7.11|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.12|<=|0.7.12|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.12|<=|0.7.12|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.13|<=|0.7.13|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.13|<=|0.7.13|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.14|<=|0.7.14|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.14|<=|0.7.14|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.15|<=|0.7.15|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.15|<=|0.7.15|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.16|<=|0.7.16|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.16|<=|0.7.16|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.17|<=|0.7.17|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.17|<=|0.7.17|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.18|<=|0.7.18|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.18|<=|0.7.18|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.19|<=|0.7.19|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.19|<=|0.7.19|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.1|<=|0.7.1|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.1|<=|0.7.1|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.20|<=|0.7.20|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.20|<=|0.7.20|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.21|<=|0.7.21|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.21|<=|0.7.21|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.22|<=|0.7.22|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.22|<=|0.7.22|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.23|<=|0.7.23|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.23|<=|0.7.23|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.24|<=|0.7.24|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.24|<=|0.7.24|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.25|<=|0.7.25|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.25|<=|0.7.25|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.26|<=|0.7.26|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.26|<=|0.7.26|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.27|<=|0.7.27|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.27|<=|0.7.27|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.28|<=|0.7.28|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.28|<=|0.7.28|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.29|<=|0.7.29|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.29|<=|0.7.29|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.2|<=|0.7.2|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.2|<=|0.7.2|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.30|<=|0.7.30|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.30|<=|0.7.30|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.31|<=|0.7.31|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.31|<=|0.7.31|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.32|<=|0.7.32|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.32|<=|0.7.32|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.33|<=|0.7.33|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.33|<=|0.7.33|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.34|<=|0.7.34|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.34|<=|0.7.34|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.35|<=|0.7.35|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.35|<=|0.7.35|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.36|<=|0.7.36|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.36|<=|0.7.36|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.37|<=|0.7.37|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.37|<=|0.7.37|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.38|<=|0.7.38|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.38|<=|0.7.38|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.39|<=|0.7.39|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.39|<=|0.7.39|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.3|<=|0.7.3|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.3|<=|0.7.3|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.40|<=|0.7.40|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.40|<=|0.7.40|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.41|<=|0.7.41|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.41|<=|0.7.41|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.42|<=|0.7.42|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.42|<=|0.7.42|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.43|<=|0.7.43|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.43|<=|0.7.43|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.44|<=|0.7.44|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.44|<=|0.7.44|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.45|<=|0.7.45|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.45|<=|0.7.45|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.46|<=|0.7.46|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.46|<=|0.7.46|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.47|<=|0.7.47|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.47|<=|0.7.47|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.48|<=|0.7.48|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.48|<=|0.7.48|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.49|<=|0.7.49|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.49|<=|0.7.49|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.4|<=|0.7.4|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.4|<=|0.7.4|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.50|<=|0.7.50|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.50|<=|0.7.50|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.51|<=|0.7.51|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.51|<=|0.7.51|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.52|<=|0.7.52|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.52|<=|0.7.52|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.52|<|0.7.66|CVE-2010-2263|5.0|0|71.9|nginx 0.8 before 0.8.40 and 0.7 before 0.7.66, when running on Windows, allows remote attackers to obtain sour
+V|nginx|>=|0.7.52|<|0.7.67|CVE-2010-2266|5.0|0|21.5|nginx 0.8.36 allows remote attackers to cause a denial of service (crash) via certain encoded directory traver
+V|nginx|>=|0.7.53|<=|0.7.53|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.53|<=|0.7.53|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.54|<=|0.7.54|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.54|<=|0.7.54|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.55|<=|0.7.55|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.55|<=|0.7.55|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.56|<=|0.7.56|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.56|<=|0.7.56|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.57|<=|0.7.57|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.57|<=|0.7.57|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.58|<=|0.7.58|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.58|<=|0.7.58|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.59|<=|0.7.59|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.59|<=|0.7.59|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.5|<=|0.7.5|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.5|<=|0.7.5|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.60|<=|0.7.60|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.60|<=|0.7.60|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.61|<=|0.7.61|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.61|<=|0.7.61|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.64|<=|0.7.64|CVE-2009-4487|6.8|0|26.8|nginx 0.7.64 writes data to a log file without sanitizing non-printable characters, which might allow remote a
+V|nginx|>=|0.7.6|<=|0.7.6|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.6|<=|0.7.6|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.7|<=|0.7.7|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.7|<=|0.7.7|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.8|<=|0.7.8|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.8|<=|0.7.8|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.7.9|<=|0.7.9|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.7.9|<=|0.7.9|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.0|<=|0.8.0|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.0|<=|0.8.0|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.0|<=|0.8.39|CVE-2010-2263|5.0|0|71.9|nginx 0.8 before 0.8.40 and 0.7 before 0.7.66, when running on Windows, allows remote attackers to obtain sour
+V|nginx|>=|0.8.0|<=|0.8.40|CVE-2010-2266|5.0|0|21.5|nginx 0.8.36 allows remote attackers to cause a denial of service (crash) via certain encoded directory traver
+V|nginx|>=|0.8.0|<|0.8.15|CVE-2009-2629|7.5|0|75.1|Buffer underflow in src/http/ngx_http_parse.c in nginx 0.1.0 through 0.5.37, 0.6.x before 0.6.39, 0.7.x before
+V|nginx|>=|0.8.10|<=|0.8.10|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.10|<=|0.8.10|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.11|<=|0.8.11|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.11|<=|0.8.11|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.12|<=|0.8.12|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.12|<=|0.8.12|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.13|<=|0.8.13|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.13|<=|0.8.13|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.14|<=|0.8.14|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.14|<=|0.8.14|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.15|<=|0.8.15|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.1|<=|0.8.1|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.1|<=|0.8.1|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.2|<=|0.8.2|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.2|<=|0.8.2|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.3|<=|0.8.3|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.3|<=|0.8.3|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.41|<|1.4.4|CVE-2013-4547|7.5|0|67.7|nginx 0.8.41 through 1.4.3 and 1.5.x before 1.5.7 allows remote attackers to bypass intended restrictions via 
+V|nginx|>=|0.8.4|<=|0.8.4|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.4|<=|0.8.4|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.5|<=|0.8.5|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.5|<=|0.8.5|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.6|<=|0.8.6|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.6|<=|0.8.6|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.7|<=|0.8.7|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.7|<=|0.8.7|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.8|<=|0.8.8|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.8|<=|0.8.8|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|0.8.9|<=|0.8.9|CVE-2009-3896|5.0|0|10.2|src/http/ngx_http_parse.c in nginx (aka Engine X) 0.1.0 through 0.4.14, 0.5.x before 0.5.38, 0.6.x before 0.6.
+V|nginx|>=|0.8.9|<=|0.8.9|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|>=|1.0.0|<=|1.0.0|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.10|<=|1.0.10|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.11|<=|1.0.11|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.12|<=|1.0.12|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.13|<=|1.0.13|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.14|<=|1.0.14|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.15|<=|1.0.15|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.1|<=|1.0.1|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.2|<=|1.0.2|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.3|<=|1.0.3|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.4|<=|1.0.4|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.5|<=|1.0.5|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.6|<=|1.0.6|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.7|<=|1.0.7|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.8|<=|1.0.8|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.0.9|<=|1.0.9|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.0|<=|1.1.0|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.0|<|1.1.17|CVE-2012-1180|5.0|0|10.6|Use-after-free vulnerability in nginx before 1.0.14 and 1.1.x before 1.1.17 allows remote HTTP servers to obta
+V|nginx|>=|1.1.10|<=|1.1.10|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.11|<=|1.1.11|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.12|<=|1.1.12|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.13|<=|1.1.13|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.14|<=|1.1.14|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.15|<=|1.1.15|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.16|<=|1.1.16|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.17|<=|1.1.17|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.18|<=|1.1.18|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.19|<=|1.1.19|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.1|<=|1.1.1|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.2|<=|1.1.2|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.3|<=|1.1.3|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.3|<=|1.22.0|CVE-2022-41741|7.0|0|0.8|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|1.1.3|<=|1.22.0|CVE-2022-41742|7.1|0|1.2|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|1.1.4|<=|1.1.4|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.4|<=|1.2.8|CVE-2013-2070|5.8|0|11.9|http/modules/ngx_http_proxy_module.c in nginx 1.1.4 through 1.2.8 and 1.3.0 through 1.4.0, when proxy_pass is 
+V|nginx|>=|1.1.5|<=|1.1.5|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.6|<=|1.1.6|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.7|<=|1.1.7|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.8|<=|1.1.8|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.1.9|<=|1.1.9|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.11.0|<=|1.11.0|CVE-2016-4450|7.5|0|16.4|os/unix/ngx_files.c in nginx before 1.10.1 and 1.11.x before 1.11.1 allows remote attackers to cause a denial 
+V|nginx|>=|1.13.0|<=|1.13.2|CVE-2017-7529|7.5|0|62.6|Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in ngin
+V|nginx|>=|1.15.0|<|1.15.6|CVE-2018-16844|7.5|0|12.7|nginx before versions 1.15.6 and 1.14.1 has a vulnerability in the implementation of HTTP/2 that can allow for
+V|nginx|>=|1.17.0|<=|1.17.2|CVE-2019-9511|7.5|0|59.5|Some HTTP/2 implementations are vulnerable to window size manipulation and stream prioritization manipulation,
+V|nginx|>=|1.17.0|<=|1.17.2|CVE-2019-9513|7.5|0|81.6|Some HTTP/2 implementations are vulnerable to resource loops, potentially leading to a denial of service. The 
+V|nginx|>=|1.17.0|<=|1.17.2|CVE-2019-9516|6.5|0|57.5|Some HTTP/2 implementations are vulnerable to a header leak, potentially leading to a denial of service. The a
+V|nginx|>=|1.2.0|<=|1.2.0|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.23.0|<=|1.23.0|CVE-2022-41741|7.0|0|0.8|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|1.23.0|<=|1.23.0|CVE-2022-41742|7.1|0|1.2|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|1.23.1|<=|1.23.1|CVE-2022-41741|7.0|0|0.8|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|1.23.1|<=|1.23.1|CVE-2022-41742|7.1|0|1.2|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|1.3.0|<=|1.3.0|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.10|<=|1.3.10|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.11|<=|1.3.11|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.12|<=|1.3.12|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.15|<|1.4.7|CVE-2014-0133|7.5|0|9.5|Heap-based buffer overflow in the SPDY implementation in nginx 1.3.15 before 1.4.7 and 1.5.x before 1.5.12 all
+V|nginx|>=|1.3.1|<=|1.3.1|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.2|<=|1.3.2|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.3|<=|1.3.3|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.4|<=|1.3.4|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.5|<=|1.3.5|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.6|<=|1.3.6|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.7|<=|1.3.7|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.8|<=|1.3.8|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.9|<=|1.3.9|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|>=|1.3.9|<=|1.4.0|CVE-2013-2028|7.5|0|87.5|The ngx_http_parse_chunked function in http/ngx_http_parse.c in nginx 1.3.9 through 1.4.0 allows remote attack
+V|nginx|>=|1.3.9|<=|1.4.0|CVE-2013-2070|5.8|0|11.9|http/modules/ngx_http_proxy_module.c in nginx 1.1.4 through 1.2.8 and 1.3.0 through 1.4.0, when proxy_pass is 
+V|nginx|>=|1.3.9|<|1.10.1|CVE-2016-4450|7.5|0|16.4|os/unix/ngx_files.c in nginx before 1.10.1 and 1.11.x before 1.11.1 allows remote attackers to cause a denial 
+V|nginx|>=|1.5.0|<=|1.5.11|CVE-2014-0133|7.5|0|9.5|Heap-based buffer overflow in the SPDY implementation in nginx 1.3.15 before 1.4.7 and 1.5.x before 1.5.12 all
+V|nginx|>=|1.5.0|<=|1.5.6|CVE-2013-4547|7.5|0|67.7|nginx 0.8.41 through 1.4.3 and 1.5.x before 1.5.7 allows remote attackers to bypass intended restrictions via 
+V|nginx|>=|1.5.10|<=|1.5.10|CVE-2014-0088|7.5|0|8.9|The SPDY implementation in the ngx_http_spdy_module module in nginx 1.5.10 before 1.5.11, when running on a 32
+V|nginx|>=|1.9.0|<|1.9.10|CVE-2016-0742|7.5|0|82.4|The resolver in nginx before 1.8.1 and 1.9.x before 1.9.10 allows remote attackers to cause a denial of servic
+V|nginx|>=|1.9.0|<|1.9.10|CVE-2016-0746|9.8|0|8.9|Use-after-free vulnerability in the resolver in nginx 0.6.18 through 1.8.0 and 1.9.x before 1.9.10 allows remo
+V|nginx|>=|1.9.5|<=|1.25.2|CVE-2023-44487|7.5|1|100.0|The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can 
+V|nginx|>=|1.9.5|<|1.14.1|CVE-2018-16844|7.5|0|12.7|nginx before versions 1.15.6 and 1.14.1 has a vulnerability in the implementation of HTTP/2 that can allow for
+V|nginx|>=|1.9.5|<|1.16.1|CVE-2019-9511|7.5|0|59.5|Some HTTP/2 implementations are vulnerable to window size manipulation and stream prioritization manipulation,
+V|nginx|>=|1.9.5|<|1.16.1|CVE-2019-9513|7.5|0|81.6|Some HTTP/2 implementations are vulnerable to resource loops, potentially leading to a denial of service. The 
+V|nginx|>=|1.9.5|<|1.16.1|CVE-2019-9516|6.5|0|57.5|Some HTTP/2 implementations are vulnerable to a header leak, potentially leading to a denial of service. The a
+V|nginx|>=|r1|<=|r1|CVE-2022-41741|7.0|0|0.8|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|r1|<=|r1|CVE-2022-41742|7.1|0|1.2|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|r22|<=|r27|CVE-2022-41741|7.0|0|0.8|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|r22|<=|r27|CVE-2022-41742|7.1|0|1.2|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|r2|<=|r2|CVE-2022-41741|7.0|0|0.8|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>=|r2|<=|r2|CVE-2022-41742|7.1|0|1.2|NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and 
+V|nginx|>|1.15.0|<|1.15.6|CVE-2018-16843|7.5|0|48.0|nginx before versions 1.15.6 and 1.14.1 has a vulnerability in the implementation of HTTP/2 that can allow for
+V|nginx|>|1.9.5|<|1.14.1|CVE-2018-16843|7.5|0|48.0|nginx before versions 1.15.6 and 1.14.1 has a vulnerability in the implementation of HTTP/2 that can allow for
+V|nginx|||<=|0.7.62|CVE-2009-3898|4.9|0|15.9|Directory traversal vulnerability in src/http/modules/ngx_http_dav_module.c in nginx (aka Engine X) before 0.7
+V|nginx|||<=|1.10.0|CVE-2016-1247|7.8|0|4.9|The nginx package before 1.6.2-5+deb8u3 on Debian jessie, the nginx packages before 1.4.6-1ubuntu3.6 on Ubuntu
+V|nginx|||<=|1.10.1|CVE-2016-1247|7.8|0|4.9|The nginx package before 1.6.2-5+deb8u3 on Debian jessie, the nginx packages before 1.4.6-1ubuntu3.6 on Ubuntu
+V|nginx|||<=|1.3.13|CVE-2013-0337|7.5|0|2.2|The default configuration of nginx, possibly 1.3.13 and earlier, uses world-readable permissions for the (1) a
+V|nginx|||<=|1.4.3|CVE-2016-1247|7.8|0|4.9|The nginx package before 1.6.2-5+deb8u3 on Debian jessie, the nginx packages before 1.4.6-1ubuntu3.6 on Ubuntu
+V|nginx|||<=|1.6.2|CVE-2016-1247|7.8|0|4.9|The nginx package before 1.6.2-5+deb8u3 on Debian jessie, the nginx packages before 1.4.6-1ubuntu3.6 on Ubuntu
+V|nginx|||<|1.13.6|CVE-2017-20005|9.8|0|3.3|NGINX before 1.13.6 has a buffer overflow for years that exceed four digits, as demonstrated by a file with a 
+V|nginx|||<|1.17.7|CVE-2019-20372|5.3|0|15.0|NGINX before 1.17.7, with certain error_page configurations, allows HTTP request smuggling, as demonstrated by
+V|nginx|||<|1.21.0|CVE-2021-3618|7.4|0|2.0|ALPACA is an application layer protocol content confusion attack, exploiting TLS servers implementing differen

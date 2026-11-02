@@ -1,0 +1,103 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2020-3259|0.0|1|71.5|Cisco ASA and FTD Information Disclosure Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2020-3452|0.0|1|100.0|Cisco ASA and FTD Read-Only Path Traversal Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2020-3580|0.0|1|85.6|Cisco ASA and FTD Cross-Site Scripting (XSS) Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2024-20353|0.0|1|69.8|Cisco ASA and FTD Denial of Service Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2024-20359|0.0|1|18.8|Cisco ASA and FTD Privilege Escalation Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2024-20481|0.0|1|15.9|Cisco ASA and FTD Denial-of-Service Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA)|||||CVE-2014-2120|0.0|1|22.6|Cisco Adaptive Security Appliance (ASA) Cross-Site Scripting (XSS) Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA)|||||CVE-2016-6366|0.0|1|87.6|Cisco Adaptive Security Appliance (ASA) SNMP Buffer Overflow Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA)|||||CVE-2016-6367|0.0|1|22.6|Cisco Adaptive Security Appliance (ASA) CLI Remote Code Execution Vulnerability
+M|Cisco|Adaptive Security Appliance (ASA)|||||CVE-2018-0296|0.0|1|99.9|Cisco Adaptive Security Appliance (ASA) Denial-of-Service Vulnerability
+M|Cisco|Adaptive Security Appliance and Firepower Threat Defense|||||CVE-2023-20269|0.0|1|26.6|Cisco Adaptive Security Appliance and Firepower Threat Defense Unauthorized Access Vulnerability
+M|Cisco|AnyConnect Secure|||||CVE-2020-3153|0.0|1|28.5|Cisco AnyConnect Secure Mobility Client for Windows Uncontrolled Search Path Vulnerability
+M|Cisco|AnyConnect Secure|||||CVE-2020-3433|0.0|1|10.0|Cisco AnyConnect Secure Mobility Client for Windows DLL Hijacking Vulnerability
+M|Cisco|Catalyst 4500 Series Switches and Cisco Catalyst 4500-X Seri|||||CVE-2018-0155|0.0|1|7.7|Cisco Catalyst Bidirectional Forwarding Detection Denial-of-Service Vulnerability
+M|Cisco|Catalyst 6800 Series Switches|||||CVE-2017-12238|0.0|1|2.0|Cisco Catalyst 6800 Series Switches VPLS Denial-of-Service Vulnerability
+M|Cisco|Catalyst SD-WAN Controller and Manager|||||CVE-2026-20127|0.0|1|89.3|Cisco Catalyst SD-WAN Controller and Manager Authentication Bypass Vulnerability
+M|Cisco|Catalyst SD-WAN Manager|||||CVE-2026-20128|0.0|1|7.3|Cisco Catalyst SD-WAN Manager Storing Passwords in a Recoverable Format Vulnerability
+M|Cisco|Catalyst SD-WAN Manager|||||CVE-2026-20133|0.0|1|31.5|Cisco Catalyst SD-WAN Manager Exposure of Sensitive Information to an Unauthorized Actor Vulnerability
+M|Cisco|Catalyst SD-WAN Manager|||||CVE-2026-20245|0.0|1|25.3|Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability
+M|Cisco|Catalyst SD-WAN Manager|||||CVE-2026-20262|0.0|1|29.1|Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability
+M|Cisco|Catalyst SD-WAN Manager|||||CVE-2026-76504|0.0|1|38.9|Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability
+M|Cisco|Catalyst SD-WAN Manger|||||CVE-2026-20122|0.0|1|25.8|Cisco Catalyst SD-WAN Manager Incorrect Use of Privileged APIs Vulnerability
+M|Cisco|Catalyst SD-WAN|||||CVE-2026-20182|0.0|1|91.8|Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability
+M|Cisco|Cisco IOS XE Web UI|||||CVE-2023-20273|0.0|1|92.9|Cisco IOS XE Web UI Command Injection Vulnerability
+M|Cisco|Cisco IP Phones|||||CVE-2020-3161|0.0|1|83.9|Cisco IP Phones Web Server Remote Code Execution and Denial-of-Service Vulnerability
+M|Cisco|HyperFlex HX|||||CVE-2021-1497|0.0|1|99.9|Cisco HyperFlex HX Installer Virtual Machine Command Injection Vulnerability
+M|Cisco|HyperFlex HX|||||CVE-2021-1498|0.0|1|100.0|Cisco HyperFlex HX Data Platform Command Injection Vulnerability
+M|Cisco|IOS Software and Cisco IOS XE Software|||||CVE-2018-0156|0.0|1|9.4|Cisco IOS Software and Cisco IOS XE Software Smart Install Denial-of-Service Vulnerability
+M|Cisco|IOS Software and Cisco IOS XE Software|||||CVE-2018-0158|0.0|1|7.2|Cisco IOS and XE Software Internet Key Exchange Memory Leak Vulnerability
+M|Cisco|IOS Software and Cisco IOS XE Software|||||CVE-2018-0159|0.0|1|6.9|Cisco IOS and XE Software Internet Key Exchange Version 1 Denial-of-Service Vulnerability
+M|Cisco|IOS Software|||||CVE-2018-0154|0.0|1|7.1|Cisco IOS Software Integrated Services Module for VPN Denial-of-Service Vulnerability
+M|Cisco|IOS Software|||||CVE-2018-0161|0.0|1|4.1|Cisco IOS Software Resource Management Errors Vulnerability
+M|Cisco|IOS Software|||||CVE-2018-0179|0.0|1|4.9|Cisco IOS Software Denial-of-Service Vulnerability
+M|Cisco|IOS Software|||||CVE-2018-0180|0.0|1|4.9|Cisco IOS Software Denial-of-Service Vulnerability
+M|Cisco|IOS XE Software|||||CVE-2017-12319|0.0|1|5.2|Cisco IOS XE Software Ethernet Virtual Private Network Border Gateway Protocol Denial-of-Service Vulnerability
+M|Cisco|IOS XE Software|||||CVE-2018-0174|0.0|1|7.6|Cisco IOS Software and Cisco IOS XE Software Improper Input Validation Vulnerability
+M|Cisco|IOS XE Web UI|||||CVE-2023-20198|0.0|1|99.6|Cisco IOS XE Web UI Privilege Escalation Vulnerability
+M|Cisco|IOS XR|||||CVE-2009-2055|0.0|1|3.3|Cisco IOS XR Border Gateway Protocol (BGP) Denial-of-Service Vulnerability
+M|Cisco|IOS XR|||||CVE-2010-3035|0.0|1|5.7|Cisco IOS XR Border Gateway Protocol (BGP) Denial-of-Service Vulnerability
+M|Cisco|IOS XR|||||CVE-2020-3118|0.0|1|11.7|Cisco IOS XR Software Discovery Protocol Format String Vulnerability
+M|Cisco|IOS XR|||||CVE-2020-3566|0.0|1|3.7|Cisco IOS XR Software DVMRP Memory Exhaustion Vulnerability
+M|Cisco|IOS XR|||||CVE-2020-3569|0.0|1|3.3|Cisco IOS XR Software DVMRP Memory Exhaustion Vulnerability
+M|Cisco|IOS XR|||||CVE-2022-20821|0.0|1|11.5|Cisco IOS XR Open Port Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-12237|0.0|1|7.1|Cisco IOS and IOS XE Software Internet Key Exchange Denial-of-Service Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-12240|0.0|1|13.8|Cisco IOS and IOS XE Software DHCP Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6627|0.0|1|6.2|Cisco IOS Software and Cisco IOS XE Software UDP Packet Processing Denial-of-Service Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6663|0.0|1|2.1|Cisco IOS Software and Cisco IOS XE Software Denial-of-Service Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6736|0.0|1|70.4|Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6737|0.0|1|45.0|Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6738|0.0|1|10.9|Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6739|0.0|1|10.9|Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6740|0.0|1|11.1|Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6742|0.0|1|21.4|Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2017-6743|0.0|1|10.9|Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2018-0151|0.0|1|14.2|Cisco IOS Software and Cisco IOS XE Software Quality of Service Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2018-0172|0.0|1|7.8|Cisco IOS and IOS XE Software Improper Input Validation Vulnerability
+M|Cisco|IOS and IOS XE Software|||||CVE-2018-0173|0.0|1|7.6|Cisco IOS and IOS XE Software Improper Input Validation Vulnerability
+M|Cisco|IOS and IOS XE|||||CVE-2017-3881|0.0|1|99.0|Cisco IOS and IOS XE Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE|||||CVE-2018-0171|0.0|1|99.5|Cisco IOS and IOS XE Software Smart Install Remote Code Execution Vulnerability
+M|Cisco|IOS and IOS XE|||||CVE-2023-20109|0.0|1|2.5|Cisco IOS and IOS XE Group Encrypted Transport VPN Out-of-Bounds Write Vulnerability
+M|Cisco|IOS and IOS XE|||||CVE-2025-20352|0.0|1|40.6|Cisco IOS and IOS XE Software SNMP Denial of Service and Remote Code Execution Vulnerability
+M|Cisco|IOS software|||||CVE-2017-12231|0.0|1|7.1|Cisco IOS Software Network Address Translation Denial-of-Service Vulnerability
+M|Cisco|IOS software|||||CVE-2017-12232|0.0|1|2.2|Cisco IOS Software for Cisco Integrated Services Routers Denial-of-Service Vulnerability
+M|Cisco|IOS software|||||CVE-2017-12233|0.0|1|7.1|Cisco IOS Software Common Industrial Protocol Request Denial-of-Service Vulnerability
+M|Cisco|IOS software|||||CVE-2017-12234|0.0|1|7.1|Cisco IOS Software Common Industrial Protocol Request Denial-of-Service Vulnerability
+M|Cisco|IOS software|||||CVE-2017-12235|0.0|1|7.1|Cisco IOS Software for Cisco Industrial Ethernet Switches PROFINET Denial-of-Service Vulnerability
+M|Cisco|IOS software|||||CVE-2017-6744|0.0|1|7.3|Cisco IOS Software SNMP Remote Code Execution Vulnerability
+M|Cisco|IOS, IOS XR, and IOS XE|||||CVE-2016-6415|0.0|1|87.7|Cisco IOS, IOS XR, and IOS XE IKEv1 Information Disclosure Vulnerability
+M|Cisco|IOS, XR, and XE Software|||||CVE-2018-0167|0.0|1|3.4|Cisco IOS, XR, and XE Software Buffer Overflow Vulnerability
+M|Cisco|IOS, XR, and XE Software|||||CVE-2018-0175|0.0|1|3.5|Cisco IOS, XR, and XE Software Buffer Overflow Vulnerability
+M|Cisco|IOS|||||CVE-2004-1464|0.0|1|4.8|Cisco IOS Denial-of-Service Vulnerability
+M|Cisco|IOS|||||CVE-2008-4128|0.0|1|33.9|Cisco IOS Cross-Site Request Forgery Vulnerability
+M|Cisco|Identity Services Engine|||||CVE-2025-20281|0.0|1|97.6|Cisco Identity Services Engine Injection Vulnerability
+M|Cisco|Identity Services Engine|||||CVE-2025-20337|0.0|1|74.5|Cisco Identity Services Engine Injection Vulnerability
+M|Cisco|Identity Services Engine|||||CVE-2026-76460|0.0|1|75.6|Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability
+M|Cisco|Multiple Products|||||CVE-2025-20393|0.0|1|32.4|Cisco Multiple Products Improper Input Validation Vulnerability
+M|Cisco|NX-OS|||||CVE-2024-20399|0.0|1|4.3|Cisco NX-OS Command Injection Vulnerability
+M|Cisco|Prime Data Center Network Manager (DCNM)|||||CVE-2015-0666|0.0|1|40.4|Cisco Prime Data Center Network Manager (DCNM) Directory Traversal Vulnerability
+M|Cisco|RV Series Routers|||||CVE-2019-15271|0.0|1|5.5|Cisco RV Series Routers Deserialization of Untrusted Data Vulnerability
+M|Cisco|SD-WAN|||||CVE-2022-20775|0.0|1|12.5|Cisco SD-WAN Path Traversal Vulnerability
+M|Cisco|Secure Access Control System (ACS)|||||CVE-2018-0147|0.0|1|18.2|Cisco Secure Access Control System Java Deserialization Vulnerability
+M|Cisco|Secure Email Gateway|||||CVE-2026-76461|0.0|1|29.5|Cisco Secure Email Gateway SQL Injection Vulnerability
+M|Cisco|Secure Email Gateway|||||CVE-2026-76519|0.0|1|2.2|Cisco Secure Email Gateway Relative Path Traversal Vulnerability
+M|Cisco|Secure Firewall ASA Software and Cisco Secure FTD Software|||||CVE-2026-76418|0.0|1|0.8|Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Derefe
+M|Cisco|Secure Firewall Adaptive Security Appliance (ASA) and Secure|||||CVE-2026-20349|0.0|1|1.0|Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspecti
+M|Cisco|Secure Firewall Adaptive Security Appliance and Secure Firew|||||CVE-2025-20333|0.0|1|71.2|Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Buffer Overfl
+M|Cisco|Secure Firewall Adaptive Security Appliance and Secure Firew|||||CVE-2025-20362|0.0|1|87.1|Cisco Secure Firewall Adaptive Security (ASA) Appliance and Secure Firewall Threat Defense (FTD) Missing Autho
+M|Cisco|Secure Firewall Management Center (FMC) and Security Cloud C|||||CVE-2026-20079|0.0|1|88.7|Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability
+M|Cisco|Secure Firewall Management Center (FMC)|||||CVE-2026-20131|0.0|1|44.4|Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Managem
+M|Cisco|Secure Firewall Management Center (FMC)|||||CVE-2026-20316|0.0|1|35.1|Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability
+M|Cisco|Small Business RV Series Routers|||||CVE-2023-20118|0.0|1|54.1|Cisco Small Business RV Series Routers Command Injection Vulnerability
+M|Cisco|Small Business RV160, RV260, RV340, and RV345 Series Routers|||||CVE-2022-20699|0.0|1|72.5|Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability
+M|Cisco|Small Business RV160, RV260, RV340, and RV345 Series Routers|||||CVE-2022-20700|0.0|1|5.7|Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability
+M|Cisco|Small Business RV160, RV260, RV340, and RV345 Series Routers|||||CVE-2022-20701|0.0|1|9.7|Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability
+M|Cisco|Small Business RV160, RV260, RV340, and RV345 Series Routers|||||CVE-2022-20703|0.0|1|9.2|Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability
+M|Cisco|Small Business RV160, RV260, RV340, and RV345 Series Routers|||||CVE-2022-20708|0.0|1|14.9|Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability
+M|Cisco|Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers|||||CVE-2019-1652|0.0|1|95.9|Cisco Small Business Routers Improper Input Validation Vulnerability
+M|Cisco|Small Business RV320 and RV325 Routers|||||CVE-2019-1653|0.0|1|99.9|Cisco Small Business RV320 and RV325 Routers Information Disclosure Vulnerability
+M|Cisco|Smart Licensing Utility|||||CVE-2024-20439|0.0|1|97.1|Cisco Smart Licensing Utility Static Credential Vulnerability
+M|Cisco|Unified Communications Manager|||||CVE-2026-20045|0.0|1|4.5|Cisco Unified Communications Products Code Injection Vulnerability
+M|Cisco|Unified Communications Manager|||||CVE-2026-20230|0.0|1|88.5|Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability
+M|Cisco|VPN Routers|||||CVE-2018-0125|0.0|1|55.2|Cisco VPN Routers Remote Code Execution Vulnerability

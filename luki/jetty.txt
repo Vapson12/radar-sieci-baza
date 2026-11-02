@@ -1,0 +1,200 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|jetty|>=|1.0|<|9.3.29|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|10.0.0alpha1|<=|10.0.0alpha1|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|10.0.0beta0|<=|10.0.0beta0|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|10.0.0beta1|<=|10.0.0beta1|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|10.0.0beta2|<=|10.0.0beta2|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|10.0.0|<=|10.0.0|CVE-2020-27223|5.2|0|78.0|In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a requ
+V|jetty|>=|10.0.0|<=|10.0.25|CVE-2025-5115|7.7|0|3.6|In Eclipse Jetty, versions <=9.4.57, <=10.0.25, <=11.0.25, <=12.0.21, <=12.1.0.alpha2, an HTTP/2 client may tr
+V|jetty|>=|10.0.0|<=|10.0.26|CVE-2026-5795|7.4|0|0.5|In Eclipse Jetty, the class JASPIAuthenticator initiates the authentication checks, which set two ThreadLocal 
+V|jetty|>=|10.0.0|<=|10.0.9|CVE-2022-2191|7.5|0|2.2|In Eclipse Jetty versions 10.0.0 thru 10.0.9, and 11.0.0 thru 11.0.9 versions, SslConnection does not release 
+V|jetty|>=|10.0.0|<|10.0.16|CVE-2023-36478|7.5|0|4.8|Eclipse Jetty provides a web server and servlet container. In versions 11.0.0 through 11.0.15, 10.0.0 through 
+V|jetty|>=|10.0.0|<|10.0.17|CVE-2023-44487|7.5|1|100.0|The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can 
+V|jetty|>=|10.0.0|<|10.0.20|CVE-2024-22201|7.5|0|1.4|Jetty is a Java based web server and servlet engine. An HTTP/2 SSL connection that is established and TCP cong
+V|jetty|>=|10.0.0|<|10.0.28|CVE-2026-2332|7.4|0|1.3|In Eclipse Jetty, the HTTP/1.1 parser is vulnerable to request smuggling when chunk extensions are used, simil
+V|jetty|>=|10.0.0|<|10.0.2|CVE-2021-28165|7.5|0|53.9|In Eclipse Jetty 7.2.2 to 9.4.38, 10.0.0.alpha0 to 10.0.1, and 11.0.0.alpha0 to 11.0.1, CPU usage can reach 10
+V|jetty|>=|10.0.0|<|10.0.31|CVE-2026-10050|8.7|0|0.6|In Eclipse Jetty, the Digest authentication server-side component uses ISO-8859-1 to encode the password as by
+V|jetty|>=|10.0.0|<|10.0.3|CVE-2021-28169|5.3|0|78.5|For Eclipse Jetty versions <= 9.4.40, <= 10.0.2, <= 11.0.2, it is possible for requests to the ConcatServlet w
+V|jetty|>=|10.0.0|<|10.0.9|CVE-2022-2048|7.5|0|2.6|In Eclipse Jetty HTTP/2 server implementation, when encountering an invalid HTTP/2 request, the error handling
+V|jetty|>=|10.0.1|<|10.0.6|CVE-2021-34429|5.3|0|99.3|For Eclipse Jetty versions 9.4.37-9.4.42, 10.0.1-10.0.5 & 11.0.1-11.0.5, URIs can be crafted using some encode
+V|jetty|>=|10.0.7|<|10.0.23|CVE-2024-7708|7.5|0|0.4|For requests that have a body, but reading the body may end up in reading 0 bytes, there is a buffer leak. Thi
+V|jetty|>=|11.0.0alpha1|<=|11.0.0alpha1|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|11.0.0beta1|<=|11.0.0beta1|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|11.0.0beta2|<=|11.0.0beta2|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|11.0.0|<=|11.0.0|CVE-2020-27223|5.2|0|78.0|In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a requ
+V|jetty|>=|11.0.0|<=|11.0.25|CVE-2025-5115|7.7|0|3.6|In Eclipse Jetty, versions <=9.4.57, <=10.0.25, <=11.0.25, <=12.0.21, <=12.1.0.alpha2, an HTTP/2 client may tr
+V|jetty|>=|11.0.0|<=|11.0.26|CVE-2026-5795|7.4|0|0.5|In Eclipse Jetty, the class JASPIAuthenticator initiates the authentication checks, which set two ThreadLocal 
+V|jetty|>=|11.0.0|<=|11.0.9|CVE-2022-2191|7.5|0|2.2|In Eclipse Jetty versions 10.0.0 thru 10.0.9, and 11.0.0 thru 11.0.9 versions, SslConnection does not release 
+V|jetty|>=|11.0.0|<|11.0.16|CVE-2023-36478|7.5|0|4.8|Eclipse Jetty provides a web server and servlet container. In versions 11.0.0 through 11.0.15, 10.0.0 through 
+V|jetty|>=|11.0.0|<|11.0.17|CVE-2023-44487|7.5|1|100.0|The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can 
+V|jetty|>=|11.0.0|<|11.0.20|CVE-2024-22201|7.5|0|1.4|Jetty is a Java based web server and servlet engine. An HTTP/2 SSL connection that is established and TCP cong
+V|jetty|>=|11.0.0|<|11.0.28|CVE-2026-2332|7.4|0|1.3|In Eclipse Jetty, the HTTP/1.1 parser is vulnerable to request smuggling when chunk extensions are used, simil
+V|jetty|>=|11.0.0|<|11.0.2|CVE-2021-28165|7.5|0|53.9|In Eclipse Jetty 7.2.2 to 9.4.38, 10.0.0.alpha0 to 10.0.1, and 11.0.0.alpha0 to 11.0.1, CPU usage can reach 10
+V|jetty|>=|11.0.0|<|11.0.31|CVE-2026-10050|8.7|0|0.6|In Eclipse Jetty, the Digest authentication server-side component uses ISO-8859-1 to encode the password as by
+V|jetty|>=|11.0.0|<|11.0.3|CVE-2021-28169|5.3|0|78.5|For Eclipse Jetty versions <= 9.4.40, <= 10.0.2, <= 11.0.2, it is possible for requests to the ConcatServlet w
+V|jetty|>=|11.0.0|<|11.0.9|CVE-2022-2048|7.5|0|2.6|In Eclipse Jetty HTTP/2 server implementation, when encountering an invalid HTTP/2 request, the error handling
+V|jetty|>=|11.0.1|<|11.0.6|CVE-2021-34429|5.3|0|99.3|For Eclipse Jetty versions 9.4.37-9.4.42, 10.0.1-10.0.5 & 11.0.1-11.0.5, URIs can be crafted using some encode
+V|jetty|>=|11.0.7|<|11.0.23|CVE-2024-7708|7.5|0|0.4|For requests that have a body, but reading the body may end up in reading 0 bytes, there is a buffer leak. Thi
+V|jetty|>=|12.0.0|<=|12.0.21|CVE-2025-5115|7.7|0|3.6|In Eclipse Jetty, versions <=9.4.57, <=10.0.25, <=11.0.25, <=12.0.21, <=12.1.0.alpha2, an HTTP/2 client may tr
+V|jetty|>=|12.0.0|<|12.0.17|CVE-2025-1948|7.5|0|0.8|In Eclipse Jetty versions 12.0.0 to 12.0.16 included, an HTTP/2 client can specify a very large value for the 
+V|jetty|>=|12.0.0|<|12.0.2|CVE-2023-44487|7.5|1|100.0|The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can 
+V|jetty|>=|12.0.0|<|12.0.32|CVE-2026-1605|7.5|0|0.7|In Eclipse Jetty, versions 12.0.0-12.0.31 and 12.1.0-12.0.5, class GzipHandler exposes a vulnerability when a 
+V|jetty|>=|12.0.0|<|12.0.33|CVE-2026-2332|7.4|0|1.3|In Eclipse Jetty, the HTTP/1.1 parser is vulnerable to request smuggling when chunk extensions are used, simil
+V|jetty|>=|12.0.0|<|12.0.34|CVE-2026-5795|7.4|0|0.5|In Eclipse Jetty, the class JASPIAuthenticator initiates the authentication checks, which set two ThreadLocal 
+V|jetty|>=|12.0.0|<|12.0.36|CVE-2026-10050|8.7|0|0.6|In Eclipse Jetty, the Digest authentication server-side component uses ISO-8859-1 to encode the password as by
+V|jetty|>=|12.0.0|<|12.0.6|CVE-2024-22201|7.5|0|1.4|Jetty is a Java based web server and servlet engine. An HTTP/2 SSL connection that is established and TCP cong
+V|jetty|>=|12.1.0alpha0|<=|12.1.0alpha0|CVE-2025-5115|7.7|0|3.6|In Eclipse Jetty, versions <=9.4.57, <=10.0.25, <=11.0.25, <=12.0.21, <=12.1.0.alpha2, an HTTP/2 client may tr
+V|jetty|>=|12.1.0alpha1|<=|12.1.0alpha1|CVE-2025-5115|7.7|0|3.6|In Eclipse Jetty, versions <=9.4.57, <=10.0.25, <=11.0.25, <=12.0.21, <=12.1.0.alpha2, an HTTP/2 client may tr
+V|jetty|>=|12.1.0alpha2|<=|12.1.0alpha2|CVE-2025-5115|7.7|0|3.6|In Eclipse Jetty, versions <=9.4.57, <=10.0.25, <=11.0.25, <=12.0.21, <=12.1.0.alpha2, an HTTP/2 client may tr
+V|jetty|>=|12.1.0|<|12.1.10|CVE-2026-10050|8.7|0|0.6|In Eclipse Jetty, the Digest authentication server-side component uses ISO-8859-1 to encode the password as by
+V|jetty|>=|12.1.0|<|12.1.6|CVE-2026-1605|7.5|0|0.7|In Eclipse Jetty, versions 12.0.0-12.0.31 and 12.1.0-12.0.5, class GzipHandler exposes a vulnerability when a 
+V|jetty|>=|12.1.0|<|12.1.7|CVE-2026-2332|7.4|0|1.3|In Eclipse Jetty, the HTTP/1.1 parser is vulnerable to request smuggling when chunk extensions are used, simil
+V|jetty|>=|12.1.0|<|12.1.8|CVE-2026-5795|7.4|0|0.5|In Eclipse Jetty, the class JASPIAuthenticator initiates the authentication checks, which set two ThreadLocal 
+V|jetty|>=|7.2.2|<|9.4.39|CVE-2021-28165|7.5|0|53.9|In Eclipse Jetty 7.2.2 to 9.4.38, 10.0.0.alpha0 to 10.0.1, and 11.0.0.alpha0 to 11.0.1, CPU usage can reach 10
+V|jetty|>=|9.2.3|<=|9.2.3|CVE-2015-2080|7.5|0|75.4|The exception handling code in Eclipse Jetty before 9.2.9.v20150224 allows remote attackers to obtain sensitiv
+V|jetty|>=|9.2.4|<=|9.2.4|CVE-2015-2080|7.5|0|75.4|The exception handling code in Eclipse Jetty before 9.2.9.v20150224 allows remote attackers to obtain sensitiv
+V|jetty|>=|9.2.5|<=|9.2.5|CVE-2015-2080|7.5|0|75.4|The exception handling code in Eclipse Jetty before 9.2.9.v20150224 allows remote attackers to obtain sensitiv
+V|jetty|>=|9.2.6|<=|9.2.6|CVE-2015-2080|7.5|0|75.4|The exception handling code in Eclipse Jetty before 9.2.9.v20150224 allows remote attackers to obtain sensitiv
+V|jetty|>=|9.2.7|<=|9.2.7|CVE-2015-2080|7.5|0|75.4|The exception handling code in Eclipse Jetty before 9.2.9.v20150224 allows remote attackers to obtain sensitiv
+V|jetty|>=|9.2.8|<=|9.2.8|CVE-2015-2080|7.5|0|75.4|The exception handling code in Eclipse Jetty before 9.2.9.v20150224 allows remote attackers to obtain sensitiv
+V|jetty|>=|9.3.020150601|<=|9.3.020150601|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.020150608|<=|9.3.020150608|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.020150612|<=|9.3.020150612|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.0m0|<=|9.3.0m0|CVE-2015-2080|7.5|0|75.4|The exception handling code in Eclipse Jetty before 9.2.9.v20150224 allows remote attackers to obtain sensitiv
+V|jetty|>=|9.3.0m0|<=|9.3.0m0|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.0m1|<=|9.3.0m1|CVE-2015-2080|7.5|0|75.4|The exception handling code in Eclipse Jetty before 9.2.9.v20150224 allows remote attackers to obtain sensitiv
+V|jetty|>=|9.3.0m1|<=|9.3.0m1|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.0maintenance0|<=|9.3.0maintenance0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.0maintenance1|<=|9.3.0maintenance1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.0maintenance2|<=|9.3.0maintenance2|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.0maintenance2|<=|9.3.0maintenance2|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.0rc0|<=|9.3.0rc0|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.0rc0|<=|9.3.0rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.0rc1|<=|9.3.0rc1|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.0rc1|<=|9.3.0rc1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.0|<=|9.3.0|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.0|<=|9.4.57|CVE-2025-5115|7.7|0|3.6|In Eclipse Jetty, versions <=9.4.57, <=10.0.25, <=11.0.25, <=12.0.21, <=12.1.0.alpha2, an HTTP/2 client may tr
+V|jetty|>=|9.3.0|<|9.3.20|CVE-2017-9735|7.5|0|5.8|Jetty through 9.4.x is prone to a timing channel in util/security/Password.java, which makes it easier for rem
+V|jetty|>=|9.3.0|<|9.3.24|CVE-2017-7656|7.5|0|6.1|In Eclipse Jetty, versions 9.2.x and older, 9.3.x (all configurations), and 9.4.x (non-default configuration w
+V|jetty|>=|9.3.0|<|9.3.24|CVE-2017-7657|9.8|0|14.4|In Eclipse Jetty, versions 9.2.x and older, 9.3.x (all configurations), and 9.4.x (non-default configuration w
+V|jetty|>=|9.3.0|<|9.3.24|CVE-2017-7658|9.8|0|19.0|In Eclipse Jetty Server, versions 9.2.x and older, 9.3.x (all non HTTP/1.x configurations), and 9.4.x (all HTT
+V|jetty|>=|9.3.0|<|9.4.53|CVE-2023-36478|7.5|0|4.8|Eclipse Jetty provides a web server and servlet container. In versions 11.0.0 through 11.0.15, 10.0.0 through 
+V|jetty|>=|9.3.0|<|9.4.54|CVE-2024-22201|7.5|0|1.4|Jetty is a Java based web server and servlet engine. An HTTP/2 SSL connection that is established and TCP cong
+V|jetty|>=|9.3.1020160621|<=|9.3.1020160621|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.10maintenance_0|<=|9.3.10maintenance_0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1120160721|<=|9.3.1120160721|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.11maintenance_0|<=|9.3.11maintenance_0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.120150714|<=|9.3.120150714|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1220160915|<=|9.3.1220160915|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1320161014|<=|9.3.1320161014|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.13maintenance_0|<=|9.3.13maintenance_0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1420161028|<=|9.3.1420161028|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1520161220|<=|9.3.1520161220|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1620170119|<=|9.3.1620170119|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1620170120|<=|9.3.1620170120|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1720170317|<=|9.3.1720170317|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.17rc0|<=|9.3.17rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1820170406|<=|9.3.1820170406|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1920170502|<=|9.3.1920170502|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.1|<=|9.3.1|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.2020170531|<=|9.3.2020170531|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.2120170918|<=|9.3.2120170918|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.21maintenance_0|<=|9.3.21maintenance_0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.21rc0|<=|9.3.21rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.220150730|<=|9.3.220150730|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.2220171030|<=|9.3.2220171030|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.2320180228|<=|9.3.2320180228|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.2420180605|<=|9.3.2420180605|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.2|<=|9.3.2|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.320150825|<=|9.3.320150825|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.320150827|<=|9.3.320150827|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.3|<=|9.3.3|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.420151005|<=|9.3.420151005|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.420151007|<=|9.3.420151007|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.4rc0|<=|9.3.4rc0|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.4rc0|<=|9.3.4rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.4rc1|<=|9.3.4rc1|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.4rc1|<=|9.3.4rc1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.4|<=|9.3.4|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.520151012|<=|9.3.520151012|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.5|<=|9.3.5|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.620151106|<=|9.3.620151106|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.6|<=|9.3.6|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.720160115|<=|9.3.720160115|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.7rc0|<=|9.3.7rc0|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.7rc0|<=|9.3.7rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.7rc1|<=|9.3.7rc1|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.7rc1|<=|9.3.7rc1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.7|<=|9.3.7|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.820160311|<=|9.3.820160311|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.820160314|<=|9.3.820160314|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.8rc0|<=|9.3.8rc0|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.8rc0|<=|9.3.8rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.8|<=|9.3.8|CVE-2016-4800|9.8|0|6.4|The path normalization mechanism in PathResource class in Eclipse Jetty 9.3.x before 9.3.9 on Windows allows r
+V|jetty|>=|9.3.920160517|<=|9.3.920160517|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.9maintenance_0|<=|9.3.9maintenance_0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.3.9maintenance_1|<=|9.3.9maintenance_1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.020161207|<=|9.4.020161207|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.020161208|<=|9.4.020161208|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.020180619|<=|9.4.020180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.0maintenance_0|<=|9.4.0maintenance_0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.0maintenance_1|<=|9.4.0maintenance_1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.0rc0|<=|9.4.0rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.0rc1|<=|9.4.0rc1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.0rc2|<=|9.4.0rc2|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.0rc3|<=|9.4.0rc3|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.0|<=|9.4.32|CVE-2020-27216|7.0|0|4.4|In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 1
+V|jetty|>=|9.4.0|<=|9.4.58|CVE-2026-5795|7.4|0|0.5|In Eclipse Jetty, the class JASPIAuthenticator initiates the authentication checks, which set two ThreadLocal 
+V|jetty|>=|9.4.0|<=|9.4.8|CVE-2018-12538|8.8|0|2.6|In Eclipse Jetty versions 9.4.0 through 9.4.8, when using the optional Jetty provided FileSessionDataStore for
+V|jetty|>=|9.4.0|<|9.4.11|CVE-2017-7656|7.5|0|6.1|In Eclipse Jetty, versions 9.2.x and older, 9.3.x (all configurations), and 9.4.x (non-default configuration w
+V|jetty|>=|9.4.0|<|9.4.11|CVE-2017-7657|9.8|0|14.4|In Eclipse Jetty, versions 9.2.x and older, 9.3.x (all configurations), and 9.4.x (non-default configuration w
+V|jetty|>=|9.4.0|<|9.4.11|CVE-2017-7658|9.8|0|19.0|In Eclipse Jetty Server, versions 9.2.x and older, 9.3.x (all non HTTP/1.x configurations), and 9.4.x (all HTT
+V|jetty|>=|9.4.0|<|9.4.57|CVE-2024-13009|7.2|0|0.5|In Eclipse Jetty versions 9.4.0 to 9.4.56 a buffer can be incorrectly released when confronted with a gzip err
+V|jetty|>=|9.4.0|<|9.4.60|CVE-2026-2332|7.4|0|1.3|In Eclipse Jetty, the HTTP/1.1 parser is vulnerable to request smuggling when chunk extensions are used, simil
+V|jetty|>=|9.4.0|<|9.4.63|CVE-2026-10050|8.7|0|0.6|In Eclipse Jetty, the Digest authentication server-side component uses ISO-8859-1 to encode the password as by
+V|jetty|>=|9.4.0|<|9.4.6|CVE-2017-9735|7.5|0|5.8|Jetty through 9.4.x is prone to a timing channel in util/security/Password.java, which makes it easier for rem
+V|jetty|>=|9.4.1020180503|<=|9.4.1020180503|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.10rc0|<=|9.4.10rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.10rc1|<=|9.4.10rc1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.1120180605|<=|9.4.1120180605|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.120170120|<=|9.4.120170120|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.120180619|<=|9.4.120180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.12rc0|<=|9.4.12rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.12rc1|<=|9.4.12rc1|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.12rc2|<=|9.4.12rc2|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.220170220|<=|9.4.220170220|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.220180619|<=|9.4.220180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.2720200227|<=|9.4.2720200227|CVE-2019-17638|9.4|0|11.1|In Eclipse Jetty, versions 9.4.27.v20200227 to 9.4.29.v20200521, in case of too large response headers, Jetty 
+V|jetty|>=|9.4.2820200408|<=|9.4.2820200408|CVE-2019-17638|9.4|0|11.1|In Eclipse Jetty, versions 9.4.27.v20200227 to 9.4.29.v20200521, in case of too large response headers, Jetty 
+V|jetty|>=|9.4.2920200521|<=|9.4.2920200521|CVE-2019-17638|9.4|0|11.1|In Eclipse Jetty, versions 9.4.27.v20200227 to 9.4.29.v20200521, in case of too large response headers, Jetty 
+V|jetty|>=|9.4.320170317|<=|9.4.320170317|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.320180619|<=|9.4.320180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.3620210114|<=|9.4.3620210114|CVE-2020-27223|5.2|0|78.0|In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a requ
+V|jetty|>=|9.4.36|<=|9.4.36|CVE-2020-27223|5.2|0|78.0|In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a requ
+V|jetty|>=|9.4.3720210219|<=|9.4.3720210219|CVE-2021-28164|5.3|0|82.4|In Eclipse Jetty 9.4.37.v20210219 to 9.4.38.v20210224, the default compliance mode allows requests with URIs t
+V|jetty|>=|9.4.37|<|9.4.43|CVE-2021-34429|5.3|0|99.3|For Eclipse Jetty versions 9.4.37-9.4.42, 10.0.1-10.0.5 & 11.0.1-11.0.5, URIs can be crafted using some encode
+V|jetty|>=|9.4.3820210224|<=|9.4.3820210224|CVE-2021-28164|5.3|0|82.4|In Eclipse Jetty 9.4.37.v20210219 to 9.4.38.v20210224, the default compliance mode allows requests with URIs t
+V|jetty|>=|9.4.420170410|<=|9.4.420170410|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.420170414|<=|9.4.420170414|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.420180619|<=|9.4.420180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.520170502|<=|9.4.520170502|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.520180619|<=|9.4.520180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.620170531|<=|9.4.620170531|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.620170531|<=|9.4.620170531|CVE-2020-27223|5.2|0|78.0|In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a requ
+V|jetty|>=|9.4.620180619|<=|9.4.620180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.620180619|<=|9.4.620180619|CVE-2020-27223|5.2|0|78.0|In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a requ
+V|jetty|>=|9.4.720170914|<=|9.4.720170914|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.720180619|<=|9.4.720180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.7rc0|<=|9.4.7rc0|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.7|<|9.4.36|CVE-2020-27223|5.2|0|78.0|In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a requ
+V|jetty|>=|9.4.820171121|<=|9.4.820171121|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.820180619|<=|9.4.820180619|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|>=|9.4.920180320|<=|9.4.920180320|CVE-2018-12545|7.5|0|5.1|In Eclipse Jetty version 9.3.x and 9.4.x, the server is vulnerable to Denial of Service conditions if a remote
+V|jetty|||<=|9.2.26|CVE-2017-7656|7.5|0|6.1|In Eclipse Jetty, versions 9.2.x and older, 9.3.x (all configurations), and 9.4.x (non-default configuration w
+V|jetty|||<=|9.2.26|CVE-2017-7657|9.8|0|14.4|In Eclipse Jetty, versions 9.2.x and older, 9.3.x (all configurations), and 9.4.x (non-default configuration w
+V|jetty|||<=|9.2.26|CVE-2017-7658|9.8|0|19.0|In Eclipse Jetty Server, versions 9.2.x and older, 9.3.x (all non HTTP/1.x configurations), and 9.4.x (all HTT
+V|jetty|||<|6.1.22|CVE-2009-5045|7.5|0|2.3|Dump Servlet information leak in jetty before 6.1.22.
+V|jetty|||<|9.2.22|CVE-2017-9735|7.5|0|5.8|Jetty through 9.4.x is prone to a timing channel in util/security/Password.java, which makes it easier for rem
+V|jetty|||<|9.4.41|CVE-2021-28169|5.3|0|78.5|For Eclipse Jetty versions <= 9.4.40, <= 10.0.2, <= 11.0.2, it is possible for requests to the ConcatServlet w
+V|jetty|||<|9.4.47|CVE-2022-2048|7.5|0|2.6|In Eclipse Jetty HTTP/2 server implementation, when encountering an invalid HTTP/2 request, the error handling
+V|jetty|||<|9.4.53|CVE-2023-44487|7.5|1|100.0|The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can 

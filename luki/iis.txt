@@ -1,0 +1,96 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|iis|>=|1.0|<=|1.0|CVE-1999-0233|10.0|0|16.3|IIS 1.0 allows users to execute arbitrary commands using .bat or .cmd files.
+V|iis|>=|1.0|<=|1.0|CVE-1999-0253|7.5|0|8.0|IIS 3.0 with the iis-fix hotfix installed allows remote intruders to read source code for ASP programs by usin
+V|iis|>=|2.0|<=|2.0|CVE-1999-0154|5.0|0|40.0|IIS 2.0 and 3.0 allows remote attackers to read the source code for ASP pages by appending a . (dot) to the en
+V|iis|>=|2.0|<=|2.0|CVE-1999-0253|7.5|0|8.0|IIS 3.0 with the iis-fix hotfix installed allows remote intruders to read source code for ASP programs by usin
+V|iis|>=|2.0|<=|2.0|CVE-1999-0281|5.0|0|12.8|Denial of service in IIS using long URLs.
+V|iis|>=|2.0|<=|2.0|CVE-1999-0412|7.5|0|10.2|In IIS and other web servers, an attacker can attack commands as SYSTEM if the server is running as SYSTEM and
+V|iis|>=|2.0|<=|2.0|CVE-1999-0450|7.5|0|19.0|In IIS, an attacker could determine a real path using a request for a non-existent URL that would be interpret
+V|iis|>=|2.0|<=|2.0|CVE-2000-0649|2.6|0|76.6|IIS 4.0 allows remote attackers to obtain the internal IP address of the server via an HTTP 1.0 request for a 
+V|iis|>=|4.0|<=|4.0|CVE-2011-5279|5.0|0|19.6|CRLF injection vulnerability in the CGI implementation in Microsoft Internet Information Services (IIS) 4.x an
+V|iis|>=|5.0|<=|5.0|CVE-1999-0450|7.5|0|19.0|In IIS, an attacker could determine a real path using a request for a non-existent URL that would be interpret
+V|iis|>=|5.0|<=|5.0|CVE-2000-0071|5.0|0|28.1|IIS 4.0 allows a remote attacker to obtain the real pathname of the document root by requesting non-existent f
+V|iis|>=|5.0|<=|5.0|CVE-2000-0246|5.0|0|80.0|IIS 4.0 and 5.0 does not properly perform ISAPI extension processing if a virtual directory is mapped to a UNC
+V|iis|>=|5.0|<=|5.0|CVE-2000-0258|7.5|0|19.5|IIS 4.0 and 5.0 allows remote attackers to cause a denial of service by sending many URLs with a large number 
+V|iis|>=|5.0|<=|5.0|CVE-2000-0304|5.0|0|29.1|Microsoft IIS 4.0 and 5.0 with the IISADMPWD virtual directory installed allows a remote attacker to cause a d
+V|iis|>=|5.0|<=|5.0|CVE-2000-0408|5.0|0|58.0|IIS 4.05 and 5.0 allow remote attackers to cause a denial of service via a long, complex URL that appears to c
+V|iis|>=|5.0|<=|5.0|CVE-2000-0413|5.0|0|43.9|The shtml.exe program in the FrontPage extensions package of IIS 4.0 and 5.0 allows remote attackers to determ
+V|iis|>=|5.0|<=|5.0|CVE-2000-0457|7.5|0|52.8|ISM.DLL in IIS 4.0 and 5.0 allows remote attackers to read file contents by requesting the file and appending 
+V|iis|>=|5.0|<=|5.0|CVE-2000-0630|5.0|0|68.2|IIS 4.0 and 5.0 allows remote attackers to obtain fragments of source code by appending a +.htr to the URL, a 
+V|iis|>=|5.0|<=|5.0|CVE-2000-0631|5.0|0|24.7|An administrative script from IIS 3.0, later included in IIS 4.0 and 5.0, allows remote attackers to cause a d
+V|iis|>=|5.0|<=|5.0|CVE-2000-0649|2.6|0|76.6|IIS 4.0 allows remote attackers to obtain the internal IP address of the server via an HTTP 1.0 request for a 
+V|iis|>=|5.0|<=|5.0|CVE-2000-0746|7.5|0|10.1|Vulnerabilities in IIS 4.0 and 5.0 do not properly protect against cross-site scripting (CSS) attacks. They al
+V|iis|>=|5.0|<=|5.0|CVE-2000-0770|6.4|0|15.1|IIS 4.0 and 5.0 does not properly restrict access to certain types of files when their parent folders have les
+V|iis|>=|5.0|<=|5.0|CVE-2000-0778|5.0|0|87.3|IIS 5.0 allows remote attackers to obtain source code for .ASP files and other scripts via an HTTP GET request
+V|iis|>=|5.0|<=|5.0|CVE-2000-0884|7.5|0|63.3|IIS 4.0 and 5.0 allows remote attackers to read documents outside of the web root, and possibly execute arbitr
+V|iis|>=|5.0|<=|5.0|CVE-2000-0886|7.5|0|68.7|IIS 5.0 allows remote attackers to execute arbitrary commands via a malformed request for an executable file w
+V|iis|>=|5.0|<=|5.0|CVE-2000-0951|5.0|0|44.1|A misconfiguration in IIS 5.0 with Index Server enabled and the Index property set allows remote attackers to 
+V|iis|>=|5.0|<=|5.0|CVE-2000-0970|7.5|0|45.7|IIS 4.0 and 5.0 .ASP pages send the same Session ID cookie for secure and insecure web sessions, which could a
+V|iis|>=|5.0|<=|5.0|CVE-2000-1104|7.5|0|5.6|Variant of the "IIS Cross-Site Scripting" vulnerability as originally discussed in MS:MS00-060 (CVE-2000-0746)
+V|iis|>=|5.0|<=|5.0|CVE-2001-0004|5.0|0|28.2|IIS 5.0 and 4.0 allows remote attackers to read the source code for executable web server programs by appendin
+V|iis|>=|5.0|<=|5.0|CVE-2001-0096|5.0|0|20.3|FrontPage Server Extensions (FPSE) in IIS 4.0 and 5.0 allows remote attackers to cause a denial of service via
+V|iis|>=|5.0|<=|5.0|CVE-2001-0146|5.0|0|37.1|IIS 5.0 and Microsoft Exchange 2000 allow remote attackers to cause a denial of service (memory allocation err
+V|iis|>=|5.0|<=|5.0|CVE-2001-0151|5.0|0|67.9|IIS 5.0 allows remote attackers to cause a denial of service via a series of malformed WebDAV requests.
+V|iis|>=|5.0|<=|5.0|CVE-2001-0506|7.2|0|68.9|Buffer overflow in ssinc.dll in IIS 5.0 and 4.0 allows local users to gain system privileges via a Server-Side
+V|iis|>=|5.0|<=|5.0|CVE-2001-0507|7.2|0|8.8|IIS 5.0 uses relative paths to find system files that will run in-process, which allows local users to gain pr
+V|iis|>=|5.0|<=|5.0|CVE-2001-0508|5.0|0|32.4|Vulnerability in IIS 5.0 allows remote attackers to cause a denial of service (restart) via a long, invalid We
+V|iis|>=|5.0|<=|5.0|CVE-2001-0902|7.5|0|18.6|Microsoft IIS 5.0 allows remote attackers to spoof web log entries via an HTTP request that includes hex-encod
+V|iis|>=|5.0|<=|5.0|CVE-2001-1186|5.0|0|34.7|Microsoft IIS 5.0 allows remote attackers to cause a denial of service via an HTTP request with a content-leng
+V|iis|>=|5.0|<=|5.0|CVE-2001-1243|5.0|0|70.5|Scripting.FileSystemObject in asp.dll for Microsoft IIS 4.0 and 5.0 allows local or remote attackers to cause 
+V|iis|>=|5.0|<=|5.0|CVE-2002-0071|7.5|0|36.6|Buffer overflow in the ism.dll ISAPI extension that implements HTR scripting in Internet Information Server (I
+V|iis|>=|5.0|<=|5.0|CVE-2002-0072|5.0|0|63.5|The w3svc.dll ISAPI filter in Front Page Server Extensions and ASP.NET for Internet Information Server (IIS) 4
+V|iis|>=|5.0|<=|5.0|CVE-2002-0073|5.0|0|59.7|The FTP service in Internet Information Server (IIS) 4.0, 5.0 and 5.1 allows attackers who have established an
+V|iis|>=|5.0|<=|5.0|CVE-2002-0074|7.5|0|36.8|Cross-site scripting vulnerability in Help File search facility for Internet Information Server (IIS) 4.0, 5.0
+V|iis|>=|5.0|<=|5.0|CVE-2002-0075|7.5|0|36.8|Cross-site scripting vulnerability for Internet Information Server (IIS) 4.0, 5.0 and 5.1 allows remote attack
+V|iis|>=|5.0|<=|5.0|CVE-2002-0079|7.5|0|78.0|Buffer overflow in the chunked encoding transfer mechanism in Internet Information Server (IIS) 4.0 and 5.0 Ac
+V|iis|>=|5.0|<=|5.0|CVE-2002-0147|7.5|0|68.0|Buffer overflow in the ASP data transfer mechanism in Internet Information Server (IIS) 4.0, 5.0, and 5.1 allo
+V|iis|>=|5.0|<=|5.0|CVE-2002-0148|7.5|0|65.5|Cross-site scripting vulnerability in Internet Information Server (IIS) 4.0, 5.0 and 5.1 allows remote attacke
+V|iis|>=|5.0|<=|5.0|CVE-2002-0149|7.5|0|68.8|Buffer overflow in ASP Server-Side Include Function in IIS 4.0, 5.0 and 5.1 allows remote attackers to cause a
+V|iis|>=|5.0|<=|5.0|CVE-2002-0150|7.5|0|52.9|Buffer overflow in Internet Information Server (IIS) 4.0, 5.0, and 5.1 allows remote attackers to spoof the sa
+V|iis|>=|5.0|<=|5.0|CVE-2002-0224|5.0|0|29.3|The MSDTC (Microsoft Distributed Transaction Service Coordinator) for Microsoft Windows 2000, Microsoft IIS 5.
+V|iis|>=|5.0|<=|5.0|CVE-2002-0364|7.5|0|33.8|Buffer overflow in the chunked encoding transfer mechanism in IIS 4.0 and 5.0 allows attackers to execute arbi
+V|iis|>=|5.0|<=|5.0|CVE-2002-0419|5.0|0|37.3|Information leaks in IIS 4 through 5.1 allow remote attackers to obtain potentially sensitive information or m
+V|iis|>=|5.0|<=|5.0|CVE-2002-0422|2.6|0|51.0|IIS 5 and 5.1 supporting WebDAV methods allows remote attackers to determine the internal IP address of the sy
+V|iis|>=|5.0|<=|5.0|CVE-2002-0869|7.5|0|23.6|Unknown vulnerability in the hosting process (dllhost.exe) for Microsoft Internet Information Server (IIS) 4.0
+V|iis|>=|5.0|<=|5.0|CVE-2002-1180|7.5|0|9.7|A typographical error in the script source access permissions for Internet Information Server (IIS) 5.0 does n
+V|iis|>=|5.0|<=|5.0|CVE-2002-1181|6.8|0|39.4|Multiple cross-site scripting (XSS) vulnerabilities in the administrative web pages for Microsoft Internet Inf
+V|iis|>=|5.0|<=|5.0|CVE-2002-1182|5.0|0|36.1|IIS 5.0 and 5.1 allows remote attackers to cause a denial of service (crash) via malformed WebDAV requests tha
+V|iis|>=|5.0|<=|5.0|CVE-2002-1694|5.0|0|13.0|Microsoft Internet Information Server (IIS) 4.0 opens log files with FILE_SHARE_READ and FILE_SHARE_WRITE perm
+V|iis|>=|5.0|<=|5.0|CVE-2002-1695|5.0|0|13.6|Norton Internet Security 2001 opens log files with FILE_SHARE_READ and FILE_SHARE_WRITE permissions, which cou
+V|iis|>=|5.0|<=|5.0|CVE-2002-1700|4.3|0|24.3|Cross-site scripting vulnerability (XSS) in the missing template handler in Macromedia ColdFusion MX allows re
+V|iis|>=|5.0|<=|5.0|CVE-2002-1744|5.0|0|65.2|Directory traversal vulnerability in CodeBrws.asp in Microsoft IIS 5.0 allows remote attackers to view source 
+V|iis|>=|5.0|<=|5.0|CVE-2002-1745|7.5|0|19.1|Off-by-one error in the CodeBrws.asp sample script in Microsoft IIS 5.0 allows remote attackers to view the so
+V|iis|>=|5.0|<=|5.0|CVE-2002-1790|5.0|0|34.0|The SMTP service in Microsoft Internet Information Services (IIS) 4.0 and 5.0 allows remote attackers to bypas
+V|iis|>=|5.0|<=|5.0|CVE-2002-1908|5.0|0|13.7|Microsoft IIS 5.0 and 5.1 allows remote attackers to cause a denial of service (CPU consumption) via an HTTP r
+V|iis|>=|5.0|<=|5.0|CVE-2003-0223|6.8|0|17.3|Cross-site scripting vulnerability (XSS) in the ASP function responsible for redirection in Microsoft Internet
+V|iis|>=|5.0|<=|5.0|CVE-2003-0224|10.0|0|18.3|Buffer overflow in ssinc.dll for Microsoft Internet Information Services (IIS) 5.0 allows local users to execu
+V|iis|>=|5.0|<=|5.0|CVE-2003-0225|5.0|0|38.5|The ASP function Response.AddHeader in Microsoft Internet Information Server (IIS) 4.0 and 5.0 does not limit 
+V|iis|>=|5.0|<=|5.0|CVE-2003-0226|5.0|0|43.2|Microsoft Internet Information Services (IIS) 5.0 and 5.1 allows remote attackers to cause a denial of service
+V|iis|>=|5.0|<=|5.0|CVE-2003-0718|5.0|0|87.9|The WebDAV Message Handler for Internet Information Services (IIS) 5.0, 5.1, and 6.0 allows remote attackers t
+V|iis|>=|5.0|<=|5.0|CVE-2003-1566|5.0|0|28.1|Microsoft Internet Information Services (IIS) 5.0 does not log requests that use the TRACK method, which allow
+V|iis|>=|5.0|<=|5.0|CVE-2003-1567|7.5|0|25.2|The undocumented TRACK method in Microsoft Internet Information Services (IIS) 5.0 returns the content of the 
+V|iis|>=|5.0|<=|5.0|CVE-2005-2089|4.3|0|31.0|Microsoft IIS 5.0 and 6.0 allows remote attackers to poison the web cache, bypass web application firewall pro
+V|iis|>=|5.0|<=|5.0|CVE-2005-2678|5.0|0|44.4|Microsoft IIS 5.1 and 6 allows remote attackers to spoof the SERVER_NAME variable to bypass security checks an
+V|iis|>=|5.0|<=|5.0|CVE-2006-0026|6.5|0|89.3|Buffer overflow in Microsoft Internet Information Services (IIS) 5.0, 5.1, and 6.0 allows local and possibly r
+V|iis|>=|5.0|<=|5.0|CVE-2007-2815|10.0|0|73.4|The "hit-highlighting" functionality in webhits.dll in Microsoft Internet Information Services (IIS) Web Serve
+V|iis|>=|5.0|<=|5.0|CVE-2008-0074|7.2|0|5.4|Unspecified vulnerability in Microsoft Internet Information Services (IIS) 5.0 through 7.0 allows local users 
+V|iis|>=|5.0|<=|5.0|CVE-2009-1122|7.5|0|98.4|The WebDAV extension in Microsoft Internet Information Services (IIS) 5.0 on Windows 2000 SP4 does not properl
+V|iis|>=|5.0|<=|5.0|CVE-2009-4444|6.0|0|63.6|Microsoft Internet Information Services (IIS) 5.x and 6.x uses only the portion of a filename before a ; (semi
+V|iis|>=|5.0|<=|5.0|CVE-2011-5279|5.0|0|19.6|CRLF injection vulnerability in the CGI implementation in Microsoft Internet Information Services (IIS) 4.x an
+V|iis|>=|5.0|<=|7.0|CVE-2008-1446|9.0|0|46.3|Integer overflow in the Internet Printing Protocol (IPP) ISAPI extension in Microsoft Internet Information Ser
+V|iis|>=|5.0|<=|7.0|CVE-2009-2521|5.0|0|82.3|Stack consumption vulnerability in the FTP Service in Microsoft Internet Information Services (IIS) 5.0 throug
+V|iis|>=|5.1|<=|5.1|CVE-2002-1717|5.0|0|16.1|Microsoft Internet Information Server (IIS) 5.1 allows remote attackers to view path information via a GET req
+V|iis|>=|5.1|<=|5.1|CVE-2002-1718|5.0|0|14.9|Microsoft Internet Information Server (IIS) 5.1 may allow remote attackers to view the contents of a Frontpage
+V|iis|>=|5.1|<=|5.1|CVE-2005-4360|7.8|0|86.7|The URL parser in Microsoft Internet Information Services (IIS) 5.1 on Windows XP Professional SP2 allows remo
+V|iis|>=|5.1|<=|5.1|CVE-2006-6578|7.5|0|7.0|Microsoft Internet Information Services (IIS) 5.1 permits the IUSR_Machine account to execute non-EXE files su
+V|iis|>=|5.1|<=|5.1|CVE-2009-1535|7.5|0|98.1|The WebDAV extension in Microsoft Internet Information Services (IIS) 5.1 and 6.0 allows remote attackers to b
+V|iis|>=|6.0|<=|6.0|CVE-2005-2089|4.3|0|31.0|Microsoft IIS 5.0 and 6.0 allows remote attackers to poison the web cache, bypass web application firewall pro
+V|iis|>=|6.0|<=|6.0|CVE-2009-1535|7.5|0|98.1|The WebDAV extension in Microsoft Internet Information Services (IIS) 5.1 and 6.0 allows remote attackers to b
+V|iis|>=|6.0|<=|6.0|CVE-2009-4444|6.0|0|63.6|Microsoft Internet Information Services (IIS) 5.x and 6.x uses only the portion of a filename before a ; (semi
+V|iis|>=|6.0|<=|6.0|CVE-2017-7269|9.8|1|99.8|Buffer overflow in the ScStoragePathFromUrl function in the WebDAV service in Internet Information Services (I
+V|iis|>=|7.5|<=|7.5|CVE-2010-1899|4.3|0|57.2|Stack consumption vulnerability in the ASP implementation in Microsoft Internet Information Services (IIS) 5.1
+V|iis|>=|7.5|<=|7.5|CVE-2010-2730|9.3|0|32.8|Buffer overflow in Microsoft Internet Information Services (IIS) 7.5, when FastCGI is enabled, allows remote a
+V|iis|>=|7.5|<=|7.5|CVE-2010-3972|10.0|0|94.5|Heap-based buffer overflow in the TELNET_STREAM_CONTEXT::OnSendData function in ftpsvc.dll in Microsoft FTP Se
+V|iis|>=|8.0|<=|8.0|CVE-2014-4078|5.1|0|20.1|The IP Security feature in Microsoft Internet Information Services (IIS) 8.0 and 8.5 does not properly process
+V|iis|>=|8.5|<=|8.5|CVE-2014-4078|5.1|0|20.1|The IP Security feature in Microsoft Internet Information Services (IIS) 8.0 and 8.5 does not properly process
+V|iis|||<=|6.0|CVE-2009-4445|6.0|0|12.8|Microsoft Internet Information Services (IIS), when used in conjunction with unspecified third-party upload ap

@@ -1,0 +1,20 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|SonicWall|SMA 100 Appliances|||||CVE-2021-20038|0.0|1|99.9|SonicWall SMA 100 Appliances Stack-Based Buffer Overflow Vulnerability
+M|SonicWall|SMA100 Appliances|||||CVE-2021-20035|0.0|1|4.4|SonicWall SMA100 Appliances OS Command Injection Vulnerability
+M|SonicWall|SMA100 Appliances|||||CVE-2023-44221|0.0|1|76.2|SonicWall SMA100 Appliances OS Command Injection Vulnerability
+M|SonicWall|SMA1000 Appliances|||||CVE-2025-23006|0.0|1|26.6|SonicWall SMA1000 Appliances Deserialization Vulnerability
+M|SonicWall|SMA1000 Appliances|||||CVE-2026-15409|0.0|1|6.8|SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability
+M|SonicWall|SMA1000 Appliances|||||CVE-2026-15410|0.0|1|11.8|SonicWall SMA1000 Appliances Code Injection Vulnerability
+M|SonicWall|SMA1000 Appliances|||||CVE-2026-83548|0.0|1|8.0|SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability
+M|SonicWall|SMA1000 Appliances|||||CVE-2026-83549|0.0|1|9.9|SonicWall SMA1000 Appliances OS Command Injection Vulnerability
+M|SonicWall|SMA1000 appliance|||||CVE-2025-40602|0.0|1|2.8|SonicWall SMA1000 Missing Authorization Vulnerability
+M|SonicWall|SMA100|||||CVE-2019-7481|0.0|1|99.9|SonicWall SMA100 SQL Injection Vulnerability
+M|SonicWall|SMA100|||||CVE-2019-7483|0.0|1|4.0|SonicWall SMA100 Directory Traversal Vulnerability
+M|SonicWall|SSLVPN SMA100|||||CVE-2021-20016|0.0|1|40.0|SonicWall SSLVPN SMA100 SQL Injection Vulnerability
+M|SonicWall|Secure Remote Access (SRA)|||||CVE-2021-20028|0.0|1|30.1|SonicWall Secure Remote Access (SRA) SQL Injection Vulnerability
+M|SonicWall|SonicOS|||||CVE-2020-5135|0.0|1|26.9|SonicWall SonicOS Buffer Overflow Vulnerability
+M|SonicWall|SonicOS|||||CVE-2024-40766|0.0|1|18.4|SonicWall SonicOS Improper Access Control Vulnerability
+M|SonicWall|SonicOS|||||CVE-2024-53704|0.0|1|95.3|SonicWall SonicOS SSLVPN Improper Authentication Vulnerability
+M|SonicWall|SonicWall Email Security|||||CVE-2021-20021|0.0|1|88.8|SonicWall Email Security Improper Privilege Management Vulnerability
+M|SonicWall|SonicWall Email Security|||||CVE-2021-20022|0.0|1|16.6|SonicWall Email Security Unrestricted Upload of File Vulnerability
+M|SonicWall|SonicWall Email Security|||||CVE-2021-20023|0.0|1|51.7|SonicWall Email Security Path Traversal Vulnerability

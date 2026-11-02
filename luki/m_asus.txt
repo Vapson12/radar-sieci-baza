@@ -1,0 +1,811 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|ASUS|4g-ac53u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|4g-ac68u|>=|3.0.0.4.384.82230|<=|3.0.0.4.384.82230|CVE-2024-26342|7.5|0|0.9|A Null pointer dereference in usr/sbin/httpd in ASUS AC68U 3.0.0.4.384.82230 allows remote attackers to trigge
+M|ASUS|4g-ac68u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|Live Update|||||CVE-2025-59374|0.0|1|1.2|ASUS Live Update Embedded Malicious Code Vulnerability
+M|ASUS|as-101|||||CVE-2019-15910|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|as-101|||||CVE-2019-15911|9.8|0|0.8|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|as-101|||||CVE-2019-15912|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|asmb8-ikvm|>=|1.14.51|<=|1.14.51|CVE-2021-28203|7.2|0|2.0|The Web Set Media Image function in ASUS BMCs firmware Web management page does not filter the specific parame
+M|ASUS|asmb8-ikvm|>=|1.14.51|<=|1.14.51|CVE-2021-28204|7.2|0|2.1|The specific function in ASUS BMCs firmware Web management page (Modify users information function) does not f
+M|ASUS|asmb8-ikvm|||<=|1.14.51|CVE-2023-26602|9.8|0|17.4|ASUS ASMB8 iKVM firmware through 1.14.51 allows remote attackers to execute arbitrary code by using SNMP to cr
+M|ASUS|aura sync|>=|1.07.22|<=|1.07.22|CVE-2018-18535|7.8|0|0.6|The Asusgio low-level driver in ASUS Aura Sync v1.07.22 and earlier exposes functionality to read and write Ma
+M|ASUS|aura sync|>=|1.07.22|<=|1.07.22|CVE-2018-18536|7.8|0|0.6|The GLCKIo and Asusgio low-level drivers in ASUS Aura Sync v1.07.22 and earlier expose functionality to read/w
+M|ASUS|b150 pro gaming d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150 pro gaming d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150 pro gaming\/aura|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150 pro gaming\/aura|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150 pro gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150 pro gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150-pro d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150-pro d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150-pro|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150-pro|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150i pro gaming\/aura|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150i pro gaming\/aura|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150i pro gaming\/wifi\/aura|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150i pro gaming\/wifi\/aura|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m pro gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m pro gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-a d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-a d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-a\/m.2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-a\/m.2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-c d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-c d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-c\/br|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-c\/br|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-c|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-c|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-d|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-d|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-f plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-f plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-k d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-k d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-k|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-k|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-plus d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-plus d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b150m-v plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b150m-v plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b250 mining expert|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b250 mining expert|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b250-mr|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b250-mr|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b250-s|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b250-s|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b250m-c pro|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b250m-c pro|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|b250m-f plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|b250m-f plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|cmax6000|>=|1.02.00|<=|1.02.00|CVE-2021-46247|7.5|0|1.2|The use of a hard-coded cryptographic key significantly increases the possibility encrypted data may be recove
+M|ASUS|dl-101|||||CVE-2019-15910|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|dl-101|||||CVE-2019-15911|9.8|0|0.8|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|dl-101|||||CVE-2019-15912|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|dsl-ac51|||<|1.1.2.3_1010|CVE-2025-59367|9.3|0|0.9|An authentication bypass vulnerability has been identified in certain DSL series routers, may allow remote att
+M|ASUS|dsl-ac51|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-ac52u|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-ac55u|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-ac56u|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-ac750|||<|1.1.2.3_1010|CVE-2025-59367|9.3|0|0.9|An authentication bypass vulnerability has been identified in certain DSL series routers, may allow remote att
+M|ASUS|dsl-ac750|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n10 c1|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n10s|>=|v2.1.16_apac|<=|v2.1.16_apac|CVE-2017-12592|8.8|0|1.1|ASUS DSL-N10S V2.1.16_APAC devices have a privilege escalation vulnerability. A normal user can escalate its p
+M|ASUS|dsl-n10s|>=|v2.1.16_apac|<=|v2.1.16_apac|CVE-2017-12593|8.8|0|0.5|ASUS DSL-N10S V2.1.16_APAC devices allow CSRF.
+M|ASUS|dsl-n12e c1|>=|1.1.2.3_345|<=|1.1.2.3_345|CVE-2018-15887|8.8|0|3.7|Main_Analysis_Content.asp in ASUS DSL-N12E_C1 1.1.2.3_345 is prone to Authenticated Remote Command Execution, 
+M|ASUS|dsl-n12e c1|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n12u c1|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n14u b1|>=|1.1.2.3_805|<=|1.1.2.3_805|CVE-2021-3166|7.5|0|2.9|An issue was discovered on ASUS DSL-N14U-B1 1.1.2.3_805 devices. An attacker can upload arbitrary file content
+M|ASUS|dsl-n14u-b1|>=|1.1.2.3_805|<=|1.1.2.3_805|CVE-2021-3254|7.5|0|1.8|Asus DSL-N14U-B1 1.1.2.3_805 allows remote attackers to cause a Denial of Service (DoS) via a TCP SYN scan usi
+M|ASUS|dsl-n14u-b1|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n14u|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n16u|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n16|||<|1.1.2.3_1010|CVE-2025-59367|9.3|0|0.9|An authentication bypass vulnerability has been identified in certain DSL series routers, may allow remote att
+M|ASUS|dsl-n16|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n17u|>=|1.1.0.2|<=|1.1.0.2|CVE-2020-35219|9.8|0|1.7|The ASUS DSL-N17U modem with firmware 1.1.0.2 allows attackers to access the admin interface by changing the a
+M|ASUS|dsl-n17u|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n55u c1|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n55u d1|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|dsl-n55u|>=|3.0.0.4.374_1397|<=|3.0.0.4.374_1397|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
+M|ASUS|dsl-n56u|>=|1.0.0.9|<=|1.0.0.9|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|dsl-n56u|>=|3.0.0.4.188|<=|3.0.0.4.188|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|dsl-n56u|>=|3.0.0.4.314|<=|3.0.0.4.314|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|dsl-n56u|||<=|3.0.0.4.364|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|dsl-n66u|||||CVE-2017-14698|9.8|0|1.3|ASUS DSL-AC51, DSL-AC52U, DSL-AC55U, DSL-N55U C1, DSL-N55U D1, DSL-AC56U, DSL-N10_C1, DSL-N12U C1, DSL-N12E C1
+M|ASUS|ea-n66|||||CVE-2016-6557|8.8|0|0.8|In ASUS RP-AC52 access points with firmware version 1.0.1.1s and possibly earlier, the web interface, the web 
+M|ASUS|ea-n66|||||CVE-2016-6558|9.8|0|3.5|A command injection vulnerability exists in apply.cgi on the ASUS RP-AC52 access point, firmware version 1.0.1
+M|ASUS|et12|||<|3.0.0.4.386_48823|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|ex-b150-v7|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-b150-v7|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-b150m-v3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-b150m-v3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-b150m-v5|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-b150m-v5|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-b150m-v|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-b150m-v|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-b250-v7|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-b250-v7|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-b250m-v3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-b250m-v3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-b250m-v5|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-b250m-v5|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-b250m-v|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-b250m-v|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-h110m-v3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-h110m-v3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ex-h110m-v|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|ex-h110m-v|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|gt-ac2900|||<|3.0.0.4.386.42643|CVE-2021-32030|9.8|1|99.4|The administrator application on ASUS GT-AC2900 devices before 3.0.0.4.386.42643 and Lyra Mini before 3.0.0.4_
+M|ASUS|gt-ac5300|||<=|3.0.0.4.384.32738|CVE-2018-17127|7.5|0|1.5|blocking_request.cgi on ASUS GT-AC5300 devices through 3.0.0.4.384_32738 allows remote attackers to cause a de
+M|ASUS|gt-ac5300|||<=|3.0.0.4.384_32738|CVE-2018-17020|7.5|0|2.1|ASUS GT-AC5300 devices with firmware through 3.0.0.4.384_32738 allow remote attackers to cause a denial of ser
+M|ASUS|gt-ac5300|||<=|3.0.0.4.384_32738|CVE-2018-17022|7.2|0|2.2|Stack-based buffer overflow on the ASUS GT-AC5300 router through 3.0.0.4.384_32738 allows remote attackers to 
+M|ASUS|gt-ac5300|||<=|3.0.0.4.384_32738|CVE-2018-17023|8.8|0|0.6|Cross-site request forgery (CSRF) vulnerability on ASUS GT-AC5300 routers with firmware through 3.0.0.4.384_32
+M|ASUS|gt-ax11000 pro|||<|3.0.0.4.386_48996|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|gt-ax11000|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|gt-ax11000|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|gt-ax11000|||<|3.0.0.4.386_49559|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|gt-ax6000|||<|3.0.0.4.386_48823|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|gt-axe16000|||<|3.0.0.4.386_48786|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|h110-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110i-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110i-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-a d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-a d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-a\/dp|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-a\/dp|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-a\/m.2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-a\/m.2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-c2\/tf|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-c2\/tf|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-c2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-c2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-c\/br|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-c\/br|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-c\/hdmi|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-c\/hdmi|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-c\/ps|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-c\/ps|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-cs x|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-cs x|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-cs\/br|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-cs\/br|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-cs|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-cs|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-c|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-c|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-d\/exper\/si|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-d\/exper\/si|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-d|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-d|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-e\/m.2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-e\/m.2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-e|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-e|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-f|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-f|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-k d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-k d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-k x|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-k x|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-ks r1|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-ks r1|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-ks|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-ks|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-k|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-k|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-p\/dvi|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-p\/dvi|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-r|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-r|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110m-ts|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110m-ts|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110s1|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110s1|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110s2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110s2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110t-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110t-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h110t|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h110t|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h170 pro gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h170 pro gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h170-plus d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h170-plus d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h170-pro\/usb 3.1|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h170-pro\/usb 3.1|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h170-pro|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h170-pro|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h170i-pro|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h170i-pro|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h170m-e d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h170m-e d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h170m-plus\/br|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h170m-plus\/br|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|h170m-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|h170m-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|hg100|||<=|1.05.12|CVE-2019-11060|7.5|0|3.0|The web api server on Port 8080 of ASUS HG100 firmware up to 1.05.12, which is vulnerable to Slowloris HTTP De
+M|ASUS|hg100|||<|1.05.12|CVE-2018-11491|9.8|0|6.7|ASUS HG100 devices with firmware before 1.05.12 allow unauthenticated access, leading to remote command execut
+M|ASUS|hg100|||<|4.00.09|CVE-2019-11061|10.0|0|4.0|A broken access control vulnerability in HG100 firmware versions up to 4.00.06 allows an attacker in the same 
+M|ASUS|hg100|||||CVE-2018-11492|7.5|0|11.2|ASUS HG100 devices allow denial of service via an IPv4 packet flood.
+M|ASUS|hg100|||||CVE-2019-15910|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|hg100|||||CVE-2019-15911|9.8|0|0.8|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|hg100|||||CVE-2019-15912|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|lyra mini|||<|3.0.0.4.384.46630|CVE-2021-32030|9.8|1|99.4|The administrator application on ASUS GT-AC2900 devices before 3.0.0.4.386.42643 and Lyra Mini before 3.0.0.4_
+M|ASUS|ms-101|||||CVE-2019-15910|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|ms-101|||||CVE-2019-15911|9.8|0|0.8|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|ms-101|||||CVE-2019-15912|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|mw100|||||CVE-2019-15910|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|mw100|||||CVE-2019-15911|9.8|0|0.8|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|mw100|||||CVE-2019-15912|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|nas-m25|||<=|1.0.1.7|CVE-2022-4221|9.8|0|4.8|Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in As
+M|ASUS|pegasus 4 max|||||CVE-2019-15405|7.8|0|0.4|The Asus ASUS_X00K_1 Android device with a build fingerprint of asus/CN_X00K/ASUS_X00K_1:7.0/NRD90M/CN_X00K-14
+M|ASUS|pegasus 4 max|||||CVE-2019-15418|7.8|0|0.4|The Asus ASUS_X00K_1 Android device with a build fingerprint of asus/CN_X00K/ASUS_X00K_1:7.0/NRD90M/CN_X00K-14
+M|ASUS|pegasus 4a|||||CVE-2019-15405|7.8|0|0.4|The Asus ASUS_X00K_1 Android device with a build fingerprint of asus/CN_X00K/ASUS_X00K_1:7.0/NRD90M/CN_X00K-14
+M|ASUS|pegasus 4a|||||CVE-2019-15418|7.8|0|0.4|The Asus ASUS_X00K_1 Android device with a build fingerprint of asus/CN_X00K/ASUS_X00K_1:7.0/NRD90M/CN_X00K-14
+M|ASUS|pio-b150m|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|pio-b150m|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|pio-b250i|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|pio-b250i|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250-pro|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250-pro|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250m-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250m-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250m-c|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250m-c|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250m-d|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250m-d|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250m-j|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250m-j|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250m-k|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250m-k|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250m-plus\/br|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250m-plus\/br|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime b250m-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime b250m-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime h110m-p|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime h110m-p|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime h110m2\/fpt|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime h110m2\/fpt|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime h110m2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime h110m2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime h270-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime h270-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime h270-pro|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime h270-pro|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime h270m-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime h270m-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime j3355i-c|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime j3355i-c|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime q270m-c|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime q270m-c|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime z270-ar|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime z270-ar|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime z270-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime z270-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime z270-k|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime z270-k|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime z270-p|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime z270-p|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime z270m-plus\/br|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime z270m-plus\/br|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime z270m-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime z270m-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime z370-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime z370-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|prime z370-p|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|prime z370-p|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q170m-cm-b|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q170m-cm-b|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q170m-c|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q170m-c|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q170m2\/cdm\/si|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q170m2\/cdm\/si|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q170m2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q170m2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q170s1|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q170s1|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q170t v2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q170t v2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q170t|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q170t|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q270-s|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q270-s|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|q270m-cm-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|q270m-cm-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus ix apex|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus ix apex|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus ix code|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus ix code|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus ix extreme|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus ix extreme|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus ix formula|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus ix formula|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus ix hero|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus ix hero|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus viii extreme|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus viii extreme|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus viii formula|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus viii formula|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus viii gene|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus viii gene|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus viii hero alpha|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus viii hero alpha|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus viii hero|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus viii hero|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus viii impact|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus viii impact|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus viii ranger|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus viii ranger|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus x apex|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus x apex|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus x code|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus x code|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus x formula|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus x formula|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog maximus x hero|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog maximus x hero|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog rapture gt-ac2900|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rog rapture gt-ac5300|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rog rapture gt-ax11000|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rog strix b250f gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix b250f gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix b250g gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix b250g gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix b250h gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix b250h gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix b250i gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix b250i gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix h270f gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix h270f gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix h270i gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix h270i gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z270e gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z270e gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z270f gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z270f gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z270g gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z270g gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z270h gaming\/k1|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z270h gaming\/k1|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z270h gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z270h gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z270i gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z270i gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z370-e gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z370-e gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z370-f gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z370-f gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z370-g gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z370-g gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z370-h gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z370-h gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rog strix z370-i gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|rog strix z370-i gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|rp-ac52|||<=|1.0.1.1s|CVE-2016-6557|8.8|0|0.8|In ASUS RP-AC52 access points with firmware version 1.0.1.1s and possibly earlier, the web interface, the web 
+M|ASUS|rp-ac52|||<=|1.0.1.1s|CVE-2016-6558|9.8|0|3.5|A command injection vulnerability exists in apply.cgi on the ASUS RP-AC52 access point, firmware version 1.0.1
+M|ASUS|rp-ac56|||||CVE-2016-6557|8.8|0|0.8|In ASUS RP-AC52 access points with firmware version 1.0.1.1s and possibly earlier, the web interface, the web 
+M|ASUS|rp-ac56|||||CVE-2016-6558|9.8|0|3.5|A command injection vulnerability exists in apply.cgi on the ASUS RP-AC52 access point, firmware version 1.0.1
+M|ASUS|rp-n12|||||CVE-2016-6557|8.8|0|0.8|In ASUS RP-AC52 access points with firmware version 1.0.1.1s and possibly earlier, the web interface, the web 
+M|ASUS|rp-n12|||||CVE-2016-6558|9.8|0|3.5|A command injection vulnerability exists in apply.cgi on the ASUS RP-AC52 access point, firmware version 1.0.1
+M|ASUS|rp-n14|||||CVE-2016-6557|8.8|0|0.8|In ASUS RP-AC52 access points with firmware version 1.0.1.1s and possibly earlier, the web interface, the web 
+M|ASUS|rp-n14|||||CVE-2016-6558|9.8|0|3.5|A command injection vulnerability exists in apply.cgi on the ASUS RP-AC52 access point, firmware version 1.0.1
+M|ASUS|rp-n53|||||CVE-2016-6557|8.8|0|0.8|In ASUS RP-AC52 access points with firmware version 1.0.1.1s and possibly earlier, the web interface, the web 
+M|ASUS|rp-n53|||||CVE-2016-6558|9.8|0|3.5|A command injection vulnerability exists in apply.cgi on the ASUS RP-AC52 access point, firmware version 1.0.1
+M|ASUS|rt series|||<=|3.0.0.4.374.x|CVE-2014-2718|7.1|0|1.1|ASUS RT-AC68U, RT-AC66R, RT-AC66U, RT-AC56R, RT-AC56U, RT-N66R, RT-N66U, RT-N56R, RT-N56U, and possibly other 
+M|ASUS|rt-ac1200e|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1200g\+|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1200gu|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1200g|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1200hp|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1200|>=|3.0.0.4.380.10446|<=|3.0.0.4.380.10446|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac1200|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1300g\+|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1300uhp|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1750 b1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1750 b1|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac1750 b1|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac1750|>=|3.0.0.4.380.7266|<=|3.0.0.4.380.7266|CVE-2017-5891|8.8|0|0.5|ASUS RT-AC* and RT-N* devices with firmware before 3.0.0.4.380.7378 have Login Page CSRF and Save Settings CSR
+M|ASUS|rt-ac1750|>=|3.0.0.4.380.7266|<=|3.0.0.4.380.7266|CVE-2017-5892|7.5|0|1.2|ASUS RT-AC* and RT-N* devices with firmware before 3.0.0.4.380.7378 allow JSONP Information Disclosure such as
+M|ASUS|rt-ac1750|>=|3.0.0.4.380.8228|<=|3.0.0.4.380.8228|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac1750|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1900p|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1900p|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac1900p|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac1900u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1900u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac1900u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac1900|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac1900|||<|3.0.0.4.384.10007|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac1900|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac1900|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac2200|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac2400|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac2600|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac2900|>=|3.0.0.4.384.20648|<=|3.0.0.4.384.20648|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac2900|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac2900|||<|3.0.0.4.384.10007|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac2900|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac2900|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac3100|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac3100|||<|3.0.0.4.384.10007|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac3100|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac3100|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac3200|>=|3.0.0.4.382.50010|<=|3.0.0.4.382.50010|CVE-2018-14713|8.1|0|3.8|Format string vulnerability in appGet.cgi on ASUS RT-AC3200 version 3.0.0.4.382.50010 allows attackers to read
+M|ASUS|rt-ac3200|>=|3.0.0.4.382.50010|<=|3.0.0.4.382.50010|CVE-2018-14714|9.8|0|27.4|System command injection in appGet.cgi on ASUS RT-AC3200 version 3.0.0.4.382.50010 allows attackers to execute
+M|ASUS|rt-ac3200|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac3200|||<|3.0.0.4.382.50010|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac51u\+|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac51u|>=|3.0.0.4.380.8228|<=|3.0.0.4.380.8228|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac51u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac51u|||<=|3.0.0.4.380.8591|CVE-2023-29772|5.2|0|11.2|A Cross-site scripting (XSS) vulnerability in the System Log/General Log page of the administrator web UI in A
+M|ASUS|rt-ac52u b1|>=|3.0.0.4.380.10446|<=|3.0.0.4.380.10446|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac52u b1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac5300|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac5300|||<|3.0.0.4.384.20287|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac5300|||<|3.0.0.4.384.82072|CVE-2021-45756|9.8|0|1.2|Asus RT-AC68U <3.0.0.4.385.20633 and RT-AC5300 <3.0.0.4.384.82072 are affected by a buffer overflow in blockin
+M|ASUS|rt-ac5300|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac5300|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac53|>=|3.0.0.4.380.6038|<=|3.0.0.4.380.6038|CVE-2017-6548|9.8|0|21.3|Buffer overflows in networkmap on ASUS RT-N56U, RT-N66U, RT-AC66U, RT-N66R, RT-AC66R, RT-AC68U, RT-AC68R, RT-N
+M|ASUS|rt-ac53|>=|3.0.0.4.380.6038|<=|3.0.0.4.380.6038|CVE-2017-6549|8.8|0|7.6|Session hijack vulnerability in httpd on ASUS RT-N56U, RT-N66U, RT-AC66U, RT-N66R, RT-AC66R, RT-AC68U, RT-AC68
+M|ASUS|rt-ac53|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac55uhp|>=|3.0.0.4.382.50276|<=|3.0.0.4.382.50276|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac55uhp|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac55u|>=|3.0.0.4.382.50276|<=|3.0.0.4.382.50276|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac55u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac56r|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac56s|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac56u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac57u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac58u|>=|3.0.0.4.380.8228|<=|3.0.0.4.380.8228|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac58u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac58u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac58u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac65p|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac65u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac65u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac65u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac66r|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac66u b1|>=|3.0.0.4.286_51665|<=|3.0.0.4.286_51665|CVE-2023-39086|7.5|0|0.4|ASUS RT-AC66U B1 3.0.0.4.286_51665 was discovered to transmit sensitive information in cleartext.
+M|ASUS|rt-ac66u b1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac66u b1|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac66u b1|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac66u\+|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac66u|>=|3.0.0.4..374_979|<=|3.0.0.4..374_979|CVE-2013-6343|10.0|0|7.8|Multiple buffer overflows in web.c in httpd on the ASUS RT-N56U and RT-AC66U routers with firmware 3.0.0.4.374
+M|ASUS|rt-ac66u|>=|3.0.0.4.140|<=|3.0.0.4.140|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-ac66u|>=|3.0.0.4.220|<=|3.0.0.4.220|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-ac66u|>=|3.0.0.4.246|<=|3.0.0.4.246|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-ac66u|>=|3.0.0.4.260|<=|3.0.0.4.260|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-ac66u|>=|3.0.0.4.270|<=|3.0.0.4.270|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-ac66u|>=|3.0.0.4.374_2050|<=|3.0.0.4.374_2050|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
+M|ASUS|rt-ac66u|>=|3.0.0.4.380.8228|<=|3.0.0.4.380.8228|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac66u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac66u|||<=|3.0.0.4.354|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-ac66u|||<|3.0.0.4.382.50470|CVE-2018-8879|9.8|0|17.2|Stack-based buffer overflow in Asuswrt-Merlin firmware for ASUS devices older than 384.4 and ASUS firmware bef
+M|ASUS|rt-ac66u|||<|3.0.0.4.384.10007|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac66u|||||CVE-2013-4656|9.8|0|2.2|Symlink Traversal vulnerability in ASUS RT-AC66U and RT-N56U due to misconfiguration in the SMB service.
+M|ASUS|rt-ac66u|||||CVE-2013-4659|9.8|0|13.9|Buffer overflow in Broadcom ACSD allows remote attackers to execute arbitrary code via a long string to TCP po
+M|ASUS|rt-ac66w|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac68p|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac68p|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68p|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68rw|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68rw|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68r|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac68r|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68r|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68uf|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac68u|>=|3.0.0.4.374.4755|<=|3.0.0.4.374.4755|CVE-2013-5948|8.5|0|9.4|The Network Analysis tab (Main_Analysis_Content.asp) in the ASUS RT-AC68U and other RT series routers with fir
+M|ASUS|rt-ac68u|>=|3.0.0.4.374_4561|<=|3.0.0.4.374_4561|CVE-2013-5948|8.5|0|9.4|The Network Analysis tab (Main_Analysis_Content.asp) in the ASUS RT-AC68U and other RT series routers with fir
+M|ASUS|rt-ac68u|>=|3.0.0.4.374_4887|<=|3.0.0.4.374_4887|CVE-2013-5948|8.5|0|9.4|The Network Analysis tab (Main_Analysis_Content.asp) in the ASUS RT-AC68U and other RT series routers with fir
+M|ASUS|rt-ac68u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac68u|||<=|3.0.0.4.385.20852|CVE-2021-45757|7.5|0|1.1|ASUS AC68U <=3.0.0.4.385.20852 is affected by a buffer overflow in blocking.cgi, which may cause a denial of s
+M|ASUS|rt-ac68u|||<|3.0.0.4.384.10007|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac68u|||<|3.0.0.4.385.20633|CVE-2021-45756|9.8|0|1.2|Asus RT-AC68U <3.0.0.4.385.20633 and RT-AC5300 <3.0.0.4.384.82072 are affected by a buffer overflow in blockin
+M|ASUS|rt-ac68u|||<|3.0.0.4.386.41634|CVE-2021-37315|9.1|0|1.1|Incorrect Access Control issue discoverd in Cloud Disk in ASUS RT-AC68U router firmware version before 3.0.0.4
+M|ASUS|rt-ac68u|||<|3.0.0.4.386.41634|CVE-2021-37316|7.5|0|1.0|SQL injection vulnerability in Cloud Disk in ASUS RT-AC68U router firmware version before 3.0.0.4.386.41634 al
+M|ASUS|rt-ac68u|||<|3.0.0.4.386.41634|CVE-2021-37317|9.1|0|1.5|Directory Traversal vulnerability in Cloud Disk in ASUS RT-AC68U router firmware version before 3.0.0.4.386.41
+M|ASUS|rt-ac68u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68w|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac68w|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac68w|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac85p|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac85u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac85u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac85u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac86u|>=|3.0.0.4.384.20648|<=|3.0.0.4.384.20648|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-ac86u|>=|3.0.0.4.386.45956|<=|3.0.0.4.386.45956|CVE-2022-25596|8.8|0|0.5|ASUS RT-AC56Us configuration function has a heap-based buffer overflow vulnerability due to insufficient valid
+M|ASUS|rt-ac86u|>=|3.0.0.4.386.45956|<=|3.0.0.4.386.45956|CVE-2022-25597|8.8|0|0.8|ASUS RT-AC86Us LPD service has insufficient filtering for special characters in the user request, which allows
+M|ASUS|rt-ac86u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac86u|>=|3.0.0.4.386.51255|<=|3.0.0.4.386.51255|CVE-2023-28702|8.8|0|1.2|ASUS RT-AC86U does not filter special characters for parameters in specific web URLs. A remote attacker with n
+M|ASUS|rt-ac86u|>=|3.0.0.4.386.51255|<=|3.0.0.4.386.51255|CVE-2023-28703|7.2|0|0.9|ASUS RT-AC86Us specific cgi function has a stack-based buffer overflow vulnerability due to insufficient valid
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-35086|7.2|0|38.5|It is identified a format string vulnerability in ASUS RT-AX56U V2 & RT-AC86U. This vulnerability is caused by
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-35087|9.8|0|1.1|It is identified a format string vulnerability in ASUS RT-AX56U V2 & RT-AC86U. This vulnerability is caused by
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-38031|8.8|0|1.4|ASUS RT-AC86U Adaptive QoS - Web History function has insufficient filtering of special character. A remote at
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-38032|8.8|0|1.4|ASUS RT-AC86U AiProtection security- related function has insufficient filtering of special character. A remot
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-38033|8.8|0|1.4|ASUS RT-AC86U unused Traffic Analyzer legacy Statistic function has insufficient filtering of special characte
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-39236|8.8|0|1.4|ASUS RT-AC86U Traffic Analyzer - Statistic function has insufficient filtering of special character. A remote 
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-39237|8.8|0|1.4|ASUS RT-AC86U Traffic Analyzer - Apps analysis function has insufficient filtering of special character. A rem
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-39238|7.2|0|1.4|It is identified a format string vulnerability in ASUS RT-AX56U V2. This vulnerability is caused by lacking va
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-39239|7.2|0|1.3|It is identified a format string vulnerability in ASUS RT-AX56U V2s General function API. This vulnerability i
+M|ASUS|rt-ac86u|>=|3.0.0.4_386_51529|<=|3.0.0.4_386_51529|CVE-2023-39240|7.2|0|1.3|It is identified a format string vulnerability in ASUS RT-AX56U V2s iperf client function API. This vulnerabil
+M|ASUS|rt-ac86u|||<|3.0.0.4.384.10007|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac86u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac86u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac87r|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac87u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac87u|||<|3.0.0.4.382.50010|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac87u|||||CVE-2023-47678|9.1|0|0.7|An improper access control vulnerability exists in RT-AC87U all versions. An attacker may read or write files 
+M|ASUS|rt-ac88u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ac88u|||<|3.0.0.4.384.10007|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-ac88u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ac88u|||<|3.1.0.108|CVE-2020-29655|7.5|0|0.9|An injection vulnerability exists in RT-AC88U Download Master before 3.1.0.108. Accessing Main_Login.asp?flag=
+M|ASUS|rt-ac88u|||<|3.1.0.108|CVE-2020-29656|7.5|0|1.1|An information disclosure vulnerability exists in RT-AC88U Download Master before 3.1.0.108. A direct access t
+M|ASUS|rt-ac88u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-acrh13|>=|3.0.0.4.380.8228|<=|3.0.0.4.380.8228|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-acrh13|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-acrh17|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax3000|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax3000|||<=|3.0.0.4.384_10177|CVE-2021-3229|7.5|0|2.7|Denial of service in ASUSWRT ASUS RT-AX3000 firmware versions 3.0.0.4.384_10177 and earlier versions allows an
+M|ASUS|rt-ax3000|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax3000|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax3000|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax3000|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax55|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax55|>=|3.0.0.4.386.51598|<=|3.0.0.4.386.51598|CVE-2023-39780|8.8|1|39.5|On ASUS RT-AX55 3.0.0.4.386.51598 devices, authenticated attackers can perform OS command injection via the /s
+M|ASUS|rt-ax55|>=|3.0.0.4.386.51598|<=|3.0.0.4.386.51598|CVE-2023-41345|8.8|0|1.3|ASUS RT-AX55s authentication-related function has a vulnerability of insufficient filtering of special charact
+M|ASUS|rt-ax55|>=|3.0.0.4.386.51598|<=|3.0.0.4.386.51598|CVE-2023-41346|8.8|0|1.2|ASUS RT-AX55s authentication-related function has a vulnerability of insufficient filtering of special charact
+M|ASUS|rt-ax55|>=|3.0.0.4.386.51598|<=|3.0.0.4.386.51598|CVE-2023-41347|8.8|0|1.3|ASUS RT-AX55s authentication-related function has a vulnerability of insufficient filtering of special charact
+M|ASUS|rt-ax55|>=|3.0.0.4.386.51598|<=|3.0.0.4.386.51598|CVE-2023-41348|8.8|0|1.3|ASUS RT-AX55s authentication-related function has a vulnerability of insufficient filtering of special charact
+M|ASUS|rt-ax55|>=|3.0.0.4.386_50460|<=|3.0.0.4.386_50460|CVE-2023-39238|7.2|0|1.4|It is identified a format string vulnerability in ASUS RT-AX56U V2. This vulnerability is caused by lacking va
+M|ASUS|rt-ax55|>=|3.0.0.4.386_50460|<=|3.0.0.4.386_50460|CVE-2023-39239|7.2|0|1.3|It is identified a format string vulnerability in ASUS RT-AX56U V2s General function API. This vulnerability i
+M|ASUS|rt-ax55|>=|3.0.0.4.386_50460|<=|3.0.0.4.386_50460|CVE-2023-39240|7.2|0|1.3|It is identified a format string vulnerability in ASUS RT-AX56U V2s iperf client function API. This vulnerabil
+M|ASUS|rt-ax55|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax55|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax55|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax55|||<|3.0.0.4.386_49559|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|rt-ax55|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax56u v2|>=|3.0.0.4.386_50460|<=|3.0.0.4.386_50460|CVE-2023-35086|7.2|0|38.5|It is identified a format string vulnerability in ASUS RT-AX56U V2 & RT-AC86U. This vulnerability is caused by
+M|ASUS|rt-ax56u v2|>=|3.0.0.4.386_50460|<=|3.0.0.4.386_50460|CVE-2023-35087|9.8|0|1.1|It is identified a format string vulnerability in ASUS RT-AX56U V2 & RT-AC86U. This vulnerability is caused by
+M|ASUS|rt-ax56u v2|>=|3.0.0.4.386_50460|<=|3.0.0.4.386_50460|CVE-2023-39238|7.2|0|1.4|It is identified a format string vulnerability in ASUS RT-AX56U V2. This vulnerability is caused by lacking va
+M|ASUS|rt-ax56u v2|>=|3.0.0.4.386_50460|<=|3.0.0.4.386_50460|CVE-2023-39239|7.2|0|1.3|It is identified a format string vulnerability in ASUS RT-AX56U V2s General function API. This vulnerability i
+M|ASUS|rt-ax56u v2|>=|3.0.0.4.386_50460|<=|3.0.0.4.386_50460|CVE-2023-39240|7.2|0|1.3|It is identified a format string vulnerability in ASUS RT-AX56U V2s iperf client function API. This vulnerabil
+M|ASUS|rt-ax56u v2|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax56u v2|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax56u|>=|3.0.0.4.386.44266|<=|3.0.0.4.386.44266|CVE-2021-40556|8.8|0|1.6|A stack overflow vulnerability exists in the httpd service in ASUS RT-AX56U Router Version 3.0.0.4.386.44266. 
+M|ASUS|rt-ax56u|>=|3.0.0.4.386.44266|<=|3.0.0.4.386.44266|CVE-2021-44158|8.0|0|0.7|ASUS RT-AX56U Wi-Fi Router is vulnerable to stack-based buffer overflow due to improper validation for httpd p
+M|ASUS|rt-ax56u|>=|3.0.0.4.386.45898|<=|3.0.0.4.386.45898|CVE-2022-23970|8.1|0|0.5|ASUS RT-AX56Us update_json function has a path traversal vulnerability due to insufficient filtering for speci
+M|ASUS|rt-ax56u|>=|3.0.0.4.386.45898|<=|3.0.0.4.386.45898|CVE-2022-23971|8.1|0|0.5|ASUS RT-AX56Us update_PLC/PORT file has a path traversal vulnerability due to insufficient filtering for speci
+M|ASUS|rt-ax56u|>=|3.0.0.4.386.45898|<=|3.0.0.4.386.45898|CVE-2022-23972|8.8|0|0.5|ASUS RT-AX56Us SQL handling function has an SQL injection vulnerability due to insufficient user input validat
+M|ASUS|rt-ax56u|>=|3.0.0.4.386.45898|<=|3.0.0.4.386.45898|CVE-2022-23973|8.8|0|0.5|ASUS RT-AX56Us user profile configuration function is vulnerable to stack-based buffer overflow due to insuffi
+M|ASUS|rt-ax56u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax56u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax56u|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax56u|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax56u|||<|3.0.0.4.386_49559|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|rt-ax56u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax58u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax58u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax58u|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax58u|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax58u|||<|3.0.0.4.386_48908|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|rt-ax58u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax68u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax68u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax68u|||<|3.0.0.4.386.45911|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax68u|||<|3.0.0.4.386.45911|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax68u|||<|3.0.0.4.386_49479|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|rt-ax68u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax82u gundam edition|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax82u gundam edition|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax82u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax82u|>=|3.0.0.4.386_49674-ge182230|<=|3.0.0.4.386_49674-ge182230|CVE-2022-35401|8.1|0|20.8|An authentication bypass vulnerability exists in the get_IFTTTTtoken.cgi functionality of Asus RT-AX82U 3.0.0.
+M|ASUS|rt-ax82u|>=|3.0.0.4.386_49674-ge182230|<=|3.0.0.4.386_49674-ge182230|CVE-2022-38105|7.5|0|1.1|An information disclosure vulnerability exists in the cm_processREQ_NC opcode of Asus RT-AX82U 3.0.0.4.386_496
+M|ASUS|rt-ax82u|>=|3.0.0.4.386_49674-ge182230|<=|3.0.0.4.386_49674-ge182230|CVE-2022-38393|7.5|0|18.8|A denial of service vulnerability exists in the cfg_server cm_processConnDiagPktList opcode of Asus RT-AX82U 3
+M|ASUS|rt-ax82u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax82u|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax82u|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax82u|||<|3.0.0.4.386_49380|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|rt-ax82u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax86s|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax86s|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax86u zaku ii edition|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax86u zaku ii edition|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax86u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax86u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax86u|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax86u|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax86u|||<|3.0.0.4.386_49447|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|rt-ax86u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax86u|||<|9.0.0.4_386|CVE-2020-36109|9.8|0|4.2|ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cg
+M|ASUS|rt-ax88u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax88u|||<=|3.0.0.4.388.23110|CVE-2023-34360|8.2|0|0.5|A stored cross-site scripting (XSS) issue was discovered within the Custom User Icons functionality of ASUS RT
+M|ASUS|rt-ax88u|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax88u|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax88u|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-ax88u|||<|3.0.0.4.386.46065|CVE-2022-26674|9.8|0|2.8|ASUS RT-AX88U has a Format String vulnerability, which allows an unauthenticated remote attacker to write to a
+M|ASUS|rt-ax88u|||<|3.0.0.4.388.23748|CVE-2023-34358|7.5|0|0.8|ASUS RT-AX88U's httpd is subject to an unauthenticated DoS condition. A remote attacker can send a specially c
+M|ASUS|rt-ax88u|||<|3.0.0.4.388.23748|CVE-2023-34359|7.5|0|0.8|ASUS RT-AX88U's httpd is subject to an unauthenticated DoS condition. A remote attacker can send a specially c
+M|ASUS|rt-ax88u|||<|3.0.0.4.388.23748|CVE-2023-41349|8.8|0|0.9|ASUS router RT-AX88U has a vulnerability of using externally controllable format strings within its Advanced O
+M|ASUS|rt-ax88u|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|rt-ax89x|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax92u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-ax92u|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|rt-ax92u|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|rt-n10lx|>=|2.0.0.39|<=|2.0.0.39|CVE-2023-34940|7.5|0|0.8|Asus RT-N10LX Router v2.0.0.39 was discovered to contain a stack overflow via the url parameter at /start-appl
+M|ASUS|rt-n10lx|>=|2.0.0.39|<=|2.0.0.39|CVE-2023-34941|5.4|0|23.8|A stored cross-site scripting (XSS) vulnerability in the urlFilterList function of Asus RT-N10LX Router v2.0.0
+M|ASUS|rt-n10lx|>=|2.0.0.39|<=|2.0.0.39|CVE-2023-34942|7.5|0|0.7|Asus RT-N10LX Router v2.0.0.39 was discovered to contain a stack overflow via the mac parameter at /start-appl
+M|ASUS|rt-n10u|>=|3.0.0.4.374_168|<=|3.0.0.4.374_168|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
+M|ASUS|rt-n12 d1|>=|3.0.0.4.380.8228|<=|3.0.0.4.380.8228|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-n12\+ b1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n12d1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n12e b1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n12e c1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n12e|>=|2.0.0.39|<=|2.0.0.39|CVE-2020-23648|7.5|0|1.4|Asus RT-N12E 2.0.0.39 is affected by an incorrect access control vulnerability. Through system.asp / start_app
+M|ASUS|rt-n12hp b1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n12vp b1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n14uhp|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n14u|>=|3.0.0.4.322|<=|3.0.0.4.322|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n14u|||<=|3.0.0.4.356|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n15u|>=|3.0.0.4.374_16|<=|3.0.0.4.374_16|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
+M|ASUS|rt-n16|>=|1.0.1.9|<=|1.0.1.9|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|>=|1.0.2.3|<=|1.0.2.3|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|>=|3.0.0.3.108|<=|3.0.0.3.108|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|>=|3.0.0.3.162|<=|3.0.0.3.162|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|>=|3.0.0.3.178|<=|3.0.0.3.178|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|>=|3.0.0.4.220|<=|3.0.0.4.220|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|>=|3.0.0.4.246|<=|3.0.0.4.246|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|>=|3.0.0.4.260|<=|3.0.0.4.260|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|>=|3.0.0.4.374_979|<=|3.0.0.4.374_979|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
+M|ASUS|rt-n16|>=|7.0.2.38b|<=|7.0.2.38b|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n16|||<=|3.0.0.4.354|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n18u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n18u|||<|3.0.0.4.382.39935|CVE-2018-9285|9.8|0|3.6|Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, 
+M|ASUS|rt-n19|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n53|>=|3.0.0.4.374_311|<=|3.0.0.4.374_311|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
+M|ASUS|rt-n53|>=|3.0.0.4.376.3754|<=|3.0.0.4.376.3754|CVE-2019-20082|9.8|0|2.1|ASUS RT-N53 3.0.0.4.376.3754 devices have a buffer overflow via a long lan_dns1_x or lan_dns2_x parameter to A
+M|ASUS|rt-n53|>=|3.0.0.4.376.3754|<=|3.0.0.4.376.3754|CVE-2022-31874|9.8|0|20.0|ASUS RT-N53 3.0.0.4.376.3754 has a command injection vulnerability in the SystemCmd parameter of the apply.cgi
+M|ASUS|rt-n56u|>=|1.0.1.4o|<=|1.0.1.4o|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|1.0.1.4|<=|1.0.1.4|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|1.0.1.7c|<=|1.0.1.7c|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|1.0.1.7f|<=|1.0.1.7f|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|1.0.1.8j|<=|1.0.1.8j|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|1.0.1.8l|<=|1.0.1.8l|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|1.0.1.8n|<=|1.0.1.8n|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|3.0.0.4..374_979|<=|3.0.0.4..374_979|CVE-2013-6343|10.0|0|7.8|Multiple buffer overflows in web.c in httpd on the ASUS RT-N56U and RT-AC66U routers with firmware 3.0.0.4.374
+M|ASUS|rt-n56u|>=|3.0.0.4.318|<=|3.0.0.4.318|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|3.0.0.4.334|<=|3.0.0.4.334|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|3.0.0.4.342|<=|3.0.0.4.342|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|3.0.0.4.374_979|<=|3.0.0.4.374_979|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
+M|ASUS|rt-n56u|>=|7.0.1.21|<=|7.0.1.21|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|7.0.1.32|<=|7.0.1.32|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|>=|8.1.1.4|<=|8.1.1.4|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|||<=|3.0.0.4.360|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n56u|||||CVE-2013-4656|9.8|0|2.2|Symlink Traversal vulnerability in ASUS RT-AC66U and RT-N56U due to misconfiguration in the SMB service.
+M|ASUS|rt-n600|>=|3.0.0.4.380.10446|<=|3.0.0.4.380.10446|CVE-2018-8826|9.8|0|4.2|ASUS RT-AC51U, RT-AC58U, RT-AC66U, RT-AC1750, RT-ACRH13, and RT-N12 D1 routers with firmware before 3.0.0.4.38
+M|ASUS|rt-n65u|>=|3.0.0.3.134|<=|3.0.0.3.134|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n65u|>=|3.0.0.3.176|<=|3.0.0.3.176|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n65u|>=|3.0.0.4.260|<=|3.0.0.4.260|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n65u|>=|3.0.0.4.334|<=|3.0.0.4.334|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n65u|>=|3.0.0.4.342|<=|3.0.0.4.342|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n65u|||<=|3.0.0.4.346|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n66c1|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n66r|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n66u|>=|3.0.0.4.272|<=|3.0.0.4.272|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n66u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|rt-n66u|||<=|3.0.0.4.370|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
+M|ASUS|rt-n66w|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|sabertooth x99|>=|1.0.1.0|<=|1.0.1.0|CVE-2024-33219|7.8|0|0.3|An issue in the component AsIO64.sys of ASUSTeK Computer Inc ASUS SABERTOOTH X99 Driver v1.0.1.0 allows attack
+M|ASUS|sabertooth z170 mark 1|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|sabertooth z170 mark 1|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|sabertooth z170 s|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|sabertooth z170 s|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|tm-ac1900|>=|3.0.0.4..374_979|<=|3.0.0.4..374_979|CVE-2013-6343|10.0|0|7.8|Multiple buffer overflows in web.c in httpd on the ASUS RT-N56U and RT-AC66U routers with firmware 3.0.0.4.374
+M|ASUS|trooper b150 d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|trooper b150 d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|trooper h110 d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|trooper h110 d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|ts-101|||||CVE-2019-15910|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|ts-101|||||CVE-2019-15911|9.8|0|0.8|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|ts-101|||||CVE-2019-15912|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|tuf gaming ax3000 v2|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|tuf gaming ax3000|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|tuf gaming ax3000|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|tuf gaming ax5400|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|tuf z270 mark 1|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|tuf z270 mark 1|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|tuf z270 mark 2|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|tuf z270 mark 2|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|tuf z370-plus gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|tuf z370-plus gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|tuf z370-pro gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|tuf z370-pro gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|tuf-ax3000 v2|||<|3.0.0.4.386_48750|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|tuf-ax5400|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|tuf-ax5400|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|wl-330nul|||<=|3.0.0.41|CVE-2015-7788|7.3|0|2.2|ASUS Japan WL-330NUL devices with firmware before 3.0.0.42 allow remote attackers to execute arbitrary command
+M|ASUS|wl-330nul|||<|3.0.0.46|CVE-2018-0647|8.8|0|0.6|Cross-site request forgery (CSRF) vulnerability in WL-330NUL Firmware version prior to 3.0.0.46 allows remote 
+M|ASUS|wmp-n12|||||CVE-2016-6557|8.8|0|0.8|In ASUS RP-AC52 access points with firmware version 1.0.1.1s and possibly earlier, the web interface, the web 
+M|ASUS|wmp-n12|||||CVE-2016-6558|9.8|0|3.5|A command injection vulnerability exists in apply.cgi on the ASUS RP-AC52 access point, firmware version 1.0.1
+M|ASUS|ws-101|||||CVE-2019-15910|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|ws-101|||||CVE-2019-15911|9.8|0|0.8|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|ws-101|||||CVE-2019-15912|7.5|0|1.3|An issue was discovered on ASUS HG100, MW100, WS-101, TS-101, AS-101, MS-101, DL-101 devices using ZigBee PRO.
+M|ASUS|x105d|||||CVE-2019-15419|7.8|0|0.4|The Asus ASUS_X015_1 Android device with a build fingerprint of asus/CN_X015/ASUS_X015_1:7.0/NRD90M/CN_X015-14
+M|ASUS|xd4|||<|3.0.0.4.386_48790|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|xd6|||<|3.0.0.4.386_49356|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|xt12|||<|3.0.0.4.386_48823|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|xt8|||<|3.0.0.4.386_48706|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|xt9|||<|3.0.0.4.388_20027|CVE-2022-26376|9.8|0|1.5|A memory corruption vulnerability exists in the httpd unescape functionality of Asuswrt prior to 3.0.0.4.386_4
+M|ASUS|z10pe-d16 ws|>=|1.14.2|<=|1.14.2|CVE-2021-28203|7.2|0|2.0|The Web Set Media Image function in ASUS BMCs firmware Web management page does not filter the specific parame
+M|ASUS|z10pe-d16 ws|>=|1.14.2|<=|1.14.2|CVE-2021-28204|7.2|0|2.1|The specific function in ASUS BMCs firmware Web management page (Modify users information function) does not f
+M|ASUS|z10pr-d16|>=|1.14.51|<=|1.14.51|CVE-2021-28203|7.2|0|2.0|The Web Set Media Image function in ASUS BMCs firmware Web management page does not filter the specific parame
+M|ASUS|z10pr-d16|>=|1.14.51|<=|1.14.51|CVE-2021-28204|7.2|0|2.1|The specific function in ASUS BMCs firmware Web management page (Modify users information function) does not f
+M|ASUS|z170 pro gaming\/aura|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170 pro gaming\/aura|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170 pro gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170 pro gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-ar|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-ar|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-a|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-a|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-deluxe|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-deluxe|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-e|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-e|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-k|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-k|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-p d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-p d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-premium|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-premium|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-pro|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-pro|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170-p|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170-p|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170i pro gaming|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170i pro gaming|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170m-e d3|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170m-e d3|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170m-plus\/br|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170m-plus\/br|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|z170m-plus|||||CVE-2017-5711|7.8|0|0.6|Multiple buffer overflows in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x
+M|ASUS|z170m-plus|||||CVE-2017-5712|7.2|0|4.4|Buffer overflow in Active Management Technology (AMT) in Intel Manageability Engine Firmware 8.x/9.x/10.x/11.0
+M|ASUS|zenfone 3 laser|||||CVE-2019-15411|7.8|0|0.4|The Asus ZenFone 3 Laser Android device with a build fingerprint of asus/WW_msm8937/msm8937:7.1.1/NMF26F/WW_32
+M|ASUS|zenfone 3 max|||||CVE-2018-14980|7.1|0|0.4|The ASUS ZenFone 3 Max Android device with a build fingerprint of asus/US_Phone/ASUS_X008_1:7.0/NRD90M/US_Phon
+M|ASUS|zenfone 3 max|||||CVE-2018-14993|7.8|0|0.4|The ASUS Zenfone V Live Android device with a build fingerprint of asus/VZW_ASUS_A009/ASUS_A009:7.1.1/NMF26F/1
+M|ASUS|zenfone 3 ultra|||||CVE-2019-15400|7.8|0|0.4|The Asus ZenFone 3 Ultra Android device with a build fingerprint of asus/WW_Phone/ASUS_A001:7.0/NRD90M/14.1010
+M|ASUS|zenfone 3 ultra|||||CVE-2019-15413|7.8|0|0.4|The Asus ZenFone 3 Ultra Android device with a build fingerprint of asus/WW_Phone/ASUS_A001:7.0/NRD90M/14.1010
+M|ASUS|zenfone 3s max|||||CVE-2019-15395|7.8|0|0.4|The Asus ZenFone 3s Max Android device with a build fingerprint of asus/IN_X00G/ASUS_X00G_1:7.0/NRD90M/IN_X00G
+M|ASUS|zenfone 3s max|||||CVE-2019-15403|7.8|0|0.4|The Asus ZenFone 3s Max Android device with a build fingerprint of asus/IN_X00G/ASUS_X00G_1:7.0/NRD90M/IN_X00G
+M|ASUS|zenfone 3|||||CVE-2019-15396|7.8|0|0.4|The Asus ZenFone 3 Android device with a build fingerprint of asus/WW_Phone/ASUS_Z012D:7.0/NRD90M/14.2020.1708
+M|ASUS|zenfone 4 max|||||CVE-2019-15404|7.8|0|0.4|The Asus ZenFone Max 4 Android device with a build fingerprint of asus/WW_Phone/ASUS_X00HD_4:7.1.1/NMF26F/14.2
+M|ASUS|zenfone 4 max|||||CVE-2019-15407|7.8|0|0.4|The Asus ASUS_X015_1 Android device with a build fingerprint of asus/CN_X015/ASUS_X015_1:7.0/NRD90M/CN_X015-14
+M|ASUS|zenfone 4 selfie|||||CVE-2019-15398|7.8|0|0.4|The Asus ZenFone 4 Selfie Android device with a build fingerprint of asus/WW_Z01M/ASUS_Z01M_1:7.1.1/NMF26F/WW_
+M|ASUS|zenfone 4 selfie|||||CVE-2019-15406|7.8|0|0.4|The Asus ASUS_X00LD_3 Android device with a build fingerprint of asus/WW_Phone/ASUS_X00LD_3:7.1.1/NMF26F/14.04
+M|ASUS|zenfone 4 selfie|||||CVE-2019-15412|7.8|0|0.4|The Asus ZenFone 4 Selfie Android device with a build fingerprint of asus/WW_Z01M/ASUS_Z01M_1:7.1.1/NMF26F/WW_
+M|ASUS|zenfone 5 lite|||||CVE-2019-15408|7.8|0|0.4|The Asus ZenFone 5 Lite Android device with a build fingerprint of asus/WW_Phone/ASUS_X017D_1:7.1.1/NMF26F/14.
+M|ASUS|zenfone 5 selfie|||||CVE-2019-15394|7.8|0|0.3|The Asus ZenFone 5 Selfie Android device with a build fingerprint of asus/WW_Phone/ASUS_X017D_1:7.1.1/NMF26F/1
+M|ASUS|zenfone 5q|||||CVE-2019-15399|7.8|0|0.4|The Asus ZenFone 5Q Android device with a build fingerprint of asus/WW_Phone/ASUS_X017D_2:7.1.1/NGI77B/14.0400
+M|ASUS|zenfone 5q|||||CVE-2019-15409|7.8|0|0.4|The Asus ZenFone 5Q Android device with a build fingerprint of asus/WW_Phone/ASUS_X017D_2:7.1.1/NGI77B/14.0400
+M|ASUS|zenfone 5q|||||CVE-2019-15410|7.8|0|0.4|The Asus ZenFone 5Q Android device with a build fingerprint of asus/WW_Phone/ASUS_X017D_2:7.1.1/NGI77B/14.0400
+M|ASUS|zenfone ar|||||CVE-2019-15401|7.8|0|0.4|The Asus ASUS_A002 Android device with a build fingerprint of asus/WW_ASUS_A002/ASUS_A002:7.0/NRD90M/14.1600.1
+M|ASUS|zenfone ar|||||CVE-2019-15402|7.8|0|0.4|The Asus ASUS_A002_2 Android device with a build fingerprint of asus/WW_ASUS_A002_2/ASUS_A002_2:7.0/NRD90M/14.
+M|ASUS|zenfone ar|||||CVE-2019-15414|7.8|0|0.5|The Asus ZenFone AR Android device with a build fingerprint of asus/WW_ASUS_A002/ASUS_A002:7.0/NRD90M/14.1600.
+M|ASUS|zenfone max 4|||||CVE-2019-15397|7.8|0|0.4|The Asus ZenFone Max 4 Android device with a build fingerprint of asus/WW_Phone/ASUS_X00HD_4:7.1.1/NMF26F/14.2
+M|ASUS|zenfone v live|||||CVE-2018-14993|7.8|0|0.4|The ASUS Zenfone V Live Android device with a build fingerprint of asus/VZW_ASUS_A009/ASUS_A009:7.1.1/NMF26F/1
+M|ASUS|zenwifi ac mini|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi ac|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi ax \(xt8\)|||<|3.0.0.4.386.42095|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|zenwifi ax \(xt8\)|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|zenwifi ax \(xt8\)|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|zenwifi ax \(xt8\)|||<|9.0.0.4.386.41994|CVE-2021-3128|7.5|0|16.2|In ASUS RT-AX3000, ZenWiFi AX (XT8), RT-AX88U, and other ASUS routers with firmware < 3.0.0.4.386.42095 or < 9
+M|ASUS|zenwifi ax hybrid|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi ax mini|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi ax|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi et8|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi pro et12|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi pro xt12|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi xd4s|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi xd5|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi xd6|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
+M|ASUS|zenwifi xd6|||<|3.0.0.4.386.45898|CVE-2021-41435|9.8|0|6.5|A brute-force protection bypass in CAPTCHA protection in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-A
+M|ASUS|zenwifi xd6|||<|3.0.0.4.386.45898|CVE-2021-41436|7.5|0|5.0|An HTTP request smuggling in web application in ASUS ROG Rapture GT-AX11000, RT-AX3000, RT-AX55, RT-AX56U, RT-
+M|ASUS|zenwifi xt9|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n

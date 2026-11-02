@@ -1,0 +1,612 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Dahua|asc2204c|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|asi7213x-t1|||<|2021-09|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|asi7213x-t1|||<|2021-09|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|asi7213x|||<|2021-09|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|asi7213x|||<|2021-09|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|asi7223x-a-t1|||<|2021-09|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|asi7223x-a-t1|||<|2021-09|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|asi7223x-a|||<|2021-09|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|asi7223x-a|||<|2021-09|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|dh-hcvr4xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-hcvr4xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-hcvr5xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-hcvr5xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-ipc-hdbw13a0sn|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-ipc-hdbw13a0sn|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-ipc-hdbw23a0rn-zs|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-ipc-hdbw23a0rn-zs|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-ipc-hdw1xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-ipc-hdw1xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-ipc-hdw2xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-ipc-hdw2xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-ipc-hdw4xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-ipc-hdw4xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-ipc-hfw1xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-ipc-hfw1xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-ipc-hfw2xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-ipc-hfw2xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-ipc-hfw4xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-ipc-hfw4xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-nvr1xxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-nvr1xxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-sd2xxxxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|dh-sd4xxxxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|dh-sd5xxxxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|dh-sd6cxx|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dh-sd6cxx|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dh-sd6xxxxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|dhi-dss4004-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss4004-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss4004-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss4004-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss4004-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss4004-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss4004-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss4004-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss4004-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss4004-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss4004-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss4004-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss4004-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss4004-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss4004-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss4004-s2|>=|8.1|<=|8.1|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss4004-s2|>=|8.1|<=|8.1|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss4004-s2|>=|8.1|<=|8.1|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss4004-s2|>=|8.1|<=|8.1|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss4004-s2|>=|8.1|<=|8.1|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss7016d-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss7016d-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss7016d-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss7016d-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss7016d-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss7016d-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss7016d-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss7016d-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss7016d-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss7016d-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss7016d-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss7016d-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss7016d-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss7016d-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss7016d-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss7016d-s2|>=|8.1|<=|8.1|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss7016d-s2|>=|8.1|<=|8.1|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss7016d-s2|>=|8.1|<=|8.1|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss7016d-s2|>=|8.1|<=|8.1|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss7016d-s2|>=|8.1|<=|8.1|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss7016dr-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss7016dr-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss7016dr-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss7016dr-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss7016dr-s2|>=|1.001.0000001.2|<=|1.001.0000001.2|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.2|<=|8.0.2|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss7016dr-s2|>=|8.0.4|<=|8.0.4|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-dss7016dr-s2|>=|8.1|<=|8.1|CVE-2022-45423|7.5|0|0.6|Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker 
+M|Dahua|dhi-dss7016dr-s2|>=|8.1|<=|8.1|CVE-2022-45425|7.5|0|0.6|Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can ob
+M|Dahua|dhi-dss7016dr-s2|>=|8.1|<=|8.1|CVE-2022-45427|7.2|0|0.7|Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissi
+M|Dahua|dhi-dss7016dr-s2|>=|8.1|<=|8.1|CVE-2022-45429|7.5|0|0.6|Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can acces
+M|Dahua|dhi-dss7016dr-s2|>=|8.1|<=|8.1|CVE-2022-45431|7.5|0|0.7|Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypas
+M|Dahua|dhi-hcvr51a04he-s3|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dhi-hcvr51a04he-s3|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dhi-hcvr51a08he-s3|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dhi-hcvr51a08he-s3|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|dhi-hcvr58a32s-s2|||||CVE-2017-7925|9.8|0|51.4|A Password in Configuration File issue was discovered in Dahua DH-IPC-HDBW23A0RN-ZS, DH-IPC-HDBW13A0SN, DH-IPC
+M|Dahua|dhi-hcvr58a32s-s2|||||CVE-2017-7927|7.3|0|36.7|A Use of Password Hash Instead of Password for Authentication issue was discovered in Dahua DH-IPC-HDBW23A0RN-
+M|Dahua|hcvr7xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|hcvr8xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|ip camera|>=|3.200.0001.6|<=|3.200.0001.6|CVE-2017-7253|8.8|0|2.6|Dahua IP Camera devices 3.200.0001.6 can be exploited via these steps: 1. Use the default low-privilege creden
+M|Dahua|ip camera|||<|2.400.0000.14.r.20170713|CVE-2017-3223|9.8|0|5.2|Dahua IP camera products using firmware versions prior to V2.400.0000.14.R.20170713 include a version of the S
+M|Dahua|ip camera|||<|dh_ipc-ack-themis_eng_p_v2.400.0000.14.r.20170713.bin|CVE-2017-3223|9.8|0|5.2|Dahua IP camera products using firmware versions prior to V2.400.0000.14.R.20170713 include a version of the S
+M|Dahua|ipc-ebw8xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdbw1320e-w|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|ipc-hdbw1320e-w|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|ipc-hdbw1xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdbw2230e-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2230e-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2231e-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2231e-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2231f-as-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2231f-as-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2231r-zas-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2231r-zas-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2231r-zs-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2231r-zs-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2431e-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2431e-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2431r-zas-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2431r-zas-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2431r-zs-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2431r-zs-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2531e-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2531e-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2531r-zas-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2531r-zas-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2531r-zs-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2531r-zs-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2831e-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2831e-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2831r-zas-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2831r-zas-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2831r-zs-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hdbw2831r-zs-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hdbw2xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdbw4x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hdbw4x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hdbw4x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hdbw4xxx|||<|2.621.0000.28.r.20170912|CVE-2017-9317|8.8|0|0.9|Privilege escalation vulnerability found in some Dahua IP devices. Attacker in possession of low privilege acc
+M|Dahua|ipc-hdbw4xxx|||<|2.622.0000000.18.r.20171110|CVE-2017-9317|8.8|0|0.9|Privilege escalation vulnerability found in some Dahua IP devices. Attacker in possession of low privilege acc
+M|Dahua|ipc-hdbw4xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdbw5xxx|||<|2.621.0000.28.r.20170912|CVE-2017-9317|8.8|0|0.9|Privilege escalation vulnerability found in some Dahua IP devices. Attacker in possession of low privilege acc
+M|Dahua|ipc-hdbw5xxx|||<|2.622.0000000.18.r.20171110|CVE-2017-9317|8.8|0|0.9|Privilege escalation vulnerability found in some Dahua IP devices. Attacker in possession of low privilege acc
+M|Dahua|ipc-hdbw5xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdbw8xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdw1x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hdw1x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hdw1x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hdw1xxx|||<|2018-11|CVE-2019-9676|7.8|0|0.4|Buffer overflow vulnerability found in some Dahua IP Camera devices IPC-HFW1XXX,IPC-HDW1XXX,IPC-HFW2XXX Build 
+M|Dahua|ipc-hdw1xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdw2x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hdw2x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hdw2x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hdw2xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdw4x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hdw4x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hdw4x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hdw4xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hdw5x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hdw5x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hdw5x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hdw5xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hf5xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hf8xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hfs8449g-z7-led|||<|3.140.0000000.30.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|ipc-hfs8449g-z7-led|||<|3.140.0000000.30.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|ipc-hfs8849g-z3-led|||<|3.140.0000000.30.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|ipc-hfs8849g-z3-led|||<|3.140.0000000.30.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|ipc-hfw1x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hfw1x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hfw1x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hfw1xxx|||<|2018-11|CVE-2019-9676|7.8|0|0.4|Buffer overflow vulnerability found in some Dahua IP Camera devices IPC-HFW1XXX,IPC-HDW1XXX,IPC-HFW2XXX Build 
+M|Dahua|ipc-hfw1xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hfw2230s-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2230s-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2231m-as-i2-b-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2231m-as-i2-b-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2231s-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2231s-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2231t-as-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2231t-as-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2231t-zas-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2231t-zas-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2231t-zs-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2231t-zs-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2239m-as-led-b-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2239m-as-led-b-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2239s-sa-led-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2239s-sa-led-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2431s-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2431s-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2431t-as-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2431t-as-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2431t-zas-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2431t-zas-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2431t-zs-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2431t-zs-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2439m-as-led-b-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2439m-as-led-b-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2439s-sa-led-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2439s-sa-led-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2531s-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2531s-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2531t-as-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2531t-as-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2531t-zas-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2531t-zas-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2531t-zs-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2531t-zs-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2831s-s-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2831s-s-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2831t-as-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2831t-as-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2831t-zas-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2831t-zas-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2831t-zs-s2|||<|2022-04|CVE-2022-30560|7.4|0|0.9|When an attacker obtaining the administrative account and password, or through a man-in-the-middle attack, the
+M|Dahua|ipc-hfw2831t-zs-s2|||<|2022-04|CVE-2022-30563|7.4|0|1.0|When an attacker uses a man-in-the-middle attack to sniff the request packets with success logging in through 
+M|Dahua|ipc-hfw2x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hfw2x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hfw2x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hfw2xxx|||<|2018-11|CVE-2019-9676|7.8|0|0.4|Buffer overflow vulnerability found in some Dahua IP Camera devices IPC-HFW1XXX,IPC-HDW1XXX,IPC-HFW2XXX Build 
+M|Dahua|ipc-hfw2xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hfw4x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hfw4x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hfw4x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hfw4xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hfw5x2x|||<|2019-08-18|CVE-2019-9677|9.8|0|1.1|The specific fields of CGI interface of some Dahua products are not strictly verified, an attacker can cause a
+M|Dahua|ipc-hfw5x2x|||<|2019-08-18|CVE-2019-9678|7.5|0|1.0|Some Dahua products have the problem of denial of service during the login process. An attacker can cause a de
+M|Dahua|ipc-hfw5x2x|||<|2019-08-18|CVE-2019-9679|8.8|0|0.9|Some of Dahua's Debug functions do not have permission separation. Low-privileged users can use the Debug func
+M|Dahua|ipc-hfw5xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hfw8xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hum7xxx|||<|2.820.0000000.5.r.210705|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|ipc-hum7xxx|||<|2.820.0000000.5.r.210705|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|ipc-hum8xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-hx1xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|ipc-hx2xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|ipc-hx2xxx|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|ipc-hx2xxx|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|ipc-hx2xxx|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|ipc-hx3xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|ipc-hx3xxx|||<|2.800.0000000.29.r.210630|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|ipc-hx3xxx|||<|2.800.0000000.29.r.210630|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|ipc-hx5842h|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|ipc-hx5842h|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|ipc-hx5842h|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|ipc-hx5\(4\)\(3\)xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|ipc-hx5xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|ipc-hx5xxx|||<|2.820.0000000.18.r.210705|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|ipc-hx5xxx|||<|2.820.0000000.5.r.210705|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|ipc-hx7842h|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|ipc-hx7842h|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|ipc-hx7842h|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|ipc-hxxx5x4x|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|ipc-hxxx5x4x|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|ipc-hxxx5x4x|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|ipc-pdbw8xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ipc-pfw8xxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|n42b1p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n42b1p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n42b1p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|n42b2p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n42b2p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n42b2p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|n42b3p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n42b3p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n42b3p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|n52a4p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n52a4p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n52a4p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|n52b2p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n52b2p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n52b2p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|n52b3p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n52b3p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n52b3p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|n52b5p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n52b5p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n52b5p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|n54a4p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n54a4p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n54a4p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|n54b2p|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|n54b2p|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|n54b2p|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|nvr-1xxx|||<|4.001.0000005.1.r.210709|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|nvr-2xxx|||<|4.001.0000000.1.r.210710|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|nvr-4xxx|||<|4.001.0000005.1.r.210713|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|nvr-5xxx|||<|4.001.0000000.0.r.210710|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|nvr-6xx|||<|4.001.0000001.1.r.210716|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|nvr1xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|nvr2xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|nvr4104-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104-p-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104hs-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104hs-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104hs-p-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4104hs-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4104hs-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108-4ks2\/l|>=|4.003.0000000.1.r.240515|<=|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-4ks2\/l|>=|4.003.0000000.1.r.240515|<=|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-4ks2\/l|>=|4.003.0000000.1.r.240515|<=|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-4ks2\/l|>=|4.003.0000000.1.r.240515|<=|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108hs-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks3\(960g\)|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108hs-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108hs-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108hs-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4108hs-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4108hs-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4116-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4116-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4116-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4116-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4116hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4116hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4116hs-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4116hs-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4116hs-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4204-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4204-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4204-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4204-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4204-p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4208-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4208-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4208-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-8p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4208-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4208-8p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4216-16p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-16p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-16p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-16p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4216-16p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-16p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-16p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-16p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4216-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4216-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4216-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4232-16p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-16p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-16p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-16p-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4232-16p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-16p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-16p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-16p-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4232-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-4ks2\/l|||<|4.003.0000000.1.r.240515|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4232-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4232-4ks3|||<|4.003.0000000.0.r.240312|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4416-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4416-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4416-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4416-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4416-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4416-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4416-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4416-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4432-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4432-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4432-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4432-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4432-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4432-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4432-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4432-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4816-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4816-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4816-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4816-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4816-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4816-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4816-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4816-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4832-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4832-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4832-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4832-16p-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4832-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39944|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4832-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39948|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4832-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39949|7.5|0|0.6|A vulnerability has been found in Dahua products.Attackers can send carefully crafted data packets to the inte
+M|Dahua|nvr4832-4ks2\/i|||<|4.001.0000001.6.r.240725|CVE-2024-39950|8.6|0|0.5|A vulnerability has been found in Dahua products. Attackers can send carefully crafted data packets to the int
+M|Dahua|nvr4xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|nvr5208-4ks2|||<|dh_nvr5208_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5208-8p-4ks2|||<|dh_nvr5208_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5216-16p-4ks2|||<|dh_nvr5216_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5216-4ks2|||<|dh_nvr5216_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5216-8p-4ks2|||<|dh_nvr5216_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5224-24p-4ks2|||<|dh_nvr5224_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5232-16p-4ks2|||<|dh_nvr5232_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5232-4ks2|||<|dh_nvr5232_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5232-8p-4ks2|||<|dh_nvr5232_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5416-16p-4ks2|||<|dh_nvr5416_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5416-4ks2|||<|dh_nvr5416_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5424-24p-4ks2|||<|dh_nvr5424_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5432-16p-4ks2|||<|dh_nvr5432_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5432-4ks2|||<|dh_nvr5432_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5464-16p-4ks2|||<|dh_nvr5464_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5464-4ks2|||<|dh_nvr5464_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5816-16p-4ks2|||<|dh_nvr5816_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5816-4ks2|||<|dh_nvr5816_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5832-16p-4ks2|||<|dh_nvr5832_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5832-4ks2|||<|dh_nvr5832_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5864-16p-4ks2|||<|dh_nvr5864_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5864-4ks2|||<|dh_nvr5864_eng_p_v2.616.0000.0.r.20171102|CVE-2017-9314|8.8|0|0.9|Authentication vulnerability found in Dahua NVR models NVR50XX, NVR52XX, NVR54XX, NVR58XX with software before
+M|Dahua|nvr5xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|psd8xxxx|||||CVE-2017-9315|9.8|0|1.4|Customer of Dahua IP camera or IP PTZ could submit relevant device information to receive a time limited tempo
+M|Dahua|ptz1a|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|ptz1a|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|ptz1a|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|sd1a1|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|sd1a1|||<|2.812.0000007.0.r.210706|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|sd1a|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|sd1a|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|sd1a|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|sd22|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|sd22|||<|2.812.0000007.0.r.210706|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|sd49|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|sd49|||<|2.812.0000007.0.r.210706|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|sd50|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|sd50|||<|2.812.0000007.0.r.210706|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|sd50|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|sd50|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|sd50|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|sd52c|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|sd52c|||<|2.812.0000007.0.r.210706|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|sd52c|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|sd52c|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|sd52c|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|sd5a|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|sd5a|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|sd5a|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|sd6al|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|sd6al|||<|2.812.0000007.0.r.210706|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|sd6al|||<|2019-12|CVE-2019-9682|8.1|0|0.9|Dahua devices with Build time before December 2019 use strong security login mode by default, but in order to 
+M|Dahua|sd6al|||<|2019-12|CVE-2020-9499|7.2|0|1.5|Some Dahua products have buffer overflow vulnerabilities. After the successful login of the legal account, the
+M|Dahua|sd6al|||<|2019-12|CVE-2020-9502|9.8|0|1.5|Some Dahua products with Build time before December 2019 have Session ID predictable vulnerabilities. During n
+M|Dahua|tpc-bf1241|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|tpc-bf1241|||<|2.630.0000000.6.r.210707|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|tpc-bf2221|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|tpc-bf2221|||<|2.630.0000000.10.r.210707|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|tpc-bf5x01|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|tpc-bf5x01|||<|2.630.0000000.12.r.210707|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|tpc-bf5x21|||<|2.630.0000000.8.r.210630|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|tpc-pt8x21b|||<|2.630.0000000.10.r.210701|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|tpc-pt8x21x|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|tpc-sd2221|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|tpc-sd2221|||<=|2.630.0000000.7.r.210707|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|tpc-sd8x21|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|tpc-sd8x21|||<|2.630.0000000.9.r.210706|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|vth-542xh|||<|4.500.0000002.0.r.210715|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|vth-542xh|||<|4.500.0000002.0.r.210715|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|vto-65xxx|||<|4.300.0000004.0.r.210715|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|vto-65xxx|||<|4.300.0000004.0.r.210715|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|vto-75x95x|||<|4.300.0000003.0.r.210714|CVE-2021-33044|9.8|1|100.0|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|vto-75x95x|||<|4.300.0000003.0.r.210714|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|vtox20xf|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|xvr-4x04|||<|4.001.0000001.1.r.210709|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|xvr-4x04|||||CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|xvr-4x08|||<|4.001.0000001.1.r.210709|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|xvr-5x04|||<|4.001.0000003.1.r.210710|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|xvr-5x08|||<|4.001.0000003.1.r.210710|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|xvr-5x16|||<|4.001.0000003.1.r.210710|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|xvr-7x16|||<|4.001.0000003.1.r.210710|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|xvr-7x32|||<|4.001.0000003.1.r.210710|CVE-2021-33045|9.8|1|99.6|The identity authentication bypass vulnerability found in some Dahua products during the login process. Attack
+M|Dahua|xvr4xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|xvr5x04|||<|3.218.0000002.1.r.171229|CVE-2017-9317|8.8|0|0.9|Privilege escalation vulnerability found in some Dahua IP devices. Attacker in possession of low privilege acc
+M|Dahua|xvr5x08|||<|3.218.0000002.1.r.171229|CVE-2017-9317|8.8|0|0.9|Privilege escalation vulnerability found in some Dahua IP devices. Attacker in possession of low privilege acc
+M|Dahua|xvr5x16|||<|3.218.0000002.1.r.171229|CVE-2017-9317|8.8|0|0.9|Privilege escalation vulnerability found in some Dahua IP devices. Attacker in possession of low privilege acc
+M|Dahua|xvr5xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi
+M|Dahua|xvr7x16|||<|3.218.0000002.1.r.171229|CVE-2017-9317|8.8|0|0.9|Privilege escalation vulnerability found in some Dahua IP devices. Attacker in possession of low privilege acc
+M|Dahua|xvr7xxx|>=|2017-7|<=|2021-7|CVE-2021-33046|9.8|0|1.3|Some Dahua products have access control vulnerability in the password reset process. Attackers can exploit thi

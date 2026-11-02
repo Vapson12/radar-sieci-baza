@@ -1,0 +1,13 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|dropbear|>=|0.52|<=|2012.54|CVE-2012-0920|7.1|0|6.4|Use-after-free vulnerability in Dropbear SSH Server 0.52 through 2012.54, when command restriction and public 
+V|dropbear|||<=|0.47|CVE-2006-1206|5.0|0|11.7|Matt Johnston Dropbear SSH server 0.47 and earlier, as used in embedded Linux devices and on general-purpose o
+V|dropbear|||<=|2015.71|CVE-2016-3116|6.4|0|19.8|CRLF injection vulnerability in Dropbear SSH before 2016.72 allows remote authenticated users to bypass intend
+V|dropbear|||<=|2016.73|CVE-2016-7406|9.8|0|10.2|Format string vulnerability in Dropbear SSH before 2016.74 allows remote attackers to execute arbitrary code v
+V|dropbear|||<=|2016.73|CVE-2016-7407|9.8|0|5.8|The dropbearconvert command in Dropbear SSH before 2016.74 allows attackers to execute arbitrary code via a cr
+V|dropbear|||<=|2016.73|CVE-2016-7408|8.8|0|4.3|The dbclient in Dropbear SSH before 2016.74 allows remote attackers to execute arbitrary code via a crafted (1
+V|dropbear|||<=|2020.81|CVE-2021-36369|7.5|0|1.9|An issue was discovered in Dropbear through 2020.81. Due to a non-RFC-compliant check of the available authent
+V|dropbear|||<|0.43|CVE-2004-2486|7.5|0|3.0|The DSS verification code in Dropbear SSH Server before 0.43 frees uninitialized variables, which might allow 
+V|dropbear|||<|0.49|CVE-2007-1099|7.5|0|2.2|dbclient in Dropbear SSH client before 0.49 does not sufficiently warn the user when it detects a hostkey mism
+V|dropbear|||<|2017.75|CVE-2017-9078|8.8|0|5.5|The server in Dropbear before 2017.75 might allow post-authentication root remote code execution because of a 
+V|dropbear|||<|2020.79|CVE-2020-36254|8.1|0|1.9|scp.c in Dropbear before 2020.79 mishandles the filename of . or an empty filename, a related issue to CVE-201
+V|dropbear|||<|2022.83|CVE-2023-48795|5.9|0|93.5|The SSH transport protocol with certain OpenSSH extensions, found in OpenSSH before 9.6 and other products, al

@@ -1,0 +1,536 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Hikvision|ds-2cd2021g1-i\(w\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2023g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2026g2-iu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2027g2-l\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2027g2-lu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2032-i|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2032-i|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2043g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2046g2-iu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2047g2-l\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2063g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2066g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2066g2-iu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2083g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2086g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2086g2-iu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2087g2-l\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2112-i|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2112-i|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2121g0-i\(w\)\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2121g1-i\(w\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2121g1-idw|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2121g1|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2123g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2123g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2127g2-\(-su\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2132-i|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2132-i|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2143g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2143g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2147g2-l\(su\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2163g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2163g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2166g2-i\(su\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2183g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2183g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2183g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2186g2-i\(su\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2186g2-isu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2212-i5|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2212-i5|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2232-i5|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2232-i5|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2312-i|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2312-i|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2321g0-i\/nf|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2323g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2326g2-isu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2327g2-l\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2332-i|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2332-i|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2343g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2346g2-isu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2347g2-l\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2347g2-lsu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2363g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2366g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2366g2-isu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2383g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2386g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2386g2-isu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2387g2-l\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2412f-i\(w\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2412f-i\(w\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2421g0-i\(d\)\(w\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2421g0-i\(d\)w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2426g2-i|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2432f-i\(w\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2432f-i\(w\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2446g2-i|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2512f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2512f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2523g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2523g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2526g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2526g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2527g2-ls|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2532f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2532f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2543g2-i\(ws\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2546g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2547g2-ls|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2547g2-lzs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2563g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2566g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2583g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2586g2-i\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2612f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2612f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2621g0-i\(z\)\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2623g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2626g2-izsu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2632f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2632f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2643g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2646g2-izsu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2663g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2666g2-izsu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2666g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2683g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2686g2-izsu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2686g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2712f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2712f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2721g0-i\(z\)\(s\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2723g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2732f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2732f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2743g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2763g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2766g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2783g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2786g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd2t32-i3|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2t32-i3|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2t32-i5|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2t32-i5|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd2t32-i8|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd2t32-i8|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd3023g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3026g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3026g2-iu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3043g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3047g2-ls|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3056g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3056g2-iu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3056g2iu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3063g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3086g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3123g2-i\(s\)u|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3126g2-is\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3126g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3143g2-i\(s\)u|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3156g2-is\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3156g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3163g2-i\(s\)u|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3186g2-is\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3323g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3326g2-isu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3343g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3347g2-ls\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3356g2-is\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3356g2-isu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3356g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3363g2-iu|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3386g2-is\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3386g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3523g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3526g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3543g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3547g2-ls|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3556g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3563g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3586g2-is|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3623g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3626g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3643g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3656g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3663g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3686g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3723g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3726g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3743g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3756g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3763g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd3786g2-izs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2cd4012f-\(a\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4012f-\(a\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4012f-\(p\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4012f-\(p\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4012f-\(w\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4012f-\(w\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4012fwd-\(a\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4012fwd-\(a\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4012fwd-\(p\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4012fwd-\(p\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4012fwd-\(w\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4012fwd-\(w\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4024f-\(a\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4024f-\(a\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4024f-\(p\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4024f-\(p\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4024f-\(w\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4024f-\(w\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4032fwd-\(a\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4032fwd-\(a\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4032fwd-\(p\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4032fwd-\(p\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4032fwd-\(w\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4032fwd-\(w\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4112f-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4112f-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4112fwd-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4112fwd-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4124f-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4124f-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4132fwd-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4132fwd-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4212f-i\(h\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4212f-i\(h\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4212f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4212f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4212f-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4212f-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4212fwd-i\(h\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4212fwd-i\(h\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4212fwd-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4212fwd-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4212fwd-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4212fwd-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4224f-i\(h\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4224f-i\(h\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4224f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4224f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4224f-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4224f-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4232fwd-i\(h\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4232fwd-i\(h\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4232fwd-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4232fwd-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4232fwd-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4232fwd-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4312f-i\(h\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4312f-i\(h\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4312f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4312f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4312f-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4312f-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4324f-i\(h\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4324f-i\(h\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4324f-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4324f-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4324f-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4324f-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4332fwd-i\(h\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4332fwd-i\(h\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4332fwd-i\(s\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4332fwd-i\(s\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd4332fwd-i\(z\)|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd4332fwd-i\(z\)|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd63xx series|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd63xx series|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd6412fwd|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2cd6412fwd|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2cd7153-e|>=|4.1.0_b130111|<=|4.1.0_b130111|CVE-2013-4975|8.8|0|12.3|Hikvision DS-2CD7153-E IP Camera has Privilege Escalation
+M|Hikvision|ds-2cd7153-e|>=|4.1.0_b130111|<=|4.1.0_b130111|CVE-2013-4977|10.0|0|17.0|Buffer overflow in the RTSP Packet Handler in Hikvision DS-2CD7153-E IP camera with firmware 4.1.0 b130111 (Ja
+M|Hikvision|ds-2cd7153-e|||||CVE-2013-4976|9.8|0|36.1|Hikvision DS-2CD7153-E IP Camera has security bypass via hardcoded credentials
+M|Hikvision|ds-2cd9111-s|||<=|4.1.2|CVE-2018-6413|7.5|0|1.7|There is a buffer overflow in the Hikvision Camera DS-2CD9111-S of V4.1.2 build 160203 and before, and this vu
+M|Hikvision|ds-2df5225x-ae3\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df5225x-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df5232x-ae3\)t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df5232x-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df6a225x-ael\)t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df6a236x-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df6a425x-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df6a436x-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df6a436x-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df6a436x-aely\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df6a825x-ael|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df6a836x-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df7225ix-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df7225ix-aelw\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df7232ix-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df7232ix-aelw\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8225ih-ael\(w\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8225ih-ael|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8225ix-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8225ix-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8225ix-aelw\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8225ix-aelw\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8236i5x-aelw|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8242i5x-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8242i5x-aelw\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8242i5x-aelw\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8242ix-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8242ix-aelw\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8242ix-aely\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8250i8x-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8425ix-ael\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8425ix-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8425ix-aelw\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8425ix-aelw\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8436i5x-aelw\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8442ixs-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8442ixs-aelw\(t2\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8442ixs-aelw\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8442ixs-aelwy\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8442ixs-aely\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8a442ixs-ael\(t2\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8a442ixs-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8a442ixs-aely\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8a442ixs-af\/sp\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8a442nxs-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2df8a842ixs-ael\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2dfx series|||||CVE-2017-7921|9.8|1|100.0|An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.
+M|Hikvision|ds-2dfx series|||||CVE-2017-7923|8.8|0|2.3|A Password in Configuration File issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to
+M|Hikvision|ds-2dy9236i8x-a\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2dy9236i8x-a|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2dy9236ix-a\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2dy9236x-a\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2dy9240ix-a\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2dy92500x-a\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2dy9250izs-a\(t5\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2dyh2a0ixs-d\(t2\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td1117-2\/pa|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td1117-3\/pa|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td1117-6\/pa|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td1217b-3\/pa|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td1217b-6\/pa|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td4136t-9|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td4137-25\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td4137-50\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td4166t-9|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td4167-25\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td4167-50\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6236t-50h2l|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6237-50h4l\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6237-75c4l\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6266t-25h2l|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6266t-50h2l|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6267-100c4l\/wy|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6267-100c4l\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6267-50h4l\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6267-75c4l\/wy|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td6267-75c4l\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8166-100c2f\/v2|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8166-150ze2f\/v2|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8166-150zh2f\/v2|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8166-180ze2f\/v2|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8166-75c2f\/v2|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8167-150zc4f\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8167-190ze2f\/wy|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8167-190ze2f\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8167-230zg2f\/wy|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2td8167-230zg2f\/w|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2xe6242f-is\/316l\(b\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2xe6422fwd-izhrs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2xe6442f-izhrs\(b\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2xe6452f-izh\(r\)s|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-2xe6482f-izhrs|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-3wf01c-2n\/o|||<|1.0.4|CVE-2022-28173|9.1|0|0.7|The web server of some Hikvision wireless bridge products have an access control vulnerability which can be us
+M|Hikvision|ds-3wf0ac-2nt|||<|1.1.0|CVE-2022-28173|9.1|0|0.7|The web server of some Hikvision wireless bridge products have an access control vulnerability which can be us
+M|Hikvision|ds-7104ni-q1\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7104ni-q1\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7104ni-q1\/4p\/m|>=|4.30.300|<=|4.31.100|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7104ni-q1\/4p|>=|4.30.300|<=|4.31.100|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7104ni-q1\/m|>=|4.30.300|<=|4.31.100|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7104ni-q1|>=|4.30.300|<=|4.31.100|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7108ni-q1\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7108ni-q1\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7108ni-q1\/8p\/m|>=|4.30.300|<=|4.31.100|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7108ni-q1\/8p|>=|4.30.300|<=|4.31.100|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7108ni-q1\/m|>=|4.30.300|<=|4.31.100|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7108ni-q1|>=|4.30.300|<=|4.31.100|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7604ni-k1\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7604ni-k1\/4p\/4g\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7604ni-k1\/4p\/4g|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7604ni-k1|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7604ni-q1\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7604ni-q1\/4p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7604ni-q1\/4p|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7604ni-q1|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7608ni-k1\/4g|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7608ni-k1\/8p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7608ni-k1\/8p\/4g\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7608ni-k1\/8p\/4g|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7608ni-k1\/8p|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7608ni-k1|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7608ni-q1\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7608ni-q1\/8p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7608ni-q1\/8p|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7608ni-q1|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7608ni-q2\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7608ni-q2\/8p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7608ni-q2\/8p|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7608ni-q2|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-760ni-k1\/4p|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7616ni-k1\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7616ni-k1|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7616ni-q1\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7616ni-q1|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7616ni-q2\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7616ni-q2\/16p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ds-7616ni-q2\/16p|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-7616ni-q2|>=|4.30.210|<=|4.31.000|CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ds-a71024|||<=|1.1.4|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a71024|||<=|1.1.4|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a71024|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a71024|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a71048r-cvs|||<=|1.1.4|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a71048r-cvs|||<=|1.1.4|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a71048|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a71048|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a71072r|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a71072r|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a72024|||<=|1.1.4|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a72024|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a72024|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a72048r-cvs|||<=|1.1.4|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a72072r|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a72072r|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a72072r|||||CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a80316s|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a80316s|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a80624s|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a80624s|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a81016s|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a81016s|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-a82024d|||<=|2.3.8-6|CVE-2022-28171|7.5|0|51.6|The web module in some Hikvision Hybrid SAN/Cluster Storage products have the following security vulnerability
+M|Hikvision|ds-a82024d|||<=|2.3.8-8|CVE-2023-28808|9.1|0|0.8|Some Hikvision Hybrid SAN/Cluster Storage products have an access control vulnerability which can be used to o
+M|Hikvision|ds-d5b86rb\/b|>=|2.3.0build220119|<=|2.3.0build220119|CVE-2023-33806|7.8|0|0.2|Insecure default configurations in Hikvision Interactive Tablet DS-D5B86RB/B V2.3.0 build220119, allows attack
+M|Hikvision|ds-k1t105a|||<|1.3.65|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t201a|||<|1.3.65|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t320efwx|||<=|3.5.0_build220706|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t320efwx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t320efx|||<=|3.5.0_build220706|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t320efx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t320ewx|||<=|3.5.0_build220706|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t320ewx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t320ex|||<=|3.5.0_build220706|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t320ex|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t320mfwx|||<=|3.5.0_build220706|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t320mfwx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t320mfx|||<=|3.5.0_build220706|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t320mfx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t320mwx|||<=|3.5.0_build220706|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t320mwx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t320mx|||<=|3.5.0_build220706|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t320mx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t320|||<|3.9.40|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t321|||<|3.9.40|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t323|||<|4.23.41|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t331|||<|3.7.80|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t341amf|||<=|3.2.30_build221223|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t341amf|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t341am|||<=|3.2.30_build221223|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t341am|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t341a|||<|3.7.80|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t341b|||<|3.7.80|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t341cm|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t341c|||<=|3.3.8_build230112|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t341c|||<|3.3.180|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t342|||<|4.48.0|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t343efwx|||<=|3.14.0_build230117|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t343efx|||<=|3.14.0_build230117|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t343ewx|||<=|3.14.0_build230117|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t343ewx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t343ex|||<=|3.14.0_build230117|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t343ex|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t343mfwx|||<=|3.14.0_build230117|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t343mfx|||<=|3.14.0_build230117|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t343mwx|||<=|3.14.0_build230117|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t343mwx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t343mx|||<=|3.14.0_build230117|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t343mx|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t343|||<|4.48.0|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t344|||<|4.48.0|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t510|||<|4.23.41|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t670|||<|4.48.0|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t671mf|||<=|3.2.30_build221223|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t671mf|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t671m|||<=|3.2.30_build221223|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t671m|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t671tm-3xf|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t671tmfw|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t671tmf|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t671tmw|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t671tm|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t671t|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t671|||<=|3.2.30_build221223|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t671|||<|3.7.80|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t671|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t672|||<|3.7.80|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t673|||<|4.48.0|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t680|||<|3.7.80|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t6qt-f43|||<|4.48.0|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t6qt-f72|||<|4.48.0|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t8003|||<=|1.4.21|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t8005|||<|3.25.40|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t804af|||<=|1.4.0_build221212|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t804af|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t804amf|||<=|1.4.0_build221212|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-k1t804amf|||||CVE-2023-28809|7.5|0|0.6|Some access control products are vulnerable to a session hijacking attack because the product does not update 
+M|Hikvision|ds-k1t804a|||<|1.4.22|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t804b|||<|1.4.23|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t808|||<|3.25.40|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k1t981|||<|3.7.80|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k5033|||<|4.37.40|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-k5671|||<|3.7.80|CVE-2025-66176|8.8|0|0.5|There is a Buffer overflow Vulnerability in the device Search and Discovery feature of Hikvision Access Contro
+M|Hikvision|ds-kh6220-le1|||<=|1.4.62_build220414|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh6320-le1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh6320-tde1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh6320-te1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh6320-wtde1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh6320-wte1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh6350-wte1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh6351-te1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh6351-wte1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh63le1\(b\)|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh8520-wte1|||<=|2.2.8_build230219|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh9310-wte1\(b\)|||<=|2.1.76_build230204|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|ds-kh9510-wte1\(b\)|||<=|2.1.76_build230204|CVE-2023-28810|4.3|0|10.4|Some access control/intercom products have unauthorized modification of device network configuration vulnerabi
+M|Hikvision|dvr ds-7204|>=|2.2.10build_131009|<=|2.2.10build_131009|CVE-2014-4880|7.5|0|70.7|Buffer overflow in Hikvision DVR DS-7204 Firmware 2.2.10 build 131009, and other models and versions, allows r
+M|Hikvision|ids-2pt9a144mxs-d\/t2|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ids-2sk718mxs-d|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ids-2sk8144ixs-d\/j|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ids-2vs435-f840-ey\(t3\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ids-2vs435-f840-ey|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|nvr-104mh-c\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-104mh-c\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-104mh-c\/4p\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-104mh-d\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-104mh-d\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-104mh-d\/4p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108h-d\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108h-d\/8p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108h-d\/8p\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108mh-c\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108mh-c\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108mh-c\/8p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108mh-d\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108mh-d\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-108mh-d\/8p\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-116mh-c\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-116mh-c\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-208mh-c\(c\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-208mh-c\/8p\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-216mh-c\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|nvr-216mh-c\/16p\(d\)|||<|4.1.60|CVE-2023-28811|7.4|0|0.4|There is a buffer overflow in the password recovery feature of Hikvision NVR/DVR models. If exploited, an atta
+M|Hikvision|ptz-n2204i-de3|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ptz-n2404i-de3|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ptz-n4215-de3|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ptz-n4215i-de|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ptz-n4225i-de|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
+M|Hikvision|ptz-n5225i-a|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v

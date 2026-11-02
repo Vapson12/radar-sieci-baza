@@ -1,0 +1,1106 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Brother|ads-2400n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|ads-2400n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|ads-2400n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|ads-2800w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|ads-2800w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|ads-2800w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|ads-3000n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|ads-3000n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|ads-3000n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|ads-3600w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|ads-3600w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|ads-3600w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1610we|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1610we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1610we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1610we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1610wr|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1610wr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1610wr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1610wr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1610wvb|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1610wvb|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1610wvb|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1610wvb|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1610w|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1610w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1610w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1610w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1612we|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1612we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1612we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1612we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1612wr|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1612wr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1612wr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1612wr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1612wvb|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1612wvb|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1612wvb|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1612wvb|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1612w|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1612w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1612w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1612w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1615nw|||<|r|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1615nw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1615nw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1615nw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1616nw|||<|r|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1616nw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1616nw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1616nw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1617nw|||<|r|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1617nw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1617nw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1617nw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1618w|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1618w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1618w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1618w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1622we|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1622we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1622we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1622we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1623we|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1623we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1623we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1623we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-1623wr|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-1623wr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-1623wr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-1623wr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-7180dn|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-7180dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-7180dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-7180dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-7195dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-7195dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-7195dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-9030cdn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-9030cdn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-9030cdn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-b7520dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-b7520dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-b7520dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-b7530dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-b7530dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-b7530dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-b7535dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-b7535dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-b7535dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j1100dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j1100dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j1100dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j132w|>=|1.20|<=|1.20|CVE-2017-12568|7.5|0|1.9|Denial of Service vulnerability in Debut embedded httpd 1.20 in Brother DCP-J132W (and probably other DCP mode
+M|Brother|dcp-j132w|||<=|1.20|CVE-2017-16249|7.5|0|59.4|The Debut embedded http server contains a remotely exploitable denial of service where a single malformed HTTP
+M|Brother|dcp-j4120dw|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j4220n-b|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j4220n-w|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j4225n-b|||<|h|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j4225n-w|||<|h|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j562dw|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j562n|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j567n|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j572dw|||<|n|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j572dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j572dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j572dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j572n|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j572n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j572n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j572n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j577n|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j577n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j577n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j577n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j582n|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j582n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j582n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j582n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j587n|||<|e|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j762n|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j767n|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j772dw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j772dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j772dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j772dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j774dw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j774dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j774dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j774dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j785dw|||<|g|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j962n|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j963n-b|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j963n-w|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j968n-b|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j968n-w|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j972n|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j972n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j972n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j972n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j973n-b|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j973n-b|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j973n-b|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j973n-b|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j973n-w|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j973n-w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j973n-w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j973n-w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j978n-b|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j978n-b|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j978n-b|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j978n-b|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j978n-w|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j978n-w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j978n-w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j978n-w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j981n|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j981n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j981n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j981n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j982n-b|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j982n-b|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j982n-b|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j982n-b|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j982n-w|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j982n-w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j982n-w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j982n-w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-j983n|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j987n-b|||<|e|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j987n-w|||<|e|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-j988n\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-j988n\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-j988n\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2520dwr|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2520dwr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2520dwr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2520dwr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2520dw|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2520dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2520dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2520dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2530dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2530dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2530dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2531dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2531dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2531dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2532dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2532dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2532dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2535dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2535dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2535dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2537dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2537dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2537dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2540dnr|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2540dnr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2540dnr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2540dnr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2540dn|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2540dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2540dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2540dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2540dw\(japan\)|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2540dw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2540dw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2540dw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2540dw|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2540dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2540dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2540dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2541dw|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2541dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2541dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2541dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2550dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2550dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2550dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2550dw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2550dw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2550dw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2550dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2550dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2550dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2551dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2551dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2551dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2551dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2551dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2551dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2552dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2552dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2552dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2560dwr|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2560dwr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2560dwr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2560dwr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l2560dw|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l2560dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l2560dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l2560dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l3510cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l3510cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l3510cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l3517cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l3517cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l3517cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l3550cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l3550cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l3550cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l3551cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l3551cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l3551cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l5500dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l5500dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l5500dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l5502dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l5502dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l5502dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l5600dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l5600dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l5600dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l5602dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l5602dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l5602dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l5650dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l5650dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l5650dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l5652dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l5652dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l5652dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l6600dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l6600dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l6600dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-l8410cdw|||<|g|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-l8410cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-l8410cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-l8410cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-t510w\(china\)|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-t510w\(chn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-t510w\(chn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-t510w\(chn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-t510w|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-t510w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-t510w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-t510w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-t710w\(china\)|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-t710w\(chn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-t710w\(chn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-t710w\(chn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|dcp-t710w|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|dcp-t710w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|dcp-t710w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|dcp-t710w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|fax-l2700dn\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|fax-l2700dn\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|fax-l2700dn\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|fax-l2700dn|||<|q|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|fax-l2710dn\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|fax-l2710dn\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|fax-l2710dn\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1210we|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1210we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1210we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1210we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1210wr|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1210wr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1210wr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1210wr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1210wvb|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1210wvb|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1210wvb|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1210wvb|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1210w|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1210w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1210w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1210w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1211w|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1211w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1211w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1211w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1212we|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1212we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1212we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1212we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1212wr|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1212wr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1212wr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1212wr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1212wvb|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1212wvb|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1212wvb|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1212wvb|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1212w|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1212w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1212w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1212w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1218w|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1218w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1218w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1218w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1222we|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1222we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1222we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1222we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1223we|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-1223we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-1223we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-1223we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-1223wr|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-2560dn|||<|1.35|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-2560dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-2560dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-2560dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-2595dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-2595dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-2595dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-3160cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-3160cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-3160cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-3190cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-3190cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-3190cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-5590dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-5590dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-5590dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-b2050dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-b2050dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-b2050dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-b2080dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-b2080dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-b2080dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-j6000cdw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-j6000cdw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-j6000cdw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-j6000dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-j6000dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-j6000dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-j6100dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-j6100dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-j6100dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2305w|||<|1.24|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2305w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2305w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2305w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2315dw|||<|1.24|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2315dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2315dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2315dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2340dwr|||<|1.26|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2340dwr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2340dwr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2340dwr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2340dw|||<|1.26|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2340dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2340dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2340dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2350dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2350dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2350dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2351dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2351dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2351dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2352dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2352dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2352dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2357dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2357dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2357dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2360dnr|||<|1.35|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2360dnr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2360dnr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2360dnr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2360dn|||<|1.35|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2360dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2360dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2360dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2360dw|||<|1.35|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2360dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2360dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2360dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2361dn|||<|1.35|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2361dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2361dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2361dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2365dwr|||<|1.35|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2365dwr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2365dwr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2365dwr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2365dw|||<|1.35|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2365dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2365dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2365dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2366dw|||<|1.35|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2366dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2366dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2366dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2370dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2370dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2370dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2370dwxl|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2370dwxl|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2370dwxl|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2370dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2370dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2370dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2371dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2371dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2371dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2372dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2372dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2372dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2375dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2375dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2375dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2376dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2376dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2376dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2380dw|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l2380dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2380dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2380dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2385dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2385dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2385dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2386dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2386dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2386dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2390dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2390dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2390dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l2395dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l2395dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l2395dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l3210cw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l3210cw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l3210cw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l3230cdn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l3230cdn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l3230cdn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l3230cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l3230cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l3230cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l3270cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l3270cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l3270cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l3290cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l3290cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l3290cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l5100dnt|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l5100dnt|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l5100dnt|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l5100dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l5100dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l5100dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l5102dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l5102dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l5102dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l5200dwt|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l5200dwt|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l5200dwt|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l5200dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l5200dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l5200dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l5202dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l5202dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l5202dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l5595dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l5595dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l5595dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6200dwt|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6200dwt|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6200dwt|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6200dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6200dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6200dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6202dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6202dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6202dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6250dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6250dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6250dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6250dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6250dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6250dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6300dwt|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6300dwt|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6300dwt|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6300dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6300dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6300dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6400dwg|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6400dwg|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6400dwg|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6400dwt|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6400dwt|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6400dwt|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6400dwx|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6400dwx|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6400dwx|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6400dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6400dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6400dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6402dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6402dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6402dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l6450dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l6450dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l6450dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l8260cdn|||<|1.15|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l8260cdn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l8260cdn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l8260cdn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l8260cdw|||<|1.15|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l8260cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l8260cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l8260cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l8360cdwt|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l8360cdwt|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l8360cdwt|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l8360cdwt|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l8360cdw|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l8360cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l8360cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l8360cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-l9310cdw|||<|1.20|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|hl-l9310cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-l9310cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-l9310cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|hl-t4000dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|hl-t4000dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|hl-t4000dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-1910we|||<|t|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-1910we|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-1910we|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-1910we|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-1910w|||<|t|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-1910w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-1910w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-1910w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-1911nw|||<|t|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-1911nw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-1911nw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-1911nw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-1911w|||<|t|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-1911w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-1911w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-1911w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-1912wr|||<|t|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-1912wr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-1912wr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-1912wr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-1915w|||<|t|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-1915w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-1915w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-1915w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-1916nw|||<|t|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-1916nw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-1916nw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-1916nw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-1919nw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-1919nw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-1919nw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-1919nw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-7880dn|||<|q|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-7880dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-7880dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-7880dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-7895dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-7895dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-7895dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-8530dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-8530dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-8530dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-8535dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-8535dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-8535dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-8540dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-8540dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-8540dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-9150cdn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-9150cdn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-9150cdn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-9350cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-9350cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-9350cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-9970cdw|>=|1.10|<=|1.10|CVE-2013-2672|7.5|0|1.7|Brother MFC-9970CDW devices with firmware 0D allow cleartext submission of passwords.
+M|Brother|mfc-9970cdw|>=|1.10|<=|1.10|CVE-2013-2674|7.5|0|2.6|Brother MFC-9970CDW 1.10 firmware L devices contain an information disclosure vulnerability which allows remot
+M|Brother|mfc-9970cdw|>=|1.10|<=|1.10|CVE-2013-2676|7.5|0|2.4|Brother MFC-9970CDW 1.10 firmware L devices contain an information disclosure vulnerability which allows remot
+M|Brother|mfc-b7715dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-b7715dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-b7715dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-b7720dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-b7720dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-b7720dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j1300dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j1300dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j1300dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j1500n\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j1500n\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j1500n\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j1605dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j1605dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j1605dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j2320|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j2330dw|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j2330dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j2330dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j2330dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j2720|||<|q|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j2730dw|||<|y|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j2730dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j2730dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j2730dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j3530dw|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j3530dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j3530dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j3530dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j3930dw|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j3930dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j3930dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j3930dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j4320dw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j4420dw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j460dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j4620dw|||<|u|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j4625dw|||<|u|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j4720n|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j4725n|||<|h|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j480dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j485dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j491dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j491dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j491dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j491dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j497dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j497dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j497dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j497dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5320dw|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5330dw|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5330dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5330dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5330dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5335dw|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5335dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5335dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5335dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5520dw|||<|r|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5620cdw|||<|j|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5620dw|||<|r|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5625dw|||<|r|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5630cdw|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5630cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5630cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5630cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5720cdw\(japan\)|||<|j|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5720dw|||<|q|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5730dw|||<|y|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5730dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5730dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5730dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5820dn|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5830dw|||<|y|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5830dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5830dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5830dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5845dw xl|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5845dw xl|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5845dw xl|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5845dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5845dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5845dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5920dw|||<|q|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5930dw|||<|y|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j5930dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5930dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5930dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j5945dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j5945dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j5945dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6530dw|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6530dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6530dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6530dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6535dw|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6535dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6535dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6535dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6545dw xl|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6545dw xl|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6545dw xl|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6545dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6545dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6545dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6580cdw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6580cdw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6580cdw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6580cdw|||<|r|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6583cdw|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6583cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6583cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6583cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6730dw|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6730dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6730dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6730dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j680dw|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j690dw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j690dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j690dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j690dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6930dw|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6930dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6930dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6930dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6935dw|||<|z|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6935dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6935dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6935dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6945dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6945dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6945dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6947dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6947dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6947dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6980cdw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6980cdw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6980cdw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6980cdw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6983cdw|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6983cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6983cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6983cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6995cdw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6995cdw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6995cdw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6995cdw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j6997cdw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6997cdw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6997cdw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j6999cdw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j6999cdw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j6999cdw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j730d\(w\)n|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j737d\(w\)n|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j738dn|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j738dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j738dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j738dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j738dwn|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j738dwn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j738dwn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j738dwn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j775dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j805dw xl|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j805dw xl|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j805dw xl|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j805dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j805dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j805dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j815dw xl|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j815dw xl|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j815dw xl|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j830d\(w\)n|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j837d\(w\)n|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j880dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j880n|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j885dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j887n|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j890dw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j890dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j890dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j890dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j893n|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j893n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j893n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j893n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j895dw|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j895dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j895dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j895dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j898n|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j898n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j898n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j898n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j900d\(w\)n|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j903n|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j903n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j903n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j903n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j907d\(w\)n|||<|k|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j960dwn|>=|d|<=|d|CVE-2017-2244|8.8|0|0.7|Cross-site request forgery (CSRF) vulnerability in MFC-J960DWN firmware ver.D and earlier allows remote attack
+M|Brother|mfc-j985dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j990d\(w\)n|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j995dw xl|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j995dw xl|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j995dw xl|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j995dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j995dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j995dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j997d\(w\)n|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j998dn|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j998dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j998dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j998dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-j998dwn|||<|l|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-j998dwn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-j998dwn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-j998dwn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2680w|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2680w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2680w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2680w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2685dw|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2685dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2685dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2685dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2700dnr|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2700dnr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2700dnr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2700dnr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2700dn|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2700dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2700dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2700dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2700dw\(oce\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2700dw\(oce\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2700dw\(oce\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2700dwr|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2700dwr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2700dwr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2700dwr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2700dw|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2700dw|||<|x|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2700dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2700dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2700dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2701dw|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2701dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2701dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2701dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2703dw|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2703dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2703dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2703dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2705dw|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2705dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2705dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2705dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2707dw|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2707dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2707dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2707dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2710dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2710dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2710dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2710dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2710dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2710dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2712dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2712dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2712dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2712dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2712dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2712dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2713dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2713dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2713dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2715dw\(twn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2715dw\(twn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2715dw\(twn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2715dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2715dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2715dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2716dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2716dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2716dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2717dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2717dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2717dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2720dn\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2720dn\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2720dn\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2720dn|||<|s|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2720dwr|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2720dwr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2720dwr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2720dwr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2720dw|||<|w|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2720dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2720dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2720dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2730dn\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2730dn\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2730dn\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2730dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2730dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2730dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2732dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2732dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2732dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2740dw\(japan\)|||<|t|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2740dw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2740dw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2740dw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2740dwr|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2740dwr|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2740dwr|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2740dwr|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2740dw|||<|v|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l2740dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2740dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2740dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2750dw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2750dw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2750dw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2750dwxl|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2750dwxl|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2750dwxl|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2750dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2750dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2750dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2751dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2751dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2751dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2752dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2752dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2752dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2770dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2770dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2770dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l2771dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l2771dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l2771dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l3710cw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l3710cw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l3710cw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l3730cdn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l3730cdn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l3730cdn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l3735cdn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l3735cdn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l3735cdn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l3745cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l3745cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l3745cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l3750cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l3750cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l3750cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l3770cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l3770cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l3770cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5700dn|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5700dn|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5700dn|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5700dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5700dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5700dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5702dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5702dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5702dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5750dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5750dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5750dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5755dw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5755dw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5755dw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5755dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5755dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5755dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5800dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5800dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5800dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5802dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5802dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5802dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5850dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5850dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5850dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5900dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5900dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5900dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l5902dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l5902dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l5902dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6700dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6700dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6700dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6702dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6702dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6702dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6750dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6750dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6750dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6800dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6800dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6800dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6900dw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6900dw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6900dw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6900dwg|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6900dwg|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6900dwg|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6900dwx|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6900dwx|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6900dwx|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6900dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6900dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6900dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6902dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6902dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6902dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6950dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6950dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6950dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l6970dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l6970dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l6970dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l8610cdw\(japan\)|||<|c|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l8610cdw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l8610cdw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l8610cdw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l8610cdw|||<|g|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l8610cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l8610cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l8610cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l8690cdw|||<|g|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l8690cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l8690cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l8690cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l8900cdw|||<|g|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l8900cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l8900cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l8900cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l9570cdw\(japan\)|||<|c|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l9570cdw\(jpn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l9570cdw\(jpn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l9570cdw\(jpn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l9570cdw|||<|g|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l9570cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l9570cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l9570cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-l9577cdw|||<|g|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-l9577cdw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-l9577cdw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-l9577cdw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-t4500dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-t4500dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-t4500dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-t810w\(china\)|||<|m|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-t810w\(chn\)|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-t810w\(chn\)|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-t810w\(chn\)|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-t810w|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-t810w|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-t810w|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-t810w|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner
+M|Brother|mfc-t910dw|||<|p|CVE-2023-29984|7.5|0|0.9|Null pointer dereference vulnerability exists in multiple vendors MFPs and printers which implement Debut web 
+M|Brother|mfc-t910dw|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
+M|Brother|mfc-t910dw|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
+M|Brother|mfc-t910dw|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner

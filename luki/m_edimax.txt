@@ -1,0 +1,52 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Edimax|6114wg router|>=|1.83|<=|1.83|CVE-2011-4501|10.0|0|4.2|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
+M|Edimax|6114wg router|>=|1.83|<=|1.83|CVE-2011-4502|10.0|0|5.5|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
+M|Edimax|6114wg router|>=|2.08|<=|2.08|CVE-2011-4501|10.0|0|4.2|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
+M|Edimax|6114wg router|>=|2.08|<=|2.08|CVE-2011-4502|10.0|0|5.5|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
+M|Edimax|7237rpd|||||CVE-2016-10863|8.8|0|0.6|Edimax Wi-Fi Extender devices allow goform/formwlencryptvxd CSRF with resultant PSK key disclosure.
+M|Edimax|br-6104k router|>=|3.21|<=|3.21|CVE-2011-4501|10.0|0|4.2|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
+M|Edimax|br-6104k router|>=|3.21|<=|3.21|CVE-2011-4502|10.0|0|5.5|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
+M|Edimax|br-6208ac v1|||||CVE-2019-13269|8.8|0|0.9|Edimax BR-6208AC V1 devices have Insufficient Compartmentalization between a host network and a guest network 
+M|Edimax|br-6208ac v1|||||CVE-2019-13270|8.8|0|0.9|Edimax BR-6208AC V1 devices have Insufficient Compartmentalization between a host network and a guest network 
+M|Edimax|br-6208ac v1|||||CVE-2019-13271|8.8|0|1.0|Edimax BR-6208AC V1 devices have Insufficient Compartmentalization between a host network and a guest network 
+M|Edimax|br-6208ac|>=|1.03|<=|1.03|CVE-2025-70161|9.8|0|27.1|EDIMAX BR-6208AC V2_1.02 is vulnerable to Command Injection. This arises because the pppUserName field is dire
+M|Edimax|br-6288acl|>=|1.12|<=|1.12|CVE-2023-33722|8.8|0|1.7|EDIMAX BR-6288ACL v1.12 was discovered to contain an authenticated remote code execution (RCE) vulnerability v
+M|Edimax|br-6428ns|>=|1.10|<=|1.10|CVE-2023-31983|9.8|0|24.9|A Command Injection vulnerability in Edimax Wireless Router N300 Firmware BR-6428NS_v4 allows attacker to exec
+M|Edimax|br-6428ns|>=|1.10|<=|1.10|CVE-2023-31985|9.8|0|8.1|A Command Injection vulnerability in Edimax Wireless Router N300 Firmware BR-6428NS_v4 allows attacker to exec
+M|Edimax|br-6428ns|>=|1.10|<=|1.10|CVE-2023-31986|9.8|0|8.2|A Command Injection vulnerability in Edimax Wireless Router N300 Firmware BR-6428NS_v4 allows attacker to exec
+M|Edimax|br-6428ns|>=|1.20|<=|1.20|CVE-2022-45768|8.8|0|28.7|Command Injection vulnerability in Edimax Technology Co., Ltd. Wireless Router N300 Firmware BR428nS v3 allows
+M|Edimax|br-6473ax|>=|1.0.28|<=|1.0.28|CVE-2025-56706|8.0|0|2.0|Edimax BR-6473AX v1.0.28 was discovered to contain a remote code execution (RCE) vulnerability via the Object 
+M|Edimax|br-6476ac|>=|1.06|<=|1.06|CVE-2024-48416|8.8|0|0.4|Edimax AC1200 Wi-Fi 5 Dual-Band Router BR-6476AC 1.06 is vulnerable to Buffer Overflow via /goform/fromSetLanD
+M|Edimax|br-6476ac|>=|1.06|<=|1.06|CVE-2024-48418|8.8|0|0.3|In Edimax AC1200 Wi-Fi 5 Dual-Band Router BR-6476AC 1.06, the request /goform/fromSetDDNS does not properly ha
+M|Edimax|br-6476ac|>=|1.06|<=|1.06|CVE-2024-48419|8.8|0|5.4|Edimax AC1200 Wi-Fi 5 Dual-Band Router BR-6476AC 1.06 suffers from Command Injection issues in /bin/goahead. S
+M|Edimax|br-6476ac|>=|1.06|<=|1.06|CVE-2024-48420|8.8|0|0.4|Edimax AC1200 Wi-Fi 5 Dual-Band Router BR-6476AC 1.06 is vulnerable to Buffer Overflow via /goform/getWifiBasi
+M|Edimax|br-6478ac v3|>=|1.0.15|<=|1.0.15|CVE-2025-14092|2.0|0|16.9|A security vulnerability has been detected in Edimax BR-6478AC V3 1.0.15. This issue affects the function sub_
+M|Edimax|br-6478ac v3|>=|1.0.15|<=|1.0.15|CVE-2025-14093|2.0|0|19.6|A vulnerability was detected in Edimax BR-6478AC V3 1.0.15. Impacted is the function sub_416990 of the file /b
+M|Edimax|br-6478ac v3|>=|1.0.15|<=|1.0.15|CVE-2025-14094|2.0|0|20.3|A flaw has been found in Edimax BR-6478AC V3 1.0.15. The affected element is the function sub_44CCE4 of the fi
+M|Edimax|br-6478ac v3|>=|1.0.15|<=|1.0.15|CVE-2025-28146|9.8|0|11.5|Edimax AC1200 Wave 2 Dual-Band Gigabit Router BR-6478AC V3 1.0.15 was discovered to contain a command injectio
+M|Edimax|br-6478ac|>=|1.23|<=|1.23|CVE-2023-49351|9.8|0|0.6|A stack-based buffer overflow vulnerability in /bin/webs binary in Edimax BR6478AC V2 firmware veraion v1.23 a
+M|Edimax|cv-7428ns|>=|1.20|<=|1.20|CVE-2025-45857|9.8|0|1.1|EDIMAX CV7428NS v1.20 was discovered to contain a remote code execution (RCE) vulnerability via the command pa
+M|Edimax|ew-7438rpn mini|>=|1.13|<=|1.13|CVE-2020-37097|8.7|0|0.5|Edimax EW-7438RPn 1.13 contains an information disclosure vulnerability that exposes WiFi network configuratio
+M|Edimax|ew-7438rpn mini|>=|1.27|<=|1.27|CVE-2020-37125|9.3|0|7.0|Edimax EW-7438RPn-v3 Mini 1.27 contains a remote code execution vulnerability that allows unauthenticated atta
+M|Edimax|ew-7438rpn mini|>=|1.27|<=|1.27|CVE-2020-37150|8.7|0|0.8|Edimax EW-7438RPn-v3 Mini 1.27 allows unauthenticated attackers to access the /wizard_reboot.asp page in unset
+M|Edimax|ew-7438rpn mini|||<=|1.13|CVE-2025-34024|9.4|0|3.9|An OS command injection vulnerability exists in the Edimax EW-7438RPn firmware version 1.13 and prior via the 
+M|Edimax|ew-7438rpn mini|||<=|1.13|CVE-2025-34029|9.4|0|3.5|An OS command injection vulnerability exists in the Edimax EW-7438RPn Mini firmware version 1.13 and prior via
+M|Edimax|ew-7438rpn mini|||||CVE-2016-10863|8.8|0|0.6|Edimax Wi-Fi Extender devices allow goform/formwlencryptvxd CSRF with resultant PSK key disclosure.
+M|Edimax|gs-5008pl|||<=|1.00.54|CVE-2026-32838|8.7|0|0.1|Edimax GS-5008PL firmware version 1.00.54 and prior use cleartext HTTP for the web management interface withou
+M|Edimax|gs-5008pl|||<=|1.00.54|CVE-2026-32841|9.2|0|0.6|Edimax GS-5008PL firmware versions 1.00.54 and prior contain an authentication bypass vulnerability that allow
+M|Edimax|gs-5008pl|||<=|1.00.54|CVE-2026-32842|7.1|0|0.2|Edimax GS-5008PL firmware version 1.00.54 and prior contain an insecure credential storage vulnerability that 
+M|Edimax|ic-3116w|>=|3.06|<=|3.06|CVE-2020-26762|9.8|0|2.3|A stack-based buffer-overflow exists in Edimax IP-Camera IC-3116W (v3.06) and IC-3140W (v3.07), which allows a
+M|Edimax|ic-3140w|>=|3.07|<=|3.07|CVE-2020-26762|9.8|0|2.3|A stack-based buffer-overflow exists in Edimax IP-Camera IC-3116W (v3.06) and IC-3140W (v3.07), which allows a
+M|Edimax|ic-3140w|>=|3.11|<=|3.11|CVE-2021-30165|7.5|0|1.1|The default administrator account & password of the EDIMAX wireless network camera is hard-coded. Remote attac
+M|Edimax|ic-3140w|>=|3.11|<=|3.11|CVE-2021-40597|9.8|0|2.1|The firmware of EDIMAX IC-3140W Version 3.11 is hardcoded with Administrator username and password.
+M|Edimax|ic-3140w|||<=|3.06|CVE-2018-8072|8.8|0|2.7|An issue was discovered on EDIMAX IC-3140W through 3.06, IC-5150W through 3.09, and IC-6220DC through 3.06 dev
+M|Edimax|ic-5150w|||<=|3.09|CVE-2018-8072|8.8|0|2.7|An issue was discovered on EDIMAX IC-3140W through 3.06, IC-5150W through 3.09, and IC-6220DC through 3.06 dev
+M|Edimax|ic-6220dc|||<=|3.06|CVE-2018-8072|8.8|0|2.7|An issue was discovered on EDIMAX IC-3140W through 3.06, IC-5150W through 3.09, and IC-6220DC through 3.06 dev
+M|Edimax|ic-7100|||||CVE-2025-1316|9.3|1|74.5|Edimax IC-7100 does not properly neutralize requests. An attacker can create specially crafted requests to ach
+M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22904|9.8|0|0.7|RE11S v1.11 was discovered to contain a stack overflow via the pptpUserName parameter in the setWAN function.
+M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22905|9.8|0|4.7|RE11S v1.11 was discovered to contain a command injection vulnerability via the command parameter at /goform/m
+M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22906|9.8|0|2.3|RE11S v1.11 was discovered to contain a command injection vulnerability via the L2TPUserName parameter at /gof
+M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22907|9.8|0|0.7|RE11S v1.11 was discovered to contain a stack overflow via the selSSID parameter in the formWlSiteSurvey funct
+M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22912|9.8|0|2.0|RE11S v1.11 was discovered to contain a command injection vulnerability via the component /goform/formAccept.
+M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22913|9.8|0|0.8|RE11S v1.11 was discovered to contain a stack overflow via the rootAPmac parameter in the formStaDrvSetup func
+M|Edimax|re11s|>=|1.11|<=|1.11|CVE-2025-22916|9.8|0|0.7|RE11S v1.11 was discovered to contain a stack overflow via the pppUserName parameter in the formPPPoESetup fun

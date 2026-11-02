@@ -1,0 +1,119 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+M|Epson|ds-570w|||<|2018-03-13|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ds-780n|||<|2018-03-13|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|eb-1470ui|||||CVE-2020-6091|9.1|0|2.4|An exploitable authentication bypass vulnerability exists in the ESPON Web Control functionality of Epson EB-1
+M|Epson|ec-01|||||CVE-2020-5674|7.8|0|0.3|Untrusted search path vulnerability in the installers of multiple SEIKO EPSON products allows an attacker to g
+M|Epson|ep-10va|||<|2017-09-04|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-30va|||<|2017-06-19|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-707a|||<|2017-08-01|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-708a|||<|2017-08-07|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-709a|||<|2017-06-12|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-777a|||<|2017-08-01|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-801a|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|ep-802a|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|ep-807ab|||<|2017-08-01|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-807ar|||<|2017-08-01|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-807aw|||<|2017-08-01|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-808ab|||<|2017-08-07|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-808ar|||<|2017-08-07|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-808aw|||<|2017-08-07|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-879ab|||<|2017-06-12|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-879ar|||<|2017-06-12|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-879aw|||<|2017-06-12|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-901a|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|ep-901f|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|ep-902a|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|ep-907f|||<|2017-08-01|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-977a3|||<|2017-08-01|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-978a3|||<|2017-08-07|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-979a3|||<|2017-06-12|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ep-m570t|||<|2017-09-06|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|eps tse server 8|>=|21.0.11|<=|21.0.11|CVE-2020-28929|9.8|0|1.2|Unrestricted access to the log downloader functionality in EPSON EPS TSE Server 8 (21.0.11) allows an unauthen
+M|Epson|eps tse server 8|>=|21.0.11|<=|21.0.11|CVE-2020-28931|8.8|0|0.5|Lack of an anti-CSRF token in the entire administrative interface in EPSON EPS TSE Server 8 (21.0.11) allows a
+M|Epson|epson workforce wf-2861|>=|10.48_lq22i3|<=|10.48_lq22i3|CVE-2018-18959|7.5|0|1.2|An issue was discovered on Epson WorkForce WF-2861 10.48 LQ22I3, 10.51.LQ20I6 and 10.52.LQ17IA devices. On the
+M|Epson|epson workforce wf-2861|>=|10.48_lq22i3|<=|10.48_lq22i3|CVE-2018-19232|7.5|0|1.4|The web service on Epson WorkForce WF-2861 10.48 LQ22I3(Recovery-mode), WF-2861 10.51.LQ20I6, and WF-2861 10.5
+M|Epson|epson workforce wf-2861|>=|10.48_lq22i3|<=|10.48_lq22i3|CVE-2018-19248|9.1|0|1.5|The web service on Epson WorkForce WF-2861 10.48 LQ22I3(Recovery-mode), WF-2861 10.51.LQ20I6, and WF-2861 10.5
+M|Epson|epson workforce wf-2861|>=|10.51.lq20i6|<=|10.51.lq20i6|CVE-2018-18959|7.5|0|1.2|An issue was discovered on Epson WorkForce WF-2861 10.48 LQ22I3, 10.51.LQ20I6 and 10.52.LQ17IA devices. On the
+M|Epson|epson workforce wf-2861|>=|10.51.lq20i6|<=|10.51.lq20i6|CVE-2018-19232|7.5|0|1.4|The web service on Epson WorkForce WF-2861 10.48 LQ22I3(Recovery-mode), WF-2861 10.51.LQ20I6, and WF-2861 10.5
+M|Epson|epson workforce wf-2861|>=|10.51.lq20i6|<=|10.51.lq20i6|CVE-2018-19248|9.1|0|1.5|The web service on Epson WorkForce WF-2861 10.48 LQ22I3(Recovery-mode), WF-2861 10.51.LQ20I6, and WF-2861 10.5
+M|Epson|epson workforce wf-2861|>=|10.52.lq17ia|<=|10.52.lq17ia|CVE-2018-18959|7.5|0|1.2|An issue was discovered on Epson WorkForce WF-2861 10.48 LQ22I3, 10.51.LQ20I6 and 10.52.LQ17IA devices. On the
+M|Epson|epson workforce wf-2861|>=|10.52.lq17ia|<=|10.52.lq17ia|CVE-2018-19232|7.5|0|1.4|The web service on Epson WorkForce WF-2861 10.48 LQ22I3(Recovery-mode), WF-2861 10.51.LQ20I6, and WF-2861 10.5
+M|Epson|epson workforce wf-2861|>=|10.52.lq17ia|<=|10.52.lq17ia|CVE-2018-19248|9.1|0|1.5|The web service on Epson WorkForce WF-2861 10.48 LQ22I3(Recovery-mode), WF-2861 10.51.LQ20I6, and WF-2861 10.5
+M|Epson|ew-m5071ft|||<|2017-11-02|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ew-m660ft|||<|2018-04-19|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|ew-m770t|||<|2017-09-06|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|pa-tcu1|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|pf-70|||<|2018-04-20|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|pf-71|||<|2017-07-18|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|pf-81|||<|2017-09-14|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|pm-t960|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|pm-t990|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|px-048a|||<|2017-07-04|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-049a|||<|2017-09-11|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-201|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|px-437a|||<|2017-07-24|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-502a|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|px-601f|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|px-602f|||||CVE-2023-38556|7.5|0|0.9|Improper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned o
+M|Epson|px-m350f|||<|2018-02-23|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m5040f|||<|2017-11-20|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m5041f|||<|2017-11-20|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m650a|||<|2017-10-17|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m650f|||<|2017-10-17|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m680f|||<|2017-06-29|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m7050fp|||<|2017-10-13|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m7050fx|||<|2017-11-07|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m7050f|||<|2017-10-13|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m7070fx|||<|2017-04-27|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m740f|||<|2017-06-29|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m781f|||<|2017-06-27|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m840fx|||<|2017-12-08|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m840f|||<|2017-11-16|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-m860f|||<|2017-10-25|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s05b|||<|2018-03-09|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s05w|||<|2018-03-09|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s350|||<|2018-02-23|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s5040|||<|2017-11-20|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s7050ps|||<|2018-02-21|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s7050x|||<|2017-11-07|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s7050|||<|2018-02-21|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s7070x|||<|2017-04-27|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s740|||<|2017-12-03|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s840x|||<|2017-12-08|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s840|||<|2017-11-16|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|px-s860|||<|2017-12-07|CVE-2018-0689|8.8|0|1.6|HTTP header injection vulnerability in SEIKO EPSON printers and scanners (DS-570W firmware versions released p
+M|Epson|sb-h50|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-c3500|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-c3510|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-c3520|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-c7500g|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-c7500|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-c7510g|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-c7510|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-c7520g|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-c7520|>=|wam31500|<=|wam31500|CVE-2022-36133|9.1|0|0.7|The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authe
+M|Epson|tm-h6000v|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-l100|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m10|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m30ii-h|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m30ii-sl|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m30ii-s|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m30iii-h|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m30iii|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m30ii|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m30|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-m55|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-p20ii|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-p20|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-p60ii|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-p80ii|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-p80|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-t20iii|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-t20ii|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-t88vi-ihub|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-t88vii|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|tm-t88vi|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|ub-e04|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|ub-r04|||||CVE-2026-23767|9.8|0|0.5|ESC/POS, a printer control language designed by Seiko Epson Corporation, lacks mechanisms for user authenticat
+M|Epson|wf-2750|>=|jp02l2|<=|jp02l2|CVE-2018-14900|7.5|0|1.1|On EPSON WF-2750 printers with firmware JP02I2, there is no filtering of print jobs. Remote attackers can send
+M|Epson|wf-2750|>=|jp02l2|<=|jp02l2|CVE-2018-14903|7.5|0|0.5|EPSON WF-2750 printers with firmware JP02I2 do not properly validate files before running updates, which allow

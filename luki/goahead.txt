@@ -1,0 +1,47 @@
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+V|goahead|>=|2.1.8|<=|2.1.8|CVE-2021-41615|9.8|0|1.4|websda.c in GoAhead WebServer 2.1.8 has insufficient nonce entropy because the nonce calculation relies on the
+V|goahead|>=|2.5.0|<=|2.5.0|CVE-2019-16645|8.6|0|8.2|An issue was discovered in Embedthis GoAhead 2.5.0. Certain pages (such as goform/login and config/log_off_pag
+V|goahead|>=|3.0.0|<=|3.0.0|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al
+V|goahead|>=|3.3.1|<=|3.3.1|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al
+V|goahead|>=|3.3.2|<=|3.3.2|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al
+V|goahead|>=|3.3.3|<=|3.3.3|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al
+V|goahead|>=|3.3.4|<=|3.3.4|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al
+V|goahead|>=|3.3.5|<=|3.3.5|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al
+V|goahead|>=|3.3.6|<=|3.3.6|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al
+V|goahead|>=|3.4.0|<=|3.4.0|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al
+V|goahead|>=|3.4.0|<=|3.4.0|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.10|<=|3.4.10|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.11|<=|3.4.11|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.12|<=|3.4.12|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.1|<=|3.4.1|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.2|<=|3.4.2|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.3|<=|3.4.3|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.4|<=|3.4.4|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.5|<=|3.4.5|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.6|<=|3.4.6|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.7|<=|3.4.7|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.8|<=|3.4.8|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.4.9|<=|3.4.9|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.5.0|<=|3.5.0|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.6.0|<=|3.6.0|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.6.1|<=|3.6.1|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.6.2|<=|3.6.2|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.6.3|<=|3.6.3|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.6.4|<=|3.6.4|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.6.5|<=|3.6.5|CVE-2017-14149|7.5|0|5.8|GoAhead 3.4.0 through 3.6.5 has a NULL Pointer Dereference in the websDecodeUrl function in http.c, leading to
+V|goahead|>=|3.6.5|<=|3.6.5|CVE-2019-5096|9.8|0|67.0|An exploitable code execution vulnerability exists in the processing of multi-part/form-data requests within t
+V|goahead|>=|3.6.5|<=|3.6.5|CVE-2019-5097|7.5|0|45.1|A denial-of-service vulnerability exists in the processing of multi-part/form-data requests in the base GoAhea
+V|goahead|>=|4.0.0|<=|4.0.0|CVE-2017-1000471|9.8|0|8.6|EmbedThis GoAhead Webserver version 4.0.0 is vulnerable to a NULL pointer dereference in the CGI handler resul
+V|goahead|>=|4.0.0|<=|4.1.3|CVE-2021-42342|9.8|0|59.5|An issue was discovered in GoAhead 4.x and 5.x before 5.1.5. In the file upload filter, user form variables ca
+V|goahead|>=|4.1.1|<=|4.1.1|CVE-2019-5096|9.8|0|67.0|An exploitable code execution vulnerability exists in the processing of multi-part/form-data requests within t
+V|goahead|>=|4.1.1|<=|4.1.1|CVE-2019-5097|7.5|0|45.1|A denial-of-service vulnerability exists in the processing of multi-part/form-data requests in the base GoAhea
+V|goahead|>=|5.0.0|<|5.0.1|CVE-2019-12822|7.5|0|8.8|In http.c in Embedthis GoAhead before 4.1.1 and 5.x before 5.0.1, a header parsing vulnerability causes a memo
+V|goahead|>=|5.0.0|<|5.1.5|CVE-2021-42342|9.8|0|59.5|An issue was discovered in GoAhead 4.x and 5.x before 5.1.5. In the file upload filter, user form variables ca
+V|goahead|>=|5.0.1|<=|5.0.1|CVE-2019-5096|9.8|0|67.0|An exploitable code execution vulnerability exists in the processing of multi-part/form-data requests within t
+V|goahead|>=|5.0.1|<=|5.0.1|CVE-2019-5097|7.5|0|45.1|A denial-of-service vulnerability exists in the processing of multi-part/form-data requests in the base GoAhea
+V|goahead|||<|3.6.5|CVE-2017-17562|8.1|1|97.1|Embedthis GoAhead before 3.6.5 allows remote code execution if CGI is enabled and a CGI program is dynamically
+V|goahead|||<|4.0.1|CVE-2018-15504|7.5|0|2.8|An issue was discovered in Embedthis GoAhead before 4.0.1 and Appweb before 7.0.2. The server mishandles some 
+V|goahead|||<|4.0.1|CVE-2018-15505|7.5|0|2.2|An issue was discovered in Embedthis GoAhead before 4.0.1 and Appweb before 7.0.2. An HTTP POST request with a
+V|goahead|||<|4.1.1|CVE-2019-12822|7.5|0|8.8|In http.c in Embedthis GoAhead before 4.1.1 and 5.x before 5.0.1, a header parsing vulnerability causes a memo
+V|goahead|||<|5.1.2|CVE-2020-15688|8.8|0|4.0|The HTTP Digest Authentication in the GoAhead web server before 5.1.2 does not completely protect against repl
+V|goahead|||<|5.1.4|CVE-2021-43298|9.8|0|2.3|The code that performs password matching when using 'Basic' HTTP authentication does not use a constant-time m
