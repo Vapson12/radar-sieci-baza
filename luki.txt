@@ -1,4 +1,4 @@
-# baza 2026-11-01 | KEV 1766 | wersje 11236 | modele 256
+# baza 2026-11-02 | KEV 1766 | wersje 11236 | modele 256
 V|apache|>=|0.8.11|<=|0.8.11|CVE-1999-0045|7.5|0|List of arbitrary files on Web host via nph-test-cgi script.
 V|apache|>=|0.8.14|<=|0.8.14|CVE-1999-0045|7.5|0|List of arbitrary files on Web host via nph-test-cgi script.
 V|apache|>=|1.0.2|<=|1.0.2|CVE-1999-0045|7.5|0|List of arbitrary files on Web host via nph-test-cgi script.
