@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|D-Link|6600-ap|>=|4.2.0.14|<=|4.2.0.14|CVE-2019-14332|7.8|0|1.4|An issue was discovered on D-Link 6600-AP and DWL-3600AP Ax 4.2.0.14 21/03/2019 devices. There is use of weak 
 M|D-Link|covr 1200|>=|1.08|<=|1.08|CVE-2022-42156|8.8|0|2.8|D-Link COVR 1200,1203 v1.08 was discovered to contain a command injection vulnerability via the tomography_pin
 M|D-Link|covr 1200|>=|1.08|<=|1.08|CVE-2022-42160|8.8|0|2.7|D-Link COVR 1200,1202,1203 v1.08 was discovered to contain a command injection vulnerability via the system_ti
@@ -2276,12 +2276,6 @@ M|D-Link|dsp-w215|||<=|1.01|CVE-2014-3936|10.0|0|76.6|Stack-based buffer overflo
 M|D-Link|dsr-1000ac|||<=|3.17|CVE-2020-25757|8.8|0|2.1|A lack of input validation and access controls in Lua CGIs on D-Link DSR VPN routers may result in arbitrary i
 M|D-Link|dsr-1000ac|||<=|3.17|CVE-2020-25758|8.8|0|1.3|An issue was discovered on D-Link DSR-250 3.17 devices. Insufficient validation of configuration file checksum
 M|D-Link|dsr-1000ac|||<=|3.17|CVE-2020-25759|8.8|0|2.3|An issue was discovered on D-Link DSR-250 3.17 devices. Certain functionality in the Unified Services Router w
-M|D-Link|dsr-1000n|>=|1.01b50|<=|1.01b50|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-1000n|>=|1.01b50|<=|1.01b50|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
-M|D-Link|dsr-1000n|>=|1.02b11|<=|1.02b11|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-1000n|>=|1.02b11|<=|1.02b11|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
-M|D-Link|dsr-1000n|>=|1.02b25|<=|1.02b25|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-1000n|>=|1.02b25|<=|1.02b25|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
 M|D-Link|dsr-1000n|>=|1.03b12|<=|1.03b12|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
 M|D-Link|dsr-1000n|>=|1.03b12|<=|1.03b12|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
 M|D-Link|dsr-1000n|>=|1.03b23|<=|1.03b23|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
@@ -2306,12 +2300,6 @@ M|D-Link|dsr-1000n|||<=|3.17|CVE-2020-25757|8.8|0|2.1|A lack of input validation
 M|D-Link|dsr-1000n|||<=|3.17|CVE-2020-25758|8.8|0|1.3|An issue was discovered on D-Link DSR-250 3.17 devices. Insufficient validation of configuration file checksum
 M|D-Link|dsr-1000n|||<=|3.17|CVE-2020-25759|8.8|0|2.3|An issue was discovered on D-Link DSR-250 3.17 devices. Certain functionality in the Unified Services Router w
 M|D-Link|dsr-1000n|||<|1.08b77|CVE-2013-5945|9.8|0|9.8|Multiple SQL injection vulnerabilities in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware 
-M|D-Link|dsr-1000|>=|1.01b50|<=|1.01b50|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-1000|>=|1.01b50|<=|1.01b50|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
-M|D-Link|dsr-1000|>=|1.02b11|<=|1.02b11|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-1000|>=|1.02b11|<=|1.02b11|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
-M|D-Link|dsr-1000|>=|1.02b25|<=|1.02b25|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-1000|>=|1.02b25|<=|1.02b25|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
 M|D-Link|dsr-1000|>=|1.03b12|<=|1.03b12|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
 M|D-Link|dsr-1000|>=|1.03b12|<=|1.03b12|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
 M|D-Link|dsr-1000|>=|1.03b23|<=|1.03b23|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
@@ -2397,10 +2385,6 @@ M|D-Link|dsr-250|||<|1.08b44|CVE-2013-5945|9.8|0|9.8|Multiple SQL injection vuln
 M|D-Link|dsr-500ac|||<=|3.17|CVE-2020-25757|8.8|0|2.1|A lack of input validation and access controls in Lua CGIs on D-Link DSR VPN routers may result in arbitrary i
 M|D-Link|dsr-500ac|||<=|3.17|CVE-2020-25758|8.8|0|1.3|An issue was discovered on D-Link DSR-250 3.17 devices. Insufficient validation of configuration file checksum
 M|D-Link|dsr-500ac|||<=|3.17|CVE-2020-25759|8.8|0|2.3|An issue was discovered on D-Link DSR-250 3.17 devices. Certain functionality in the Unified Services Router w
-M|D-Link|dsr-500n|>=|1.02b11|<=|1.02b11|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-500n|>=|1.02b11|<=|1.02b11|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
-M|D-Link|dsr-500n|>=|1.02b25|<=|1.02b25|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-500n|>=|1.02b25|<=|1.02b25|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
 M|D-Link|dsr-500n|>=|1.02|<=|1.02|CVE-2021-39615|9.8|0|2.2|D-Link DSR-500N version 1.02 contains hard-coded credentials for undocumented user accounts in the '/etc/passw
 M|D-Link|dsr-500n|>=|1.03b12|<=|1.03b12|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
 M|D-Link|dsr-500n|>=|1.03b12|<=|1.03b12|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
@@ -2424,10 +2408,6 @@ M|D-Link|dsr-500n|||<|1.08b77|CVE-2013-5945|9.8|0|9.8|Multiple SQL injection vul
 M|D-Link|dsr-500n|||||CVE-2020-25757|8.8|0|2.1|A lack of input validation and access controls in Lua CGIs on D-Link DSR VPN routers may result in arbitrary i
 M|D-Link|dsr-500n|||||CVE-2020-25758|8.8|0|1.3|An issue was discovered on D-Link DSR-250 3.17 devices. Insufficient validation of configuration file checksum
 M|D-Link|dsr-500n|||||CVE-2020-25759|8.8|0|2.3|An issue was discovered on D-Link DSR-250 3.17 devices. Certain functionality in the Unified Services Router w
-M|D-Link|dsr-500|>=|1.02b11|<=|1.02b11|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-500|>=|1.02b11|<=|1.02b11|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
-M|D-Link|dsr-500|>=|1.02b25|<=|1.02b25|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
-M|D-Link|dsr-500|>=|1.02b25|<=|1.02b25|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
 M|D-Link|dsr-500|>=|1.03b12|<=|1.03b12|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm
 M|D-Link|dsr-500|>=|1.03b12|<=|1.03b12|CVE-2013-7004|7.8|0|1.9|D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firmware before 1.05B64; DSR-250 and DSR-250N with 
 M|D-Link|dsr-500|>=|1.03b23|<=|1.03b23|CVE-2013-5946|10.0|0|6.5|The runShellCmd function in systemCheck.htm in D-Link DSR-150 with firmware before 1.08B44; DSR-150N with firm

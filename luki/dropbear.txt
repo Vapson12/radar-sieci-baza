@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 V|dropbear|>=|0.52|<=|2012.54|CVE-2012-0920|7.1|0|6.4|Use-after-free vulnerability in Dropbear SSH Server 0.52 through 2012.54, when command restriction and public 
 V|dropbear|||<=|0.47|CVE-2006-1206|5.0|0|11.7|Matt Johnston Dropbear SSH server 0.47 and earlier, as used in embedded Linux devices and on general-purpose o
 V|dropbear|||<=|2015.71|CVE-2016-3116|6.4|0|19.8|CRLF injection vulnerability in Dropbear SSH before 2016.72 allows remote authenticated users to bypass intend

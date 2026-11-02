@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|SonicWall|SMA 100 Appliances|||||CVE-2021-20038|0.0|1|99.9|SonicWall SMA 100 Appliances Stack-Based Buffer Overflow Vulnerability
 M|SonicWall|SMA100 Appliances|||||CVE-2021-20035|0.0|1|4.4|SonicWall SMA100 Appliances OS Command Injection Vulnerability
 M|SonicWall|SMA100 Appliances|||||CVE-2023-44221|0.0|1|76.2|SonicWall SMA100 Appliances OS Command Injection Vulnerability

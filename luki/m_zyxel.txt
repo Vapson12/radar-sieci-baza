@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Zyxel|Multiple Firewalls|||||CVE-2024-11667|7.5|1|2.9|Zyxel Multiple Firewalls Path Traversal Vulnerability
 M|Zyxel|access points|>=|6.10patch1|<=|6.10patch1|CVE-2020-25014|9.8|0|4.4|A stack-based buffer overflow in fbwifi_continue.cgi on Zyxel UTM and VPN series of gateways running firmware 
 M|Zyxel|access points|>=|6.10patch2|<=|6.10patch2|CVE-2020-25014|9.8|0|4.4|A stack-based buffer overflow in fbwifi_continue.cgi on Zyxel UTM and VPN series of gateways running firmware 

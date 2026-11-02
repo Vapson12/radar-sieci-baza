@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|TP-Link|ac1750|>=|1.0.15|<=|1.0.15|CVE-2021-27246|8.0|0|6.6|This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP
 M|TP-Link|ac1750|>=|190726|<=|190726|CVE-2020-10881|9.8|0|9.3|This vulnerability allows remote attackers to execute arbitrary code on affected installations of TP-Link Arch
 M|TP-Link|ac1750|>=|190726|<=|190726|CVE-2020-10882|8.8|0|41.1|This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP
@@ -1148,10 +1148,8 @@ M|TP-Link|tapo c100|||<|1.5.4|CVE-2026-75618|7.1|0|0.4|Tapo C100/C101 V5 contain
 M|TP-Link|tapo c101|||<|1.5.4|CVE-2026-75618|7.1|0|0.4|Tapo C100/C101 V5 contains a null pointer dereference vulnerability in the RTSP service. An attacker on the lo
 M|TP-Link|tapo c110|||<|1.5.4|CVE-2026-6250|7.0|0|0.5|An authenticated format string vulnerability exists in the ONVIF service of Tapo C110 v2 due to improper handl
 M|TP-Link|tapo c120|||<|1.9.3|CVE-2026-15315|8.7|0|0.5|Tapo C120 v1 and C200 v5 contain an improper authentication vulnerability within the login authentication veri
-M|TP-Link|tapo c200|>=|1.0.12build_240527|<=|1.0.12build_240527|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
 M|TP-Link|tapo c200|>=|1.0.13build_240619|<=|1.0.13build_240619|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
 M|TP-Link|tapo c200|>=|1.0.17build_240806|<=|1.0.17build_240806|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
-M|TP-Link|tapo c200|>=|1.0.5build_240327|<=|1.0.5build_240327|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
 M|TP-Link|tapo c200|>=|1.1.4build_241219|<=|1.1.4build_241219|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
 M|TP-Link|tapo c200|>=|1.1.8build_250310|<=|1.1.8build_250310|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
 M|TP-Link|tapo c200|>=|1.2.3build_250610|<=|1.2.3build_250610|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
@@ -1172,23 +1170,8 @@ M|TP-Link|tapo c200|>=|1.3.15build_240715|<=|1.3.15build_240715|CVE-2025-14300|8
 M|TP-Link|tapo c200|>=|1.3.15build_240715|<=|1.3.15build_240715|CVE-2025-8065|8.7|0|0.5|A stack-based buffer overflow vulnerability was identified in the ONVIF SOAP XML Parser in Tapo C200 v3 and C5
 M|TP-Link|tapo c200|>=|1.3.15build_240715|<=|1.3.15build_240715|CVE-2026-12760|7.1|0|0.4|A denial-of-service (DoS) vulnerability has been identified in Tapo C200 v3 in the network packet handling log
 M|TP-Link|tapo c200|>=|1.3.1build_250910|<=|1.3.1build_250910|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
-M|TP-Link|tapo c200|>=|1.3.3build_230228|<=|1.3.3build_230228|CVE-2025-14299|7.1|0|0.2|The HTTPS server on Tapo C200 V3 does not properly validate the Content-Length header, which can lead to an in
-M|TP-Link|tapo c200|>=|1.3.3build_230228|<=|1.3.3build_230228|CVE-2025-14300|8.7|0|0.4|The HTTPS service on Tapo C200 v3, v5, C425 v1.2 and C100 v5 exposes a connectAP interface without proper auth
-M|TP-Link|tapo c200|>=|1.3.3build_230228|<=|1.3.3build_230228|CVE-2025-8065|8.7|0|0.5|A stack-based buffer overflow vulnerability was identified in the ONVIF SOAP XML Parser in Tapo C200 v3 and C5
-M|TP-Link|tapo c200|>=|1.3.3build_230228|<=|1.3.3build_230228|CVE-2026-12760|7.1|0|0.4|A denial-of-service (DoS) vulnerability has been identified in Tapo C200 v3 in the network packet handling log
 M|TP-Link|tapo c200|>=|1.3.3build_251119|<=|1.3.3build_251119|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
-M|TP-Link|tapo c200|>=|1.3.4build_230424|<=|1.3.4build_230424|CVE-2025-14299|7.1|0|0.2|The HTTPS server on Tapo C200 V3 does not properly validate the Content-Length header, which can lead to an in
-M|TP-Link|tapo c200|>=|1.3.4build_230424|<=|1.3.4build_230424|CVE-2025-14300|8.7|0|0.4|The HTTPS service on Tapo C200 v3, v5, C425 v1.2 and C100 v5 exposes a connectAP interface without proper auth
-M|TP-Link|tapo c200|>=|1.3.4build_230424|<=|1.3.4build_230424|CVE-2025-8065|8.7|0|0.5|A stack-based buffer overflow vulnerability was identified in the ONVIF SOAP XML Parser in Tapo C200 v3 and C5
-M|TP-Link|tapo c200|>=|1.3.4build_230424|<=|1.3.4build_230424|CVE-2026-12760|7.1|0|0.4|A denial-of-service (DoS) vulnerability has been identified in Tapo C200 v3 in the network packet handling log
-M|TP-Link|tapo c200|>=|1.3.5build_230717|<=|1.3.5build_230717|CVE-2025-14299|7.1|0|0.2|The HTTPS server on Tapo C200 V3 does not properly validate the Content-Length header, which can lead to an in
-M|TP-Link|tapo c200|>=|1.3.5build_230717|<=|1.3.5build_230717|CVE-2025-14300|8.7|0|0.4|The HTTPS service on Tapo C200 v3, v5, C425 v1.2 and C100 v5 exposes a connectAP interface without proper auth
-M|TP-Link|tapo c200|>=|1.3.5build_230717|<=|1.3.5build_230717|CVE-2025-8065|8.7|0|0.5|A stack-based buffer overflow vulnerability was identified in the ONVIF SOAP XML Parser in Tapo C200 v3 and C5
-M|TP-Link|tapo c200|>=|1.3.5build_230717|<=|1.3.5build_230717|CVE-2026-12760|7.1|0|0.4|A denial-of-service (DoS) vulnerability has been identified in Tapo C200 v3 in the network packet handling log
 M|TP-Link|tapo c200|>=|1.3.5build_260228|<=|1.3.5build_260228|CVE-2026-1871|7.1|0|0.3|TP-Link Tapo C200 v5 contains a stack-based buffer overflow flaw in RTSP authentication handling due to improp
-M|TP-Link|tapo c200|>=|1.3.7build_230920|<=|1.3.7build_230920|CVE-2025-14299|7.1|0|0.2|The HTTPS server on Tapo C200 V3 does not properly validate the Content-Length header, which can lead to an in
-M|TP-Link|tapo c200|>=|1.3.7build_230920|<=|1.3.7build_230920|CVE-2025-14300|8.7|0|0.4|The HTTPS service on Tapo C200 v3, v5, C425 v1.2 and C100 v5 exposes a connectAP interface without proper auth
-M|TP-Link|tapo c200|>=|1.3.7build_230920|<=|1.3.7build_230920|CVE-2025-8065|8.7|0|0.5|A stack-based buffer overflow vulnerability was identified in the ONVIF SOAP XML Parser in Tapo C200 v3 and C5
 M|TP-Link|tapo c200|>=|1.3.7build_230920|<=|1.3.7build_230920|CVE-2026-12760|7.1|0|0.4|A denial-of-service (DoS) vulnerability has been identified in Tapo C200 v3 in the network packet handling log
 M|TP-Link|tapo c200|>=|1.3.9build_231019|<=|1.3.9build_231019|CVE-2025-14299|7.1|0|0.2|The HTTPS server on Tapo C200 V3 does not properly validate the Content-Length header, which can lead to an in
 M|TP-Link|tapo c200|>=|1.3.9build_231019|<=|1.3.9build_231019|CVE-2025-14300|8.7|0|0.4|The HTTPS service on Tapo C200 v3, v5, C425 v1.2 and C100 v5 exposes a connectAP interface without proper auth
@@ -1219,7 +1202,7 @@ M|TP-Link|tapo c310|>=|1.3.0|<=|1.3.0|CVE-2022-37255|7.5|0|5.0|TP-Link Tapo C310
 M|TP-Link|tapo c520ws|||<|1.2.3|CVE-2026-0918|7.1|0|0.7|The Tapo C100 v5, C220 v1 and C520WS v2 cameras HTTP service does not safely handle POST requests containing a
 M|TP-Link|tapo c520ws|||<|1.2.3|CVE-2026-0919|7.1|0|0.6|The HTTP parser of Tapo C210 v3, C220 v1 and C520WS v2 cameras improperly handles requests containing an exces
 M|TP-Link|tapo c520ws|||<|1.2.3|CVE-2026-1315|7.1|0|0.6|By sending crafted files to the firmware update endpointof Tapo C220 v1 and C520WS v2, the device terminates c
-M|TP-Link|tapo c520ws|||<|1.2.4|CVE-2026-34118|7.1|0|0.4|A heap-based buffer overflow vulnerability was identified in TP-Link Tapo C100/C101 v5, C210 v3.6 and C520WS v
+M|TP-Link|tapo c520ws|||<|1.2.4|CVE-2026-34118|7.1|0|0.4|A heap-based buffer overflow vulnerability was identified in multiple TP-Link Tapo cameras in the HTTP POST bo
 M|TP-Link|tapo c520ws|||<|1.2.4|CVE-2026-34119|7.1|0|0.2|A heap-based buffer overflow vulnerability was identified in TP-Link Tapo C520WS v2.6 within the HTTP parsing 
 M|TP-Link|tapo c520ws|||<|1.2.4|CVE-2026-34120|7.1|0|0.2|A heap-based buffer overflow vulnerability was identified in TP-Link Tapo C520WS v2.6 within the asynchronous 
 M|TP-Link|tapo c520ws|||<|1.2.4|CVE-2026-34121|8.7|0|0.5|An authentication bypass vulnerability within the HTTP handling of the DS configuration service in TP-Link Tap

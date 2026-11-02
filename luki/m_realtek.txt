@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Realtek|AP-Router SDK|||||CVE-2021-35395|0.0|1|98.1|Realtek AP-Router SDK Buffer Overflow Vulnerability
 M|Realtek|Jungle Software Development Kit (SDK)|||||CVE-2021-35394|0.0|1|99.9|Realtek Jungle SDK Remote Code Execution Vulnerability
 M|Realtek|SDK|||||CVE-2014-8361|9.8|1|100.0|Realtek SDK Improper Input Validation Vulnerability

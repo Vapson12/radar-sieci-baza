@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 V|goahead|>=|2.1.8|<=|2.1.8|CVE-2021-41615|9.8|0|1.4|websda.c in GoAhead WebServer 2.1.8 has insufficient nonce entropy because the nonce calculation relies on the
 V|goahead|>=|2.5.0|<=|2.5.0|CVE-2019-16645|8.6|0|8.2|An issue was discovered in Embedthis GoAhead 2.5.0. Certain pages (such as goform/login and config/log_off_pag
 V|goahead|>=|3.0.0|<=|3.0.0|CVE-2014-9707|7.5|0|28.2|EmbedThis GoAhead 3.0.0 through 3.4.1 does not properly handle path segments starting with a . (dot), which al

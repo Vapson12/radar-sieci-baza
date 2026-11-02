@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 V|iis|>=|1.0|<=|1.0|CVE-1999-0233|10.0|0|16.3|IIS 1.0 allows users to execute arbitrary commands using .bat or .cmd files.
 V|iis|>=|1.0|<=|1.0|CVE-1999-0253|7.5|0|8.0|IIS 3.0 with the iis-fix hotfix installed allows remote intruders to read source code for ASP programs by usin
 V|iis|>=|2.0|<=|2.0|CVE-1999-0154|5.0|0|40.0|IIS 2.0 and 3.0 allows remote attackers to read the source code for ASP pages by appending a . (dot) to the en

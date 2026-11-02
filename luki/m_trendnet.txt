@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|TRENDnet|teg-30102ws|||||CVE-2021-33315|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
 M|TRENDnet|teg-30102ws|||||CVE-2021-33316|9.8|0|1.1|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from an integer underflow vulnerabi
 M|TRENDnet|teg-30102ws|||||CVE-2021-33317|7.5|0|0.9|The TRENDnet TI-PG1284i switch(hw v2.0R) prior to version 2.0.2.S0 suffers from a null pointer dereference vul

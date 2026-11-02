@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Brother|ads-2400n|||||CVE-2019-13192|9.8|0|3.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a heap buffer overflow vulnerability as
 M|Brother|ads-2400n|||||CVE-2019-13193|8.8|0|3.1|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by a stack buffer overflow vulnerability a
 M|Brother|ads-2400n|||||CVE-2019-13194|7.5|0|1.8|Some Brother printers (such as the HL-L8360CDW v1.20) were affected by different information disclosure vulner

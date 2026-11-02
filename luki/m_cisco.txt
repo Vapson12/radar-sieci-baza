@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2020-3259|0.0|1|71.5|Cisco ASA and FTD Information Disclosure Vulnerability
 M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2020-3452|0.0|1|100.0|Cisco ASA and FTD Read-Only Path Traversal Vulnerability
 M|Cisco|Adaptive Security Appliance (ASA) and Firepower Threat Defen|||||CVE-2020-3580|0.0|1|85.6|Cisco ASA and FTD Cross-Site Scripting (XSS) Vulnerability

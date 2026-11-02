@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Western Digital|my cloud dl4100|||<|2.30.196|CVE-2018-17153|9.8|0|86.6|It was discovered that the Western Digital My Cloud device before 2.30.196 is affected by an authentication by
 M|Western Digital|my cloud dl4100|||<|2.31.174|CVE-2019-9951|9.8|0|1.7|Western Digital My Cloud, My Cloud Mirror Gen2, My Cloud EX2 Ultra, My Cloud EX2100, My Cloud EX4100, My Cloud
 M|Western Digital|my cloud ex2 ultra|>=|2.31.183|<=|2.31.183|CVE-2019-18930|8.8|0|3.2|Western Digital My Cloud EX2 Ultra firmware 2.31.183 allows web users (including guest account) to remotely ex

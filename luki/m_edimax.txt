@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Edimax|6114wg router|>=|1.83|<=|1.83|CVE-2011-4501|10.0|0|4.2|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
 M|Edimax|6114wg router|>=|1.83|<=|1.83|CVE-2011-4502|10.0|0|5.5|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg
 M|Edimax|6114wg router|>=|2.08|<=|2.08|CVE-2011-4501|10.0|0|4.2|The UPnP IGD implementation in Edimax EdiLinux on the Edimax BR-6104K with firmware before 3.25, Edimax 6114Wg

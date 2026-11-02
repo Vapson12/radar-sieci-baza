@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|ASUS|4g-ac53u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
 M|ASUS|4g-ac68u|>=|3.0.0.4.384.82230|<=|3.0.0.4.384.82230|CVE-2024-26342|7.5|0|0.9|A Null pointer dereference in usr/sbin/httpd in ASUS AC68U 3.0.0.4.384.82230 allows remote attackers to trigge
 M|ASUS|4g-ac68u|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0|ASUS RT-A88U 3.0.0.4.386_45898 is vulnerable to Cross Site Scripting (XSS). The ASUS router admin panel does n
@@ -646,7 +646,6 @@ M|ASUS|rt-n14uhp|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|
 M|ASUS|rt-n14u|>=|3.0.0.4.322|<=|3.0.0.4.322|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
 M|ASUS|rt-n14u|||<=|3.0.0.4.356|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
 M|ASUS|rt-n15u|>=|3.0.0.4.374_16|<=|3.0.0.4.374_16|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
-M|ASUS|rt-n16|>=|1.0.1.9|<=|1.0.1.9|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
 M|ASUS|rt-n16|>=|1.0.2.3|<=|1.0.2.3|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
 M|ASUS|rt-n16|>=|3.0.0.3.108|<=|3.0.0.3.108|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
 M|ASUS|rt-n16|>=|3.0.0.3.162|<=|3.0.0.3.162|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
@@ -663,11 +662,6 @@ M|ASUS|rt-n19|>=|3.0.0.4.386.46061|<=|3.0.0.4.386.46061|CVE-2021-43702|9.0|0|1.0
 M|ASUS|rt-n53|>=|3.0.0.4.374_311|<=|3.0.0.4.374_311|CVE-2013-3093|8.8|0|0.7|ASUS RT-N56U devices allow CSRF.
 M|ASUS|rt-n53|>=|3.0.0.4.376.3754|<=|3.0.0.4.376.3754|CVE-2019-20082|9.8|0|2.1|ASUS RT-N53 3.0.0.4.376.3754 devices have a buffer overflow via a long lan_dns1_x or lan_dns2_x parameter to A
 M|ASUS|rt-n53|>=|3.0.0.4.376.3754|<=|3.0.0.4.376.3754|CVE-2022-31874|9.8|0|20.0|ASUS RT-N53 3.0.0.4.376.3754 has a command injection vulnerability in the SystemCmd parameter of the apply.cgi
-M|ASUS|rt-n56u|>=|1.0.1.4o|<=|1.0.1.4o|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
-M|ASUS|rt-n56u|>=|1.0.1.4|<=|1.0.1.4|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
-M|ASUS|rt-n56u|>=|1.0.1.7c|<=|1.0.1.7c|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
-M|ASUS|rt-n56u|>=|1.0.1.7f|<=|1.0.1.7f|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
-M|ASUS|rt-n56u|>=|1.0.1.8j|<=|1.0.1.8j|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
 M|ASUS|rt-n56u|>=|1.0.1.8l|<=|1.0.1.8l|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
 M|ASUS|rt-n56u|>=|1.0.1.8n|<=|1.0.1.8n|CVE-2013-4937|10.0|0|1.9|Multiple unspecified vulnerabilities in the AiCloud feature on the ASUS RT-AC66U, RT-N66U, RT-N65U, RT-N14U, R
 M|ASUS|rt-n56u|>=|3.0.0.4..374_979|<=|3.0.0.4..374_979|CVE-2013-6343|10.0|0|7.8|Multiple buffer overflows in web.c in httpd on the ASUS RT-N56U and RT-AC66U routers with firmware 3.0.0.4.374

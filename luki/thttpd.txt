@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 V|thttpd|>=|1.95|<=|2.20|CVE-2001-1496|9.8|0|5.1|Off-by-one buffer overflow in Basic Authentication in Acme Labs thttpd 1.95 through 2.20 allows remote attacke
 V|thttpd|>=|2.21|<|2.23|CVE-2003-0899|9.8|0|22.2|Buffer overflow in defang in libhttpd.c for thttpd 2.21 to 2.23b1 allows remote attackers to execute arbitrary
 V|thttpd|>=|2.23b1|<=|2.23b1|CVE-2003-0899|9.8|0|22.2|Buffer overflow in defang in libhttpd.c for thttpd 2.21 to 2.23b1 allows remote attackers to execute arbitrary

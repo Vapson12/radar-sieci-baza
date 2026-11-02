@@ -1,3 +1,3 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 V|rompager|||<=|4.07|CVE-2014-9222|10.0|0|74.0|AllegroSoft RomPager 4.34 and earlier, as used in Huawei Home Gateway products and other vendors and products,
 V|rompager|||<=|4.07|CVE-2014-9223|10.0|0|6.1|Multiple buffer overflows in AllegroSoft RomPager, as used in Huawei Home Gateway products and other vendors a

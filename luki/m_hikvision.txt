@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Hikvision|ds-2cd2021g1-i\(w\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
 M|Hikvision|ds-2cd2023g2-i\(u\)|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v
 M|Hikvision|ds-2cd2026g2-iu\/sl|||||CVE-2021-36260|9.8|1|99.9|A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input v

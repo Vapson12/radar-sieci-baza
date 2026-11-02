@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|ZTE|axon 11 5g|||<|2021.5.1|CVE-2021-21732|7.5|0|1.0|A mobile phone of ZTE is impacted by improper access control vulnerability. Due to improper permission setting
 M|ZTE|axon 40 ultra|||<|1.0.0b26|CVE-2022-39071|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
 M|ZTE|axon 40 ultra|||<|1.0.0b26|CVE-2022-39075|7.1|0|0.3|There is an unauthorized access vulnerability in some ZTE mobile phones. If a malicious application is install
@@ -71,10 +71,6 @@ M|ZTE|nr8250|||<|12.17.20|CVE-2017-10932|9.8|0|4.1|All versions prior to V12.17.
 M|ZTE|nr8950|||<|12.17.20|CVE-2017-10932|9.8|0|4.1|All versions prior to V12.17.20 of the ZTE Microwave NR8000 series products - NR8120, NR8120A, NR8120, NR8150,
 M|ZTE|ox-330p|||||CVE-2015-7255|7.5|0|2.0|ZTE OX-330P, ZXHN H108N, W300V1.0.0S_ZRD_TR1_D68, HG110, GAN9.8T101A-B, MF28G, ZXHN H108N use non-unique X.509
 M|ZTE|ox-330p|||||CVE-2017-3216|9.8|0|5.2|WiMAX routers based on the MediaTek SDK (libmtk) that use a custom httpd plugin are vulnerable to an authentic
-M|ZTE|r5300g4|>=|03.04.0020|<=|03.04.0020|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
-M|ZTE|r5300g4|>=|03.05.0040|<=|03.05.0040|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
-M|ZTE|r5300g4|>=|03.05.0043|<=|03.05.0043|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
-M|ZTE|r5300g4|>=|03.05.0044|<=|03.05.0044|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
 M|ZTE|r5300g4|>=|03.05.0045|<=|03.05.0045|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
 M|ZTE|r5300g4|>=|03.05.0046|<=|03.05.0046|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 
 M|ZTE|r5300g4|>=|03.05.0047|<=|03.05.0047|CVE-2020-6871|9.8|0|1.9|The server management software module of ZTE has an authentication issue vulnerability, which allows users to 

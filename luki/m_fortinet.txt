@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Fortinet|FortiClient EMS|||||CVE-2023-48788|0.0|1|98.4|Fortinet FortiClient EMS SQL Injection Vulnerability
 M|Fortinet|FortiClient EMS|||||CVE-2026-21643|0.0|1|97.7|Fortinet FortiClient EMS SQL Injection Vulnerability
 M|Fortinet|FortiClient EMS|||||CVE-2026-35616|0.0|1|94.0|Fortinet FortiClient EMS Improper Access Control Vulnerability

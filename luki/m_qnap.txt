@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19943|8.0|1|22.7|QNAP NAS File Station Cross-Site Scripting Vulnerability
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19949|9.8|1|30.2|QNAP NAS File Station Command Injection Vulnerability
 M|QNAP|Network Attached Storage (NAS)|||||CVE-2018-19953|6.1|1|30.5|QNAP NAS File Station Cross-Site Scripting Vulnerability

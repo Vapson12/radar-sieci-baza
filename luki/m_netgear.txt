@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|NETGEAR|ac1200 r6220|>=|1.1.0.86|<=|1.1.0.86|CVE-2019-17137|9.4|0|2.7|This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of NET
 M|NETGEAR|ac1450|>=|1.0.0.34_10.0.16|<=|1.0.0.34_10.0.16|CVE-2017-5521|8.1|1|89.4|An issue was discovered on NETGEAR R8500, R8300, R7000, R6400, R7300, R7100LG, R6300v2, WNDR3400v3, WNR3500Lv2
 M|NETGEAR|ac1450|||<|1.0.0.36|CVE-2017-18848|8.8|0|0.5|Certain NETGEAR devices are affected by CSRF. This affects R6300v2 before 1.0.0.36, AC1450 before 1.0.0.36, R7

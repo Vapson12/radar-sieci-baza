@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 V|openssl|>=|0.9.0b|<=|0.9.0b|CVE-2012-0884|5.0|0|13.2|The implementation of Cryptographic Message Syntax (CMS) and PKCS #7 in OpenSSL before 0.9.8u and 1.x before 1
 V|openssl|>=|0.9.1b|<=|0.9.1b|CVE-2012-0884|5.0|0|13.2|The implementation of Cryptographic Message Syntax (CMS) and PKCS #7 in OpenSSL before 0.9.8u and 1.x before 1
 V|openssl|>=|0.9.1c|<=|0.9.1c|CVE-2002-0655|7.5|0|8.2|OpenSSL 0.9.6d and earlier, and 0.9.7-beta2 and earlier, does not properly handle ASCII representations of int

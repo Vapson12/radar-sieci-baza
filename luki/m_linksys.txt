@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Linksys|e1200|>=|1.0.04|<=|1.0.04|CVE-2022-38555|9.8|0|10.4|Linksys E1200 v1.0.04 is vulnerable to Buffer Overflow via ej_get_web_page_name.
 M|Linksys|e1200|>=|2.0.09|<=|2.0.09|CVE-2018-3953|7.2|0|13.5|Devices in the Linksys ESeries line of routers (Linksys E1200 Firmware Version 2.0.09 and Linksys E2500 Firmwa
 M|Linksys|e1200|>=|2.0.09|<=|2.0.09|CVE-2018-3954|7.2|0|3.4|Devices in the Linksys ESeries line of routers (Linksys E1200 Firmware Version 2.0.09 and Linksys E2500 Firmwa

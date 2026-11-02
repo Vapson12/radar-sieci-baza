@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 P|openssh|575
 P|dropbear|12
 P|lighttpd|162
@@ -22,21 +22,21 @@ P|filezilla_server|3
 P|werkzeug|7
 P|cups|449
 P|mongoose|34
-F|tp-link|TP-Link|tp-link,tplink|2280
-F|d-link|D-Link|d-link,dlink|2644
+F|tp-link|TP-Link|tp-link,tplink|2263
+F|d-link|D-Link|d-link,dlink|2624
 F|netgear|NETGEAR|netgear|5748
 F|zyxel|Zyxel|zyxel|1687
 F|hikvision|Hikvision|hikvision|535
 F|dahua|Dahua|dahua|611
 F|tenda|Tenda|tenda|1861
-F|asus|ASUS|asus|810
+F|asus|ASUS|asus|804
 F|linksys|Linksys|linksys|355
 F|qnap|QNAP|qnap|36
 F|synology|Synology|synology|37
 F|ubiquiti|Ubiquiti|ubiquiti,ubnt|379
 F|mikrotik|MikroTik|mikrotik,routerboard,routeros|5
-F|huawei|Huawei|huawei|6186
-F|zte|ZTE|zte|216
+F|huawei|Huawei|huawei|5525
+F|zte|ZTE|zte|212
 F|xiaomi|Xiaomi|xiaomi,redmi|74
 F|reolink|Reolink|reolink|106
 F|draytek|DrayTek|draytek|618
@@ -51,7 +51,7 @@ F|arris|Arris|arris|101
 F|technicolor|Technicolor|technicolor,thomson|32
 F|avm|AVM|avm,fritz|3
 F|teltonika|Teltonika|teltonika|13
-F|hp|HP|hewlett,hp inc|15564
+F|hp|HP|hewlett,hp inc|5023
 F|brother|Brother|brother|1105
 F|canon|Canon|canon|1200
 F|epson|Epson|epson|118

@@ -1,4 +1,4 @@
-# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 44300 | EPSS tak | v2
+# baza 2026-11-02 | KEV 1766 | wersje 17875 | modele 33051 | EPSS tak | v2
 M|Teltonika|rut900|||<=|00.03.265|CVE-2017-8116|9.8|0|4.5|The management interface for the Teltonika RUT9XX routers (aka LuCI) with firmware 00.03.265 and earlier allow
 M|Teltonika|rut900|||<|00.04.233|CVE-2018-17532|9.8|0|70.7|Teltonika RUT9XX routers with firmware before 00.04.233 are prone to multiple unauthenticated OS command injec
 M|Teltonika|rut905|||<=|00.03.265|CVE-2017-8116|9.8|0|4.5|The management interface for the Teltonika RUT9XX routers (aka LuCI) with firmware 00.03.265 and earlier allow
