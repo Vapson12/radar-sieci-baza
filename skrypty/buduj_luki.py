@@ -48,7 +48,13 @@ API_KEY = os.environ.get("NVD_API_KEY", "").strip()
 MIN_CVSS = 7.0          # mniej powazne luki pomijamy (chyba ze sa w KEV albo maja wysoki EPSS)
 MIN_EPSS = 10.0         # [%] - luka z takim EPSS trafia do bazy mimo nizszego CVSS
 MAX_DESC = 110
-MAX_EXACT_PER_CVE = 25  # limit regul "dokladnie ta wersja" na jeden CVE i model
+MAX_EXACT_PER_CVE = 8   # limit regul "dokladnie ta wersja" na jeden CVE i model (najnowsze)
+
+# Producenci z ogromna liczba produktow niewidocznych w sieci (BIOS komputerow itp.):
+# zostawiamy tylko linie produktow, ktore Radar Sieci rozpoznaje po sieci.
+PRODUCT_FILTER = {
+    "hp": r"laserjet|officejet|deskjet|pagewide|envy|designjet|smart_tank|photosmart|inkjet|mfp|printer|neverstop|tango",
+}
 
 # klucz w programie -> nazwy CPE w bazie NVD (typ:vendor:product)
 PRODUCTS = {
@@ -344,12 +350,14 @@ def main() -> None:
                 for product, rs in ranges(cve, prefix, allow_all=True).items():
                     if not product.endswith("_firmware"):
                         continue                          # tylko firmware sprzetu
+                    if slug in PRODUCT_FILTER and not re.search(PRODUCT_FILTER[slug], product):
+                        continue
                     model = model_name(product)
                     if not re.search(r"\d", model) and len(model.split()) < 2:
                         continue                          # zbyt ogolna nazwa
                     exact = [r for r in rs if r[0] == ">=" and r[2] == "<=" and r[1] == r[3]]
                     other = [r for r in rs if r not in exact]
-                    exact.sort(key=lambda r: r[1])
+                    exact.sort(key=lambda r: [(0, int(t)) if t.isdigit() else (1, t) for t in re.findall(r"\d+|[a-z]+", r[1].lower())])
                     for so, sv, eo, ev in other + exact[-MAX_EXACT_PER_CVE:]:
                         lines.add(f"M|{name}|{model}|{so}|{sv}|{eo}|{ev}|{cid}|{score:.1f}|{int(in_kev)}|{epss_txt(epss, cid)}|{desc}")
                     have.add(cid)
