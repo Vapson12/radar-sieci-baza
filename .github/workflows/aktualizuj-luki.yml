@@ -1,5 +1,5 @@
 # Raz w miesiacu (i na zadanie: Actions -> "Aktualizuj baze luk" -> Run workflow)
-# pobiera CISA KEV i NVD, buduje luki.txt i zapisuje go w repozytorium,
+# pobiera CISA KEV, NVD i EPSS, buduje katalog luki/ (i stary luki.txt) i zapisuje go w repozytorium,
 # jesli sie zmienil. Urzadzenia Radar Sieci pobieraja potem nowa wersje same.
 name: Aktualizuj baze luk
 
@@ -14,7 +14,7 @@ permissions:
 jobs:
   luki:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
 
@@ -22,19 +22,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Zbuduj luki.txt (CISA KEV + NVD)
+      - name: Zbuduj baze luk (CISA KEV + NVD + EPSS)
         env:
           NVD_API_KEY: ${{ secrets.NVD_API_KEY }}   # opcjonalny - przyspiesza pobieranie
-        run: python skrypty/buduj_luki.py luki.txt
+        run: python skrypty/buduj_luki.py .
 
       - name: Zapisz zmiany
         run: |
-          if git diff --quiet -- luki.txt && git ls-files --error-unmatch luki.txt >/dev/null 2>&1; then
+          git add -A luki.txt luki
+          if git diff --cached --quiet; then
             echo "Baza bez zmian."
             exit 0
           fi
           git config user.name "radar-sieci-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add luki.txt
           git commit -m "Aktualizacja bazy luk $(date -u +%Y-%m-%d)"
           git push
